@@ -1,0 +1,199 @@
+
+/* CSS Reset
+Copyright (c) 2010, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.com/yui/license.html
+version: 3.3.0
+build: 3167
+*/
+
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+
+
+/* UI region displayed around zoomed text */ 
+div.target-mag { 
+	/* Box model */ 
+	position: absolute; 
+	display:none; 
+	
+	/* UI Styling */ 
+	font-size: 150%; /* Relative Zoom */ 
+	border: 5px solid #8A4B08; 
+	border-radius: 8px; 
+	padding: 5px; 
+	
+	/* Sample background 
+	background-image: url("images/image-background.jpg");
+	opacity:.95; 
+	*/
+
+	background-color: #FFFFEF;
+}
+
+
+@font-face {
+	font-family: "windsorbtlightcondensed";
+	font-style: normal;
+	font-weight: normal;
+	src: url(fonts/windsorbtlightcondensed.ttf);
+}
+
+/* Default Page Setup */
+body
+{
+	font-size: 180%;
+	font-family: 'windsorbtlightcondensed';
+}
+
+.fs div.txt {
+	position: absolute;
+}
+
+div.fs {
+	height: 900px;
+	width: 1536px;
+	position: relative;
+}
+
+div.leftPage {
+	position: absolute;
+	background-repeat: no-repeat;
+	height: 900px;
+	width: 768px; /* Half the fixed spread width */
+}
+
+div.rightPage {
+	position: absolute;
+	background-repeat: no-repeat;
+	height: 900px;
+	width: 768px;
+	left: 768px; 
+}
+
+div.centerPage {
+	position: absolute;
+	background-repeat: no-repeat;
+	height: 900px;
+	width: 768px;
+	left: 384px;
+}
+
+img.cover, img.bg {
+	height: 100%;
+}
+
+div.center{
+	text-align: center;
+}
+
+/* Drop cap & stanza setup */
+.dropcap {
+	float: left;
+	font-size: 300%;
+	margin: -5% 5px 0 0;
+}
+
+.stanza {
+	float: left;
+}
+
+
+/* Blocks of text on individual pages  */
+/* Page 1 */
+.fs1-txt1 {
+	top: 15%;
+	left: 60%;
+}
+
+#fs1-txt1-magTarget {
+	top: 10%;
+	left: 54%;
+}
+
+.fs1-txt2 {
+	top: 35%;
+	left: 60%;
+}
+
+#fs1-txt2-magTarget {
+	top: 33%;
+	left: 48%;
+}
+
+/* Example to demostrate lightboxing */
+.fs1-txt3 {
+	top: 55%;
+	left: 60%;
+}
+
+#fs1-txt3-magTargetParent {
+	display:none;
+	height: 100%;
+	width: 100%;
+	position:absolute;
+}
+
+#fs1-txt3-magTargetParent .lb {
+	background-color: #FFDE9D;
+	height: 100%;
+	width: 100%;
+	opacity: .6;
+}
+
+#fs1-txt3-magTarget {
+	top: 53%;
+	left: 48%;
+	display: block;
+}
+
+.fs1-txt4 {
+	top: 75%;
+	left: 60%;
+}
+
+#fs1-txt4-magTarget {
+	top: 70%;
+	left: 54%;
+}
+
+
+/* Page 2 */
+.fs3-txt1 {
+	top: 15%;
+	left: 60%;
+}
+
+#fs3-txt1-magTarget {
+	top: 10%;
+	left: 54%;
+}
+
+.fs3-txt2 {
+	top: 35%;
+	left: 60%;
+}
+
+#fs3-txt2-magTarget {
+	top: 30%;
+	left: 54%;
+}
+
+.fs3-txt3 {
+	top: 55%;
+	left: 60%;
+}
+
+#fs3-txt3-magTarget {
+	top: 50%;
+	left: 54%;
+}
+
+.fs3-txt4 {
+	top: 75%;
+	left: 60%;
+}
+
+#fs3-txt4-magTarget {
+	top: 70%;
+	left: 54%;
+}

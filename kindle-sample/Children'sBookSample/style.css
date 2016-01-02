@@ -1,0 +1,503 @@
+/* CSS Reset
+Copyright (c) 2010, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.com/yui/license.html
+version: 3.3.0
+build: 3167
+*/
+
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+
+
+/* UI region displayed around zoomed text */ 
+div.target-mag { 
+	/* Box model */ 
+	position: absolute; 
+	display:none; 
+	
+	/* UI Styling */ 
+	font-size: 150%; /* Relative Zoom */ 
+	border: 5px solid #cdcdcd; 
+	border-radius: 8px; 
+	padding: 5px; 
+	
+	/* Sample background 
+	background-image: url("images/image-background.jpg");
+	opacity:.95; 
+	*/
+
+	background-color: #FFFFEF;
+}
+
+
+@font-face {
+	font-family: "windsorbtlightcondensed";
+	font-style: normal;
+	font-weight: normal;
+	src: url(fonts/windsorbtlightcondensed.ttf);
+}
+
+/* Default Page Setup */
+
+body
+{
+	font-size: 120%;
+	font-family: 'windsorbtlightcondensed';
+}
+
+.fs div.txt {
+	position: absolute;
+}
+
+div.fs {
+	height: 600px;
+	width: 1024px;
+	position: relative;
+}
+
+div.leftPage {
+	position: absolute;
+	background-repeat: no-repeat;
+	height: 600px;
+	width: 512px; /* Half the fixed spread width */
+}
+
+div.rightPage {
+	position: absolute;
+	background-repeat: no-repeat;
+	height: 600px;
+	width: 512px;
+	left: 512px; 
+}
+
+div.centerPage {
+	position: absolute;
+	background-repeat: no-repeat;
+	height: 600px;
+	width: 512px;
+	left: 256px;
+}
+
+img.cover, img.bg {
+	height: 100%;
+}
+
+div.center{
+	text-align: center;
+}
+div.center1{
+	text-align: center;
+	font-size: 140%;
+}
+.size {
+	font-size: 100%;
+}
+.vertical {
+	float: left;
+}
+
+/* Drop cap & stanza setup */
+.dropcap {
+	float: left;
+	font-size: 300%;
+	margin: -4% 12px 0 0;
+}
+
+.stanza {
+	float: left;
+}
+
+.clear {
+	clear:both;
+}
+
+/* Blocks of text on individual pages  */
+/* Page 1 */
+.fs1-txt1 {
+	top: 10%;
+	left: 11%;
+}
+
+#fs1-txt1-magTarget {
+	top: 4%;
+	left: 3%;
+}
+
+.fs1-txt2 {
+	top: 22%;
+	left: 11%;
+}
+
+#fs1-txt2-magTarget {
+	top: 18%;
+	left: 3%;
+}
+
+.fs1-txt3 {
+	top: 39%;
+	left: 11%;
+}
+
+/* We have changed the color of the popup border on this and the following text block. */
+#fs1-txt3-magTarget {
+	top: 36%;
+	left: 3%;
+	border-color: #8A4B08;
+}
+
+/* Example to demostrate lightboxing */
+.fs1-txt4 {
+	top: 55%;
+	left: 11%;
+}
+
+#fs1-txt4-magTargetParent {
+	display: none;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+
+#fs1-txt4-magTargetParent .lb {
+	background-color: #FFDE9D;
+	height: 100%;
+	width: 100%;
+	opacity: .6;
+}
+
+#fs1-txt4-magTarget {
+	top: 53%;
+	left: 3%;
+	display: block;
+	border-color: #8A4B08;
+}
+
+.fs1-txt5 {
+	top: 72%;
+	left: 11%;
+}
+
+#fs1-txt5-magTarget {
+	top: 70%;
+	left: 3%;
+}
+
+
+/* Page 2 */
+.fs3-txt1 {
+	top: 13%;
+	left: 11%;
+}
+
+#fs3-txt1-magTarget {
+	top: 6%;
+	left: 4%;
+}
+
+.fs3-txt2 {
+	top: 33%;
+	left: 11%;
+}
+
+#fs3-txt2-magTarget {
+	top: 28%;
+	left: 4%;
+}
+
+.fs3-txt3 {
+	top: 53%;
+	left: 11%;
+}
+
+#fs3-txt3-magTarget {
+	top: 48%;
+	left: 4%;
+}
+
+.fs3-txt4 {
+	top: 73%;
+	left: 11%;
+}
+
+#fs3-txt4-magTarget {
+	top: 68%;
+	left: 4%;
+}
+
+/* Page 3 */
+.fs5-txt1 {
+	top: 13%;
+	left: 12%;
+}
+
+#fs5-txt1-magTarget {
+	top: 6%;
+	left: 7%;
+}
+
+.fs5-txt2 {
+	top: 33%;
+	left: 12%;
+}
+
+#fs5-txt2-magTarget {
+	top: 28%;
+	left: 7%;
+}
+
+.fs5-txt3 {
+	top: 53%;
+	left: 12%;
+}
+
+#fs5-txt3-magTarget {
+	top: 48%;
+	left: 7%;
+}
+
+.fs5-txt4 {
+	top: 73%;
+	left: 12%;
+}
+
+#fs5-txt4-magTarget {
+	top: 68%;
+	left: 7%;
+}
+
+/* Page 4 */
+.fs7-txt1 {
+	font-size: 80%;
+	top: 13%;
+	left: 18%;
+	text-align:center;
+}
+#fs7-txt1-magTarget {
+	font-size: 120%;
+	top: 9%;
+	left: 13%;
+}
+.fs7-txt2 {
+	font-size: 80%;
+	top: 22%;
+	left: 12%;
+}
+#fs7-txt2-magTarget {
+	font-size: 120%;
+	top: 6%;
+	left: 2%;
+}
+.fs7-txt3 {
+	font-size: 80%;
+	top: 55%;
+	left: 12%;
+}
+#fs7-txt3-magTarget {
+	font-size: 120%;
+	top: 44%;
+	left: 2%;
+}
+.fs8-txt1 {
+	font-size: 80%;
+	top: 15%;
+	left: 61%;
+}
+#fs8-txt1-magTarget {
+	font-size: 120%;
+	top: 10%;
+	left: 52%;
+}
+
+/* Page 5 */
+.fs10-txt1 {
+	top: 12%;
+	left: 61%;
+}
+
+#fs10-txt1-magTarget {
+	top: 5%;
+	left: 55%;
+}
+
+.fs10-txt2 {
+	top: 28%;
+	left: 61%;
+}
+
+#fs10-txt2-magTarget {
+	top: 20%;
+	left: 55%;
+}
+
+.fs10-txt3 {
+	top: 43.5%;
+	left: 61%;
+}
+
+#fs10-txt3-magTarget {
+	top: 40%;
+	left: 55%;
+}
+
+.fs10-txt4 {
+	top: 59%;
+	left: 61%;
+}
+
+#fs10-txt4-magTarget {
+	top: 55%;
+	left: 55%;
+}
+
+.fs10-txt5 {
+	top: 75%;
+	left: 61%;
+}
+
+#fs10-txt5-magTarget {
+	top: 69%;
+	left: 55%;
+}
+
+/* Page 6 */
+.fs12-txt1 {
+	top: 13%;
+	left: 61%;
+}
+
+#fs12-txt1-magTarget {
+	top: 8%;
+	left: 54%;
+}
+
+.fs12-txt2 {
+	top: 33%;
+	left: 61%;
+}
+
+#fs12-txt2-magTarget {
+	top: 30%;
+	left: 54%;
+}
+
+.fs12-txt3 {
+	top: 53%;
+	left: 61%;
+}
+
+#fs12-txt3-magTarget {
+	top: 50%;
+	left: 54%;
+}
+
+.fs12-txt4 {
+	top: 73%;
+	left: 61%;
+}
+
+#fs12-txt4-magTarget {
+	top: 70%;
+	left: 54%;
+}
+
+/* Page 7 */
+.fs14-txt1 {
+	top: 11%;
+	left: 61%;
+}
+
+#fs14-txt1-magTarget {
+	top: 4%;
+	left: 54%;
+}
+
+.fs14-txt2 {
+	top: 28%;
+	left: 59.5%;
+}
+
+#fs14-txt2-magTarget {
+	top: 22%;
+	left: 54%;
+}
+
+.fs14-txt3 {
+	top: 42%;
+	left: 61%;
+}
+
+#fs14-txt3-magTarget {
+	top: 38%;
+	left: 54%;
+}
+
+.fs14-txt4 {
+	top: 59%;
+	left: 61%;
+}
+
+#fs14-txt4-magTarget {
+	top: 55%;
+	left: 54%;
+}
+
+.fs14-txt5 {
+	top: 73%;
+	left: 61%;
+}
+
+#fs14-txt5-magTarget {
+	top: 70%;
+	left: 54%;
+}
+
+#cover-img
+{
+	background-image: url("images/Cover.jpg");
+}
+#txtbg-img
+{
+	background-image: url("images/Text-Background.jpg");
+}
+#fs2-img
+{
+	background-image: url("images/02.jpg");
+}
+#fs4-img
+{
+	background-image: url("images/04.jpg");
+}
+#fs6-img
+{
+	background-image: url("images/06.jpg");
+}
+#fs7-img
+{
+	background-image: url("images/07.jpg");
+}
+#fs8-img
+{
+	background-image: url("images/08.jpg");
+}
+#fs9-img
+{
+	background-image: url("images/09.jpg");
+}
+#fs11-img
+{
+	background-image: url("images/11.jpg");
+}
+#fs13-img
+{
+	background-image: url("images/13.jpg");
+}
+#backcover-img
+{
+	background-image: url("images/Cover-Back.jpg");
+}
+
+.image {
+	vertical-align: 15px;
+	margin-right: 2px;
+	float: left;
+}

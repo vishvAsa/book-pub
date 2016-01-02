@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>The Alphabet of Animals</title>
+	<link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+
+<body>
+
+	<!--
+		Fixed Spread container that specifies the height & width of our content
+		Note: By designing content to fit 1024x600, it will appear full screen on the Kindle Fire device.
+	-->
+	<div class="fs">
+
+		<!-- Left & Right images that are positioned to fill the fixed spread -->
+		<div id="txtbg-img" class="leftPage"></div>
+		<div id="fs2-img" class="rightPage"></div>
+
+		<!-- Container to position the first block of text. -->
+		<div class="txt fs1-txt1">
+			<div id="fs1-1-txt">
+				<div class="center1">ALPHABET OF ANIMALS.</div>
+				<div class="center">___________</div>
+			</div>
+		</div>
+		
+		<!-- Container to position the second block of text.  We want this block to support region magnification... -->
+		<div class="txt fs1-txt2">
+			<!--
+				First example; shows the recommended method of using region magnificaiton, with all parameters specified.
+
+				app-amzn-magnify class: Indicates to the reader this is a region magnification active area.
+				data-app-amzn-magnify: JSON object with details on how to execute the region magnification.
+					targetId: Required. Unique ID of the element to display on activation.
+					sourceId: Optional. Unique ID of the element whose contents will be inserted into the target element.  Allows authors to easily display the same text but with different styles.
+					ordinal: Recommended.  The reading ordinal, should the user try to jump between region magnifications blocks. 
+			-->
+			<a class="app-amzn-magnify" 
+				data-app-amzn-magnify='{"targetId":"fs1-txt2-magTarget", "sourceId":"fs1-2-txt", "ordinal":1}'>
+				<div id="fs1-2-txt">
+					<div class="dropcap">A</div>
+					<div class="stanza">stands for APE, who has four clever <br/>
+						&nbsp;&nbsp;&nbsp; hands:<br/>
+						He lives in great woods in the<br/>
+						&nbsp;&nbsp;&nbsp; tropical lands.</div>
+					<div class="clear"></div>
+				</div>
+			</a>
+		</div>
+
+		<div class="txt fs1-txt3">
+			<!--
+				Second example; the sourceId parameter is left out.
+				This allows the author to specify unique content, or alternative layouts in the magnified region
+			-->
+			<a class="app-amzn-magnify" 
+				data-app-amzn-magnify='{"targetId":"fs1-txt3-magTarget", "ordinal":2}'>
+				<div id="fs1-3-txt">
+					<div class="dropcap">B</div>
+					<div class="stanza">stands for BOAR, a most savage<br/>
+						&nbsp;&nbsp;&nbsp; wild pig,<br/>
+						With his terrible tusks for roots he<br/>
+						&nbsp;&nbsp;&nbsp; can dig.</div>
+					<div class="clear"></div>
+				</div>
+			</a>
+		</div>
+
+		<div class="txt fs1-txt4">
+			<!--
+				Third example; a light box is added to the magnified region.  This particular effect is not recommended for children's books, but may be approperiate for other content types. 
+			-->
+			<a class="app-amzn-magnify" 
+				data-app-amzn-magnify='{"targetId":"fs1-txt4-magTargetParent", "ordinal":3}'>
+				<div id="fs1-4-txt">
+					<div class="dropcap">C</div>
+					<div class="stanza">stands for CAT, who grows fond of <br/>
+						&nbsp;&nbsp;&nbsp; the house,<br/>
+						And very much likes to run after<br/>
+						&nbsp;&nbsp;&nbsp; a mouse.</div>
+					<div class="clear"></div>
+				</div>
+			</a>
+		</div>
+		
+		<div class="txt fs1-txt5">
+			<a class="app-amzn-magnify"
+				data-app-amzn-magnify='{"targetId":"fs1-txt5-magTarget", "sourceId":"fs1-5-txt", "ordinal":4}'>
+				<div id="fs1-5-txt">
+					<div class="dropcap">D</div>
+					<div class="stanza">stands for DONKEY,&#8212;a poor <br/>
+						&nbsp;&nbsp;&nbsp; patient beast,<br/>
+						Who thinks some fresh thistles a<br/>
+						&nbsp;&nbsp;&nbsp; very great feast.</div>
+					<div class="clear"></div>
+				</div>
+			</a>
+		</div>
+
+		<!-- 
+			First example & Recommended.  A sourceId is specified in the active area, and the contents of that element are injected into this target element. 
+
+			Note: the target-mag class provides a consistent visual experience for the enlarged text, specifically, adding a border, higher contrast background colors, and a 150% font size increase.
+		-->
+		<div id="fs1-txt2-magTarget" class="target-mag"></div>
+		
+		<!--
+			Second example; the layout of the magnified text differs from the original, so we provide the full magnified experience here. 
+		-->
+		<div id="fs1-txt3-magTarget" class="target-mag">
+			<div class="dropcap">B</div>
+			<div class="stanza">stands for BOAR, a most savage wild pig,<br/>With his terrible tusks for roots he can dig.</div>
+			<div class="clear"></div>
+		</div>
+
+		<!--
+			Third example; a light box effect is applied to the entirity of the page, except for the content we display.  This is not recommend for children's books, although may be appropriate for other media types. 
+		-->
+		<div id="fs1-txt4-magTargetParent">
+			<div class="lb"></div>
+			<div id="fs1-txt4-magTarget" class="target-mag">
+				<div class="dropcap">C</div>
+				<div class="stanza">stands for CAT, who grows fond of the house,<br/>And very much likes to run after a mouse.</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		
+		<div id="fs1-txt5-magTarget" class="target-mag"></div>
+
+	</div>
+	
+</body>
+
+</html>

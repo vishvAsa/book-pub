@@ -1,0 +1,386 @@
+
+/* Key words in the text are made bold italic */
+.key
+{
+	font-style: italic;
+	font-weight: bold;
+}
+
+/* sample code text are colored */
+code
+{
+	color:#BC0A63;
+}
+
+/* Styles for different types of borders */
+img.border1
+{
+	border:.2em solid #a1a1a1;
+	padding:10px 10px; 
+	background:#dddddd;
+	border-radius:10px;
+}
+
+img.border2
+{
+	border:.2em dotted #151B8D;
+	padding:20px 5px 5px 20px; 
+	background:#43BFC7;
+	border-radius:3px;
+}
+
+img.border3
+{
+	border: 1em groove #7D053F;
+	padding:10px 10px; 
+	background:#D462FF;
+	border-radius:10px;
+}
+
+img.border4
+{
+	border:.2em double #254117;
+	padding:15px 10px; 
+	background:#4E9258;
+	border-radius: 0 15px 0 15px;
+}
+
+img.border5
+{
+	padding:60px 10px 10px 10px; 
+	background:#7D2252;
+	border-radius: 65px 65px 0 0;
+}
+
+/* Style to create oval shaped border */
+p.oval
+{
+	width:12em;
+	height:4em;
+	border-radius:20em / 10em;
+	background:-webkit-gradient(linear, 0 0, 0 100%, from(#105725), to(#07F54F));
+	padding-top:2em;
+	padding-left:5em;
+	padding-right:5em;
+	padding-bottom:5em;
+}
+
+span.normal_text
+{
+	font-style:normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+span.italic_lighter_text
+{
+	font-style:italic;
+	font-weight: lighter;
+	font-variant: normal;
+}
+
+span.italic_bold_text
+{
+	font-style:italic;
+	font-weight: bold;
+	font-variant: normal;
+}
+
+span.bold_smallcaps_text
+{
+	font-style:oblique;
+	font-weight: bolder;
+	font-variant: small-caps;
+}
+
+span.text_style1
+{
+	word-spacing: 1em;
+	text-transform:uppercase;
+}
+
+span.text_style2
+{
+	letter-spacing: .2em;
+	word-spacing: 2em;
+	text-decoration:underline;
+}
+
+span.text_style3
+{
+	text-decoration:line-through;
+	text-transform:capitalize;
+}
+
+p.text_align_center
+{
+	text-align:center;
+}
+
+p.text_align_right
+{
+	text-align:right;
+}
+
+p.text_align_left
+{
+	text-indent:0px;
+	text-align:left;
+}
+
+p.text_shadow
+{
+	text-shadow:5px 5px #379027;
+	font-size: 500%;
+	font-weight:bolder;
+}
+
+
+p.width50
+{
+	width:50%;
+}
+
+p.text_border
+{
+	border-left-style: solid;
+	border-top-style: solid;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-color: green;
+	border-width: 0.4em;
+	width:50%;
+	padding: 1em;
+}
+
+p.bgcolor1
+{
+	background:#3dbdbd;
+}
+
+/* Styles to make rounded border */
+p.roundborder1
+{
+	border:0.2em green solid;
+	border-radius:2em;
+	padding: 1%
+}
+
+p.roundborder2
+{
+	border:0.2em green solid;
+	border-radius:1em;
+	padding: 1%
+}
+
+
+/* Styles to float the images right or left */
+img.float_left
+{
+	float:left;
+	margin:1%;
+	border=1;
+}
+
+img.float_right
+{
+	float:right;
+	margin:1%;
+	border=1;
+}
+
+
+img.margin
+{
+	margin:1%
+}
+
+/* Style to have background image */
+bgimg1
+{
+	background:url(images/fl3.jpg);
+}
+
+/* Different colors of borders to images*/
+img.border_color_red
+{
+	border-color:red;
+}
+
+img.border_color_green
+{
+	border-color:green;
+}
+
+img.border_color_blue
+{
+	border-color:blue;
+}
+
+/* Styles to translate the images to different position */
+div.translate1
+{
+	-webkit-transform:translate(0px,150px);
+}
+
+div.translate2
+{
+	-webkit-transform:translate(0px,130px);
+}
+
+div.translate3
+{
+	-webkit-transform:translate(0px,100px);
+}
+
+div.translate4
+{
+	-webkit-transform:translate(0px,120px);
+}
+
+div.translate5
+{
+	-webkit-transform:translate(0px,0px);
+}
+
+/* Styles to rotate the images in different angle */
+div.rotate1
+{
+	width:10px;
+	height:10px;
+	-webkit-transform:rotate(216deg);
+	float:left;
+}
+
+div.rotate2
+{
+	width:20px;
+	height:20px;
+	-webkit-transform:rotate(252deg);
+	float:left;
+}
+
+div.rotate3
+{
+	width:40px;
+	height:40px;
+	-webkit-transform:rotate(288deg);
+	float:left;
+}
+
+div.rotate4
+{
+	width:80px;
+	height:80px;
+	-webkit-transform:rotate(324deg);
+	float:left;
+}
+
+div.rotate5
+{
+	width:160px;
+	height:160px;
+	float:left;
+}
+
+/* Styles to rotate the images along the Y axis */
+div.rotateY1
+{
+	width:100px;
+	height:100px;
+	float:left;
+}
+
+div.rotateY2
+{
+	width:80px;
+	height:100px;
+	-webkit-transform:rotateY(36deg);
+	float:left;
+}
+
+div.rotateY3
+{
+	width:51px;
+	height:100px;
+	-webkit-transform:rotateY(72deg);
+	float:left;
+}
+
+div.rotateY4
+{
+	width:51px;
+	height:100px;
+	-webkit-transform:rotateY(108deg);
+	float:left;
+}
+
+div.rotateY5
+{
+	width:80px;
+	height:100px;
+	-webkit-transform:rotateY(144deg);
+	float:left;
+}
+
+div.rotateY6
+{
+	width:100px;
+	height:100px;
+	-webkit-transform:rotateY(180deg);
+	float:left;
+}
+
+
+div.bounding_box
+{
+	border:1px solid black;
+}
+
+/* Backround styles */
+.backgroundYellowChiffon
+{
+	background-color:#ECE5B6;
+	padding:15px;
+}
+
+.backgroundDarkSeaGreen
+{
+	background-color:#8BB381;
+	padding:15px;
+}
+
+.backgroundGray
+{
+	background-color:#736F6E;
+	padding:15px;
+}
+
+.backgroundImageResize
+{
+	background:url(images/fl1.png);
+	background-size: 5em 5em;
+	padding:1em;
+}
+
+.backgroundRight
+{
+	background:url(images/flower4.jpg) no-repeat;
+	background-position:right;
+	padding:1em;
+}
+.backgroundLeft
+{
+	background:url(images/flower4.jpg) no-repeat;
+	background-position:left;
+	padding:1em;
+	background-origin:content-box;
+}
+
+/* Used to display and hide the the contents specific to device */
+.defaultcontent
+{ display: block; }
+
+/* Hide mobi specific content for other device */
+.mobicontent
+{ display: none; }

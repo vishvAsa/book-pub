@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+  </head>
+  <docTitle>
+    <text>KF8</text>
+  </docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Content</text></navLabel><content src="toc.html#toc"/></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>Text styling</text></navLabel><content src="text.html"/></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Font styles</text></navLabel><content src="text.html#id1"/></navPoint>
+<navPoint id="navpoint-4" playOrder="4"><navLabel><text>Text styling</text></navLabel><content src="text.html#id2"/></navPoint>
+<navPoint id="navpoint-5" playOrder="5"><navLabel><text>Text alignment</text></navLabel><content src="text.html#id3"/></navPoint>
+<navPoint id="navpoint-6" playOrder="6"><navLabel><text>Text shadow</text></navLabel><content src="text.html#id4"/></navPoint>
+<navPoint id="navpoint-7" playOrder="7"><navLabel><text>Drop Caps</text></navLabel><content src="text.html#id5"/></navPoint>
+<navPoint id="navpoint-8" playOrder="8"><navLabel><text>Display dimension</text></navLabel><content src="text.html#id6"/></navPoint>
+<navPoint id="navpoint-9" playOrder="9"><navLabel><text>Border</text></navLabel><content src="text.html#id7"/></navPoint>
+<navPoint id="navpoint-10" playOrder="10"><navLabel><text>Background</text></navLabel><content src="text.html#id8"/></navPoint>
+<navPoint id="navpoint-11" playOrder="11"><navLabel><text>Border styling</text></navLabel><content src="text.html#id9"/></navPoint>
+<navPoint id="navpoint-12" playOrder="12"><navLabel><text>Tables</text></navLabel><content src="text.html#id10"/></navPoint>
+<navPoint id="navpoint-13" playOrder="13"><navLabel><text>Images styling</text></navLabel><content src="Images.html"/></navPoint>
+<navPoint id="navpoint-14" playOrder="14"><navLabel><text>Simple images</text></navLabel><content src="Images.html#id1"/></navPoint>
+<navPoint id="navpoint-15" playOrder="15"><navLabel><text>Floating image</text></navLabel><content src="Images.html#id2"/></navPoint>
+<navPoint id="navpoint-16" playOrder="16"><navLabel><text>Images as background</text></navLabel><content src="Images.html#id3"/></navPoint>
+<navPoint id="navpoint-17" playOrder="17"><navLabel><text>Image styling</text></navLabel><content src="Images.html#id4"/></navPoint>
+<navPoint id="navpoint-18" playOrder="18"><navLabel><text>Image Transformation</text></navLabel><content src="Images.html#id5"/></navPoint>
+<navPoint id="navpoint-19" playOrder="19"><navLabel><text>Scalable Vector Graphics</text></navLabel><content src="Images.html#id6"/></navPoint>
+<navPoint id="navpoint-20" playOrder="20"><navLabel><text>Background styling</text></navLabel><content src="background.html"/></navPoint>
+<navPoint id="navpoint-21" playOrder="21"><navLabel><text>Background Color</text></navLabel><content src="background.html#id1"/></navPoint>
+<navPoint id="navpoint-22" playOrder="22"><navLabel><text>Background images</text></navLabel><content src="background.html#id2"/></navPoint>
+<navPoint id="navpoint-23" playOrder="23"><navLabel><text>Background image origin</text></navLabel><content src="background.html#id3"/></navPoint>
+</navMap>
+</ncx>

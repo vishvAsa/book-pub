@@ -1,0 +1,56 @@
+
+/* TOC margin */
+ul
+{
+	margin-top: .2em;
+	margin-bottom: 1em;
+	margin-left: 1em;
+}
+
+/* Border to the examples */
+.exampleBorder
+{
+	border: .1em groove blue;
+	padding: 1%;
+}
+
+/* High light style for how to do section */
+.howtoBorder
+{
+	border-radius: 1em;
+	padding: 1% 2%;
+	background: #CED3D0;
+}
+
+/* Bold the text for sub title  */
+.subtitle
+{
+	font-weight:bold;
+}
+
+span.dropcaps1
+{
+	float: left;
+	font-size: 4em;
+	font-weight: bold;
+	color: #C11B17;
+	margin-top: -.2em;
+	margin-bottom: -.2em;
+	margin-right: .1em;
+	padding-right: .1em;
+	text-shadow:5px -3px #151B54;
+
+}
+
+span.dropcaps2
+{
+	float: left;
+	font-size: 4em;
+	font-weight: bold;
+	color: #7D2252;
+	margin-top: -.2em;
+	margin-bottom: -.2em;
+	margin-right: .1em;
+	padding-right: .1em;
+}
+

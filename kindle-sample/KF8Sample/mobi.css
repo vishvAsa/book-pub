@@ -1,0 +1,126 @@
+
+
+/* TOC margin. Margin left should not be applied for the list in mobi format since it makes bulleted list appear as normal text in mobi. */
+ul
+{
+	margin-top: .2em;
+	margin-bottom: 1em;
+}
+
+/* Mobi reader introduces a default text indent so to adjust a 0 text indent to the mobi format */
+.exampleBorder
+{
+	border: .1em groove blue;
+	text-indent: 0px;
+}
+
+/* Mobi reader introduces a default text indent so  0 text indent is applied to the mobi format */
+.howtoBorder
+{
+	border: .1em groove blue;
+	text-indent: 0px;
+}
+
+/* Mobi format does not apply default margin for headers so a bottom margin is applied to the mobi format */
+h1
+{
+	margin-bottom: 1em;
+}
+
+/* Mobi format doesnot apply default margin for headers so top and bottom margins are applied to the mobi format */
+h2
+{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+/* Mobi format doesnot apply default margin for headers so top and bottom margins are applied to the mobi format */
+h3
+{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+/* Mobi format doesnot apply default margin for headers so top and bottom margins are applied to the mobi format */
+h4
+{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+/* Bold the text for sub title and make the indentation 0*/
+.subtitle
+{
+	font-weight:bold;
+	text-indent: 0px;
+	margin-top: 1em;
+}
+
+/* Mobi reader introduces default text indent  so  0 text indent is applied to the mobi format */
+p.description
+{
+	text-indent: 0px;
+}
+
+p.width50
+{
+	text-indent: 0px;
+}
+
+p.text_border
+{
+	text-indent: 0px;
+}
+
+.bgcolor1
+{
+	text-indent: 0px;
+}
+
+p.roundborder1
+{
+	text-indent: 0px;
+}
+
+p.roundborder2
+{
+	text-indent: 0px;
+}
+
+.backgroundImageResize
+{
+	text-indent: 0px;
+}
+
+p.null_text_indent
+{
+	text-indent: 0px;
+}
+
+/*By default mobi format applies normal text size. We have applied a smaller font size for sample code text. */
+code
+{
+	font-size: xx-small;
+}
+
+/*Drop caps cannot be created for mobi format. But the text size and weight can be modified*/
+span.dropcaps1
+{
+	font-size: xx-large;
+	font-weight: bold;
+	color: #C11B17;
+}
+
+span.dropcaps2
+{
+	font-size: xx-large;
+	font-weight: bold;
+	color: #7D2252;
+}
+
+/* Used to display and hide the the contents specific to device */
+.defaultcontent
+{ display: none; }
+
+.mobicontent
+{ display: block; }

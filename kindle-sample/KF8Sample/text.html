@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Text Styling</title>
+<link type="text/css" href="styles.css" rel="Stylesheet"/>
+<link type="text/css" href="kf8.css" media="amzn-kf8" rel="Stylesheet"/>
+<link type="text/css" href="mobi.css" media="amzn-mobi" rel="Stylesheet"/>
+</head>
+<body>
+	<h1>Text Styling</h1>
+	<p class="description">KF8 supports a variety of ways to style the text of a book.</p>
+
+	<h2 id="id1">Font Styles</h2>
+	<p class="description">In general, do not specify the font style. Users prefer to select their own default reading settings.</p>
+	<h3>Font tag</h3>
+	<p class="description">Font face can be set. Users will see this font instead of their selected font. In addition to the available fonts, custom fonts can be added and used.</p>
+	<p class="subtitle">Example:</p>
+	<p class="exampleBorder">
+		<font face="Georgia" >Georgia, </font>
+		<font face="Caecilia" >Caecilia, </font>
+		<font face="Trebuchet" >Trebuchet, </font>
+		<font face="Verdana" >Verdana, </font>
+		<font face="Arial" >Arial, </font>
+		<font face="Times New Roman" >Times New Roman, </font>
+		<font face="Courier" >Courier, </font>
+		<font face="Lucida" >Lucida</font><br/>
+		<font color="red" size=1>Red size 1 text. </font>
+		<font color="blue" size=2>Blue size 2 text. </font>
+		<font color="green" size=4>Green size 4 text. </font>
+		<font color="purple" size=6>Purple size 6 text. </font>
+	</p>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To set the font, use the <span class="key">font</span> tag and its <span class="key">face</span> attribute. To set the color and size, use the <span class="key">color</span> and <span class="key">size</span> attributes.<br/>
+	<code>&lt;font face="Georgia" color="green" size=4 &gt;</code><br/>
+	Font face can also be set by using the <span class="key">font-family</span> CSS styling property.<br/>
+	<code>
+		font-family: arial;<br/>
+		color: red;<br/>
+		font-size: 120%;
+	</code>
+	</p>
+	
+	<h3>CSS font styles</h3>
+	<p class="description">Font styles such as style, weight, and variant can be set by using CSS styling properties.</p>
+	<p class="subtitle">Example:</p>
+	<p class="exampleBorder">
+		<span class="normal_text"> Normal text.</span><br/>
+		<span class="italic_lighter_text"> Italic lighter text.</span><br/>
+		<span class="italic_bold_text"> Italic bold text.</span><br/>
+		<span class="bold_smallcaps_text"> Oblique bold small-caps text.</span><br/>
+	</p>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">
+	To set these font styles, use the <span class="key">font-style</span>, <span class="key">font-weight</span>, and <span class="key">font-variant</span> properties.<br/>
+	<code>&lt;span style="font-style:italic; font-weight: lighter; font-variant: normal"&gt;</code>
+	</p>
+	
+	<h2 id="id2">Text Styling</h2>
+	<p class="description">The content can be formatted with other text styling, such as word spacing and text align.</p>
+	<p class="subtitle">Example:</p>
+	<p class="exampleBorder">
+		<span class="text_style1">Uppercase text with Word spacing 1em.</span><br/>
+		<span class="text_style2">Underlined text with letter spacing 0.2em, word spacing 2em.</span><br/>
+		<span class="text_style3">Capitalized line through text.</span>
+	</p>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">
+		To set this text styling, use the <span class="key">word-spacing</span>, <span class="key">text-transform</span>, <span class="key">letter-spacing</span>, and <span class="key">text-decoration</span> CSS properties.<br/>
+		<code>&lt;span style="letter-spacing: .2em; word-spacing: 2em; text-decoration:underline;"&gt;</code>
+	</p>
+	
+	<h2 id="id3">Text Alignment</h2>
+	<p class="description">Text content can be aligned to a desired position by using CSS styling.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+	<p class="text_align_center">Center aligned text.<br/> Lorem ipsum sed ut nibh nibh. Vestibulum facilisis nulla id leo ullamcorper molestie. Donec sit amet mauris ut arcu vulputate faucibus. Sed eleifend fringilla mauris, eget fermentum nibh consequat eget.</p><br/>
+	<p class="text_align_left">Left aligned text.<br/> Lorem ipsum etiam euismod tortor ac massa hendrerit et rhoncus magna lobortis. Nulla et faucibus nibh. Aliquam sed arcu eget nisl vulputate fermentum. Cras sed arcu sed turpis placerat vehicula.</p><br/>
+	<p class="text_align_right">Right aligned text.<br/> Lorem ipsum curabitur nulla mauris, porta non elementum at, imperdiet a velit. Suspendisse in orci adipiscing lectus tempor molestie ac a nibh. Ut malesuada sapien luctus risus laoreet non lobortis erat porta. Mauris ante purus, tincidunt a condimentum sit amet, sagittis auctor turpis.</p>
+	</div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To set text alignment, use the <span class="key">text-align</span> property. To set text indentation, use the <span class="key">text-indent</span> property.<br/>
+	<code>text-align:right;</code><br/>
+	<code>text-indent:0em;</code>
+	</p>
+
+	<h2 id="id4">Text Shadow</h2>
+	<p class="description">Text can be shadowed to make the content more stylish.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+		<p class="text_shadow"> Shadowed text.</p>
+	</div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To set text shadowing, use the <span class="key">text-shadow</span> CSS property.<br/>
+	<code>text-shadow:5px 5px #379027;</code></p>
+	
+	<h2 id="id5">Drop Caps</h2>
+	<p class="description">Drop caps can be used to apply a different style to the first letter or word.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+	<p class="null_text_indent"><span class="dropcaps1">L</span>orem ipsum sed ut nibh nibh. Vestibulum facilisis nulla id leo ullamcorper molestie. Donec sit amet mauris ut arcu vulputate faucibus. Sed eleifend fringilla mauris, eget fermentum nibh consequat eget.
+	Etiam euismod tortor ac massa hendrerit et rhoncus magna lobortis. Nulla et faucibus nibh. Aliquam sed arcu eget nisl vulputate fermentum. Cras sed arcu sed turpis placerat vehicula.</p>
+	<p class="null_text_indent"><span class="dropcaps2">Lorem</span> ipsum curabitur nulla mauris, porta non elementum at, imperdiet a velit. Suspendisse in orci adipiscing lectus tempor molestie ac a nibh. Ut malesuada sapien luctus risus laoreet non lobortis erat porta. Mauris ante purus, tincidunt a condimentum sit amet, sagittis auctor turpis.
+	Etiam euismod tortor ac massa hendrerit et rhoncus magna lobortis. Nulla et faucibus nibh. Aliquam sed arcu eget nisl vulputate fermentum. Cras sed arcu sed turpis placerat vehicula.</p>
+	</div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To set drop caps, use the <span class="key">float</span>, <span class="key">font</span>, and <span class="key">margin</span> properties.<br/>
+	<code>
+	span.dropcaps<br/>
+	{<br/>
+		float: left;<br/>
+		font-size: 4em;<br/>
+		font-weight: bold;<br/>
+		color: #6A287E;<br/>
+		margin-top: -.2em;<br/>
+		margin-bottom: -.2em;<br/>
+		margin-right: .1em;<br/>
+		padding-right: .1em;<br/>
+	}<br/>
+	</code>
+	</p>
+	
+	
+	<h2 id="id6">Display Dimension</h2>
+	<p class="description">The dimension of the content display can be set.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+	<p class="width50">Lorem ipsum duis ultrices eleifend rhoncus. Quisque vulputate nisl ultricies nisi posuere at lacinia quam suscipit. Curabitur risus nunc, laoreet at interdum eget, rutrum non neque. Donec et turpis libero. Nunc commodo, nisl laoreet fringilla iaculis, magna dui tincidunt orci, a aliquet velit leo vitae orci. Phasellus varius orci fermentum mi aliquam vitae convallis odio aliquet. Nam commodo lobortis sem, vel ultricies erat suscipit eget.</p>
+	</div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To set the content display dimensions, use the <span class="key">width</span> and <span class="key">height</span> CSS properties.<br/>
+	<code>width:50%; height:50%;</code><br/>
+	While setting dimensions, some words could exceed the display width. The words can be wrapped by using the <span class="key">word-wrap</span> property.<br/>
+	<code>word-wrap:break-word;</code></p>
+	
+	
+	<h2 id="id7">Border</h2>
+	<p class="description">Border can be used to decorate the content.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+	<p class="text_border" >
+	Lorem ipsum sed ut nibh nibh. Vestibulum facilisis nulla id leo ullamcorper molestie. Donec sit amet mauris ut arcu vulputate faucibus. Sed eleifend fringilla mauris, eget fermentum nibh consequat eget. Etiam euismod tortor ac massa hendrerit et rhoncus magna lobortis. Nulla et faucibus nibh. Aliquam sed arcu eget nisl vulputate fermentum. Cras sed arcu sed turpis placerat vehicula.
+	</p>
+	</div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To set the border, use the <span class="key">border</span> CSS property. Different border styles, dimensions, and colors can be applied to different sides.<br/>
+	<code>border:0.3em solid red;</code><br/>
+	To make the content more readable, padding can be applied by using the <span class="key">padding</span> property.
+	</p>
+	
+	<h2 id="id8">Background</h2>
+	<p class="description">A text background can be set to make the content more appealing.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+	<p class="bgcolor1">Lorem ipsum aliquam interdum, libero id elementum rutrum, metus urna adipiscing elit, quis ultricies urna turpis sit amet lorem. Mauris ante diam, commodo in suscipit eget, fermentum eget quam. Integer blandit dui mauris. Aenean tempor enim ut erat facilisis eget aliquet erat egestas. Aliquam tincidunt facilisis nisl, id venenatis nulla imperdiet dignissim. Curabitur enim urna, lobortis sed eleifend in, sodales ac purus. Pellentesque vel ullamcorper dui. Phasellus auctor eleifend suscipit.</p>
+	</div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To set the background of the content, use the <span class="key">background</span> CSS property.<br/>
+	<code>background:red;</code></p>
+	<p class="description">For more background styles, see the <a href="background.html">Background Styles</a> section.</p>
+	
+	<h2 id="id9">Border Styling</h2>
+	<p class="description">A content border can be applied by using CSS properties. Different types of border styling can differentiate content such as notes, highlights, tips, etc.</p>
+	<h3>Rounded border</h3>
+	<p class="description">A rounded border can visually separate different types of content.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+	<p class="roundborder1">Lorem ipsum nulla mollis, lacus vitae cursus fermentum, tellus quam ornare nisl, in congue mi dolor sit amet purus. Mauris tempor orci ut neque sollicitudin gravida.</p><br/>
+	<p class="roundborder2">Lorem ipsum proin at fermentum justo. Duis sodales diam eget erat pellentesque auctor. Duis molestie consequat accumsan. Vestibulum consectetur ligula adipiscing nisl rhoncus vel bibendum tellus feugiat. Mauris sit amet metus sem. Sed eros risus, facilisis faucibus commodo sed, cursus sed nisi. Morbi nibh mi, tincidunt semper tempor at, feugiat non erat. Aliquam euismod lorem a diam viverra rhoncus. Curabitur ultricies erat quis leo semper in luctus nunc vehicula. Nam tempor, nibh et consectetur facilisis, nunc felis consectetur erat, eget fermentum urna turpis sed arcu. Ut tincidunt sodales massa sed tempus. Mauris at neque arcu. Curabitur mauris nisi, semper in feugiat ac, aliquet nec leo. Aliquam ultrices consectetur magna vel lobortis. Integer vehicula lectus nec ipsum bibendum rhoncus. Fusce varius malesuada tellus at pulvinar.</p>
+	</div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To set the radius for the border, use the <span class="key">border-radius</span> CSS property.<br/>
+	<code>border-radius:1em;</code>
+	</p>
+
+	<h2 id="id10">Tables</h2>
+	<p class="description">Tables with rich styles can be added.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+		<img  class="mobicontent" src="images/table.png" width="250" height="370"/>
+		<table class="defaultcontent" border="3" style="width:12em" cellspacing="5" cellpadding="10">
+		  <caption>Table</caption>
+		  <tr>
+			<td> 1, 1 content</td>
+			<td> 1, 2 content </td>
+		  </tr>
+		  <tr>
+			<td> 2, 1 content </td>
+			<td> 2, 2 content </td>
+		  </tr>
+		</table>
+	</div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">For mobi format tables may not look great. For mobi format an equivalent images can be used along with media query and <span class="key">display:none</span> CSS property.<br/>
+	</p>
+
+</body>
+</html>

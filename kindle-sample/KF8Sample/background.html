@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Background Styles</title>
+<link type="text/css" href="styles.css" rel="Stylesheet"/>
+<link type="text/css" href="kf8.css" media="amzn-kf8" rel="Stylesheet"/>
+<link type="text/css" href="mobi.css" media="amzn-mobi" rel="Stylesheet"/>
+</head>
+<body>
+	<h1>Background  Styles</h1>
+	<p class="description">This chapter describes two types of background styles:</p>
+	<ul>
+		<li>Background color</li>
+		<li>Background image</li>
+	</ul>
+	
+	<p class="description">Background styles helps to make the content more appealing.</p>
+	
+	<section>
+		<h2 id="id1">Background Color</h2>
+		<p class="description">The content can have any color as a background color. The example below has multiple background colors.</p>
+		<p class="subtitle">Example:</p>
+		<div class="exampleBorder">
+		<div class="bounding_box">
+			<div class="backgroundDarkSeaGreen">
+				<p>This block has a dark sea green color background</p>
+				<div class="bounding_box">
+					<div class="backgroundYellowChiffon">
+						<p>This block has a yellow chiffon background</p>
+							<div class="bounding_box">
+								<div class="backgroundGray">
+									<p>This block has a gray background</p>
+								</div>
+							</div>
+						<p>End of yellow chiffon background</p>
+					</div>
+				</div>
+				<p>End of dark sea green background</p>
+			</div>
+		</div>
+		</div>
+		<p class="subtitle">How To:</p>
+		<p class="howtoBorder">To set the background of the content, use the <span class="key">background</span> CSS property.<br/>
+		<code>background:red;</code></p>
+	</section>
+	
+	<section>
+	<h2 id="id2">Background Images</h2>
+	<p class="description">The content can have images as a background. The size of the background image can be set to a different size than the original image. The background image in the example below is reduced from the original size.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+	<p class="backgroundImageResize">
+	Lorem ipsum donec elementum suscipit risus, tempus elementum eros rhoncus quis. Morbi gravida nisi id ipsum bibendum nec blandit eros rutrum. Nam condimentum fringilla volutpat. Duis ullamcorper dignissim leo eu lobortis. Nullam et mollis metus. Curabitur eget purus a nisi dapibus venenatis. Maecenas lacinia placerat pretium. Phasellus ultricies pulvinar erat, et blandit mauris tincidunt eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus mattis commodo nunc vitae placerat. Aenean sed velit nec libero viverra fermentum accumsan quis urna. Donec et dolor ut massa volutpat vulputate. Aliquam blandit metus sem, et sodales ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Vestibulum ac urna sem, at porttitor ligula. Donec convallis condimentum ante, at ultricies diam tincidunt a. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla nec mauris massa, eu volutpat massa. Nulla diam lectus, pharetra id porttitor vel, consequat sed lectus. Vivamus vel dui odio. Fusce diam nisi, tincidunt eget dapibus eu, lacinia ac velit. Proin ac enim at orci bibendum dignissim eu sed dui. Vestibulum viverra risus eu eros dapibus at volutpat justo tincidunt. Phasellus congue libero at leo posuere volutpat. Nulla vehicula rutrum leo vel rutrum. Mauris a metus nisi, vitae cursus lectus. Fusce quis odio felis, id consequat ipsum.
+	</p></div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To set the background image size, use the <span class="key">background-size</span> property.<br/>
+	<code>
+	background:url(images/fl1.png);<br/> 
+	background-size: 5em 5em;
+	</code></p>
+	</section>
+	
+	<section>
+	<h2 id="id3">Background Image Origin</h2>
+	<p class="description">Background image starting position can be set.</p>
+	<p class="subtitle">Example:</p>
+	<div class="exampleBorder">
+	<div class="backgroundRight">
+		<p class="null_text_indent">This block is an example of background image positioning in the div. The background image is placed at the right of the block.</p>
+		<p class="null_text_indent">Lorem ipsum donec in lorem vel enim placerat interdum id id enim. In hac habitasse platea dictumst. Suspendisse potenti. Pellentesque mollis, mi quis sodales iaculis, leo diam porttitor ligula, non molestie dolor velit at ligula. Pellentesque turpis purus, vestibulum eget tempus vel, commodo eget sem. Ut sed leo dui, at gravida quam. Vivamus et vestibulum enim. Nulla id arcu libero, in mattis nulla. Ut aliquet dignissim semper.</p>
+	</div>
+	<br/>
+	<div class="backgroundLeft">
+		<p class="null_text_indent">This block is an example of background image positioning in the div. The background image is placed at the beginning of the text.</p>
+		<p class="null_text_indent">Lorem ipsum donec elementum suscipit risus, tempus elementum eros rhoncus quis. Morbi gravida nisi id ipsum bibendum nec blandit eros rutrum. Nam condimentum fringilla volutpat. Duis ullamcorper dignissim leo eu lobortis. Nullam et mollis metus. Curabitur eget purus a nisi dapibus venenatis. Maecenas lacinia placerat pretium. Phasellus ultricies pulvinar erat, et blandit mauris tincidunt eget.</p>
+	</div>
+	</div>
+	<p class="subtitle">How To:</p>
+	<p class="howtoBorder">To place a background image, use the <span class="key">background-position</span> CSS property.<br/>
+	<code>background-position:left;</code></p>
+	</section>
+</body>
+</html>
