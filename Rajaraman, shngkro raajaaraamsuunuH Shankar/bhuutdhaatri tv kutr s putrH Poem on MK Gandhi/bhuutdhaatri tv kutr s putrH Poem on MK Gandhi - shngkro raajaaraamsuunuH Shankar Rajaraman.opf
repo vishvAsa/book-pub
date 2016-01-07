@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3a18290-5598-46a4-8b89-d81b79970fa7</dc:identifier>
+        <dc:title>भूतधात्रि तव कुत्र स पुत्रः Poem on MK Gandhi</dc:title>
+        <dc:creator opf:file-as="Rajaraman, शङ्करो राजारामसूनुः Shankar" opf:role="aut">शङ्करो राजारामसूनुः Shankar Rajaraman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-06T08:00:00+00:00</dc:date>
+        <dc:language>san</dc:language>
+        <meta content="{&quot;शङ्करो राजारामसूनुः Shankar Rajaraman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-06T22:17:55.924899+00:00" name="calibre:timestamp"/>
+        <meta content="भूतधात्रि तव कुत्र स पुत्रः Poem on MK Gandhi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="bhuutdhaatri tv kutr s putrH Poem on MK Gandhi - shngkro raajaaraamsuunuH Shankar Rajaraman.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
