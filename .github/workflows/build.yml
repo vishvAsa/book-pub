@@ -29,11 +29,11 @@ jobs:
         uses: DaanV2/Markdown-Action-Create-Indexes@v5.0.0
         with:
           include: |
-                .*\.pdf
-                .*\.mobi
-                .*\.epub
-                .*\.zip
-                .*\.jpe?g
+                *.pdf
+                *.mobi
+                *.epub
+                *.zip
+                *.jpe?g
       - name: Commit changes
         continue-on-error: true
         run: |
