@@ -3,6 +3,7 @@
 
 ## Categories
 - [upanayanam](./upanayanam/index.md)
+- [veda-vratAni](./veda-vratAni/index.md)
 
 ## Documents
 - [README](README.md)
@@ -11,4 +12,4 @@
 - [sandhyAvandanAdi-mantra-sangrahaH.](sandhyAvandanAdi-mantra-sangrahaH.pdf)
 - [snAnam.](snAnam.pdf)
 - [udakashAntiH.](udakashAntiH.pdf)
-- [upavIta-vidhiH.](upavIta-vidhiH.pdf)
+- [upavIta-vidhiH](upavIta-vidhiH.pdf)
