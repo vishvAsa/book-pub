@@ -1,8 +1,8 @@
-# वेद-व्रतानि
+# veda-vratAni
 
 
 ## Categories
 
 
 ## Documents
-- [prAjApatya-vrata-grahaNam](prAjApatya-vrata-grahaNam.pdf)
+- [prAjApatya-vrata-grahaNam.](prAjApatya-vrata-grahaNam.pdf)
