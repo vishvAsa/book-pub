@@ -1,8 +1,6 @@
 # kalpa-pattrikAH
 
 
-Source: [TW](https://github.com/vishvAsa/book-pub/blob/master/vishvAsa/kalpa-pattrikAH/upanayanam/08_samidAdhAnam_kn.pdf)
-
 ## Categories
 - [upanayanam](./upanayanam/index.md)
 - [veda-vratAni](./veda-vratAni/index.md)
