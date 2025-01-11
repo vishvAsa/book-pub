@@ -1,6 +1,5 @@
 # book-pub
 
-https://vishvasa.github.io/book-pub/
 
 ## Categories
 - [Rajaraman, shngkro raajaaraamsuunuH Shankar](./Rajaraman,%20shngkro%20raajaaraamsuunuH%20Shankar/index.md)
