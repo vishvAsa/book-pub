@@ -8,6 +8,7 @@
 ## Documents
 - [README](README.md)
 - [ankurArpaNam.](ankurArpaNam.pdf)
+- [aupAsanam_baudhAyanam.](aupAsanam_baudhAyanam.pdf)
 - [homAdi.](homAdi.pdf)
 - [sandhyAvandanAdi-mantra-sangrahaH.](sandhyAvandanAdi-mantra-sangrahaH.pdf)
 - [snAnam.](snAnam.pdf)
