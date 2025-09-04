@@ -6,6 +6,7 @@
 - [balarAma-shukla](./balarAma-shukla/index.md)
 - [bhrtRhri, bhartRhari](./bhrtRhri,%20bhartRhari/index.md)
 - [kindle-sample](./kindle-sample/index.md)
+- [venkaTanAthaH](./venkaTanAthaH/index.md)
 - [vishvAsa](./vishvAsa/index.md)
 
 ## Documents
