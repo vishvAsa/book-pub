@@ -1,4 +1,4 @@
-# bhrtRhri, bhartRhari
+# bhartR-hariH
 
 
 ## Categories
