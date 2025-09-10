@@ -18,6 +18,7 @@ title = "आगम-प्रामाण्यम्"
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../00_mangalAdi/">
+
 # ०० मङ्गलादि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,14 +89,14 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../01_pUrva-paxaH/full/">
+
 # ०१ पूर्व-पक्षः
 
 <div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../">
-# 
-
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../01_prAmANyam/">
+
 ## ०१ प्रामाण्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -226,6 +227,7 @@ prāmāna has generally been rendered with "means of knowledge," sometimes with 
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../02_pratyaxAdibhir_AgamoktArthAsiddhiH/">
+
 ## ०२ प्रत्यक्षादिभिर् आगमोक्तार्थासिद्धिः
 
 ### साधारण-प्रत्यक्षम्
@@ -793,6 +795,7 @@ that a superior perception reveals that Consecration, worship etc. are actually 
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../03_nAnumAnam/">
+
 ## ०३ नानुमानम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -866,6 +869,7 @@ as in the case of the kitchen.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../04_na_shabdaH/">
+
 ## ०४ न शब्दः
 
 ### वेदादौ न विधिः
@@ -2496,6 +2500,7 @@ Also the venerable Vyasa:
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../05_bAhya-parigrahaH/">
+
 ## ०५ बाह्य-परिग्रहः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2548,6 +2553,7 @@ and thus are of the same kind as the Buddhist statements on stupa worship.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../06_veda-tiraskAraH/">
+
 ## ०६ वेद-तिरस्कारः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2698,6 +2704,7 @@ for the Veda contains all knowledge."
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../07_pRthak-saMskara-lingam/">
+
 ## ०७ पृथक्-संस्कर-लिङ्गम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2744,6 +2751,7 @@ they would be qualified for Tantric ritual by the regular sacraments.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../08_14-vidyAsthAneShv_anantarbhAvaH/">
+
 ## ०८ १४-विद्यास्थानेष्व् अनन्तर्भावः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2791,6 +2799,7 @@ but as it is not so recognized, this proves that the Pañcarātra tradition is n
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../09_bAdarAyaNoktiH/">
+
 ## ०९ बादरायणोक्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2842,6 +2851,7 @@ it cannot be compared with the Tradition of Manu etc.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../10_xudra-vidyA-paratA/">
+
 ## १० क्षुद्र-विद्या-परता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2893,6 +2903,7 @@ and therefore equally authoritative as the doctrinal works of Manu' and others.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../11_veda-tulya-pramANatvaM_na/">
+
 ## ११ वेद-तुल्य-प्रमाणत्वं न
 
 ### पूर्व-पक्षः (नैय्यायिकः)
@@ -4979,6 +4990,7 @@ by some human being with the purpose of deceiving the world.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../12_Ishvare_shabda-pramANaM_na/">
+
 ## १२ ईश्वरे शब्द-प्रमाणं न
 
 ### पूर्वपक्षः
@@ -5031,8 +5043,6 @@ how then can we refuse to accept the authority of a tradition which derives from
 
 #### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="../../aMshaH/na_cha_siddhe">
-####### 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
@@ -6097,6 +6107,7 @@ The identification is considered an arthavada, i,e., laudatory of the sacrificia
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../13_neshvara-praNItatA/">
+
 ## १३ नेश्वर-प्रणीतता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6831,6 +6842,7 @@ are all to be presumed in the case of Pañcarātra,
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../14_tAntrikatAyAH_bAhyam/">
+
 ## १४ तान्त्रिकतायाः बाह्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6997,6 +7009,7 @@ this description of the divisions of Tantra is also found in Pancarātra.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../15_jIva-janmoktiH/">
+
 ## १५ जीव-जन्मोक्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7462,6 +7475,7 @@ as it consists of spirit, like the Supreme Soul.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../16_nApauruSheyatA/">
+
 ## १६ नापौरुषेयता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7508,6 +7522,7 @@ notice.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../17_pAshupatAdi-samatA/">
+
 ## १७ पाशुपतादि-समता
 
 ### पौरुषेयत्वम्
@@ -7621,6 +7636,7 @@ Your worship better keep quiet.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../18_upasaMhAraH/">
+
 ## १८ उपसंहारः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7763,17 +7779,18 @@ I read rityā.
 अप्रमाणमिति प्राप्तमेवं प्रप्तेऽभिधीयते ॥  
 </details>
 </div>
+
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="../02_uttara-paxaH/full/">
+
 # ०२ उत्तर-पक्षः
 
 <div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../">
-# 
-
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../01_nirdoSha-jnAna-janyatayA_prAmANyAnumA/">
+
 ## ०१ निर्दोष-ज्ञान-जन्यतया प्रामाण्यानुमानम्
 
 ### प्रतिज्ञा
@@ -7856,6 +7873,7 @@ a non-thing like a hare's horn can be neither S nor P.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../02_paxa-sauShThavam/">
+
 ## ०२ पक्ष-सौष्ठवम्
 
 ### प्रसिद्धिः
@@ -8616,6 +8634,7 @@ so that we conclude that the proposition is presentable.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../03_hetu-sauShThavam/">
+
 ## ०३ हेतु-सौष्ठवम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9031,6 +9050,7 @@ then how can we suppose Him to be deceitful etc.?
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../04_siddha-vastuni_shabda-prAmANyam/">
+
 ## ०४ सिद्ध-वस्तुनि शब्द-प्रामाण्यम्
 
 ### प्रतिज्ञा
@@ -11153,8 +11173,6 @@ are authoritative as to what they state, since they produce indubitable and unre
 
 ### सम्भावितानुवाद-विपर्ययौ
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="../../aMshaH/na_cha_siddhe">
-####### 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
@@ -11330,6 +11348,7 @@ Therefore it must be maintained that all indubitable and unreversed knowledge is
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../05_sArvajnyam/">
+
 ## ०५ सार्वज्ञ्यम्
 
 ### शब्द-प्रमाणम्
@@ -11853,6 +11872,7 @@ Also cf. Visnusamhitā - ch. II-
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../06_viShNuH_paramaH/">
+
 ## ०६ विष्णुः परमः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12771,6 +12791,7 @@ All this has already been explained in great detail in the Puruṣanirṇaya 176
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../07_pAncharAtra-dAnam/">
+
 ## ०७ पाञ्चरात्र-दानम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12866,6 +12887,7 @@ which constitute the sole means of attaining the unparalleled beatitude they sou
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../08_tantrAntarAd_bhedaH/">
+
 ## ०८ तन्त्रान्तराद् भेदः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14108,6 +14130,7 @@ would mean that Brahmin Murder and Horse Sacrifice are on the same level because
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../09_shruty-anuvAdauchityam/">
+
 ## ०९ श्रुत्य्-अनुवादौचित्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14155,6 +14178,7 @@ but for God it is revealed in Scripture, e.g.,
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../10_na_veda-bAhyam/">
+
 ## १० न वेद-बाह्यम्
 
 ### वेद-मूलता
@@ -15101,6 +15125,7 @@ Yamuna holds Vyāsa, the author of the Mahābhārata to be one with Badarayana, 
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../11_brahma-sUtre-nirAkAraH/">
+
 ## ११ ब्रह्म-सूत्रे ऽनिराकारः
 
 ### जीवाद्य्-उत्पत्ताव् आपत्तिः पूर्व-पक्ष-मात्रम्
@@ -16062,6 +16087,7 @@ Enough.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../12_brahma-sUtre-ngIkAraH/">
+
 ## १२ ब्रह्म-सूत्रे ऽङ्गीकारः
 
 ### सन्दर्भः
@@ -17166,6 +17192,7 @@ When such knowledge is the 'beginning,' i.e. the basis, there is non-rejection, 
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../13_veda-tulya-prAmANyam/">
+
 ## १३ वेद-तुल्य-प्रामाण्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18165,6 +18192,7 @@ Consequently, because both are equally exemplary, they are optionally valid. It 
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../14_amohakatA/">
+
 ## १४ अमोहकता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18630,6 +18658,7 @@ vipratisedAt.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../15_virodhAbhAse_tAratamyam/">
+
 ## १५ विरोधाभासे तारतम्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18719,6 +18748,7 @@ that the fruits of acts serve to increase people's faith in the acts.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../16_shiShTa-bAhya-grahaNe/">
+
 ## १६ शिष्ट-बाह्य-ग्रहणे
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -19412,6 +19442,7 @@ their acceptance of Pañcaratra rather confirms its validity.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../17_bhAgavata-brAhmaNya-pramANam/">
+
 ## १७ भागवत-ब्राह्मण्य-प्रमाणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -23193,6 +23224,7 @@ because they would have abandoned these Vedic dharmas.
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled="" url="../18_samAptiH/">
+
 ## १८ समाप्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -23252,5 +23284,7 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 आकल्पं विलसन्तु सात्त्वतमतप्रस्पर्द्धिदुष्पद्धतिव्यामुग्धोद्धतदुर्विदग्धपरिषद्वैदग्ध्यविध्वंसिनः ।  
 श्रीमन्नाथमुनीन्द्रवर्द्धितधियोनिर्धूतविश्वाशिवाः सन्तस्सन्ततगद्यपद्यपदवीहृद्यानवद्योक्तयः ।  
 **इति श्री-यामुनमुनिविरचितमागमप्रामाण्यम् ॥**
+
 </div>
+
 </div>
