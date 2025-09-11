@@ -1,5 +1,12 @@
 # book-pub
 
+## Format-specific notes
+### epub
+- epub files usually have full info.
+- *min.epub files remove मूलम् portions.
+
+### pdf
+- The initial hyperlinked pages should be replaced by the actual table of contents in the end.
 
 ## Categories
 - [balarAma-shuklaH](./balarAma-shuklaH/index.md)
