@@ -5,6 +5,7 @@
 
 
 ## Documents
+- [venkaTArya-vedAnta-kArikAvalI.a](venkaTArya-vedAnta-kArikAvalI.azw3)
 - [venkaTArya-vedAnta-kArikAvalI.e](venkaTArya-vedAnta-kArikAvalI.epub)
 - [venkaTArya-vedAnta-kArikAvalI.kepub.e](venkaTArya-vedAnta-kArikAvalI.kepub.epub)
 - [venkaTArya-vedAnta-kArikAvalI](venkaTArya-vedAnta-kArikAvalI.md)
