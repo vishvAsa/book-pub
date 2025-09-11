@@ -5,6 +5,7 @@
 
 
 ## Documents
+- [kRShNamAchAryoktA_mata-prakriyA.a](kRShNamAchAryoktA_mata-prakriyA.azw3)
 - [kRShNamAchAryoktA_mata-prakriyA.e](kRShNamAchAryoktA_mata-prakriyA.epub)
 - [kRShNamAchAryoktA_mata-prakriyA.kepub.e](kRShNamAchAryoktA_mata-prakriyA.kepub.epub)
 - [kRShNamAchAryoktA_mata-prakriyA](kRShNamAchAryoktA_mata-prakriyA.md)
