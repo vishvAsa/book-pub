@@ -13,32 +13,22 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  generate-index:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  
-      actions: write
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v3
-
-      # Runs a single command using the runners shell
-      - name: Generated Markdown Readmes
-        uses: DaanV2/Markdown-Action-Create-Indexes@main
+      - uses: gacts/directory-listing@v1
         with:
-          include: |
-                *.*
-      - name: Commit changes
-        continue-on-error: true
-        run: |
-          cd ${{github.workspace}}
-          git config --global user.email "Bot@Example.com"
-          git config --global user.name "DaanV2 Bot"
-          git add .
-          git commit -m "auto: Generated markdown indexes"
-          git push
+          target: ./build
+          # target: .
+          # ignore: |
+          #   build/**
+          #   **/index.html
+          #   node_modules/**,**/*.log
+          # show-hidden: true
+          # overwrite: true
+
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
