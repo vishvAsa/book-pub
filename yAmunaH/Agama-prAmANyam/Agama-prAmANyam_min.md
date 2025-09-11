@@ -285,14 +285,6 @@ in Whom such finite qualities as supremacy, dispassionateness, power etc. subsis
 in an infinite and unequalled condition. 
 </details>
 
-<details open><summary>Español</summary>
-
-> That is why the wise can say that there is Someone  
-in Whom such finite qualities as supremacy, dispassionateness, power etc. subsist  
-in an infinite and unequalled condition. 
-
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अतो यस्यैतद् अ-खिल-भुवनावलम्बि--भाव-भेद--साक्षात्-कारि-प्रत्यक्षं  
@@ -1937,15 +1929,6 @@ if he rejects at the outset the very authority of the Vedas as sources of knowle
 about the means which lead to bliss? 
 </details>
 
-<details open><summary>Español</summary>
-
-But how can we presume that a certain text can teach that a certain object,  
-which is known from the four Vedas,  
-is man's supreme goal in life  
-if he rejects at the outset the very authority of the Vedas as sources of knowledge  
-about the means which lead to bliss? 
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्व्-आदयो हि  
@@ -2657,12 +2640,6 @@ and in whose nature such properties as unrestricted knowledge etc. subsist.
 <details open><summary>Buitenen</summary>
 
 As they say (unidentified source): 
-"The unobstructed knowledge, perfect impartiality, omnipotence of a universal lord and dharma are all four established together." 
-</details>
-
-<details open><summary>Español</summary>
-
-As they say: 
 "The unobstructed knowledge, perfect impartiality, omnipotence of a universal lord and dharma are all four established together." 
 </details>
 
