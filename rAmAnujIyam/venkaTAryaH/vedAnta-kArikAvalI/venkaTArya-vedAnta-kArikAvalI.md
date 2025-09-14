@@ -7,7 +7,7 @@ author = "वेङ्कटार्यः"
 
 # ०१ प्रत्यक्ष-निरूपणान्तम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीमद्-रमा-धवोपज्ञां  
 **नत्वा** ऽऽचार्य-परम्पराम् ।  
@@ -44,10 +44,10 @@ A.
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-1. After bowing down in salutation to the line of spiritual teachers beginning with the Lord of S'ri (Bhagavan Nārāyaṇa) I write the work Karikavali on the principles of the doctrine expounded by S'ri Rāmā- nuja. 
+1. After bowing down in salutation to the line of spiritual teachers beginning with the Lord of S'ri (Bhagavan Nārāyaṇa) I write the work Karikavali on the principles of the doctrine expounded by S'ri Rāmānuja. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मान-मेय-विभेदेन  
 पदार्थो द्वि-विधो मतः ।  
@@ -79,7 +79,7 @@ A.
 2. The entire Padarthas or entities are of two kinds—Māna (Means of valid knowledge) and Meya (The object of such knowledge). The Mana is again of three divisions- Pratyaksa (Perception), Anumāna(Inference) and S'abda (Verbal testimony). 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमेयं द्विविधं प्रोक्तं  
 द्रव्याद्रव्य-विभेदतः ।  
@@ -106,7 +106,7 @@ A.
 [Note. The Jada is that which can be cognized For instance the only with the aid of external means. Pot can be cognized only with the aid of our knowledge.+++(5)+++ If the knowledge ceases to function, the pot cannot be cognized. But the case of Ajada is different. It is cognizable even without the aid of external means. For instance the Atman is cognizable by self even with out the aid of the knowledge. Likewise the cognition [[४]] which is an attribute of the Atman is cognizable by him even without the aid of external means i.e. another knowledge, when it operates with an object.] 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(जडम्)+++ प्रकृतिः काल इत्य्, आद्या  
 चतुर्विंशतिधा मता ।  
@@ -132,7 +132,7 @@ A.
 4. The two kinds of Jaḍadravya are Prakṛti (The Primary Matter) and Kāla (Time). The former i.e., Prakrti is of twenty-four kinds. The Kala is said to be of three divisions due to its Upadhis (Limiting adjuncts). 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अजडं तु पराक् प्रत्यग्  
 इति भेदाद् द्वि-धा स्थितम् ।  
@@ -174,7 +174,7 @@ A.
 [The Parāk is that which is not Self-aware. The Pratyak is that which is Self-aware. These two may be equalized with Inanimate and Animate respectively.] 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यग् जीवेश्वर-भिदा-  
 शाली, जीवः पुनस् त्रिधा ।  
@@ -201,7 +201,7 @@ A.
 6. The Pratyak is of two kinds-Jiva (Individual Souls) and Iśvara (The Ruling Supreme Soul). The Jiva is again of three kinds-Baddha (Bound in Samsāra), Mukta (Freed from Samsāra) and Nitya (Eternally freed from Samsara or never bound in Samsāra). The Baddha is of two kinds. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुभुक्षुश्च मुमुक्षुश्च  
 बुभुक्षुश्च पुनर्द्विधा ।  
@@ -225,7 +225,7 @@ A.
 7. They are-Bubhuksu (Desirous of worldly enjoyments) and Mumuksu (Desirous of freedom from Samsara and divine bliss.) The Bubhukṣu is again of two kinds-Arthakamapara (Addicted to worldly wealth and pleasure) and Dharmapara (Addicted to Dharma). 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यदेवपरो विष्णु-  
 परो धर्मपरो द्विधा ।  
@@ -252,7 +252,7 @@ A.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्त-प्रपन्नभेदेन  
 स तु मोक्षपरो द्विधा ।  
@@ -291,7 +291,7 @@ Or he is Ekantin who is resolved to attain Mokṣa by Prapatti  alone taking it 
 But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagavan alone. That is-for him Bhagavan alone is Upaya and Upeya.] 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृप्त आर्त इति द्वेधा  
 परमैकान्त्युदाहृतः ।  
@@ -318,7 +318,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 [The five-fold forms are— Para, Vyūha, Vibhava, Antaryāmin and Arca.] 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर एकश्, चतुर्धा तु  
 **व्यूहः** स्याद् वासुदेवकः ।  
@@ -344,7 +344,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 11. Para is only one. But Vyuhas are four-fold, namely - Vasudeva, Samkarsana, Pradyumna and Aniruddha. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्स्यादयस्तु विभवा  
 अनन्ताश्च प्रकीर्तिताः ।  
@@ -370,7 +370,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 12. Vibhava forms are told as innumerable constituting Matsya (Fish) and so on. Iśvara abides in every things else as Antaryāmin (Inner Ruler). 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **अर्चावतारः** श्रीरङ्ग-  
 वेङ्कटाद्र्य्-आदिषु स्थितः ।  
@@ -396,7 +396,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 13. Arcās or Images are His avatāras or incarnations enshrined in sacred temples such as SriRangam, Venkatadri etc. The Kesava and other forms are mentioned by the wise as different Vyuhas. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्त्वं रजस् तमः शब्द-  
 स्पर्श-रूप-रसास् तथा ।  
@@ -422,7 +422,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 14. The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (sound), Sparśa (touch), Rūpa (colour), Rasa (taste), Gandha ( odour), Samyoga (union) and S'akti (Potency) are the ten kinds of Adravya (Non-Substance). 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमायाः करणं तत्र  
 **प्रमाणं** परिकीर्तितम् ।  
@@ -448,7 +448,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 15. The Pramāna is that which is an instrument or means for the Prama (Valid knowledge). The Prama is the knowledge from which proceeds the verbal usage of a thing in its true and essential nature. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा संशयान्यथा-ज्ञान-  
 विपरीत-धियो न हि ।  
@@ -480,7 +480,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 [For instance—Is this a post or a man?] 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 धीस् तु धर्म-विपर्यासे  
 **ऽन्यथाज्ञानम्** उदाहृतम् ।  
@@ -508,7 +508,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 [Anyathājñāna is — The conch is yellow. Viparitadhi is-This (shell) is silver.] 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 साक्षात्कार-प्रमा-हेतुः  
 **प्रत्यक्षं** मानम् ईरितम् ।  
@@ -537,7 +537,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 18. The Pratyaksapramāna is that which causes the perceptive and valid congnition. The perception is of two kinds-Savikalpa and Nirvikalpa. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रहः प्रथम-पिण्डस्य  
 निर्विकल्पक उच्यते ।  
@@ -561,7 +561,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 19. The Nirvikalpaka is the cognition of a first thing perceived for the first time. The Savikalpaka is the cognition obtained by the perception of another thing of the same kind that was perceived once before with a recollection on it. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् +++(साक्षात्त्वम्)+++ इन्द्रिय-सापेक्षम्  
 अनपेक्षञ्च दृश्यते ।  
@@ -610,7 +610,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 20. This perception is also of another two kinds : Indriyāpekṣa (Dependent on senses) and Indriyanapekṣa (Independent on senses). The latter is also of two kinds : Svatassiddha (Self-acquired) and Divya (Divine). 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 योगजं तु स्वतः-सिद्धम्  
 अन्यत् स्वामि-प्रसादजम् ।  
@@ -634,7 +634,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 21. Svatassiddha is a perception acquired through the power of yoga and the other i.e. Divya is obtained by the grace of the Lord Bhagavan. The wise men call all these as recent. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्य-मुक्तेश्वर-ज्ञानम्  
 **अनर्वाचीनम्** उच्यते ।  
@@ -662,7 +662,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 [[१३]] 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशादृष्ट-चिन्ताद्यैः  
 संस्कारोद्बोधने सति +++(सा स्मृतिः)+++।  
@@ -686,7 +686,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 23. The Smrti is produced when the Samskāra (Reminiscent impression) is aroused by seeing a similar thing, Adrsta (Invisible effect of Karman) and Cinta (Deep thinking) etc. Like recollection, Pratyabhijñā (Recognition) also is included under Perception. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुण्य-पूरुष-निष्ठा ऽपि  
 **प्रतिभा** ऽत्रैव सम्मता ।  
@@ -717,7 +717,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
  
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अभावस्य पदार्थान्तरत्वं निराकरोति-)+++  
 भूतले तु घटाभावो  
@@ -746,7 +746,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 25. The Non-existence of a pot on the earth is nothing but the surface of the earth. The Prāgabhāva (Antecedent non-existence) of a pot is nothing but the clay. And the Pradhvamsa (destruction) of a pot is nothing but the kapāla (the potsherds). 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अन्योन्याभावस्य पार्थक्यं निराकरोति—)+++  
 स्वासाधारणधर्मो हि  
@@ -777,7 +777,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 26. The peculiar or uncommon quality of a thing is mentioned by the term Bheda. That the word Bheda invariably requires the Pratiyogin (The counter correlate) is due to the nature of that word. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तःकरण-चैतन्यं  
 तद्-वृत्त्या विषयेण च ।  
@@ -815,7 +815,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 28. These and other similar sayings of the philosophers of other schools are not acceptable to us. The Sāmānya (generality), Samavāya (Inherent contact) and Visesa (particularity) are not acceptable to us.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्ख्यादि-गुण-वर्गस्य  
 गुण-पार्थक्य-कल्पनम् ।  
@@ -852,7 +852,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 विस्तारः [अत्र](/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/pramA/anumitiH/) ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुमित्य्-आत्म-विज्ञाने  
 **ऽनुमानं** करणं स्मृतम् ।  
@@ -887,7 +887,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 १८ 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 साध्याभावाधिकरणावृत्तित्वं **व्याप्तिर्** उच्यते ।  
 व्याप्यस्य +++(पर्वतवत्-)+++पक्ष-वृत्तित्व-धीः **परामर्श**-नाम-भाक् ॥ २.२॥
@@ -909,7 +909,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 व्याप्यस्य पक्षवृत्तित्वधीः परामर्शनामभाक् ॥ २.२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तज्+++(=परामर्श)+++-जा पक्षे साध्य-मतिर्  
 **अनुमित्य्**-आत्मिका मता ।  
@@ -935,7 +935,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 1 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्+++(=साहचर्य-ज्ञान)+++-स-पक्षे - **स-पक्षस्** तु  
 पूर्वं निश्चित-साध्यकः ।  
@@ -963,7 +963,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 [[१९]] 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्वयी+++(= यत्र a → b)+++ व्यतिरेकी+++(= यत्र ¬b → ¬a)+++ च  
 किञ्च **हेतुर्** द्विलक्षणः ।  
@@ -1038,7 +1038,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 व्यभिचारी विरुद्धश्चासिद्धः सत्प्रतिपक्षकः ॥ २.५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाधितश् चेति पञ्चैते  
 **हेत्व्-आभासा** न साधकाः ।  
@@ -1068,7 +1068,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 एवं स्वार्थानुमानस्य प्रपञ्चस्तु निरूपितः ॥ २.६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्याय-जन्यः परामर्शः  
 परार्थानुमितेः कृते ।  
@@ -1099,7 +1099,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 न्यायोऽवयववाक्यानि प्रतिज्ञादीनि पञ्च च ॥ २.७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रतिज्ञा** साध्यनिर्देशो  
 **हेतुस्** तद्वचनं मतम् ।  
@@ -1125,7 +1125,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 व्याप्त्युक्तिपूर्वदृष्टान्तवागुदाहरणं भवेत् ॥ २.८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(धूमवद्-)+++व्याप्यस्य पक्ष-वृत्तित्व-  
 बोधश् **चोपनयो** मतः ।  
@@ -1154,7 +1154,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 # ०३ शब्द-निरूपणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाप्तानुक्तवाक्यं यत्  
 तच् छाब्द-करणं स्मृतम् ।  
@@ -1178,7 +1178,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 वेदस्यापौरुषेयत्वात्तत्र लक्षणसङ्गतिः ॥ ३.१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अम्बा तात इत्य्-आद्य्-अङ्गुलि-निर्देशा इव)+++  
 सिद्धे +++(शब्द-)+++व्युत्पत्ति--सद्-भावाद्  
@@ -1216,7 +1216,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 [^1]: सिद्धव्युत्पत्ति - C.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्म-ब्रह्माभिधायित्वात्   
 स च भागद्वयात्मकः ।  
@@ -1240,7 +1240,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 पूर्वभागः कर्मपर उत्तरो ब्रह्मगोचरः ॥ ३.३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्-ऐक्यात् पूर्व-परयोर्  
 व्याख्ययोर् **एक-शास्त्रता** ।  
@@ -1272,7 +1272,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 [^4-2]: व्याख्येया ह्येकशास्त्रता - C.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विध्य्--अर्थ-वाद--मन्त्रात्मा  
 त्रिविधः स प्रतीयते ।  
@@ -1299,7 +1299,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 अनुष्ठेयार्थगमको मन्त्रः स्यादर्थवादगीः ॥ ३.५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवृत्त्य्-उत्तम्भिका या स्याद्,  
 **विधिर्** वाक्यं प्रवर्तकम् ।  
@@ -1341,7 +1341,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 स त्रिधापूर्वनियमपरिसङ्ख्याविभेदतः ॥ ३.६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्या नैमित्तिकाः काम्या  
 इति ते +++(विधयो)+++ बहुधा मताः ।  
@@ -1371,7 +1371,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 ' तल्लक्षणस्वरूपाणि द्रष्टव्यानि - C. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 छन्दः कल्पश्च शिक्षा च  
 निरुक्तं ज्यौतिषं तथा ।  
@@ -1406,7 +1406,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 व्याकृतिश्चेति वेदस्य षडङ्गानि प्रचक्षते ॥ ३.८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुष्टुब्-आदिकं **छन्दः**,  
 **कल्पः** श्रौतादि-बोधकः ।  
@@ -1431,7 +1431,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 वर्णनिर्णायिका शिक्षा निरुक्तं स्वार्थबोधकम् ॥ ३.९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुष्ठानादि-कालस्य  
 निर्णये ज्यौतिषं भवेत् ।  
@@ -1459,7 +1459,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 सौशब्द्याय व्याकरणमिति साङ्गे प्रमाणता ॥ ३.१०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतन्-मूलतया स्मृत्यादीनां प्रामाण्यम् ईरितम् ।  
 एतद्-विरुद्धं यत्-किञ्चिन् नाश्नुवीत प्रमाणताम् ॥ ३.११॥
@@ -1485,7 +1485,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 [[२८]] 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकाङ्क्षादिकम् एतच् च  
 शाब्द-बोधैक-कारणम् ।  
@@ -1515,7 +1515,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 तद्विचारोऽत्र सङ्क्षिप्तो ग्रन्थविस्तरभीरुणा ॥ ३.१२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुख्यौपचारिकत्वाभ्यां  
 स **शब्दो** द्विविधो मतः ।  
@@ -1542,7 +1542,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 अभिधा मुख्यवृत्तिः स्याद्वृत्तिरन्यौपचारिकी ॥ ३.१३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरीर-वाचकाः शब्दाः  
 शरीरि-कृत-वृत्तयः +++(=शरीरि-बोधका इति)+++ ।  
@@ -1576,7 +1576,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 # ०४ प्रकृति-निरूपणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्-प्रमा-विषयं तत् स्यात्  
 **प्रमेयम्** इति तद् द्विधा ।  
@@ -1606,7 +1606,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 द्रव्यमद्रव्यमित्याद्यं तदुपादानकारणम् ॥ ४.१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवस्थान्तर-योगित्वम्  
 **उपादानत्वम्** उच्यते ।  
@@ -1641,7 +1641,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 1 द्रव्याश्रयं त्वद्रव्यं स्यात् B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमिश्र-सत्त्व-राहित्यं  
 **जडत्वम्** अनुगद्यते ।  
@@ -1673,7 +1673,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 2 गुणाश्रया - C.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रकृतिः** सा क्षराविद्या-  
 माया-शब्दैर् निगद्यते ।  
@@ -1713,7 +1713,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 कार्योन्मुखत्वावस्था स्यादव्यक्तव्यपदेश भाक् ॥ ४.४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव्यक्तान् **महद्**-उत्पत्तिः  
 सात्त्विकत्वादि-भेदतः ।  
@@ -1745,7 +1745,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 अहङ्कारस्ततस्त्रेधा सात्त्विकत्वादिभेदभाक् ॥ ४.५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सत्त्व-रजस्-तमो-भेदेन)+++  
 वैकारिकस्, तैजसश् च,  
@@ -1780,7 +1780,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 2 वैकारिकाः C.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु वैकारिकात् सात्त्विकाहङ्काराद् उपस्कृतात् ।  
 एकादशेन्द्रियाणि स्युर् ज्ञान-कर्मेन्द्रियात्मना ॥ ४.७॥
@@ -1809,7 +1809,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 एकादशेन्द्रियाणि स्युर्ज्ञानकर्मेन्द्रियात्मना ॥ ४.७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञान-प्रसरणे शक्तं  
 **ज्ञानेन्द्रियम्** उदाहृतम् ।  
@@ -1844,7 +1844,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 तन्मनःश्रोत्रचक्षुस्त्वग्घ्राणजिह्वात्मना मतम् ॥ ४.८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **मनः** स्मृत्य्-आदि-हेतुस् तद्-  
 बन्ध-मोक्षादि-कारणम् ।+++(5)+++  
@@ -1878,7 +1878,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 शब्दमात्रग्रहे शक्तमिन्द्रियं श्रोत्रमुच्यते ॥ ४.९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूप-मात्र-ग्राहि **चक्षुस्**  
 **त्वक्** स्पर्श-ग्रह-कारणम् ।  
@@ -1907,7 +1907,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 गन्धैकग्राहकं घ्राणं रसनं रसभासकम् ॥ ४.१०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषां विषय-सम्बन्धः  
 **संयोगादिः** प्रकीर्तितः ।  
@@ -1931,7 +1931,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 उच्चारणादिकर्मैकशक्तं कर्मेन्द्रियं मतम् ॥ ४.११॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **पञ्चधा** वाक्-पाणि-पाद-  
 पायूपस्थ-प्रभेदतः ।  
@@ -1965,7 +1965,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 वर्णोच्चारणहेतुर्वाक् पाणिः शिल्पादिकारणम् ॥ ४.१२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सञ्चार-कारणं **पादः**  
 **पायुर्** मल-निवृत्तिकृत् ।  
@@ -1991,7 +1991,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 उपस्थः परमानन्दहेतुः स्त्रीपुंसयोर्मतः ॥ ४.१३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजसाहङ्क्रिया-युक्त-तामसाहङ्कृतेः पुनः ।  
 जायते शब्द-तन्मात्रादिकं, भूतादिकारणम् ॥ ४.१४॥
@@ -2025,7 +2025,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 जायते शब्दतन्मात्रादिकं भूतादिकारणम् ॥ ४.१४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूतानाम् एव सूक्ष्मैक-  
 पूर्वावस्था-विशेष-कृत् ।  
@@ -2053,7 +2053,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 द्रव्यं तन्मात्रमित्याहुः पञ्चधा भूतपञ्चभिः ॥ ४.१५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … तन्-मात्र--पञ्चकं शब्दाद्य्-  
 आश्रयत्वेन सम्मतम् ।  
@@ -2080,7 +2080,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 भूतानां स्यादुपादानं शब्दतन्मात्रमादिमम् ॥ ४.१६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … स्पर्श-तन्मात्रकं रूप-  
 रस-तन्मात्रके अपि ।  
@@ -2108,7 +2108,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 \* गन्घतन्मात्रमेतेभ्यः B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … पञ्च भूतानि, तन्मात्र-  
 स्वरूपं तु निरूप्यते ।  
@@ -2134,7 +2134,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 तामसाहङ्कृतिखयोर्मध्यावस्थायुगादिमम् ॥ ४.१८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 शब्दतन्मात्रम्, अस्माच् च  
 वियद् उत्पद्यते तथा ।  
@@ -2164,7 +2164,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 खमेव सूर्यस्पन्देन दिगिति व्यपदिश्यते ॥ ४.१९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रव्यं तद् आकाश-वाय्वोर्  
 मध्यावस्था-सुसंयुतम् ।  
@@ -2190,7 +2190,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 स्पर्शतन्मात्रमस्माच्च वायुरुत्पद्यते क्रमात् ॥ ४.२०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यावस्था-युतं वायु-  
 तेजसोर् द्रव्यम् उच्यते ।  
@@ -2218,7 +2218,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 रूपतन्मात्रमित्यस्मात्तेज उत्पद्यते क्रमात् ॥ ४.२१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यावस्था-युतं तेजः-  
 पयसोर् द्रव्यम् उच्यते ।  
@@ -2249,7 +2249,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 [[४२]] 
 
  
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यावस्था-युतं वारि-  
 पृथिव्योर् द्रव्यम् उच्यते ।  
@@ -2278,7 +2278,7 @@ From this is produced the earth.
 गन्धतन्मात्रमित्यस्मात्पृथिवी समुदेत्यसौ ॥ ४.२३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 आद्यं+++(→आकाशः)+++ शब्दवद्, अन्यच्+++(→वायुश्)+++ च  
 शब्द-स्पर्शवद् उच्यते ।  
@@ -2300,7 +2300,7 @@ From this is produced the earth.
 रूपशब्दस्पर्शवत्स्यात्तृतीयञ्च तुरीयकम् ॥ ४.२४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … रूप-शब्द-स्पर्श-रस-  
 युक्तं, गन्धाधिकं परम्+++(→पृठिवी)+++ ।  
@@ -2328,7 +2328,7 @@ From this is produced the earth.
 तन्मात्रपञ्चकं भूतपञ्चकञ्चैवमीरितम् ॥ ४.२५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्रकृतिर् अव्यक्त-  
 महदादि-क्रमाद् भिदाम् ।  
@@ -2360,7 +2360,7 @@ From this is produced the earth.
 संभेदं B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पञ्चीकरणम्…)+++   
 भूतानि भगवान् सृष्ट्वा  
@@ -2389,7 +2389,7 @@ From this is produced the earth.
 एकमेकं विधायांशञ्चतुर्धान्यं विभक्तवान् ॥ ४.२७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्धा रचितान् अंशांस्  
 तत्-तद्-अंशे युनक्ति सः ।  
@@ -2431,7 +2431,7 @@ From this is produced the earth.
 चतुर्थांशयुतस्वांशैः पञ्चभूतान्यजीजनत् ॥ ४.२८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यभूतांश-सत्त्वेऽपि  
 स्वांश-भूयस्त्वतः कृतः ।  
@@ -2459,7 +2459,7 @@ From this is produced the earth.
 पृथ्व्यप्तेजोऽनिलव्योमव्यपदेशो जगत्यभूत् ॥ ४.२९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चीकरणम् एतादृग्  
 उपलक्षयति श्रुतिः ।  
@@ -2485,7 +2485,7 @@ From this is produced the earth.
 भूतैर्महदहङ्कृत्योः सप्तीकृतिरुपस्कृता ॥ ४.३०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूत-पञ्चकम् अव्यक्तम् एते महद्-अहङ्कृती ।  
 उपादानानि देहस्य, +इन्द्रियाणि प्रतिपूरुषम् … ॥ ४.३१॥
@@ -2527,7 +2527,7 @@ From this is produced the earth.
 उपादानानि देहस्येन्द्रियाणि प्रतिपूरुषम् ॥ ४.३१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भिन्नान्य्, आकल्प-कल्पानि  
 शरीरं भूषयन्ति हि ।+++(5)+++  
@@ -2565,7 +2565,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 चेतनैकनियाम्यं यच्छरीरं तन्निगद्यते ॥ ४.३२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **शरीरं** द्विविधं - नित्यम्  
 अनित्यम् इति भेदतः ।  
@@ -2594,7 +2594,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 भगवन्नित्यसूरीणां नित्यं नैसर्गिकं तु तत् ॥ ४.३३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **स्** अपि तद् द्वेधा  
 कर्माकर्म-कृतत्वतः ।  
@@ -2626,7 +2626,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 अकर्मकृतमीशादेरिच्छया परिकल्पितम् ॥ ४.३४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च **कर्मकृतं** द्वेधा  
 **स्वेच्छा-सहकृतं** तथा ।  
@@ -2650,7 +2650,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 कर्ममात्रकृतञ्चेति सौभर्यादेर्यथादिमम् ॥ ४.३५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वितीयम् अस्मदादीनां +++(कर्ममात्रकृतम्)+++  
 सामान्येन पुनर् द्विधा ।  
@@ -2676,7 +2676,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 स्थावरं जङ्गमञ्चेति शिलादि स्थावरं मतम् ॥ ४.३६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **जङ्गमञ्** च द्विधा प्रोक्तं  
 स्याद् योनिजम् अयोनिजम् ।  
@@ -2704,7 +2704,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 1 तिर्यङ्नारकिमेदवत A.B. भेदतः G.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्भिज्-ज+++(←इतीन्द्रगोप-मण्डूकादय)+++--स्वेद-ज+++(←यूकामत्कुणादयः)++++अण्डोत्थ+++(←पक्ष्यादयः)+++-नारक्य्-आख्यम् **अयोनिजम्** ।  
 एवं पञ्चीकृतानां +++(भूतानां)+++ स्याद् +++(ब्रह्म-)+++अण्डोत्पादकता स्मृता ॥ ४.३८॥
@@ -2743,7 +2743,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 उद्भिज्जस्वेदजजराध्वण्डजाख्य A.B. G.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अण्डोत्पत्तेः पूर्व-सृष्टिः  
 **समष्टिर्**, अत उत्तरा ।  
@@ -2769,7 +2769,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 व्यष्टिसृष्टिरिति द्वेधा सृष्टिर्वेदान्तिसम्मता ॥ ४.३९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव्यक्तादेर् महत्त्वादिर्  
 अवस्थान्तरम् +++(इति)+++ इष्यते ।  
@@ -2799,7 +2799,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 1 'अङ्कुरादेः A.B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्थम् अव्यक्त-महद्-अहङ्-कारेन्द्रिय-नामकैः । +++(←यतिभङ्गः)+++  
 तन्-मात्राणीति तत्त्वानि **चतुर्विंशतिधा** ऽभवन् ॥ ४.४१॥
@@ -2826,7 +2826,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 तन्मात्राणीति तत्त्वानि चतुर्विंशतिधाभवन् ॥ ४.४१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भोग्य-भोगोपकरण-  
 भोग-स्थानानि चेशितुः ।  
@@ -2852,7 +2852,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 ' भोगस्थानानि भूम्यादिभुवनान्यण्डमीदृशम् . G.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषयो **भोग्यम्**, अक्ष्यादि  
 **भोगोपकरणं** मतम् ।  
@@ -2881,7 +2881,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 भोगस्थानं तु भुवनं तद्वर्तीन्यण्डजानि हि ॥ ४.४३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं पञ्चीकृतैर् भूतैर्  
 आरब्धं **प्राकृतं** भवेत् ।  
@@ -2907,7 +2907,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 कपित्थफलकाकारमण्डं नाम निगद्यते ॥ ४.४४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **जम्बू-द्वीपम्** इदं सर्वं  
 लवणोदधिना ऽऽवृतम् ।  
@@ -2933,7 +2933,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 प्लक्षद्वीपं ततोऽपीक्षुसमुद्रेण प्रवेष्टितम् ॥ ४.४५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु **शाल्मलि-द्वीपं**  
 सुरा-सागर-वेष्टितम् ।  
@@ -2959,7 +2959,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 कुशद्वीपं ततः सर्पिः समुद्रेण प्रवेष्टितम् ॥ ४.४६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **क्रौञ्चद्वीपं** ततः पश्चाद्  
 दध्य्-अर्णव-समावृतम् ।  
@@ -2983,7 +2983,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 शाकद्वीपं ततः क्षीरसमुद्रेण प्रवेष्टितम् ॥ ४.४७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **पुष्कर-द्वीपम्** अभितः  
 शुद्धाम्बुधि-समावृतम् ।  
@@ -3009,7 +3009,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 सर्वमेतद्धैमभूम्या ततो वलयपर्वतः ॥ ४.४८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **अन्धकारावृतः** सोऽपि  
 सोऽपि **गर्भोदकेन** च ।  
@@ -3037,7 +3037,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 ततोऽण्डमेकमेवं स्याद्भूमेरूर्ध्वमधोऽपि च ॥ ४.४९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अण्डान्य् एतादृशानि स्युर्  
 अनन्तानि महाहरेः ।  
@@ -3072,7 +3072,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 
 # ०५ काल-निरूपणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुण-त्रय-विहीनो यः  
 स जडः **काल** उच्यते ।  
@@ -3101,7 +3101,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 अखण्डखण्डभेदेन स कालो द्विविधो मतः ॥ ५.१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 आद्यो +++(→अखण्डकालः)+++ विभुर् भूत-भावि-  
 वर्तमानत्व-धी-करः ।  
@@ -3126,7 +3126,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 निमेषादिप्रभेदेन बहुभेदस्त्वसौ मतः ॥ ५.२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ-खण्ड-काल एवायं  
 **नित्य** इत्यवगम्यते ।  
@@ -3156,7 +3156,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 कालः स्वकार्यं प्रति तु स्यादुपादानकारणम् ॥ ५.३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सावधित्वान् निमेषादि-)+++कार्य-रूपस् ततो नैव  
 नित्य इत्य् अवधार्यताम् ।  
@@ -3180,7 +3180,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 लीलाविभूतावीशानः कालमालम्ब्य कार्यकृत् ॥ ५.४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष नित्य-विभूतौ तु  
 न कालम् +++(तत्र वर्तमानम् अप्य्)+++ अवलम्बते ।  
@@ -3205,7 +3205,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 क्रीडापरिकरः सोऽयं कालस्तु परमात्मनः ॥ ५.५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्य-नैमित्तिक--प्राकृत-लयाः कालहेतुकाः । +++(यतिभङ्गः)+++  
 एवं प्रकाशितं काल-स्वरूपस्य निरूपणम् ॥ ५.६॥
@@ -3243,7 +3243,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 
 # ०६ नित्य-विभूति-निरूपणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुद्ध-सत्त्वे धर्म-भूत-  
 ज्ञान--जीवेश्वरेषु च ।  
@@ -3304,7 +3304,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 अजडत्वं भवेल्लक्ष्म तत्पुनः स्वप्रकाशता ॥ ६.१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पराक्त्वे सत्य् अजडता  
 लक्ष्म प्रथमयोर् +++(शुद्ध-सत्त्व--धर्म-भूत-ज्ञानयोः)+++ मतम् ।  
@@ -3337,7 +3337,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 मनुगद्यते B. कथ्यते C.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्त्वैक-मूर्तिको देशः  
 **शुद्ध-सत्त्वम्** अचेतनम्।  
@@ -3361,7 +3361,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 परिच्छिन्नमघो देशेऽनन्तमूर्ध्वप्रदेशतः ॥ ६.३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयम्-प्रकाशरूपेयं  
 +++("पर"-शब्द-सहित-)+++पञ्चोपनिषद्+++(→अप्राकृत-पञ्च-भूत)+++-आत्मिका ।+++(5)+++  
@@ -3412,7 +3412,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 विष्णोर्नित्यविभूतिः स्यान्नित्यमानन्दरूपिणी ॥ ६.४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेयं विभूतिर् ईशस्य  
 नित्य-मुक्तात्मनाम् अपि ।  
@@ -3436,7 +3436,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 भोग्यभोगोपकरणभोगस्थानमयी मता ॥ ६.५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **भोग्यम्** ईश्वर-देहादि  
 द्वितीयं+++(→ भोगोपकरणम्)+++ चन्दनादिकम् ।  
@@ -3468,7 +3468,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 भोगस्थानं तु माणिक्यगोपुरादिकमुच्यते ॥ ६.६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 देहा ईश्वर-नित्यानां  
 नित्येच्छा-कल्पिता हरेः ।  
@@ -3496,7 +3496,7 @@ But those of Muktas are brought about by His (Lord's) Saṁkalpa (Will).
 मुक्तानां तु शरीरादिस्तत्सङ्कल्पकृतो मतः ॥ ६.७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीपतेर् व्यूह-विभवार्चावतारतया सतः ।  
 अ-प्राकृत-शरीराणि प्रतिष्ठानन्तरं हरेः …॥ ६.८॥
@@ -3540,7 +3540,7 @@ But those of Muktas are brought about by His (Lord's) Saṁkalpa (Will).
 
 [[६४]] 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसादोन्मुखतापत्तौ  
 **प्रकटानि भवन्ति** हि ।  
@@ -3582,7 +3582,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 तच्च प्रकटनं तस्य सङ्कल्पाधीनमीर्यते ॥ ६.९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकृताप्राकृत-तनु-  
 संसर्गः कथम् इत्य् +++(चेत्)+++ - अलम् ।  
@@ -3608,7 +3608,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 रामकृष्णावतारादौ दृष्टत्वात्तस्य भूयसा ॥ ६.१०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 औज्ज्वल्यादिगुणा ये स्युर्  
 दिव्य-मङ्गल-विग्रहे ।  
@@ -3641,7 +3641,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 [[६६]] 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्तानाम् अशरीरत्व-  
 वचनं यत्तु दृश्यते ।  
@@ -3665,7 +3665,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 तत्कर्मकृतशारीरसम्बन्धाभावगोचरम् ॥ ६.१२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरूपयन्ति श्रीनाथ-  
 दिव्य-मङ्गल-विग्रहम् ।  
@@ -3728,7 +3728,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 1 अस्मदाद्यवेदान्तदेशिकाः A.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिपाद्-विभूति--वैकुण्ठ-  
 पर-व्योमादि-शब्दिता ।  
@@ -3757,7 +3757,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 [[६८]] 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वादशावरणोपेतम्  
 अनेक-शत-गोपुरम् ।  
@@ -3784,7 +3784,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 वैकुण्ठं नाम नगरमेतस्यां प्रविजृम्भते ॥ ६.१५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनन्दनामकस् तत्र  
 सुदिव्यनिलयः स्फुटः ।  
@@ -3812,7 +3812,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 तत्र रत्नमयस्तम्भसहस्रा भासते सभा ॥ ६.१६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनन्तस् तत्र च फणा- 
 मणि-तेजो-विराजितः ।  
@@ -3847,7 +3847,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 तस्मिन् धर्मादिसहितसिंहासनमुपस्थितम् ॥ ६.१७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र चामरवद्-धस्तैर्  
 विमलादिभिर् अर्चितम् ।  
@@ -3883,7 +3883,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 ७० 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रानन्दमयः साक्षात्  
 सर्व-वाचाम् अगोचरः ।  
@@ -3916,7 +3916,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 # ०७ धर्मभूतज्ञान-निरूपणादि
 
 ## ज्ञानम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मो भवति यज् ज्ञानं  
  प्रभा दीपे +++(तेजस् तेजसि)+++ यथात्मनोः +++(धर्मी-भूत-ज्ञानयोः जीवेश्वरयोः)+++।  
@@ -4035,7 +4035,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 ' धर्मीभवति - A. B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धेषु तत् तिरोभूतं  
 मुक्तेषु प्राक्-तिरोहितम् ।  
@@ -4068,7 +4068,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 सङ्कोचनविकासाभ्यां नाशोत्पत्तिविपाकभाक् ॥ ७.२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्कोच +++(शरीर-प्राप्त्या)+++ इन्द्रिय-द्वारा +++(विषयम् प्रति निर्गत्य)+++  
 ज्ञानं सङ्कोच्यते यदि ।  
@@ -4104,7 +4104,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 10 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स्व-निरूपित-विषयताकम्, स्व-गोचर-ज्ञानान्तरानपेक्षं इति)+++  
 +++(ज्ञानं)+++ स्व-प्रकाशं, स्वतो-मानम् +++(परतो ऽप्रामाण्यम्)+++  
@@ -4203,7 +4203,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 स्वान्यनिर्वाहकत्वेन दीपवत्स्वप्रकाशता ॥ ७.४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमो-विशेष-सान्निध्याज्  
 ज्ञानं स्वापे तिरोहितम् ।  
@@ -4257,7 +4257,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 द्रव्यत्वमस्य ज्ञानस्य प्रभावद्गुणतापि च ॥ ७.५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 धी+++(=ज्ञान)+++-भेदाः सुख-दुःखेच्छा-  
 द्वेष-यत्ना, न ते पृथक् ।  
@@ -4290,7 +4290,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 द्वेष्मीच्छामीति वादस्तु स्मरामीत्यादिवन्मतः ॥ ७.६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मृत्यादयो ज्ञान-भेदा  
 अनन्ता **जीव-वृत्तयः+++(→गुणाः/धर्माः)+++** ।  
@@ -4324,7 +4324,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 ज्ञानशक्त्योर्विततयोऽनन्ताश्च भगवद्गुणाः ॥ ७.७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 गद्य-त्रये महाचार्यैर्  
 अयम् अर्थ उदीरितः ।  
@@ -4359,7 +4359,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 </details>
 
 ## भक्ति-प्रपत्ती
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्ति-प्रपत्ति-सुप्रीत  
 ईश्वरो मुक्ति-दायकः ।  
@@ -4404,7 +4404,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 1 भक्ति. C
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्म-योग--ज्ञान-योगौ  
 भक्तौ साधनम् ऊचिरे ।  
@@ -4455,7 +4455,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 फलाभिसन्धिरहितं कर्माराधनमीशितुः ॥ ७.१०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनिर्मलान्तःकरणे +++(स्वात्मनि)+++  
 चिन्तनं **ज्ञान-योगकः** ।  
@@ -4507,7 +4507,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 साक्षादितरथा वापि भक्तौ कारणतानयोः ॥ ७.११॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **भक्तियोगो** ऽयम् अष्टाङ्गो  
 ऽविच्छिन्ना स्मृतिसन्ततिः ।  
@@ -4543,7 +4543,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 विवेकादिभिरुत्पाद्या दर्शनाकारतां गता ॥ ७.१२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्-तच्-छरीरावसान-  
 समये परिणामिनी ।  
@@ -4605,7 +4605,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 सेयं साधनभक्तिः स्यात्प्रपत्त्यङ्गवती मता ॥ ७.१३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रपत्ति-योग-रूपा)+++ **फल-भक्तिस्** तु भगवद्-  
 अनुग्रह-कृता भवेत् ।  
@@ -4661,7 +4661,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 ८२ 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तर्-आदित्य-विद्यादि-  
 भेदात् सा +++(साधन-भक्तिः, न साध्य-भक्तिः)+++ बहुधा मता ।  
@@ -4695,7 +4695,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 सर्वापि ब्रह्मविद्येयं ब्रह्मप्राप्त्युपयोगिनी ॥ ७.१५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यासविद्या **प्रपत्तिः** स्याद्  
 अङ्गपञ्चक-योगिनी ।  
@@ -4709,7 +4709,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 आनुकूल्यस्य सङ्कल्पः प्रातिकूल्यस्य वर्जनम् ॥ ७.१६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षिष्यतीति विश्वासो,  
 गोप्तृत्व-वरणं तथा ।  
@@ -4795,7 +4795,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 आत्मनिक्षेपकार्पण्ये अङ्गपञ्चकमीरितम् ॥ ७.१७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरूपसदनाद् एषा विज्ञातव्या मनीषिभिः ।  
 इयम् उत्तर-पूर्वाघाश्लेष-नाशकृद् उच्यते ॥ ७.१८॥
@@ -4829,7 +4829,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 इयमुत्तरपूर्वाघाश्लेषनाशकृदुच्यते ॥ ७.१८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपचारान् विना ब्रह्म-  
 विदां नास्या विरोधकृत् ।  
@@ -4862,7 +4862,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 # ०८ जीव-निरूपणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अणुत्वे सति चैतन्यं  
 **जीव**-लक्षणम् उच्यते ।  
@@ -4909,7 +4909,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 स च देहेन्द्रियादिभ्यो विलक्षणतया मतः ॥ ८.१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवस्यानेक-**विषयानु-  
 भवो** ऽणोर् अपि स्मृतः ।  
@@ -4957,7 +4957,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 1 स्फुटः B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वानुभूत-विषय--  
 प्रति-सन्धान-योगतः ।  
@@ -4993,7 +4993,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 शब्दतः B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(जीवः)+++ प्रकृत्य्+++(→प्राकृत-देह)+++-अपेक्षया देही,  
 +++(तन्नियाम्यत्व--तद्-आधारत्वादिभिः)+++ देहः श्रीमद्+++(-वुष्ण्व्)+++-अपेक्षया ।  
@@ -5064,7 +5064,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 चोदितम् B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(नैक-शरीरक-सौबरि-वत्)+++ देशान्तर-फलादीनाम्  
 उपलब्धिर् अणोर् अपि ।  
@@ -5111,7 +5111,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 1 कर्मजन्याददृष्टाख्य A. D.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धो मुक्तो नित्य इति  
 **जीवः** स त्रिविधो मतः ।  
@@ -5139,7 +5139,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 2 कीटपर्यन्ता A. D.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रैवर्गिकार्थ-निष्णाता  
 **बुभुक्षव** उदाहृताः ।  
@@ -5166,7 +5166,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 बुभुत्सवः A. D.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु **धर्म-परास्** तत्र  
 यागाद्य्-अर्थानुषङ्गिणः ।  
@@ -5201,7 +5201,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 अभिमानकाः B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्राद्याराधन-परा  
 **अन्य-देव-परा** मताः ।  
@@ -5242,7 +5242,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 आर्तो जिज्ञासुरर्थार्थीत्येवं भागवताः स्मृताः ॥ ८.९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षूणां च **कैवल्य-  
 पराणां** लक्ष्म कथ्यते ।  
@@ -5270,7 +5270,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 प्रकृतेस्तु वियुक्तस्य स्वात्मनोऽनुभवः परम् ॥ ८.१०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैवल्यम् अर्चिर्-मार्गेण  
 गत्वापि परमं पदम् ।  
@@ -5303,7 +5303,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 रमणत्यक्तपत्नीवत् क्वचित्कोणेऽवतिष्ठते ॥ ८.११॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैवल्यम् एतत् केषाञ्चिद्  
 आर्याणाम् एव +++(मोक्षत्वेन)+++ सम्मतम् ।  
@@ -5352,7 +5352,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 स्फुटम् C. D.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **भक्ताः** पूर्वोक्त-भक्त्यैव  
 मुक्ति-सम्प्राप्त्य्-अपेक्षिणः ।  
@@ -5382,7 +5382,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 1 शक्ताः B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 साध्य-साधन-भक्तिभ्यां  
 **भक्ताः** स्युर् द्वि-विधा मताः ।  
@@ -5413,7 +5413,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 पराङ्कुशादिकानाद्यान् व्यासादीनपरान् विदुः ॥ ८.१४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षवः **प्रपन्नाश्** चाकिञ्चन्यादिक-योगिनः ।  
 त्रैवर्गिक-परा, मोक्ष-पराश् चेति च ते +++(→ प्रपन्ना)+++ द्विधा ॥ ८.१५॥
@@ -5440,7 +5440,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 त्रैवर्गिकपरा मोक्षपराश्चेति च ते द्विधा ॥ ८.१५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मार्थ-कामान् स्वाम्य्-अर्थे +++(→प्रार्थनार्थत्वेन)+++  
 येऽन्वतिष्ठंस् त आदिमाः +++(त्रिवर्गपराः)+++ ।  
@@ -5487,7 +5487,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 सत्सङ्गादर्थवैराग्ये मुमुक्षायां कृतादराः ॥ ८.१६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवद्-भोग-सम्प्राप्त्यै  
 महाचार्ये समाश्रिताः ।  
@@ -5521,7 +5521,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 ! भगवद्बोध B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **सर्वाधिकारितां** धीराः  
 प्रपत्तेर् **आचचक्षिरे** ।  
@@ -5562,7 +5562,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 " सर्वाधिकारतां B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **परमैकान्तिनस्** त्व् ऐच्छन्  
 भगवत्-प्रीतिम् एव ये ।  
@@ -5578,7 +5578,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 1 भगवद्भक्तिमेव D.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **दृप्त, आर्तस्** तु संसारे  
 वह्नाव् इव समुत्तपन् ।  
@@ -5613,7 +5613,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्सङ्गाद् इति सुश्लोक-द्वयोक्त-गतिमान् नरः ।+++(←यति-भङ्गः)+++  
 आविर्-भूत--स्व-स्व-रूपो मुक्तो ब्रह्मानुभूति-भाक् ॥ ८.२१॥
@@ -5668,7 +5668,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 2  मान् B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्तस्य भोगमात्रे तु  
 साम्यं श्रुतिषु चोदितम् ।  
@@ -5697,7 +5697,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 स्वेच्छया सर्वलोकेषु सञ्चारोऽस्य न रुध्यते ॥ ८.२२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वेच्छा च हरिसङ्कल्पायत्ता मुक्तस्य लभ्यते ।  
 अनावर्तन-शास्त्रं तु कर्मावर्त-निषेध-कृत् ॥ ८.२३॥
@@ -5732,7 +5732,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यासङ्कुचित-ज्ञाना  
 नित्यं भगवद्-आज्ञया ।  
@@ -5762,7 +5762,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 कराः B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेषाम् अवतारादिर् इच्छयैव हरेर् इव ।  
 आधिकारिकता ऽमीषाम् ईश्वरेण निरूपिता ॥ ८.२५॥
@@ -5800,7 +5800,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 # ०९ ईश्वर-निरूपणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वेतराखिल-शेषित्वम्  
 ईश्वरस्य तु **लक्षणम्** ।  
@@ -5873,7 +5873,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्कल्प-युक्त एवैष  
 **निमित्तं कारणं** मतम् ।  
@@ -5908,7 +5908,7 @@ by His nature of being immanent in time etc.
 ' संकल्पयुक् स एवैष A. B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्य-रूपेण वैविध्य-  
 योग्य् **उपादानम्** उच्यते ।  
@@ -5935,7 +5935,7 @@ by His nature of being immanent in time etc.
 परिणामयितृत्वेन निमित्तमपि तन्मतम् ॥ ९.३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्योत्पत्त्य्-उपकारेण  
 **सहकारि** च तद् भवेत् ।  
@@ -5950,7 +5950,7 @@ by His nature of being immanent in time etc.
 एकविज्ञानसहितसर्वविज्ञानवादतः ॥ ९.४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **उपादानत्वम्** एवोक्तं  
 मृदादाव् इव चेश्वरे ।  
@@ -5986,7 +5986,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 तदैक्षतेति सङ्कल्पान्निमित्तत्वं कुलालवत् ॥ ९.५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहकारित्वम् अप्य् अस्यान्तर्यामि-ब्राह्मणोदितम् +++(←“ यः पृथिवीम् अन्तरो यमयति ")+++।  
 सद्-ब्रह्मात्मादयः शब्दाः कारणत्वावबोधिनः …॥ ९.६॥
@@ -6014,7 +6014,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 सद्ब्रह्मात्मादयः शब्दाः कारणत्वावबोधिनः ॥ ९.६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … तत्र च्छाग-पशु-न्यायान्  
 +++(सामान्यवचनस्य विशेषे पर्यवसानं यतः)+++  
@@ -6029,7 +6029,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 नामरूपविभागानर्हत्वावस्थासमन्वितम् ॥ ९.७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुसूक्ष्म-चिद्-अचिद्-युक्तम्  
 एकं ब्रह्मात्मकं मतम् +++(वक्ष्यमाण-काले)+++।  
@@ -6100,7 +6100,7 @@ The Brahman has been held to be only one because He was qualified by the sentien
 नामरूपविभागात्प्राङ् न हि भेदोऽवसीयते ॥ ९.८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृद्-घटादाव् अपि ततस्  
 "तद् एकम् +++(पूर्वाह्णय् आसीद्)+++" इति गीयते ।  
@@ -6132,7 +6132,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 नामरूपाद्यभावेन सच्छब्देनापि गीयते ॥ ९.९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् +++(→सद्)+++ एवान्तः-प्रवेशेन  
 नाम-रूप-विभाग-कृत् ।  
@@ -6174,7 +6174,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 यथा जीवोऽन्तराविष्टो नामरूपविभागभाक् ॥ ९.१०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … "देवोऽहम्" इति शब्दैश् च  
 मुख्य-वृत्त्याभिधीयते ।  
@@ -6201,7 +6201,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 यथा नीलादयः शब्दा नीलाद्यव्यभिचारिणम् ॥ ९.११॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … विशिष्टम् एव मुख्यार्थं  
 वदन्ति निरुपाधिकम् ।  
@@ -6220,7 +6220,7 @@ and just as the words like 'blue' [[११०]] etc. denote by their very nature
 तथैव भगवानन्तर्यामी सन्नामरूपयोः ॥ ९.१२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … विभाग-कृत्, स तैः शब्दैर्  
 मुख्य-वृत्त्या ऽभिधीयते ।  
@@ -6252,7 +6252,7 @@ Some philosophers opine that these words denote their objects only in the second
 अमुख्यार्थत्वमेतेषां परैरुक्तं न युक्तिमत् ॥ ९.१३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरीराद्य्-अपृथग्-भावाच्  
 छब्दा +++(विशेषण-विशेष्यादि-)+++निष्कर्षकेतरे ।  
@@ -6291,7 +6291,7 @@ Some philosophers opine that these words denote their objects only in the second
 विशिष्टमेव श्रीमन्तमभिधास्यन्ति युक्तितः ॥ ९.१४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सर्वं ब्रह्मे"त्य् "ऐतद्-आत्म्यम्"  
 इत्य्-आदि-व्यपदिष्टयः ।  
@@ -6321,7 +6321,7 @@ Some philosophers opine that these words denote their objects only in the second
 1 तत्त्वतः C.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वरूप-भिदया भेद-  
 श्रुतयो ऽस्मन्-मते स्थिताः ।  
@@ -6349,7 +6349,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 [[११२]]
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारणात् सूक्ष्म-चिद्-अचिद्-  
 युक्तात् +++(ब्रह्मणः)+++ स्थूलैतद्+++(→चिद्-अचिद्)+++ +++(जगत्)+++ आहितम् ।  
@@ -6398,7 +6398,7 @@ Some philosophers opine that these words denote their objects only in the second
 कार्यं नान्यदिति व्यक्तमारम्भणनयादिषु ॥ ९.१७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्गुणत्व-पराः काश्चिच्  
 छ्रुतयः सन्ति ता इमाः ।  
@@ -6446,7 +6446,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 # १० अद्रव्य-निरूपणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रव्यम् एवं निरूप्याथ  
 तद् अद्रव्यं निरूप्यते ।  
@@ -6473,7 +6473,7 @@ Some philosophers opine that these words denote their objects only in the second
 शुद्धसत्त्वं मिश्रसत्त्वमिति सत्त्वं द्विधा मतम् ॥ १०.१॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजस्तमोभ्याम् अस्पृष्टम्  
 अद्रव्यं **पूर्वम्**+++(→शुद्धम्)+++ उच्यते ।  
@@ -6507,7 +6507,7 @@ Some philosophers opine that these words denote their objects only in the second
 रजस्तमोविमिश्रं तु मिश्रसत्त्वं प्रकीर्तितम् ॥ १०.२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतीन्द्रियं प्रकाशादि-  
 निदानं **सत्त्व**-शब्दितम् ।  
@@ -6535,7 +6535,7 @@ Some philosophers opine that these words denote their objects only in the second
 रजो लोभप्रवृत्त्यादिनिदानं कीर्त्यते तमः ॥ १०.३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … प्रमाद-मोहादि-हेतुर्,  
 इत्थं त्रैगुण्य-रूपणम् ।  
@@ -6599,7 +6599,7 @@ Some philosophers opine that these words denote their objects only in the second
 1 त्रैगुण्यस्य -निरूपणम् B.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रोत्र-ग्राह्यो गुणः **शब्दो**  
 वर्णावर्णात्मना द्विधा ।  
@@ -6625,7 +6625,7 @@ Some philosophers opine that these words denote their objects only in the second
 तालुभेर्यादिजत्वेन भूतपञ्चकवर्त्यसौ ॥ १०.५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **स्पर्शस्** त्वग्-इन्द्रिय-ग्राह्यः  
 पृथिव्य्-आदि-चतुष्टये ।  
@@ -6653,7 +6653,7 @@ Some philosophers opine that these words denote their objects only in the second
 शीतोष्णादिप्रभेदस्तु शास्त्रान्तरनिरूपितः ॥ १०.६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 चक्षुरिन्द्रियनिर्ग्राह्यं  
 **रूपम्**, एतच् चतुर्विधम् …।  
@@ -6677,7 +6677,7 @@ Some philosophers opine that these words denote their objects only in the second
 श्वेतरक्ते पीतकृष्णे इति भेदाद् द्विधादिमम् ॥ १०.७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भास्वराभास्वरत्वाभ्यां  
 **भास्वरं** तेजसि स्थितम् ।  
@@ -6703,7 +6703,7 @@ Some philosophers opine that these words denote their objects only in the second
 पृथिवीजलयोश्चैतदभास्वरमुदाहृतम् ॥ १०.८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसनेन्द्रिय-निर्ग्राह्यो  
 **रसः** षोढा स कीर्तितः +++(मधुराम्ल-लवण-तिक्त-रूक्ष-कषाय-भेदात्)+++ ।  
@@ -6729,7 +6729,7 @@ Some philosophers opine that these words denote their objects only in the second
 घ्राणग्राह्यो गुणो गन्धो द्विधा शास्त्रान्तरेष्विव ॥ १०.९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्याम् एव **गन्धः** स्यात्  
 पृथिवी-जलयो **रसः** ।  
@@ -6753,7 +6753,7 @@ Some philosophers opine that these words denote their objects only in the second
 पृथिवीजलतेजःसु रूपं स्पर्शः सवायुषु ॥ १०.१०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **शब्दः** पञ्चसु भूतेषु  
 प्राधान्येनैवम् उच्यते ।  
@@ -6783,7 +6783,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 [[१२०]] 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 संयुक्त-प्रत्यये +++(संयुक्त-व्यवहारे च)+++ हेतुः  
 **संयोग** इति कथ्यते ।  
@@ -6818,7 +6818,7 @@ Some philosophers opine that these words denote their objects only in the second
 कार्याकार्यप्रभेदेन स संयोगो द्विधा मतः ॥ १०.१२॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(चन्द्रस्य)+++ मेष-हस्तादि-संयोगः  
 +++(कदाचिद् एव जायमानत्वात्)+++ कार्यो, ऽकार्यो विभोर् विभोः ।  
@@ -6860,7 +6860,7 @@ Some philosophers opine that these words denote their objects only in the second
 विभुद्वयस्य संयोगः श्रुत्या युक्त्या च मन्यते ॥ १०.१३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् कालस्येश्वरेण  
 संयोगोऽपि सुसम्मतः ।  
@@ -6888,7 +6888,7 @@ Some philosophers opine that these words denote their objects only in the second
 संयोगाभावरूपो हि विभागो न गुणान्तरम् ॥ १०.१४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-हेतुषु हेतुत्व-  
 निर्वोढ्री **शक्तिर्** इष्यते ।  
@@ -6950,7 +6950,7 @@ Some philosophers opine that these words denote their objects only in the second
 मणिमन्त्रादिकेष्वेषा प्रसिद्धा सा त्वतीन्द्रिया ॥ १०.१५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **बुद्ध्यादयो**+++(=बुद्धि-सुख-दुःखेच्छा-द्वेष-प्रयत्न-धर्माधर्माख्याः)+++ ऽष्टौ +++([जीवेश्वरयोः] धर्म-भूत-)+++**विज्ञाने**  
 **भावना**+++(=परिचितार्थे बुद्धि-प्रसरः)+++ चान्तर् **आविशन्** ।  
@@ -7001,7 +7001,7 @@ Some philosophers opine that these words denote their objects only in the second
 द्रवत्वस्नेहसङ्ख्यानपरिमाणानि वेगकः ॥ १०.१६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 … द्रव्य-स्वरूप-रूपत्वान् +++(तत्रैव परिगणनीयत्वान्)+++  
 नाधिक्यं यान्ति केवलम् ।  
@@ -7030,7 +7030,7 @@ Fluidity, vicidity, number, size and speed are nothing but the nature of the rel
 स्थितस्थापकमेतस्मिन् संयोगेऽन्तर्भवत्यतः ॥ १०.१७॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 संयोगाभाव-रूपत्वात्  
 पृथक्त्वस्य विभागवत् +++(न पुनः परिगणनीयता)+++ ।  
@@ -7063,7 +7063,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 गुरुत्वस्यापि शक्तित्वान्नाधिक्यं क्वापि विद्यते ॥ १०.१८॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मणाम्+++(=संयोग-विभाग-जनकानां)+++ अपि शक्तित्वं  
 केचिद् आहुर् मनीषिणः ।  
@@ -7121,7 +7121,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 पदार्थान्तरतामन्ये प्राहुर्वेदान्तवेदिनः ॥ १०.१९॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राचीन-ग्रन्थ-पदवीम्  
 अनुसृत्य यथा-मति ।  
@@ -7146,7 +7146,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 विशिष्टाद्वैतसिद्धान्तफक्किकेत्थं निदर्शिता ॥ १०.२०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अण्णयार्याध्वरीन्द्रस्य  
 तार्तीयीक-तनू-भुवा ।  
@@ -7174,7 +7174,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 
 [[१२५]] 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरमायि रमायत्त-  
 परमाद्भुत-तेजसः ।  
@@ -7223,7 +7223,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 
 [[१२६]] 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्ति-प्रपत्त्योर् अधिदेवताभ्याम्  
 इवाब्ज-नाभस्य पदाम्बु-जाभ्याम् ।  
@@ -7254,7 +7254,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 तदङ्गुलीसङ्ख्यनिरूपणाढ्याम् ॥ १०.२३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः श्रीमच्--छठ-मर्षणान्वय-पयः-सिन्धोः सुधांशुर् महान्  
 अण्णार्यः समभूद् विभूषित-+++(न्याय-व्याकरण-मीमांसा-शारीरकाख्य-)+++चतुस्-तन्त्रो वचः-कान्तिभिः ।  

@@ -549,7 +549,7 @@ Source: [TW](https://archive.org/details/in.ernet.dli.2015.495933/page/n74/mode/
 अचेतना चेयम् ।  
 स्वयम्-प्रकाशत्वात् ज्ञानात्मिका । +++(5)+++
 
-<details open=\"\"><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details open=><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 तेन शैवोक्त-बुद्धि-तत्त्ववद् भाति!
 

@@ -1,5 +1,6 @@
 +++
 title = "आगम-प्रामाण्यम्"
+author = "यामुनः"
 
 +++
 
@@ -16,7 +17,7 @@ title = "आगम-प्रामाण्यम्"
 
 # ०० मङ्गलादि
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 जगज्-जन्म-स्थिति-ध्वंस-  
 महानन्दैक-**हेतवे** ।  
@@ -41,7 +42,7 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 करामलकवद्विश्वं पश्यते विष्ण्वे नमः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 येऽमी केचन मत्सरात् स-वयसो दुर्-मान-सारा नरा  
 गम्भीरां गुणशालिनीम् अपि गिरं **निन्दन्ति, निन्दन्तु** ते ।  
@@ -62,7 +63,7 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 सन्तस्सन्त्यनसूयवोऽपि बहवः शंसन्ति ये मद्गिरम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिनिवेश-वशी-कृत-चेतसां  
 बहु-विदाम् अपि **सम्भवति भ्रमः** ।  
@@ -85,7 +86,7 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 
 ## ०१ प्रामाण्यम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह केचिद्  
 यतस्-ततो-ऽवगत--कतिपय-कुतर्क-कल्क-विस्फूर्जित-विजित-मनसस्  
@@ -109,7 +110,7 @@ In the purva paksa the principal opponents introduced are what one may already c
 परमपुरुषविरचितनिरतिशयनिश्रेयसगोचरपञ्चरात्रतन्त्रप्रामाण्ये **विप्रतिपद्यन्ते** ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वदन्ति च ।
 </details>
@@ -125,7 +126,7 @@ And they contend:
 </details>
 
 ### सापेक्षता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वेधा खलु प्रमाणत्वं  
 वचसाम् अवसीयते ।  
@@ -151,7 +152,7 @@ shabda, and its synonyms, have been translated variously as Verbal Testimony, Ve
 
 #### पौरुषेयता
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रापि ।
 </details>
@@ -166,7 +167,7 @@ These two kinds are thus distinguished:
 तत्रापि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तावत् पुरुषाधीन-  
 रचनं वचनं क्वचित् ।  
@@ -186,7 +187,7 @@ for a verbal assertion to be authoritative, it must by definition be independent
 आसीदति प्रमाणत्वमनपेक्षत्वलक्षणम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौरुषेयं हि वचः प्रमाणान्तर-प्रतिपन्न-वस्तूपस्थापनायोपादीयमानं  
 वक्तुस् तद्-अर्थ-सिद्धिम् अनुरुध्यमानम् एव प्रमाण-भावम् अनुभवति ।  
@@ -214,7 +215,7 @@ prāmāna has generally been rendered with "means of knowledge," sometimes with 
 ## ०२ प्रत्यक्षादिभिर् आगमोक्तार्थासिद्धिः
 
 ### साधारण-प्रत्यक्षम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च पञ्चरात्र-तन्त्र-प्रतिपाद्यमान-विलक्षण-दीक्षा-पूर्वक-  
 भगवद्-आराधनाभिलषित-  
@@ -236,7 +237,7 @@ for this relation of means and ends is not of the order of Perception.
 न च पञ्चरात्रतन्त्रप्रतिपाद्यमानविलक्षणदीक्षापूर्वकभगवदाराधनाभिलषितस्वर्गापवर्गादिसाध्यसाधनसंबन्धं प्रत्यक्षादीन्यावेदयितुं क्षमन्ते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि प्रत्यक्षेण दीक्षाऽऽराधनादीनि निरीक्षमाणास्  
 तेषां निश्रेयस-साधनतां प्रतिपद्यामहे ।
@@ -255,7 +256,7 @@ we cannot say that they are means to realize the summum bonum.
 </details>
 
 ### नार्वाचीन-गोचरम् फलादि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चार्वाचीनाः केचिद् अतिमानुष-शक्तयो  
 ऽमीषम् +++(दीक्षादीनाम्)+++ अभिलषित-साधनताम् अध्यक्षितवन्त  
@@ -279,7 +280,7 @@ cannot surpass the boundaries of sensitiveness as we know it commonly.
 </details>
   
 ### भगवत्-साक्षिकत्वम्?
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च -  
 >
@@ -307,7 +308,7 @@ if the percipient is perfect.
 अतस्तदाश्रये क्वापि ध्रुवं परिनितिष्ठति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > सर्वं हि सातिशयं निरतिशय-दशाम् अनुभवद् दृष्टं  
 वियतीव परिमाणं,+++(4)+++  
@@ -332,7 +333,7 @@ so that Perception might conceivably become infinite in some being.
 सर्वं हि सातिशयं निरतिशयदशामनुभवद् दृष्टं वियतीव परिमाणं, सातिशयं च काकोलूकगृध्रादिषु प्रत्यक्षमीक्षितमिति तदपि तथा भवितुमर्हति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इयं च ज्ञानस्य परा काष्ठा  
 या सर्वगोचरता।  
@@ -357,7 +358,7 @@ jagati or toke??: "in the world of experience, in common experience."
 इयं च ज्ञानस्य परा काष्ठा या सर्वगोचरता, अधिकविषयतयैव हि जगति ज्ञानानि परस्परमतिशेरते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इत्थम् ऐश्वर्य-वैराग्य-  
 सामर्थ्यादि-गुणा अपि ।  
@@ -378,7 +379,7 @@ in an infinite and unequalled condition.
 निरस्तातिशयाः पुंसि क्वचित्सन्तीति सूरयः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अतो यस्यैतद् अ-खिल-भुवनावलम्बि--भाव-भेद--साक्षात्-कारि-प्रत्यक्षं  
 स तत्-समीक्षित-दीक्षाऽऽराधनादि-धर्म-भावो भगवान्  
@@ -402,7 +403,7 @@ So what remains unproved? (is improper).
 </details>
 
 #### भगवन्-निरतिशय-प्रत्यक्षत्व-तिरस्कारः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन् न प्रत्यक्ष-विज्ञान-  
 प्रकर्षः कल्पितोऽपि वः ।  
@@ -425,7 +426,7 @@ Perceptual knowledge can never go beyond its own sphere and trespass on another.
 स्वगोचरमतिक्रम्य नान्यदास्कन्दितुं क्षमः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि -  
 
@@ -453,7 +454,7 @@ as between colour and coloured, obtain in one object.
 प्रकर्षो भवितुं युक्तो दृश्यमानप्रकर्षवत् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम्,  
 
@@ -482,7 +483,7 @@ i.e. also things known only through other means of ... knowledge?
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु तत् +++(इन्द्रियम्)+++ कॢप्त-सामर्थ्यं विद्यमानोपलम्भने ।
 </details>
@@ -500,7 +501,7 @@ is directed toward the perceiving of what exists at present.
 </details>
 
 ##### सातिशयस्य निरतिशयाप्राप्तिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अ-सति हि स्व-भावानुबन्धिनि विद्यमानोपलम्भनत्वे  
 +++(प्रत्यक्षस्य)+++ प्रत्यक्षतैव परावर्तते।   
@@ -530,7 +531,7 @@ because it is limited to being Perception!
 असति हि स्वभावानुबन्धिनि विद्यमानोपलम्भनत्वे प्रत्यक्षतैव परावर्तते, न ह्यजातमतिवृत्तं वाऽगमयदनुमानादि प्रत्यक्षपक्षनिक्षेपं, तेन अशेषविषयितालक्षणप्रत्यक्षप्रकर्षः स्वभावनियमनिर्मूलितोदय इति न हृदयमधिरोहति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदम् अपि सातिशयेन निरतिशयम् अनुमिमानः  
 पृष्टो व्याचष्टां -  
@@ -566,7 +567,7 @@ something limited (the boy) is really unlimited (mature adult).
 इदमपि सातिशयेन निरतिशयमनुमिमानः पृष्टो व्याचष्टां सातिशय एव किन्नु तां दशामनुभवति यतः परं न संभवति महिमेत्यभिनिविशसे बाल इव स्थविरभावम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथैकस्मिन् सातिशये  
 केनाप्य् अन्येन निरतिशयेन भवितव्यम् इति  
@@ -585,7 +586,7 @@ or the finite gradually becomes infinite.
 अथैकस्मिन् सातिशये केनाप्यन्येन निरतिशयेन भवितव्यमिति आहोस्वित्समानजातीयेनान्येन निरतिशयदशामधिरूढेन भवितव्यमिति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** तावद् अग्रिमः कल्पः  
 **कल्पते** ऽनुपलम्भतः ।  
@@ -608,7 +609,7 @@ which had the same expansion as space.
 न हि दृष्टं शरावादि व्योमेव प्राप्तवैभवम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि च तद् +++(परिमित-वस्तु)+++ एव सातिशयम् असंभावनीय-पर-प्रकर्षं परिनितिष्ठेत्,  
 हन्तः! तर्ह्य् एकैकेन घट-मणिकादिना ब्रह्माण्डोदर-विवरम् आपूरितम्  
@@ -629,7 +630,7 @@ so that all other things would be pushed out and perish accordingly!
 यदि च तदेव सातिशयमसंभावनीयपरप्रकर्षं परिनितिष्ठेत्, हन्तः? तर्ह्येकैकेन घटमणिकादिना ब्रह्माण्डोदरविवरमापूरितमिति तत्प्रतिहततयेतरभावभङ्गप्रसङ्गः
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्योम्नैव लब्ध-साध्यत्त्वान्  
 मध्यमः सिद्ध-साधनः ।  
@@ -660,7 +661,7 @@ and cannot illustrate the thesis that something finite can be infinite.
 कल्पान्तरेऽपि दुर्वारं प्रागुदीरितदूषणम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभु-स्तम्भान्त-व्याप्त-  
 स्तम्भस् सातिशयो **न** हि ।  
@@ -689,7 +690,7 @@ vibhu in the sense of "omnipresent, infinite."
 </details>
 
 ##### व्योम-निदर्शनं नोचितम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अपि वियति परिमाणम् इह निदर्शितं  
 तद् अपि विमर्शनीयम् एव -  
@@ -710,7 +711,7 @@ something that can be entirely circumscribed.
 यदपि वियति परिमाणमिह निदर्शितं तदपि विमर्शनीयमेव परिमाणं हि नाम देशावच्छेदः इयत्ता परितोभाववेष्टनमिति यावत् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च नभसि तद् अस्तीति  
 कथम् इव तद् इह निदर्शनतया निर्दिश्यते ।
@@ -727,7 +728,7 @@ so how can you adduce it as an example?
 न च नभसि तदस्तीति कथमिव तदिह निदर्शनतया निर्दिश्यते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि च नभसि तद् अनुमन्वीत  
 तद् अपि तर्हि सम्भाव्यमान-पर-प्रकर्षम्  
@@ -747,7 +748,7 @@ And so the illustration again falls short of the thesis.
 </details>
   
 ##### अतिशायित-प्रत्यक्षेनापि न
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च 
 
@@ -770,7 +771,7 @@ that a superior perception reveals that Consecration, worship etc. are actually 
 
 ## ०३ नानुमानम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद्  
 अस्मद्-आदिष्व् अनालोचित-पर-चेतनातिरेक-परिकल्पना ऽल्पीयसीति,  
@@ -808,7 +809,7 @@ Relation of means to ends - namely, the Pañcaratra postulation that such tantri
 तस्मादस्मदादिषु अनालोचितपरचेतनातिरेकपरिकल्पनाऽल्पीयसीति नाभिप्रेतसाध्यसाधनसम्बन्धे प्रत्यक्षं प्रमाणं, नतरां तन्मूलतया पञ्चरात्रस्मृतिः प्रमाणम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च करण-पथ-दूर-वर्तिनि प्रस्तुत-वस्तुन्य्  
 +++(धूम-वह्नयोर् इव)+++ अविनाभावाधारणाधीनोदयम् अनुमानम् उत्पत्तुम् अलम् -   
@@ -842,7 +843,7 @@ as in the case of the kitchen.
 ## ०४ न शब्दः
 
 ### वेदादौ न विधिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चागमस् सात्त्वत-समय-सिद्ध-क्रिया-कलाप-कर्तव्यतोपस्थापन-परः परिदृश्यते,  
 येन तन्-मूलतया पञ्च-रात्र-स्मृताः प्रमाणं स्युः।
@@ -868,7 +869,7 @@ synonymous.
 न चागमस् सात्त्वतसमयसिद्धक्रियाकलापकर्तव्यतोपस्थापनपरः परिदृश्यते, येन तन्मूलतया पञ्चरात्रस्मृताः प्रमाणं स्युः।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चादृश्यमानो +++(विधिर्)+++ ऽप्य् +++(निगमतः)+++ अनुमान-गोचरः,  
 यथैव हि तन्त्र-प्रसिद्ध-दीक्षाऽऽराधन--तत्-फलाभिमत-स्वर्गादि-साध्य-साधन-भावो नानुमान-गोचरः - सम्बन्धावधारण-विरहात्।  
@@ -889,7 +890,7 @@ because no such relation can be (determined) ~~verified by Perception~~,
 </details>
 
 ### न मूलागमानुमानम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तन्-मूलागमोऽपि तत एव नानुमातुं शक्यः ।  
 </details>
@@ -905,7 +906,7 @@ can be inferred from Scripture.
 एवं तन्-मूलागमोऽपि तत एव नानुमातुं शक्यः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चागमेनापि प्रस्तुत-स्मरण-मूल-भूतागमावगमः सम्भवति।  
 स हि द्वेधा पौरुषेयापौरुषेय-भेदात् ।
@@ -939,7 +940,7 @@ and the purvapaksin does not admit the existence of an eternal personal deity.
 </details>
 
 #### पौरुषेय-शब्दतो न
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** तावत् पौरुषेयेण  
 वचसा तस्य **सम्भवाः** ।  
@@ -959,7 +960,7 @@ for persons may lie in order to deceive their hearers.
 विप्रलब्धुमपि ब्रूयुर्मृषैव पुरुषाः यतः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यत्वेऽपि हि **दृश्यन्ते** 
 केचिद् आगमिकच्-छलात् ।  
@@ -981,7 +982,7 @@ and yet expound an interpretation which is wholly unscriptural.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् इह 
 
@@ -1009,7 +1010,7 @@ who write as their fancy takes them!
 </details>
 
 #### न श्रुति-सिद्धः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावता च प्रमाणत्वं  
 **व्याहन्येत** समीहितम् ।  
@@ -1031,7 +1032,7 @@ for there is no eternal Scripture to support the claim.
 
 ##### नोपमानात्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चोपमानात् तन्-मूल-  
 श्रुति-सिद्धिर् - अ-सम्भवात् ।  
@@ -1055,7 +1056,7 @@ be within the scope of the mere knowledge of similitude?
 </details>
   
 #### नार्थापत्तेः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चार्थापत्तितस् तन्-मूल-श्रुति-सिद्धिः,  
 अनुपप्रत्य्-अभावात्,  
@@ -1095,7 +1096,7 @@ it is deduced, by circumstantial implication, that he eats by night.
 न चार्थापत्तितस्तन्मूलश्रुतिसिद्धिः, अनुपप्रत्यभावात्, स्मरणान्यथाऽनुपप्रत्या हि तत्कल्पना प्रादुर्भवति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > समरन्ति हि पञ्च-रात्र-प्रणेतारः दीक्षाऽऽराधनाऽऽदि धर्मतया  
 ऽष्टकादीन् इव मन्व्-आदयः ।  
@@ -1122,7 +1123,7 @@ on which an oblation is performed for the deceased (Manu 4.119; 150).
 समरन्ति हि पञ्चरात्रप्रणेतारः-दीक्षाऽऽराधनादि धर्मतयाऽष्टकादीनिव मन्वादयः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चाननुभूते वस्तुनि स्मरण-शक्तिर् आविर् भवति,
 </details>
@@ -1137,7 +1138,7 @@ now there can be no tradition of a fact unless that fact has been cognized befor
 न चाननुभूते वस्तुनि स्मरणशक्तिराविर्भवति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अनुभवश् चेन्द्रिय-लिङ्ग-शब्द--स-दृशानुपपद्यमानार्थ-पूर्वकः, 
 </details>
@@ -1153,7 +1154,7 @@ that cannot be proved by Perception, Inference, Verbal Testimony or Analogy;
 अनुभवश्चेन्द्रियलिङ्गशब्दसदृशानुपपद्यमानार्थपूर्वकः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ईदृश-विषये ऽनुभवः प्रमाणान्तरेभ्यो ऽनाविर्भवश्  
 चोदनाम् एव मूलम् उपकल्पयतीति
@@ -1169,7 +1170,7 @@ therefore the cognition of the fact can only have originated from Scripture...
 ईदृशविषयेऽनुभवः प्रमाणान्तरेभ्योऽनाविर्भवश्चोदनामेव मूलमुपकल्पयतीति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिध्येद् अप्य् अयं मनोरथः  
 यदि हि यथार्थत्व-नियमो ऽनुभवानां प्रामाणिकः स्यात्,  
@@ -1189,7 +1190,7 @@ that cognitions are invariably true.
 यदि हि यथार्थत्व-नियमो ऽनुभवानां प्रामाणिकः स्यात्,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा पुना राग-द्वेषाभिनिवेशादि-वशी-कृतान्तः-करणानाम्  
 अ-यथाऽर्थानुभव-भाविता भावनाः  
@@ -1214,7 +1215,7 @@ could these traditions possibly be true?
 </details>
 
 #### अष्टकादौ भेदः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु तत्रापि प्राग्-उक्ता युक्तयः पराक्रमन्ते - 
 न ह्य् "अष्टकां दृष्टवताम् इष्ट-साधनम्"  
@@ -1236,7 +1237,7 @@ could these traditions possibly be true?
 ननु तत्रापि प्रागुक्ता युक्तयः पराक्रमन्ते न ह्यष्टकां दृष्टवतामिष्टसाधनमिति मतिराविरस्ति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चानुमानं, सबन्धादर्शनात्,  
 > न च शब्दः, तद्-अनुपलम्भात्।  
@@ -1255,7 +1256,7 @@ for it cannot be found. Nor is there any scriptural evidence for it, for it cann
 न चानुमानं, सबन्धादर्शनात्, न च शब्दः, तदनुपलम्भात्,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चानुपलब्धो ऽनुमातुं शक्यः, संबन्धादर्शनाद् एव, 
 </details>
@@ -1272,7 +1273,7 @@ because no relation is perceptually given.
 > न चानुपलब्धोऽनुमातुं शक्यः, संबन्धादर्शनादेव, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चोपमेयः, सदृशानिरूपणात्, 
 </details>
@@ -1288,7 +1289,7 @@ as there is no apparent analogue.
 > न चोपमेयः, सदृशानिरूपणात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न च कल्पयितुं शक्यः, अनन्तरोक्तत्वात् स्मृत्य्-अन्यथोपपत्तेः ।  
 </details>
@@ -1305,7 +1306,7 @@ against the argument that it is otherwise unprovable.
 > न च कल्पयितुं शक्यः, अनन्तरोक्तत्वात् स्मृत्यन्यथोपपत्तेः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वेद-संयोगि-पुरुष-  
 स्मरणानुपपत्तितः ।  
@@ -1327,7 +1328,7 @@ well, in Pancarãtra, too, …
 कल्प्यते चेच् श्रुतिस्तत्र ततोऽन्यत्रापि कल्प्यताम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यतो नारद-शाण्डिल्य-  
 प्रमुखाः परमर्षयः ।  
@@ -1348,7 +1349,7 @@ sages like Narada, Sanḍilya and others.
 स्मर्यन्ते पञ्चरात्रेऽपि संप्रदायप्रवर्तकाः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ततश् च -  
 >
@@ -1375,7 +1376,7 @@ Either both are authoritative or neither is.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **त्यज्यतां** वा प्रमाणत्वं  
 मन्व्-आदि-स्मृति-गोचरम् ।  
@@ -1397,7 +1398,7 @@ or we must indeed show in which respect the Pancarãtra tradition is different f
 विशेषः पञ्चरात्रस्य वक्तव्यो वा स उच्यते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि वा "कर्तृ-सामान्यात्  
 प्रमाणम्" इति सूत्रयन् ।  
@@ -1424,7 +1425,7 @@ no essential difference exists between Scriptural and Traditional validity.
 सूत्रकारः स्फुटीचक्रे वैलक्षणण्यं विवक्षितम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि श्रुति-विहितानाम् अग्नि-होत्र--दर्श--पूर्ण-मास--ज्योतिष्-टोमादि-कर्मणां  
 स्मृति-विहितानाम् अष्टकाचमन-संध्योपासनादि-कर्मणां च पित्राद्य्-उपदिष्टत्वात्  
@@ -1452,7 +1453,7 @@ sandhya worship = the crepuscular observances.
 तथा हि श्रुतिविहितानामग्निहोत्रदर्शपूर्णमासज्योतिष्टोमादिकर्मणां स्मृतिविहितानामष्टकाचमन -संध्योपासनादिकर्मणां च पित्राद्युपदिष्टत्वात् परमहितबुद्ध्या त्रैविद्यवृद्धानां निर्विशेषमनुष्ठानं दृष्टम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन तादृश-शिष्ट-त्रैवर्णिक-परिग्रह-द्रढिम्ना  
 स्पष्ट-दृष्टाष्टकादि-कर्तव्यता-प्रतीतिः  
@@ -1473,7 +1474,7 @@ ultimately derives from Scripture itself.
 तेन तादृशशिष्टत्रैवर्णिकपरिग्रहद्रढिम्ना स्पष्टदृष्टाष्टकादिकर्तव्यताप्रतीतिः स्वोपपादनपटीयसीं श्रुतिमेव मूलभूतामवलम्बते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** चैवम् आचमनोपनयनादीन् इव  
 श्रुति-विहिताग्निहोत्रादि-पदार्थानुष्ठायिनस्  
@@ -1492,7 +1493,7 @@ do not observe the Tantric customs in the same manner as they observe such tradi
 न चैवमाचमनोपनयनादीनिव श्रुतिविहिताग्निहोत्रादिपदार्थानुष्ठायिनस्तान्त्रिकाचारानुपचरतः पश्यामः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्युतैनान् **विगर्हन्ते** कुर्वाणान् वेद-वादिनः ।  
 </details>
@@ -1507,7 +1508,7 @@ On the contrary, the Vedic experts condemn those who do.
 प्रत्युतैनान् विगर्हन्ते कुर्वाणान् वेदवादिनः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तस्माद् यत्-कर्तृ-सामान्यात्  
 प्रामाण्यं **स्मृतिषूदितम्** ॥  
@@ -1535,7 +1536,7 @@ do not accept the doctrines of Traditions of this kind.
 </details>
 
 #### भागवतानाम् अब्राह्मण्यम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु तत्रापि श्रुति-स्मृति-प्राप्त-शिखा-यज्ञोपवीतादि-धारयद्भिर्  
 भागवत-ब्राह्मनैर् अहर्-अहर्-अनुष्ठीयमानार्थत्वेन  
@@ -1563,7 +1564,7 @@ the very negation of valid authority?.
 > ननु तत्रापि श्रुतिस्मृतिप्राप्तशिखायज्ञोपवीतादिधारयद्भिर्भागवतब्राह्मणैरहरहरनुष्ठीयमानार्थत्वेन चोदनामूलत्त्वे संभाव्य माने कथमिव प्रामाण्यप्रत्यनीकभूता भ्रमविप्रलम्भादयः स्मरणकारणतया कल्प्यन्ते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उच्यते ।  
 
@@ -1590,7 +1591,7 @@ are exemplary and hence authoritative?!
 यत् त्रैवर्णिकविद्विष्टाश्शिष्टा भागवता इति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु ते कथम् अ-शिष्टा  
 ये त्रैवर्णिकाग्रगण्या ब्राह्मणाः? 
@@ -1610,7 +1611,7 @@ why should they not be exemplary?
 ननु ते कथमशिष्टा ये त्रैवर्णिकाग्रगण्या ब्राह्मणाः? 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन् न - तेषां त्रैवर्णिकत्वम् एव नास्ति, दूरे ब्राह्मणभावः, 
 </details>
@@ -1626,7 +1627,7 @@ Brahmins? Far from it!
 तन्न तेषां त्रैवर्णिकत्वमेव नास्ति दूरे ब्राह्मणभावः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हीन्द्रिय-संप्रयोग-समनन्तरं  
 केषुचिद् एव देह-विशेषेषु अनुवर्तमानम्  
@@ -1647,7 +1648,7 @@ and absent in others.
 न हीन्द्रियसंप्रयोगसमनन्तरं केषुचिदेव देहविशेषेषु अनुवर्तमानमन्यतो व्यावर्तमानं नरत्वातिरेकिणं ब्राह्मण्यं नाम जातिविशेषमपरोक्षयामः,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिखा-यज्ञोपवीतादयस् तु ब्राह्मणदीनां विधीयमाना  
 **न** तद्-भावम् **आपादयितुं क्षमन्ते**,  
@@ -1674,7 +1675,7 @@ which give us irrefutable proof.
 </details>
 
 ##### लौकिकाः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च भागवतेषु ब्राह्मण-पदम् अविशङ्कं लौकिकाः प्रयुञ्जते ।  
 </details>
@@ -1689,7 +1690,7 @@ Nor do ordinary people, use without hesitation the term Brahmin to describe Bhā
 न च भागवतेषु ब्राह्मणपदमविशङ्कं लौकिकाः प्रयुञ्जते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवति च भेदेन व्यपदेशः - "इतो ब्राह्मणा, इतो भागवता" इति ।+++(5)+++  
 </details>
@@ -1705,7 +1706,7 @@ There is also a distinct difference in the two appellations: here Brahmins, ther
 </details>
 
 ##### अब्राह्मणेषु रूढिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स्याद् एतद्  
 > ब्राह्मणेष्व् एव कुतश्चिद् गुण-योगात्  
@@ -1735,7 +1736,7 @@ The point is taken up in detail infra §§ 119 f.
 > स्यादेतद् ब्राह्मणेष्वेव कुतश्चिद् गुणयोगात् सात्त्वतभागवतादिव्यपदेशः यथा तेष्वेव परिब्राजकादिशब्दा इति 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन् न ।  
 </details>
@@ -1750,7 +1751,7 @@ REFUTATION: The argument is false.
 तन् न ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूढ्या सात्त्वत-शब्देन  
 केचित् कुत्सित-योनयः ।  
@@ -1771,7 +1772,7 @@ and not anything else.
 उच्यन्ते तेषु सत्स्वेष शब्दो नान्यत्र वर्तते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूढि-शक्ति-प्रतिद्वन्द्वि-  
 योग-शक्ति-परिग्रहः ।  
@@ -1801,7 +1802,7 @@ Rathakara means by yoga "chariot-maker, cartwright." by rūḍhi a caste which i
 अयुक्त इति युक्तिज्ञा रथकारपदे तथा ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपरथा कथम् इव रथ-कार-शब्दो  
 ऽध्ययन-सिद्ध-बुद्ध्य्-अङ्गत्व-भङ्गेनापि  
@@ -1831,7 +1832,7 @@ on this point see infra.
 </details>
 
 ##### अद्विजत्वं शास्त्रोक्तम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ति च सात्त्वता नाम उपनयनादि-संस्कार-हीना वैश्य-व्रात्यान्वयिनो ऽवर-जन्मानः केचिद्,   
 </details>
@@ -1853,7 +1854,7 @@ upanayana, which is the first step to his acquisition of Vedic knowledge.
 सन्ति च सात्त्वता नाम उपनयनादिसंस्कारहीना वैश्यव्रात्यान्वयिनोऽवरजन्मानः केचिद् यथाऽह मनुः  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाऽऽह मनुः -
 
@@ -1883,7 +1884,7 @@ Manu (Manu 10.23.) says:
 इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भागवत-शब्दश् च सात्त्वतेषु वर्तते इति नात्र कश्चिद् विवादः ॥
 </details>
@@ -1901,7 +1902,7 @@ that Bhagavata is another name for Satvata;
 भागवतशब्दश्च सात्त्वतेषु वर्तते इति नात्र कश्चिद् विवादः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मरन्ति च -  
 
@@ -1940,7 +1941,7 @@ the term "by royal decree" shows that it is a caste profession. Quotation not id
 इति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा चोदीरित--व्रात्य-प्रसूति-वृत्त्य्-उपायतयेदम् एव स्मरन्ति 
 यद् अमी ह प्रत्यक्षम् एव वृत्त्य्-अर्थम् अनुतिष्ठन्तो दृश्यन्ते  
@@ -1958,7 +1959,7 @@ and with our own eyes we indeed see them pursue this profession.
 यदमी ह प्रत्यक्षमेव वृत्त्यर्थमनुतिष्ठन्तो दृश्यन्ते
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा चोशना 
 
@@ -1987,7 +1988,7 @@ not found in Ausanasasmrti (AAS 48).
 तथा चोशना सर्वेषां कृषि शस्त्रोपजीवनम् आचार्यसात्त्वतयोर्देवपूजनम् इति,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ब्राह्मे पुराणे  
 
@@ -2012,7 +2013,7 @@ Similarly, in the Brahma Purāṇa-
 इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथाऽन्यत्रापि 
 
@@ -2039,7 +2040,7 @@ Elsewhere (unidentified) the same is stated thus:
 
 ##### वृत्ति-भेदः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा चेदृशसंदेहव्युदासाय मनोर्वचः -  
 
@@ -2068,7 +2069,7 @@ Manu (Manu 10.40) declares:
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि चाचारतस् तेषाम्  
 अब्राह्मण्यं **प्रतीयते** ।  
@@ -2089,7 +2090,7 @@ eat themselves the food which is offered to the idols
 वृत्तितो देवतापूजा दीक्षा नैवेद्यभक्षणम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 गर्भाधानादि-दाहान्त-  
 संस्कारान्तर-सेवनम् ।  
@@ -2111,7 +2112,7 @@ and avoid contact with Brahmins.
 श्रौतक्रियाऽननुष्ठानं द्विजैस्सम्बन्धवर्जनम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्यादिभिर् अनाचारैर् अब्राह्मण्यं सुनिर्णयम् ।
 </details>
@@ -2126,7 +2127,7 @@ These and other habits show conclusively that they cannot be Brahmins.
 इत्यादिभिरनाचारैरब्राह्मण्यं सुनिर्णयम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मरन्ति हि वृत्तितो देवपूजाया  
 ब्रह्म-कर्मस्व् अनधिकारहेतुत्वं, यथा -
@@ -2143,7 +2144,7 @@ is this that they perform pūjā to the Deity in order to earn a living:
 स्मरन्ति हि वृत्तितो देवपूजाया ब्रह्मकर्मस्वनधिकारहेतुत्वं यथा -
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > येषां वंश-क्रमाद् एव  
 देवार्चा-वृत्तितो भवेत् ।  
@@ -2173,7 +2174,7 @@ and for officiating in sacrifices."
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च परमसंहितायां तेषाम् एव वचः -  
 
@@ -2210,7 +2211,7 @@ This point is detailed upon infra § 134 f
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अपि समस्त-विशिष्ट-विगर्हित--निर्माल्य-धारण--नैवेद्य-भक्षणाद्य्-अनुष्ठानं  
 तद् अपि तेषाम् अब्राह्मण्यम् एवाभिद्योतयति  
@@ -2231,7 +2232,7 @@ shows plainly that they are not Brahmins.
 </details>
 
 ##### शिष्ट-गर्ह्यता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च यद् अवलोकनादाव् अपि  
 विशिष्टाश् चान्द्रायणादि-प्रायश्चित्तानि विदधति  
@@ -2252,7 +2253,7 @@ all respectable men perform expiatory rites such as candrayana
 अपि च यदवलोकनादावपि विशिष्टाश्चान्द्रायणादिप्रायश्चित्तानि विदधति कथं तत्परिग्रहः श्रुतिमूलत्वमवगयतीति संभावयामः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मरन्ति हि देवलकावलोकने प्रायश्चित्तम्।  
 </details>
@@ -2268,7 +2269,7 @@ it is necessary to perform an expiation.
 स्मरन्ति हि देवलकावलोकने प्रायश्चित्तम् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवलकाश् चामी देव-कोशोपजीवित्वाद्  
 वृत्त्यर्थं देवपूजनात् ।  
@@ -2288,7 +2289,7 @@ and worships the idol for a livelihood.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च देवलः -   
 
@@ -2319,7 +2320,7 @@ not in Devalasmr̥ti.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा, 
 
@@ -2351,7 +2352,7 @@ Likewise:
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमी पुनर् वंशानुपरम्परया वृत्त्य्-अर्थम् एव देवम् आराधयन्तो दृश्यन्ते,  
 अतो देवलकत्त्वम् अकामेनाप्य् अभ्यनुज्ञातव्यम् 
@@ -2367,7 +2368,7 @@ Those who have been known to worship the God as a hereditary profession are auto
 अमी पुनर्वंशानुपरम्परया वृत्त्यर्थमेव देवमाराधयन्तो दृश्यन्ते, अतो देवलकत्त्वमकामेनाप्यभ्यनुज्ञातव्यम् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च ।  
 
@@ -2397,7 +2398,7 @@ The rite of expiation is set forth in the precept:
 इति प्रायश्चित्तं स्मरन्ति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च विषदतरम् अमीषाम् एवोपब्राह्मण्यं वर्णयत्यत्रिः ।  
 
@@ -2434,7 +2435,7 @@ but probably refers to unorthodox priest engaged in gap??a worship.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च भगवान् व्यासः  -  
 
@@ -2469,7 +2470,7 @@ Also the venerable Vyasa:
 
 ## ०५ बाह्य-परिग्रहः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं जात्या कर्मणा च  
 त्रयी-मार्गाद् अपभ्रष्ट-भागवत-जन-परिग्रह एव  
@@ -2489,7 +2490,7 @@ is sufficient ground to deny authority to the Pañcaratra Scriptures.
 एवं जात्या कर्मणा च त्रयीमार्गादपभ्रष्टभागवतजनपरिग्रह एव पञ्चरात्रशास्त्रप्रामाण्यप्रतिक्षेपाय पर्याप्तो हेतुः,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि -  
 
@@ -2519,7 +2520,7 @@ and thus are of the same kind as the Buddhist statements on stupa worship.
 
 ## ०६ वेद-तिरस्कारः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च तेषां  
 त्रयी-मार्ग-त्याग--पुरस्-सरः सर्व-धर्मोपदेश  
@@ -2538,7 +2539,7 @@ presupposes the abandoning of the Way of the Veda;
 अपि च तेषां त्रयीमार्गत्यागपुरस्सरः सर्वधर्मोपदेश इति स्ववाक्यान्येव उपख्यापयन्ति 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > चतुर्षु वेदेषु परं श्रेयोऽलब्ध्वा  
 शाण्डिल्य इदं शास्त्रमधीतवान्  
@@ -2561,7 +2562,7 @@ presupposes the abandoning of the Way of the Veda;
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् इह  
 कथं चतुर्णाम् अपि वेदानां निश्रेयस-साधनावबोधकत्व-व्युदासेन आरभमाणः  
@@ -2583,7 +2584,7 @@ about the means which lead to bliss?
 तदिह कथं चतुर्णामपि वेदानां निश्रेयससाधनावबोधकत्वव्युदासेन आरभमाणः तत्प्रसादावगतमर्थं पुमर्थतया कथयतीत्युत्प्रेक्ष्येत ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्व्-आदयो हि  
 विवक्षित-सकल-समीहित-साधनावबोधकम्  
@@ -2603,7 +2604,7 @@ derive solely from Scripture:
 मन्वादयो हि विवक्षितसकलसमीहितसाधनावबोधकमागमैकमूलमभिदधाना दृश्यन्ते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वेदोऽखिलो धर्ममूलं  
 > स्मृतिशीले च तद्विदाम् ।  
@@ -2620,7 +2621,7 @@ derive solely from Scripture:
 वेदोऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > श्रुतिस्मृतिविहितो धर्मः ।  
 </details>
@@ -2635,7 +2636,7 @@ derive solely from Scripture:
 श्रुतिस्मृतिविहितो धर्मः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स सर्वो ऽभिहितो वेदे  
 सर्व-ज्ञानमयो हि सः ।  
@@ -2658,7 +2659,7 @@ for the Veda contains all knowledge."
 
 ## ०७ पृथक्-संस्कर-लिङ्गम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अपरम्  
 उपनयनादि-संस्कृतानाम् अधिकृतानां च  
@@ -2684,7 +2685,7 @@ demonstrates that the system is non-Vedic;
 यदपरम् उपनयनादिसंस्कृतानामधिकृतानां च अग्निहोत्रादिसमस्तवैदिककर्मसु पुनरपि भगवदाराधनाधिकारसिद्धये दीक्षालक्षणसंस्कारवर्णनं तदवैदिकतामेवानुकारयति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदिकत्वे हि तैर् एव संस्कारैर् भगवद्-आराधनादाव् अप्य् अधिक्रियेरन् ।  
 </details>
@@ -2702,7 +2703,7 @@ they would be qualified for Tantric ritual by the regular sacraments.
 
 ## ०८ १४-विद्यास्थानेष्व् अनन्तर्भावः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अपि धर्म-प्रमाणतया  
 समस्तास्तिक-जन-परिगृहीतेषु चतुर्-दश-विद्यास्थानेष्व् अपरिगणनं  
@@ -2729,7 +2730,7 @@ fourteen sources of knowledge - namely, the four Vedas, six Vedāngas, the Purā
 यदपि धर्मप्रमाणतया समस्तास्तिकजनपरिगृहीतेषु चतुर्दशविद्यास्थानेष्वपरिगणनं तदप्यवैद्कत्त्वे लिङ्गम् अन्यथा हीदमपि तदन्यतमत्वेन स्मर्येत ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च स्मर्यते,  
 तद् अवसीयते - "अ-वैदिकम् एवेदं पञ्च-रात्र-स्मरणम्" इति । 
@@ -2747,7 +2748,7 @@ but as it is not so recognized, this proves that the Pañcarātra tradition is n
 
 ## ०९ बादरायणोक्तिः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत एव च भगवता बादरायणेन  
 त्रयी-मार्ग-प्रत्यनीक-भूत--कण-भुग्--अक्ष-चरण--सु-गत-मतादि--  
@@ -2771,7 +2772,7 @@ also refutes the Pancarãtra in his Sutra (BrS. 2.2.42.):
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयी-विदाम् इत्थम् अ-सङ्ग्रहेण  
 तथा त्रयी-बाह्य-परिग्रहेण ।  
@@ -2796,7 +2797,7 @@ it cannot be compared with the Tradition of Manu etc.
 
 ## १० क्षुद्र-विद्या-परता
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सति  
 यान्य् अपि लोकं व्यामोहयितुं  
@@ -2822,7 +2823,7 @@ are merely added to deceive people about their real attentions and do not deserv
 एवं सति यान्यपि लोकं व्यामोहयितुं विद्वेषणोच्चाटनवशीकरणादिक्षुद्रविद्याप्रायमेव बहुलमुपदिशद्भिर्भगवदाराधनादिकतिपयवैदिककर्माणि पाञ्चरात्रिकैर्निर्दिश्यन्ते तान्यनुपयोग्यान्यविस्रम्भणीयानि च श्वदृतिनिक्षिप्तक्षीरवदिति मन्यामहे । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो न वेद-मूलत्त्वं  
 पञ्चरात्रस्य युज्यते ।  
@@ -2847,7 +2848,7 @@ and therefore equally authoritative as the doctrinal works of Manu' and others.
 
 ### पूर्व-पक्षः (नैय्यायिकः)
 #### पौरुषेयत्वम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र कश्चिद् आह 
 
@@ -2875,7 +2876,7 @@ A Naiyayika. Traditionally, Nyaya does not accept the Mimānsā view that the Ve
 अत्र कश्चिदाह कामं कक्ष्यान्तरितप्रामाण्येषु मन्वादिस्मरणेषु कारणतया वेदाः परिकल्प्यन्ताम्, पञ्चरात्रस्मरणस्य तु किं वेदेन?
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तन्-मूलतया ऽवलम्बितेन  
 वेदानाम् अपि यद्+++(←ईश्वर)+++-अनुभव-निबन्धनं प्रामाण्यं  
@@ -2898,7 +2899,7 @@ and supported authority which characterizes typical smarta injunctions,
 तन्मूलतयाऽवलम्बितेन वेदानामपि यदनुभवनिबन्धनं प्रामाण्यं तदनुभव एव हि पञ्चरात्रस्मरणस्य निदानम्,  न खलु तुल्यमूलयोरष्टकाचमनस्मरणयोर्मिथोमूलमूलिभावः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न खलु तुल्य-मूलयोर् अष्टकाचमन-स्मरणयोर्  
 मिथो-मूल-मूलि-भावः ।+++(5)+++
@@ -2915,7 +2916,7 @@ In fact, the two traditions of the aştaka rite and the acamana rite are not int
 न खलु तुल्यमूलयोरष्टकाचमनस्मरणयोर्मिथोमूलमूलिभावः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > परस्-परम् अपेक्षेते  
 तुल्य-कक्ष्ये न हि स्मृती ।  
@@ -2934,7 +2935,7 @@ In fact, the two traditions of the aştaka rite and the acamana rite are not int
 पञ्चरात्रश्रुती तद्वन्नापेक्षते परस्परम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वेद-मूलत्व-हानेन  
 पञ्चरात्रे ऽवसीदति ।  
@@ -2954,7 +2955,7 @@ why then should the Veda not collapse when the support of Pañcaratra is taken a
 कुतस्तन्मूलताहानादागमो नावसीदति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > आह - "किम् एवं वेदा अपि पुरुषानुभवाधीनप्रामाण्याः पौरुषेया एव?"
 </details>
@@ -2971,7 +2972,7 @@ and must therefore naturally derive from a person?
 आह - किमेवं वेदा अपि पुरुषानुभवाधीनप्रामाण्याः पौरुषेया एव?
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कस् संशयः?  
 वाक्यत्वं हि पराधीन-रचनत्व-स्वभावम् उपलभ्यमानं  
@@ -2993,7 +2994,7 @@ How else could they exist at all?
 कस्संशयः, वाक्यत्वं हि पराधीनरचनत्वस्वभावमुपलभ्यमानं कथमपरथाऽवतिष्ठेत   
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> वेदनाम्नो ग्रन्थस्यायं महिमा -  
 > यत् केनचिद् असन्दृब्धो ऽपि वाक्यत्वेनावतिष्ठत 
@@ -3021,7 +3022,7 @@ then we reply;
 > इति चेत्,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > हन्त तर्हि पर्वत-वर्तिनो धूमस्यायं महिमा  
 यज् ज्वलनम् अन्तरेणानुच्छिन्न-सन्तानो गगन-तलम् अधिरोहतीति  
@@ -3052,7 +3053,7 @@ the mountain has fire, because it has smoke.
 </details>
 
 #### धर्म-साक्षात्-कारः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> ननु कथम् अतिक्रान्त-मानान्तरावतारे धर्मे  
 > ग्रन्थः सन्दृभ्यते?  
@@ -3084,7 +3085,7 @@ avatara "descent, emergence." The meaning is as follows: Dharma is by definition
 मैवं यतस्सहजसंवेदनसाक्षात्कृतधर्माधर्म एव भगवान् जगदनुकम्पया वेदनामानं ग्रन्थमारचयतीति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 >>किम् अस्ति धर्माधर्म-गोचरम् अपि प्रत्यक्षम्?  
 </details>
@@ -3099,7 +3100,7 @@ avatara "descent, emergence." The meaning is as follows: Dharma is by definition
 किमस्ति धर्माधर्मगोचरमपि प्रत्यक्षम्?  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > बाढं कथम् अन्यथा तनु-भुवनादि-कार्यम् उपजनयति?  
 </details>
@@ -3114,7 +3115,7 @@ avatara "descent, emergence." The meaning is as follows: Dharma is by definition
 बाढं कथमन्यथा तनुभुवनादिकार्यमुपजनयति?  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स हि तत्र कर्ता भवति  
 > यो यस्योपादानम् उपकरणञ् च साक्षात्-कर्तुं प्रभवति।  
@@ -3130,7 +3131,7 @@ For the maker of such effects must be one who is capable of perceiving their mat
 स हि तत्र कर्ता भवति यो यस्योपादानमुपकरणञ्च साक्षात्कर्तुं प्रभवति 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > धर्माधर्मौ च जगद्-उपकरणम्  
 > इति मीमांसकानाम् अपि सम्मतमेव ।  
@@ -3156,7 +3157,7 @@ This envisages the world as the sum total of the fruits (phala) brought about by
 </details>
 
 #### जगत्-कार्यता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यस्तु ब्रूते  
 > "गिरि-भुवनाऽऽदयो भावा न कार्या" इति,  
@@ -3176,7 +3177,7 @@ the "answer is as follows:
 प्रतिब्रूयादेनम् -  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विवाद-गोचरा भावाः  
 **कार्या** +++(भू=)+++विश्वम्-भरादयः ।  
@@ -3203,7 +3204,7 @@ we conclude that they are subject to destruction.
 तथा सावयवत्वेन विनाशोऽप्यवसीयते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विनश्यन्ति च ये भावास्  
 ते तत्-साधन-वेदिना ।  
@@ -3224,7 +3225,7 @@ when we know by what means to destroy them.
 विनाश्यन्ते यथा तज्ज्ञैरस्माभिः करकादयः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ये पुनर् अ-परिदृष्ट-बुद्धिमद्-अधिष्ठान--तरु-पतनादि-शकलिता भावाः  
 तेऽपि विमत्य्-आक्रान्ता  
@@ -3246,7 +3247,7 @@ there can also be not positive certainty that the cause of their destruction is 
 ये पुनरपरिदृष्टबुद्धिमदधिष्ठानतरुपतनादिशकलिता भावाः तेऽपि विमत्याक्रान्ता इति नानैकान्तिकत्वमावहन्ति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > किं च -  
 >
@@ -3270,7 +3271,7 @@ that an entity which has mass and can move is subject to origination and to dest
 उत्पत्तिभङ्गौ भावानामनुमातुमिहोचितौ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तद् एवम् उदीरित-न्याय-प्रसिद्धे विश्वम्-भरादि-कार्यत्वे  
 **सिध्यत्य् एव** भगवतस् तद्-उपकरण-धर्माधर्म-साक्षात्-कारित्वम् ।  
@@ -3294,7 +3295,7 @@ Since they are products, they have been produced by a person (God) who knew the 
 तदेवमुदीरितन्यायप्रसिद्धे विश्वम्भरादिकार्यत्वे सिध्यत्येव भगवतस्तदुपकरणधर्माधर्मसाक्षात्कारित्वम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा हि -  
 >
@@ -3318,7 +3319,7 @@ have been created by a maker who possesses the described knowledge.
 ते यथोक्तावबोधेन कर्त्रा केनापि निर्मिताः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > उत्पत्ति-नाश-भागित्वाद्  
 यद्-उत्पत्ति-विनाशवद् ।  
@@ -3339,7 +3340,7 @@ just because it is subject to origination and annihilation, like a house.
 </details>
 
 #### सृष्टेः सकर्तृकत्वम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न च वाच्यं -
 >
@@ -3384,7 +3385,7 @@ On this cf. Prakaraṇapañcikā, p. 137 ff. for the Prabhakara view, and Slokav
 न च वाच्यं कर्मणामेव स्वानुष्ठातृ पुरुषसमीहितानि संपादयतामन्तरा नान्तरीयकं तनुभुवनादिकार्यनिर्माणमिति …  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यतश् चेतनानधिष्ठितानि तानि  
 **न** कार्याणि **जनयितुम्** उत्सहन्ते  
@@ -3403,7 +3404,7 @@ since they are non-spiritual themselves, like an adze:
 यतश्चेतनानधिष्ठितानि तानि न कार्याणि जनयितुमुत्सहन्ते अचेतनत्वाद् वासीवत्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न हि चेतनेन तक्ष्णाऽनधिष्ठिता वासी  
 स्वयम् एव यूपादीन्य् आपादयितुम् अलम् ।+++(5)+++
@@ -3421,7 +3422,7 @@ an adze is incapable of effecting by itself such objects as a sacrificial pole,
 </details>
   
 #### अपूर्व-निर्वाहः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** चापूर्वाण्य् अधिष्ठाय  
 वयं **निर्मातुम्** ईश्वराः ।  
@@ -3446,7 +3447,7 @@ apūrva lit. "that which is unprecedented, not known before, se. by other means 
 न हि कर्मोदयात् पूर्वं साक्षात्कर्तुं क्षमामहे ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > उक्तं हि उपादानोपकरण-साक्षात्-कारिण एव  
 तत्र तत्र कर्तृत्वम् इति ।  
@@ -3473,7 +3474,7 @@ can actually produce.
 उक्तं हि उपादानोपकरणसाक्षात्कारिण एव तत्र तत्र कर्तृत्वमिति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न च कर्म-जन्यापूर्व-साक्षात्-कार-क्षमः क्षेत्र-ज्ञः कश्चित् प्रज्ञायते प्रतिज्ञायते वा, 
 </details>
@@ -3488,7 +3489,7 @@ And there is no embodied soul which is known, or claimed, to be capable of havin
 न च कर्मजन्यापूर्वसाक्षात्कारक्षमः क्षेत्रज्ञः कश्चित् प्रज्ञायते प्रतिज्ञायते वा, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अतः क्षेत्र-ज्ञ--तद्-उपभोग--तत्-साधन-धर्माधर्मादि--  
 > निखिल-लोकावलोकन-चतुरः कोऽपि निरतिशय-शक्ति-वैचित्र्यः पुरुषो **ऽभ्युपगन्तव्यः**,  
@@ -3507,7 +3508,7 @@ and in whose nature such properties as unrestricted knowledge etc. subsist.
 अतः क्षेत्रज्ञतदुपभोगतत्साधनधर्माधर्मादिनिखिललोकावलोकनच तुरः कोऽपि निरतिशयशक्तिवैचित्र्यः पुरुषोभ्युपगन्तव्यः तस्य चाप्रतिघज्ञानत्वादयस्सहजाः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यथाऽहुः -  
 >
@@ -3535,7 +3536,7 @@ As they say (unidentified source):
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इमम् एवार्थं मन्त्रार्थवादेतिहास-पुराण-वादा उपोद्वलयन्ति -
 </details>
@@ -3555,7 +3556,7 @@ mantra and arthavada: the terms indicate that the Naiyayika continues to address
 इममेवार्थं मन्त्रार्थवादेतिहासपुराणवादा उपोद्वलयन्ति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > द्यावा-पृथिवी जनयन् देव एकः ।  
 प्रजापतिर्वेदानसृजत ।
@@ -3577,7 +3578,7 @@ mantra and arthavada: the terms indicate that the Naiyayika continues to address
 </details>
 
 #### पाञ्चरात्रस्य साक्षात् प्रणयनम् 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स चायम् आदिकाले भगवान्  
 प्रलीन-निखिल-करण-कलेवरादि--भोगोपकरण--  
@@ -3606,7 +3607,7 @@ their instruments for the experiencing of karmic results- body, senses and other
 स चायमादिकाले (प्रलयकाले) भगवान् प्रलीननिखिलकरणकलेवरादिभोगोपकरणचेतनेतरायमाणजीवजालावलोकनजनितमहानुग्रहः 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सकलम् अपि जगद् उपजनय्य  
 तद्-अभिलषित-समस्त-सांसारिक-सम्पत्-प्राप्त्युपाय-प्रकाशन-बहुलां त्रयीम् एकतो निर्माय  
@@ -3626,7 +3627,7 @@ by which the souls in transmigration can realize the objects of their desires.
 सकलमपि जगदुपजनय्य तदभिलषितसमस्तसांसारिकसम्पत्प्राप्त्युपायप्रकाशनबहुलां त्रयीमेकतो निर्माय  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पुनर् अपि विविध-दुरित--+++(तरङ्ग-)+++परम्-पराऽऽकीर्ण--भवार्णव-निमग्नान् उद्विग्नान् अवलोकयन् 
 </details>
@@ -3643,7 +3644,7 @@ which is perturbed by wave upon wave of all manner of iniquities,
 पुनरपि विविधदुरितपरम्पराकीर्णभवार्णवनिमग्ननुद्विग्नानवलोकयन्  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > परम-करुणतया तप्त-मानसः  
 परम-निश्रेयस-साधन-स्वाराधनावबोध-साधनी-भूताः पञ्च-रात्र-संहिताः सनत्-कुमार--नारदादिभ्यो **ऽभ्यवोचद्** 
@@ -3662,7 +3663,7 @@ about the manner in which He should be propitiated to attain to perfect bliss.
 परमकरुणतया तप्तमानसः परमनिश्रेयससाधनस्वाराधनावबोधसाधनीभूताः पञ्चरात्रसंहिताः सनत्कुमार-नारदादिभ्योऽभ्यवोचद् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इति त्रयी-समान--स्व-तन्त्रानुभव-मूलानि तन्त्राणि  
 कथम् इव यादृश-तादृश-मन्व्-आदि-स्मरण-गोष्ठीम् अधितिष्ठन्ति ?+++(5)+++  
@@ -3681,7 +3682,7 @@ can they belong in the company of any Tradition, that of Manu or anyone?
 </details>
 
 ### वेदापौरुषेयत्वम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **स्याद् एवं** यदि वेदानां  
 निर्माताऽपि प्रमाणतः ।  
@@ -3713,7 +3714,7 @@ but he proves them from Scripture, not reason.+++(5)+++
 कुतश्चिदुपलभ्येत न चासावुपलभ्यते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** च वाक्यत्व-लिङ्गेन  
 वेद-कारो **ऽनुमीयते** ।  
@@ -3734,7 +3735,7 @@ for that would entail the total reversion of your special contentions.
 अभिप्रेतविशेषाणां विपर्यासप्रसङ्गतः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्यं हि यत् पराधीन-  
 रचनं **संप्रदृश्यते** ॥  
@@ -3754,7 +3755,7 @@ is also perceived to be uttered by no one but an embodied being …
 शरीरिणैव तत्सर्वमुच्यमानं विलोक्यते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुण्य-पाप-निमित्तञ् च  
 शरीरं सर्व-देहिनाम् ॥  
@@ -3779,7 +3780,7 @@ and who therefore cannot be God.
 </details>
 
 #### धर्म-प्रामाण्यता-हानि-प्रङ्गः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि चैवं प्रमाणत्वं  
 वेदानाम् अपि दुर्लभम् ।  
@@ -3807,7 +3808,7 @@ That which makes the Veda authoritative, i.e., a means of valid knowledge, is ju
 </details>
 
 ### अकर्तृकं जगत्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु कथं मानान्तरापूर्वो धर्मः,  
 > उक्तं हि 
@@ -3833,7 +3834,7 @@ how else could He produce the world of which dharma and adharma are the instrume
 > ननु कथं मानान्तरापूर्वो धर्मः, उक्तं हि साक्षात्करोति धर्माधर्मौ कथमन्यथा तदुपकरणं जगज्जनयति इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यम् **उक्तं** - "कोऽपि निर्माता  
 तद्+++(=ततः)+++ विश्वस्य जगतो", **न** हि ।  
@@ -3856,7 +3857,7 @@ of whom this can be assumed.
 विद्यते कोऽपि निर्माता येनैवमपि कल्प्यते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(लोकस्य→)+++ विचित्र-सन्निवेशत्व-  
 युक्त्या यद् अपि साधितम् +++(सकर्तृकत्वम्)+++ ।  
@@ -3877,7 +3878,7 @@ can be objected that empiricists distinguish three kinds of entities:
 तत्रोच्यते त्रिधा भावा लौकिकैः परिलोकिताः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्ष-दृष्ट-कर्तारः  
 केचिद् एते घटादयः ।  
@@ -3901,7 +3902,7 @@ and those whose creation remained doubtful, like the earth etc.
 सन्दिह्यमाननिर्माणाः केचिद् विश्वम्भरादयः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र प्रथम-सन्दर्शित-राशि-द्वये ऽनवकाश एवेश्वर-व्यापारः ।  
 </details>
@@ -3917,7 +3918,7 @@ there is no room for God's activity.
 तत्र प्रथमसन्दर्शितराशिद्वयेऽनवकाश एवेश्वरव्यापारः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यवद् एव विश्वम्-भरादयः क्रम-प्राप्तागन्तुकोपचयापचययोर्  
 न युगपद् उदय-विलय-भागिनः। 
@@ -3934,7 +3935,7 @@ but merely, as now, subject to varying degrees of increase and decrease which ar
 अद्यवदेव विश्वम्भरादयः क्रमप्राप्तागन्तुकोपचयापचययोर्न युगपदुदयविलयभागिनः  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईदृशोत्पत्तिभङ्गौ मीमांसकानाम् अपि सम्मताव् एवेति सिद्ध-साधनत्वम् ।  
 </details>
@@ -3956,7 +3957,7 @@ but never at one time, since all entities presuppose former acts that have broug
 </details>
 
 ### अपूर्व-निर्वाहानपेक्षा
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्धिमत् कर्तृता याऽपि  
 प्रयासेन **समर्थिता** ।  
@@ -3970,7 +3971,7 @@ but never at one time, since all entities presuppose former acts that have broug
 साध्यते साऽपि सिद्धैव बुद्धिमन्तो हि चेतनाः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यागादिभिः स्व-भोगाय  
 तत् तद् **उत्पादयन्ति** नः ॥  
@@ -3999,7 +4000,7 @@ for we can have direct knowledge of these acts, sacrifices, donations and the li
 वयञ्च यागदानादि साक्षात्कर्तुं क्षमा यतः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मणः शक्ति-रूपं यद्  
 अ-पूर्वादि-पदास्पदम् ।  
@@ -4028,7 +4029,7 @@ because he perceives it is absurd.
 माभूत् प्रत्यक्षता तस्य किन्तेनाध्यक्षितेन नः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न खलु कुलालादयः  
 कुम्भादि-कार्यम् आरिप्समानाः  
@@ -4049,7 +4050,7 @@ before he can actually undertake their production.
 न खलु कुलालादयः कुम्भादिकार्यमारिप्समानाः तदुपादानोपकरणभूतमृद्दण्डचक्रादिकार्योत्पादनशक्तिं साक्षात्कृत्य तत्तदारभन्ते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि परं शक्तिम् अ-विदुषाम्  
 अभिलषित-साधनाय तद्-उपादानादि-व्यवहारो ऽनुपपन्नः,  
@@ -4075,7 +4076,7 @@ Thus, aided by these causes, they render manifest such products as earth etc.
 </details>
 
 ### धर्म-साक्षात्-काराभावेऽपि सृष्टिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च,
 
@@ -4099,7 +4100,7 @@ and nobody else.
 नैवान्यः क्षम इति च नास्त्यत्र नियमः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **अ-पश्यन्न्** एवायं प्रकृति+++(=उपादान)+++-करणे स्वात्म-मनसि  
 ननु ज्ञाने **कर्ता भवति** पुरुषस् तत् कथम् इव ।  
@@ -4135,7 +4136,7 @@ For the knowledge that does arise in the world of here and now is plainly this:
 
 ### अकृतं जगत्
 #### अनुमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्नोति हि प्रत्यभिज्ञैव  
 समस्त-काल-सम्बन्धम् एषाम् अवगमयितुम्,   
@@ -4158,7 +4159,7 @@ who have the same notion of these entities' present existence.
 शक्नोति हि प्रत्यभिज्ञैव समस्तकालसम्बन्धमेषामवगमयितुम्,  सन्ति हि पूर्वापरकालयोरपि तादृशाः पुरुषाः प्रादुःषन्ति येषामीदृशप्रत्ययाः, प्रयोगश्च भवति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मही-शैल-पतङ्गादि-  
 प्रत्यभिज्ञानवन् नरः ।  
@@ -4180,7 +4181,7 @@ because the past is time, like the present.
 अतीतकालः कालत्वादिदानीन्तनकालवत् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् अनागतेऽपि प्रयोगो दर्शयितव्यः ।  
 </details>
@@ -4195,7 +4196,7 @@ The same syllogism can be constructed with regard to the future.
 एवमनागतेऽपि प्रयोगो दर्शयितव्यः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** चेदृश-प्रयोगेण  
 घटादेर् अपि नित्यता ।  
@@ -4215,7 +4216,7 @@ for in their case origination and annihilation are directly evident.
 प्रसज्यते यतस्तत्र प्रत्यक्षौ भङ्गसम्भवौ ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरोधे सति येनात्मा +++(→तर्क-फलम्)+++  
 हेतुना **नैव लभ्यते** ।  
@@ -4247,7 +4248,7 @@ this does not prove that the same ground (recollection) cannot prove the eternal
 </details>
 
 #### महत्त्वादिना न कृतत्वम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 महत्त्वे सति स्पन्दमानत्व-युक्त्या  
 जगज्-जन्म-भङ्गश् च यः **प्रत्यपादि** ।  
@@ -4272,7 +4273,7 @@ that the world is subject to origination and annihilation.
 </details>
 
 #### अनिष्ट-गुणापत्तिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च +++(कर्त्रन्मानेऽपि)+++ धर्मि-विशेष-विरुद्धश् चायं +++(ईश्वराख्यो)+++ हेतुः कार्यत्वाद् इति  
 कार्यत्वं हि  
@@ -4298,7 +4299,7 @@ being deprived of omnipotence and omniscience, etc.
 अपि च धर्मिविशेषविरुद्धश्चायं हेतुः कार्यत्वादिति कार्यत्वं हि स्वभावदृष्टविग्रहवत्त्वानाप्तकामत्वानीश्वरत्वासार्वज्ञ्यादिव्याप्तिवित्युपयुक्ततरानेकविशेषानुषक्तं
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **कथम्** इव तत्-प्रत्यनीक-भूताशरीर-नित्य-तृप्त-सर्वज्ञत्वाद्य्-अभिमत-विशेषान् साध्य-धर्मिण्य् **अवगमयति**?+++(5)+++
 </details>
@@ -4316,7 +4317,7 @@ that is, which are the opposite of what would naturally follow?
 कथमिव तत्प्रत्यनीकभूताशरीरनित्यतृप्तसर्त्रज्ञत्वाद्यभिमतविशेषान् साध्यधर्मिण्यवगमयति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-शरीर-प्रेरणम् अपि शरीर-सम्बन्धासमवायि-कारणक-प्रयत्नवतो नान्यस्येति  
 न कथंचिद् अशरीरिणः कर्तृत्व-संभवः ॥
@@ -4336,7 +4337,7 @@ It follows that under no condition bodiless person can be an agent.
 स्वशरीरप्रेरणमपि शरीरसम्बन्धासमवायिकारणकप्रयत्नवतो नान्यस्येति न कथंचिदशरीरिणः कर्तृत्वसंभवः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथैतद्-दोष-हानाय  
 देहवान् इत्य् उपेयते ।  
@@ -4365,7 +4366,7 @@ whatever has parts must come to an end is not universally true.
 नित्यत्वेऽवयवित्वञ्च स्यादनैकान्तिकन्तव ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अप्य् एतेऽवोचन्न्  
 "अधिकरण-सिद्धान्त-बलतो विशेषास् सिध्यन्ती"त्य्  
@@ -4389,7 +4390,7 @@ On this question, ef. Tarkabhāṣā 43.
 यदप्येतेऽवोचन्नधिकरणसिद्धान्तबलतोविशेषास्सिध्यन्तीत्ययमपि च पन्था न घटते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि न्यायो जीवेद् अपि यदि च मानान्तरकृतो ।  
 विरोधो ऽस्यादृष्टः, पुनर् +++(अत्र)+++ अपि विरोधः स्फुटतरः ॥
@@ -4409,7 +4410,7 @@ In our case, however, the conflict is plain enough.
 विरोधोऽस्यादृष्टः पुनरपि विरोधः स्फुटतरः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च अवधृताविनाभाव-नियमम् अपि यदि  
 > न विश्वम्-भरादि-बुद्धिमन्-निमित्तताम् अवगमयति  
@@ -4432,7 +4433,7 @@ that it must also convey that there is a producer capable of creating the entire
 ननु च अवधृताविनाभावनियममपि यदि न विश्वम्भरादिबुद्धिमन्निमित्ततामवगमयति प्रत्यस्तिमितस्तर्ह्यनुमेयव्यवहारः, अथावगमयति, अवगमयत्येवासावखिलत्रैलोक्यनिर्माणप्रवीणन्तमपि कर्तारम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ब्रूमो नावगमयतीति -  
 किन्तु, यावन्तो +++(स-शरीरत्वादि-)+++विशेषाः व्याप्ति-ग्रहण-समय-संविदिताः  
@@ -4452,7 +4453,7 @@ as at the moment of grasping the concomitance, are known to obtain in any produc
 न ब्रूमो नावगमयतीति किन्तु यावन्तो विशेषाः व्याप्तिग्रहणसमयसंविदिताः तानप्यविशेषेणोपस्थापयतीति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च तावताऽतिप्रसङ्गः 
 </details>
@@ -4467,7 +4468,7 @@ Nor do we carry our point too far.
 न च तावताऽतिप्रसङ्गः 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमाणान्तर-गोचरे हि लिङ्गिनि  
 लिङ्ग-बलाद् आपततो विपरीत-विशेषांस्  
@@ -4488,7 +4489,7 @@ which would have applied on the strength of our inferential mark alone.
 प्रमाणान्तरगोचरे हि लिङ्गिनि लिङ्गबलादापततोविपरीतविशेषांस्तत्प्रमाणमेव प्रतिरुणद्धि
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र पुनर् अतिपतित-मानान्तर-कर्म-भावे भगवति सिषाधयिषिते  
 यावन्तो ऽन्वय-व्यतिरेकावधारिताविनाभाव-भाजो धर्मास्  
@@ -4509,7 +4510,7 @@ are indiscriminately established by the deduction,
 </details>
 
 #### कल्पना-गौरवम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च प्राङ्गण-निकट-वर्ति-दूर्वाङ्कुरादिष्व् अनवसित-पुरुष-व्यापार-जन्मस्व् अनैकान्तः,  
 तत्राप्य् अतीन्द्रिय-पुरुषाधिष्ठान-कल्पना कल्पना-मात्रम् एव ।+++(5)+++  
@@ -4530,7 +4531,7 @@ must remain entirely conjectural,
 </details>
 
 #### सृष्टि-कारणाभावः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व वा देशे **तिष्ठन्न्**, अनवरत-तृप्तिः किम् इति वा   
 कदा वा निश्शेषञ् **जनयति** तद् एतद् **विमृशतु** ॥  
@@ -4561,7 +4562,7 @@ and aiming at a certain result which he wants.
 कदाचिद्यत्किञ्चिज्जनयति कुलालादिरखिलः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतार्थत्वात् **क्रीडा**, **न** च भवति **हेतुर्** यदि खलु   
 स्व-भाव--स्वातन्त्र्यं प्रकटितम् अहो सम्प्रति विभोः ॥  
@@ -4585,7 +4586,7 @@ Yet willynilly, without regard for anything He might wish, He shoulders the vast
 जगज्जन्मस्थेमप्रविलयमहायासमवशः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुकम्पा-प्रयुक्तेन **सृज्यमानाश्** च जन्तवः   
 सुखिनः किन् **न सृज्यन्ते** तत्-कर्मापेक्षया यदि ॥  
@@ -4611,7 +4612,7 @@ why assume God at all?
 उपपन्नेऽपि वैचित्र्ये किन्तत्कल्पनयाऽनया ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो नास्ति तादृशः पुरुषः  
 यस् समस्त-जगन्-निर्माण-क्षमः  
@@ -4632,7 +4633,7 @@ and of composing the Vedas.
 </details>
 
 ### वेद-कर्त्र्-अस्मरणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च यदि वेदाः केनचिद् असृज्यन्त  
 ततस् तेनामी विरचिता इति  
@@ -4651,7 +4652,7 @@ this creator would be remembered:
 अपि च यदि वेदाः केनचिदसृज्यन्त ततस्तेनामी विरचिता इति तत्कर्ता स्मर्येत ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च जीर्णकूपादाव् इवास्मरणं युक्तम्,  
 युज्यते हि तत्र +++(कूपादि-)+++प्रयोजनाभावात् कर्त्तुरस्मरणम्,  
@@ -4672,7 +4673,7 @@ because the well no longer serves a purpose.
 युज्यते हि तत्र प्रयोजनाभावात् कर्त्तुरस्मरणम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेदे त्व्  
 अनेक-द्रव्य-त्यागात्मक--बहुतरायास-साध्यानि कर्माणि  
@@ -4693,7 +4694,7 @@ involving the loss of various properties?
 वेदे त्वनेकद्रव्यत्यागात्मकबहुतरायाससाध्यानि कर्माणि प्रत्ययिततरनिर्मातृस्मरणमन्तरेण के वा श्रद्दधीरन्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि नित्या वेदाः  
 अ-स्मर्यमाण-स्मरणार्ह-कर्तृकत्वात्।   
@@ -4717,7 +4718,7 @@ than the Mahabharata and similar books can.
 तथा हि नित्या वेदाः अस्मर्यमाणस्मरणार्हकर्तृकत्वाद् ये यथोक्तसाध्या न भवन्ति ते यथोक्तसाधना अपि न भवन्ति यथा भारतादयः, अमी तु यथोक्तसाधना इति यथोक्तसाध्या एव,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् अ-पौरुषेया वेदा इति ।  
 </details>
@@ -4733,7 +4734,7 @@ Therefore the Vedas do not originate from a person.
 </details>
 
 ### न तुल्या ऽपौरुषेयता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-सिद्धान्ताभिनिवेश-व्यामुग्ध-बुद्धिभिर् अभिहितम् इदम् -  
 यद्-अनुभव-निबन्धनं वेद-प्रामाण्यं  
@@ -4753,7 +4754,7 @@ has been warped by their bias in favour of their own conclusions.
 स्वसिद्धान्ताभिनिवेशव्यामुग्धबुद्धिभिरभिहितमिदम् - यदनुभवनिबन्धनं वेदप्रामाण्यं तदनुभवनिबन्धनं पञ्चरात्रप्रामाण्यमिति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च किम् इदम् अपौरुषेयत्वं वेदानाम्?  
 यदि नित्य-वर्णारब्धत्वं, समानम् इदं पञ्च-रात्र-तन्त्राणाम् ।  
@@ -4776,7 +4777,7 @@ It is the contention of Mimamsa that words and their capacity of conveying meani
 ननु च किमिदमपौरुषेयत्वं वेदानाम्,  यदि नित्यवर्णारब्धत्वं समानमिदं पञ्चरात्रतन्त्राणाम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अथ पदानां नित्यता, सापि समानैव।  
 </details>
@@ -4792,7 +4793,7 @@ again the same is true.
 > अथ पदानां नित्यता, सापि समानैव।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चानुपूर्वी-नित्यता, न हि नित्यानाम् आनुपूर्वी-स्वभाव उपपद्यते।  
 </details>
@@ -4813,7 +4814,7 @@ Sequence, of course, supposes priority and posteriority of the entities in seque
 > न चानुपूर्वीनित्यता, न हि नित्यानामानुपूर्वीस्वभाव उपपद्यते।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "उच्चारणानुपूर्व्याद् आनुपूर्वी वर्णानाम्" इति चेत्  
 सा तर्हि तद्+++(=आनुपूर्व्य्)+++-अनित्यत्वाद् एव अनित्येति  
@@ -4834,7 +4835,7 @@ So where does the difference lie between Pañçaratra and Vedic revelation?
 उच्चारणानुपूर्व्यादानुपूर्वी वर्णानामिति चेत् सा तर्हि तदनित्यत्वादेव अनित्येति कः खलु विशेषः पञ्चरात्रश्रुत्योः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयममेव विशेषो यद्  
 एकत्र स्व-तन्त्र एव पुरुषस् तां ताम् आनुपूर्वीं **रचयति**  
@@ -4856,7 +4857,7 @@ which had been laid down before him by students who preceded him.
 अयममेव विशेषो यदेकत्र स्वतन्त्र एव पुरुषस्तां तामानुपूर्वीं रचयति इतरत्र परतन्त्रो नियमेन पूर्वाध्येतृसिद्धामेव विवक्षति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अध्ययन-परम्परा-)+++क्रमावान्तर-जातिश् च प्रत्यभिज्ञा-बल-प्रतिष्ठिता नापलापम् अर्हतीत्य् अलं प्रविस्तरेण ।  
 </details>
@@ -4880,7 +4881,7 @@ kramāvāntarajati; the difference resides in the createdness of the Pancarātra
 </details>
 
 ### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धम् इदं न विलक्षण-पुरुषानुभव-निबन्धन-प्रामाण्य-वर्णनं साधीय इति ।  
 </details>
@@ -4899,7 +4900,7 @@ is not viable at all.
 सिद्धमिदं न विलक्षणपुरुषानुभवनिबन्धनप्रामाण्यवर्णनं साधीय इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यतो न साक्षात्-कृत-पुण्य-पापः  
 पुमान् प्रमाण-प्रतिपन्न-सत्त्वः ।  
@@ -4924,7 +4925,7 @@ by some human being with the purpose of deceiving the world.
 ## १२ ईश्वरे शब्द-प्रमाणं न
 
 ### पूर्वपक्षः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च केवल-तर्क-बलाद् अयं  
 यदि **सिषाधयिषा**-पदम् ईश्वरः ।  
@@ -4951,7 +4952,7 @@ This is Yamuna's objection, which states the extent to which he concurs in the p
 भवतु नाम तथा सति दूषणं श्रुतिशिरःप्रमितो हि महेश्वरः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यदा तु सकल-भुवन-निर्माण-क्षम--  
 सर्व-ज्ञ--सर्वेश्वर--परम-पुरुष-प्रतिपादकानि नित्यागम-वचनान्य् एव बहुलम् उपलभ्यन्ते  
@@ -4973,7 +4974,7 @@ how then can we refuse to accept the authority of a tradition which derives from
 
 #### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
 > +++(तद्-वस्तु-)+++साधक-बाधकयोर् अन्यतरोपनिपात-सम्भव-प्रसक्तेर्  
@@ -5011,7 +5012,7 @@ To the Prabhakara this validity is ideal in the case of injunctions concerning a
 न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भवप्रसक्तेर्भावितानुवादविपर्ययपर्यालोचनया तद्गोचरवचसः प्रामाण्यप्रच्युतिः कार्यनिष्ठस्यापि तत्प्रसङ्गात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(लौकिकं←)+++कार्यम् अपि हि मानान्तर-वेद्यम् एव +++("ओदनेन होतव्यम्" इत्यत्र)+++ लौकिकं समिद्-आहरणादि,  
 तच् च मानान्तरेणापि **वेद्यम्** ओदन-पाकवद् इत्य् अभ्युपगमात् ।  
@@ -5044,7 +5045,7 @@ $ Vide Prakaraṇapañcikā II, p. 180-
 वेद्यम् ओदन-पाकवत् ॥ " 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> अथ विलक्षणाग्नि-होत्रादि-विषय-कार्यस्यासम्भावित-मानान्तरतया  
 > तत्-प्रतिपादयद् वचः प्रमाणम्,  
@@ -5062,7 +5063,7 @@ therefore the verbal testimony which sets forth such a thing must needs be its a
 > अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्य-महाऽऽनन्द-सन्दोह-वपुषि भगवति  
 > न मानान्तर-गन्ध-सम्बन्ध  
@@ -5083,7 +5084,7 @@ depending on one's particular partisan views.
 > हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अपि च प्रवृत्त-प्रमाणान्तरम् अपि  
 > स्व-गोचरं तद्-गोचरतया नावभासयतीति  
@@ -5104,7 +5105,7 @@ since verbal testimony concerning its fact may conceivably turn up?
 अपि च प्रवृत्तप्रमाणान्तरमपि स्वगोचरं तद्गोचरतया नावभासयतीति परमपि प्रमाणमेव कुतस्तदुपनिपातसम्भावनयाऽनुवादत्वम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कथं वा प्रत्यस्तमित-समस्त-पुरुषाशय-दोष-संस्पर्श--नित्यागम-भुवः प्रत्ययस्य पूर्वोपमर्दकतयन्नीयमानस्य  
 सम्भाव्यमान-विविध-विप्लवैः प्रमाणान्तरैर् अपवादापादनम्  
@@ -5136,7 +5137,7 @@ as in the case of Pancaratra.
 </details>
 
 #### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इत्थञ् च श्रुति-शत-समधिगत--विविध-बोधैश्वर्यादि-वैभवे भगवति  
 > सामान्य-दर्शनावसितासार्वज्ञ्य-विग्रहवत्तादयो दोषा  
@@ -5163,7 +5164,7 @@ since Scripture can indeed validly pronounce on God.
 इत्थञ्च श्रुतिशतसमधिगतविविधबोधैश्वर्यादिवैभवे भगवति सामान्यदर्शनावसितासार्वज्ञ्यविग्रहवत्तादयो दोषा नावकाशमश्नुवते हुतभुजीव शैत्यादयः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ततश् च -  
 > 
@@ -5189,7 +5190,7 @@ while it is composed by the Omniscient One Himself
 तन्त्रं मिथ्येति वक्तुं नः कथं जिह्वा प्रवर्तते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अहो मन्दस्य मीमांसा-  
 श्रम-हानिर् **विजृम्भते** ।  
@@ -5216,7 +5217,7 @@ The Prabhakaras, who are notorious for the gaurava 'complicatedness" of their ar
 
 ### कार्य-सम्बन्धे हि व्युत्पत्तिः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्ये मानान्तरापूर्वे  
 समस्तं वैदिकं वचः ।  
@@ -5237,7 +5238,7 @@ only concerning such karyas as cannot presuppose any other authority.
 प्रमाणमिति हि प्राज्ञाः मन्यन्ते मान्यबुद्धयः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पदानां तत्+++(→प्रमाणान्तरागोचर-कार्य)+++-परत्वेन  
 व्युत्पत्तेर् **अवधारणात्** ।  
@@ -5259,7 +5260,7 @@ if it concerns something else than a karya.
 न खल्वन्यपरे शब्दे व्युत्पत्तेरस्ति सम्भवः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि वृद्धयोर् व्यवहरतोर् एकतर-वृद्ध-प्रयुक्त-शब्द+++(←"गाम् आनय")+++-श्रवण-समनन्तर--  
 जनितान्यतर-वृद्ध-समवेत-चेष्टां **दृष्ट्वा**  
@@ -5307,7 +5308,7 @@ it must have been the first man's statement.
 तथा हि वृद्धयोर्व्यवहरतोरेकतरवृद्धप्रयुक्तशब्दश्रवणसमनन्तरजनितान्यतरवृद्धसमवेतचेष्टां दृष्ट्वा अन्यथाऽनुपपत्त्युन्नीयमाना शब्दशक्तिस्तदुपपादककार्यपर्यवसायिन्येवावसीयते,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रतीता** हि स्व-कार्य-सन्ताने  
 कार्य-संविद् एव तत्-तद्-विशिष्ट-चेष्टा-हेतुतया।  
@@ -5339,7 +5340,7 @@ Thus śalikanatha, Prakaranapancika, p. 182: niyo?? yali?? sarvakarye yaft soaki
 प्रतीता हि स्वकार्यसन्ताने कार्यसंविदेव तत्तद्विशिष्टचेष्टाहेतुतया तदयमिहापि तादृशीं प्रवृत्तिं पश्यन्नेवमाकलयति - नूनमितस्सकाशादस्य कार्यसंविदाविरासीत् यदयमेतदनन्तरं प्रवर्तत इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं च  
 समस्त-व्यवहारानुगत-प्रवृत्ति-निमित्त--कार्य-प्रतिपादन-परतया व्युत्पन्ने शब्दे  
@@ -5372,7 +5373,7 @@ is dependent upon the injunctive denotation of the statement as a whole.
 एवं च समस्तव्यवहारानुगतप्रवृत्तिनिमित्तकार्यप्रतिपादनपरतया व्युत्पन्ने शब्दे यत्पदावापोद्धारानुयायिनोयेऽर्थभागास्ते प्रथमावगतप्रधानभूतकार्यानुगुणतया तैस्तैरभिधीयन्ते इत्यध्यवस्यति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र च लिङ्-आदयो  
 ऽव्यभिचरित-कार्य-संविदः कार्य-शरीरम् एव  
@@ -5414,7 +5415,7 @@ only one who desires to go to heaven has title to, is qualified for, the perform
 तत्र च लिङादयोऽव्यभिचरितकार्यसंविदः कार्यशरीरमेव साक्षात्समर्पयन्ति तिङादयस्तु तदपेक्षिताधिकाराद्यनुबन्धप्रतिपादनमुखेन तत्समन्वयमनुभवन्तीति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** च पुत्र-जननादि-स्वरूपावेदन-पर्यवसायिनः पद-निचयस्य  
 अविरल-पुलकोदय--वदन-विकासादिभिर् अभिमत-सुत-जन्मादि-प्रतिपादन-**शक्ति-निश्चयः** -  
@@ -5447,7 +5448,7 @@ This is an example like "it is hot today;" the young father's happy countenance 
 न च पुत्रजननादिस्वरूपावेदनपर्यवसायिनः पदनिचयस्याविरलपुलकोदयवदनविकासादिभिरभिमतसुतजन्मादिप्रतिपादनशक्तिनिश्चयः अजातातिवृत्तप्रत्युत्पन्नविविधहर्षहेतूपनिपातेयममुनेति निर्धृत्य प्रतिपत्तुमशक्यत्वात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन +++("स्वर्गकामः सोमेन यजते"→)+++ व्युत्पन्नेतर-पद-समभिव्याहृत--वर्तमान-निर्देशेऽपि  
 कार्यैदम्पर्य-विरहित-पद--शक्ति--निश्चय-प्रतिविधिर् +++(लिङ्-आक्षेपेण)+++ **अनुसंधातव्यः** ।  
@@ -5474,7 +5475,7 @@ E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," i
 एतेन व्युत्पन्नेतरपदसमभिव्याहृतवर्तमाननिर्देशेऽपि कार्यैदम्पर्यविरहितपदशक्तिनिश्चयप्रतिविधिरनुसंधातव्यः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पदान्तराणि यादृङ्क्षि  
 **व्युत्पद्यन्ते** च तादृशम् ।  
@@ -5500,7 +5501,7 @@ summarized in the formula anvitābhidhāna, which is short for kāryānvitābhid
 इदञ्च पदमित्येव तत्र व्युत्पद्यते नरः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि कार्यान्वित-स्वार्थ-  
 **बोधकानीति साधितम्** ।  
@@ -5522,7 +5523,7 @@ is based on this that they give rise to the notion of karya.
 अथ तद्बुद्धिहेतुत्वात् प्रामाण्यं भूतगोचरम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **इष्यते** तद्+++(→कर्य-बोधन)+++-अनेकान्तं+++(=क्वचित्ता)+++  
 पदेष्व् इति **न शोभते** ।  
@@ -5550,7 +5551,7 @@ This point will be taken up and confirmed infra §04.
 अथ तत्परता हेतुस्ततश्च स्यादसिद्धता ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्य् अकार्यरूपे वस्तुनि क्वचिदपि शाब्दी बुद्धिः प्रर्यवस्यति ।  
 </details>
@@ -5565,7 +5566,7 @@ For a notion that arises from a verbal statement can never terminate in any obje
 न ह्यकार्यरूपे वस्तुनि क्वचिदपि शाब्दी बुद्धिः प्रर्यवस्यति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 याः पुनर् लौकिक-शब्द-श्रवण-समनन्तर-भाविन्यो ऽन्वयावगतयस्  
 ता आनुमानिक्यो ऽभिहिताः,  
@@ -5598,7 +5599,7 @@ river bank 'river bank," etc.
 याः पुनर्लौकिकशब्दश्रवणसमनन्तरभाविन्योऽन्वयावगतयस्ता आनुमानिक्योऽभिहिताः न शाब्द्य इत्युपपद्यत एव तासामतत्पर्यवसानम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तत्+++(=कार्य)+++-परता-**ग्राहः**  
 शब्दानां **नैव विद्यते** ।  
@@ -5620,7 +5621,7 @@ be accepted as an injunction?
 अग्निहोत्रञ्जुहोतीति विधिः कस्मादुपेयते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अथ तत्र प्रमाणत्वे  
 **संवृत्ते** ऽपि च तावता ।  
@@ -5640,7 +5641,7 @@ it is accepted as an injunction in order to ensure that it subserves a purpose,
 पुरुषार्थत्वलाभाय विधिरभ्युपगम्यते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् असन् - **न** प्रमाणानां  
 **प्रयोजन-वशानुगा** ।  
@@ -5663,7 +5664,7 @@ dependent on the operation of the means of knowledge.
 प्रवृत्तिः किन्तु तन्मूलः प्रयोजनपरिग्रहः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** खलु कनकम् **अभिलषतः**  
 शिलावलोकनम् **अनभिमतम्**  
@@ -5683,7 +5684,7 @@ therefore one finds gold!
 न खलु कनकमभिलषतः शिलावलोकनमनभिमतमिति कनकावलोकनताऽश्रयितुमुचिता ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तात्पर्यम् एव शब्दानां  
 यावत् कार्ये **न कल्पितम्** ।  
@@ -5708,7 +5709,7 @@ contains an injunction.+++(5)+++
 
 ### उपनिषद्-वाक्यावगतिः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवञ् चोपनिषदाम् अपि  
 तत्र-तत्राम्नायमान-ज्ञानोपासनादि-विधि-शेषतया ऽर्थो **व्याकरणीयः**,  
@@ -5740,7 +5741,7 @@ supposes the immortality of the performer.
 एवञ्चोपनिषदामपि तत्रतत्राम्नायमानज्ञानोपासनादिविधिशेषतयाऽर्थो व्याकरणीयः, तदयमर्थः सर्वज्ञमानन्दमात्मानं जानीयात् इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** च तावता स्वरूपम् अपि सिध्यतीत्य् **अध्यवसेयम्** -  
 अ-सत्य् एव रूपे तादृशि  
@@ -5761,7 +5762,7 @@ a certain thing be such while actually it is not so;
 न च तावता स्वरूपमपि सिध्यतीत्यध्यवसेयम् असत्येव रूपे तादृशि तथा विधानोपपत्तेः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैतद् अ-पितर्य् एव "पितरञ् जानीयाद्" इति  
 तथा चानुद्गीथ ओङ्कार उद्गीथ-विधानम् इति ।  
@@ -5778,7 +5779,7 @@ or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." 
 यथैतदपितर्येव पितरञ्जानीयादिति तथा चानुद्गीथ ओङ्कार उद्गीथविधानमिति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि पुनर् आत्म-सत्यत्व-नित्यत्व-वादीनि वाक्यानि  
 तान्य् +++(विधि-वाक्ये→)+++अ-विशेषित-काल--कर्म-विधानाक्षिप्यमाण+-  
@@ -5805,7 +5806,7 @@ In this the Prabhakara concurs with the Bhatta. Injunctions without time of frui
 यानि पुनरात्मसत्यत्वनित्यत्ववादीनि वाक्यानि तान्यविशेषितकालकर्मविधानाक्षिप्यमाणामुष्मिकफलभोगोचितचेतनकर्तृप्रतिपादनपराणि 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो न किञ्चिद् अपि वचो भूते +++(←सिद्धे)+++ ऽर्थे प्रमाणम् ।  
 </details>
@@ -5820,7 +5821,7 @@ Therefore, no verbal statement whatever is a means of knowing a thing as such.
 अतो न किञ्चिदपि वचो भूतेऽर्थे प्रमाणम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः सर्वार्थवादानाम् अपि  
 परिनिष्ठित-रुद्र-रोदनादि-प्रतिपादन-परता-वारणोपपादनेन  
@@ -5848,7 +5849,7 @@ On this point see KMS 1.2.1. with Sabara's bhāṣya.
 </details>
 
 ### उपसंहारः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् **अ-पर्यालोचित**-पूर्वापर-पद-तात्पर्याणाम्  
 आपातायात-श्रद्धा-**विरचित**-विग्रहो ऽयम् **उद्ग्राहितः** पुरुष  
@@ -5869,7 +5870,7 @@ with which we conclude our extensive discussion.
 तस्मादपर्यालोचितपूर्वापरपदतात्पर्याणामापातायातश्रद्धाविरचितविग्रहोऽयमुद्ग्राहितः पुरुष इत्यलमतिविस्तरेण ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धम् इदं - न श्रुतितो ऽप्य् अभिमत-पुरुषातिशयः सिध्यतीति ।
 </details>
@@ -5885,7 +5886,7 @@ with which we conclude our extensive discussion.
 </details>
 
 ### सिद्ध-वस्तु-परत्वेऽपि नेश्वरः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च भवतु भूतम् अपि वस्तु शास्त्रस्य विषयः, 
 </details>
@@ -5900,7 +5901,7 @@ Let us, further, suppose that Scripture can indeed convey knowledge of facts;
 अपि च भवतु भूतमपि वस्तु शास्त्रस्य विषयः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ च कथम् इव चोदना-जनित-धियम् **अवधीर्य**  
 धर्माधर्मौ **विजानाति** कश्चिद् इत्य् **अभ्युपेयते**? 
@@ -5919,7 +5920,7 @@ when we take into account the cognition that arises from injunction?
 अथ च कथमिव चोदनाजनितधियमवधीर्य धर्माधर्मौ विजानाति कश्चिदित्यभ्युपेयते  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वज्ञता हि प्रसिद्धैर् एव प्रमाणैः यथा-यथम् अर्थान् अवगच्छतोऽपि संगच्छते, 
 </details>
@@ -5941,7 +5942,7 @@ On the Bhatta view of omniscience, cf. Kumārila, Samb. 47-59; 114-116.
 सर्वज्ञता हि प्रसिद्धैरेव प्रमाणैः यथायथमर्थानवगच्छतोऽपि संगच्छते, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि तद् अस्ति वचनं  
 यद् अस्य  
@@ -5960,7 +5961,7 @@ by cancelling the normal means of knowledge.
 न हि तदस्ति वचनं यदस्य प्रसिद्धबुद्ध्युत्पादनहेतुहानमुखेन सार्वज्ञ्यं ज्ञापयति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्य् अपि किञ्चिद् अभविष्यत्  
 तथाऽपि परस्परान्वयाऽनुचित-पदार्थतया  
@@ -5980,7 +5981,7 @@ since its word-meanings would not allow of mutual relation.
 यद्यपि किञ्चिदभविष्यत् तथाऽपि परस्परान्वयाऽनुचितपदार्थतयाऽर्थवादतयैव समर्थनीयम्
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमाणान्तरावगत-योग्यतादि-**पुरस्-सरी**  
 पदेभ्यो वाक्यार्थ-बुद्धिर् **उपजायमाना** -  
@@ -6009,7 +6010,7 @@ i.e, the appropriateness or propriety of a word in collocation with other words;
 प्रमाणान्तरावगतयोग्यतादिपुरस्सरी पदेभ्यो वाक्यार्थबुद्धिरुपजायमाना प्रथमतरनिपतितापेक्षितप्रमाणान्तरविरोधे कथमिव जनिमनुभवतीति सम्भावयामः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्षादि-**प्रतिक्षिप्त**-  
 गोचरं वचनं यदि ।  
@@ -6036,7 +6037,7 @@ The identification is considered an arthavada, i,e., laudatory of the sacrificia
 
 ## १३ नेश्वर-प्रणीतता
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि चास्ति नरः कश्चित्  
 तादृशातिशयाश्रयः ।  
@@ -6063,7 +6064,7 @@ I read yadi ca for api ca.
 </details>
 
 ### सर्व-ज्ञ-वादि-नैकान्तता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च तादृश-पुरुषेण विरचितम् इदम्  
 > इति पञ्चरात्र-गोत्रानुसारिणः स्मरन्ति ।
@@ -6079,7 +6080,7 @@ I read yadi ca for api ca.
 ननु च तादृशपुरुषेण विरचितमिदमिति पञ्चरात्रगोत्रानुसारिणः स्मरन्ति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाशुपता वा किन् न स्मरन्ति,  
 तेऽपि स्व-दर्शनादर्शकम् अखिल-जगद्-अध्यक्षम् आचक्षते, तथाऽन्येऽपि ।  
@@ -6097,7 +6098,7 @@ and others have the same claims.
 पाशुपता वा किन्न स्मरन्ति, तेऽपि स्वदर्शनादर्शकमखिलजगदध्यक्षमाचक्षते तथाऽन्येऽपि ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च सर्वेऽमी सर्वज्ञा - विरुद्धार्थोपदेशानुपपत्तेः ।  
 </details>
@@ -6113,7 +6114,7 @@ because then it would be impossible for them to set forth mutually contradictory
 न च सर्वेऽमी सर्वज्ञा - विरुद्धार्थोपदेशानुपपत्तेः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 य एव च वादिनाम् एकस्य वादिनः सर्व-ज्ञ-सिद्धौ हेतुर् भवति  
 स सर्वेषां साधारणः।  
@@ -6136,7 +6137,7 @@ which one do we conclude is the one and only omniscient God?
 य एव च वादिनामेकस्य वादिनः सर्वज्ञसिद्धौ हेतुर्भवति स सर्वेषां साधारणः तदिह बहुषु परस्परविरुद्धमर्थमहमहमिकयोपदिशत्सु कतमं सर्वज्ञमध्यवसामः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाऽह -  
 
@@ -6168,7 +6169,7 @@ As the (unidentified) text says,
 इति । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वतन्त्राधिगमाधीनं  
 +++(नाना)+++ सर्व-ज्ञ-परिकल्पनम् ।  
@@ -6189,7 +6190,7 @@ the result will be that none of them is authoritative, !
 परस्परप्रतीघातात्सर्वाप्रामाण्यमावहेत् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु, 
 
@@ -6216,7 +6217,7 @@ be brought to the same level as other Tantras?
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा हि पौरुषे सूक्ते  
 **श्रूयते** तस्य वैभवम् ।  
@@ -6250,7 +6251,7 @@ likewise, "He is Brahma, he is śiva;" (Mahānār Up 11.12.)
 तथा स ब्रह्मा स शिव इति, तद्विष्णोः परमम्पदम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "न तस्य कश्चित् पतिर् अस्ति लोके  
 न चेशिता तस्य च नैव लिङ्गम्" ।  
@@ -6272,7 +6273,7 @@ characterized by His origination, maintenance and annihilation of the world.
 इतीरयन्ति श्रुतयोऽस्य भूतिं जगज्जनिस्थेमपिधानचिह्नाम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > विष्णोस् सकाशाद् **उद्भूतं**  
 जगत् तत्रैव च **स्थितम्** ।  
@@ -6297,7 +6298,7 @@ said Parāśara;
 स्थितिसंयमकर्ताऽसावित्याह स्म पराशरः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इत्थं तम् एव सर्वेशं मनुर् अप्य् आह, तद् यथा ।  
 >
@@ -6327,7 +6328,7 @@ I read tatha pi.
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इत्थं नाना-श्रुति-मुनि-वचस्-सन्तत-स्तूयमान-  
 ज्ञानैश्वर्यः परम-पुरुषः पञ्च-रात्रं **व्यधत्त** ।  
@@ -6356,7 +6357,7 @@ just because he is a drinker!
 केवलं तन्त्रत्व-साम्यम् आदाय यदि पञ्चरात्रम् अपि अवैदिकम् इति वक्तुम् उत्सहसे, तर्हि, ते तव प्रीति-पात्रं सोमपोऽपि, पातृत्व-साम्यम् आदाय, सुरा-पैः समानः प्रसजति इत्य्-अन्वयः। "समान" पदं पूर्व-पादाद् अध्याहार्यम्। मीमांसकस्य पूर्व-पक्षित्वाद् अत्र सोम-प-दृष्टान्तः सरस इति च ध्येयम्।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नैतज् +++(तन्त्रं)+++ ज्यायः किम् अङ्ग? श्रुतिषु भगवतो **न प्रसिद्धा** विशुद्ध-  
 ज्ञानैश्वर्यादि-धर्मास् त्रिपुर-विजयिनस् - तेन यत् किञ्चिदेतत् ।  
@@ -6384,7 +6385,7 @@ how could He promulgate a doctrine that is outside the pale of the Veda?
 वेदान्तैकप्रमाणः कथयति स कथं वेदगोष्ठीबहिःष्ठम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि भगवतः पशुपतेर् अपि  
 सार्वज्ञ्य-सर्वैश्वर्यावेदिकाः श्रुतयो  
@@ -6421,7 +6422,7 @@ which ascribe omniscience and omnipotence to lord Pasupati as well:
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-ज्ञेश्वर-शब्दौ च  
 न र्ते देवात् पिनाकिनः +++(→तस्मिन्न् अपि)+++ ।  
@@ -6445,7 +6446,7 @@ who are as it were all-knowing and supreme.
 उत्पत्तिशक्त्या वर्तेते सत्यप्यन्यत्र तद्वति / सर्वज्ञादिनामवत्यपि॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++("यस् सर्व-ज्ञः सर्व-वित्"→)+++  
 किञ्च सर्व-ज्ञ-शब्देन  
@@ -6483,7 +6484,7 @@ he asks. This term too has to be explained as all-knower', which lands the Panca
 Therefore, the Pasupata method of explanation is in sooth, proper- the term sarvajña' refers to Śiva conventionally, while the term 'sarvavit' does so, through etymology. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च स्कन्द-लिङ्गादि-  
 पुराणानि पिनाकिनः ॥  
@@ -6503,7 +6504,7 @@ in describing this all knowing and sovereign character of Siva.
 उपक्षीणानि सार्वज्ञ्यसर्वैश्वर्योपपादने ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च तत्-प्रणीतत्वात्  
 प्रामाण्यम् अनया दिशा ॥  
@@ -6530,7 +6531,7 @@ applies to this Pasupata Tantra too.
 </details>
 
 ### श्रुति-विरोधः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च भवतु भगवान् वासुदेव एवौपनिषदः पुरुषः,  
 अथ च स कथम् इव श्रुति-परिपन्थि-तन्त्रम् एतत् प्रणयेतेत्य् उत्प्रेक्ष्येत  
@@ -6571,7 +6572,7 @@ sarvasvenāpi mām devi
 napnotyājñāvilaṁghanāt. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्च -  
 
@@ -6599,7 +6600,7 @@ discussion.
 
 ### मोहनोद्देशः?
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्तु वा समस्तजगदध्यक्षो वासुदेव एवास्य तन्त्रस्य प्रणेता,  तथाऽपि -
 </details>
@@ -6614,7 +6615,7 @@ Or else, suppose that Vasudeva Himself, ruler of the entire universe, was the pr
 अस्तु वा समस्तजगदध्यक्षो वासुदेव एवास्य तन्त्रस्य प्रणेता,  तथाऽपि -
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 माया-मोहन-विग्रहेण हरिणा देव-द्रुहां संहतिम्   
 **हन्तुं** मोहयता ऽहितान्य् **अभिहितान्य्** आहुर् हि तच्छद्मना ।  
@@ -6649,7 +6650,7 @@ Visnupurāna- ( Jivānanda's edn.) Arśa- III. chs. 17 - 18 give the story of Ma
 </details>
 
 #### वैदिकैर् अनङ्गीकारः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्त्युत **भ्रमयन्न्** एव  
 **व्याजहारेति** गम्यते ।  
@@ -6672,7 +6673,7 @@ just as the doctrine of the Jainas is not accepted?
 वैदिकैरगृहीतत्त्वात् तथाऽर्हतमतं यथा ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदिकापरिग्रहश् च प्राग् एव प्रपञ्चित इति,  
 तस्मान् न +++(वेदापेक्षया→)+++स्व-तन्त्रानुभव-मूलतया प्रमाणम् ।  
@@ -6697,7 +6698,7 @@ supra § 12.
 
 ### न मन्वादि-स्मृतिवत्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि मन्वादि-स्मरणवद् इत्य् - अनुपपन्नं पञ्चरात्रस्मरणम् ।  
 </details>
@@ -6717,7 +6718,7 @@ supra §11.
 नापि मन्वादिस्मरणवदित्यनुपपन्नं पञ्चरात्रस्मरणम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मन्वादिवद् देवः  
 शुश्रूषा-**परितोषितात्** ।  
@@ -6741,7 +6742,7 @@ then the assumption that He was independent is purposeless and false.
 स्वातन्त्र्यकल्पनाऽमुष्य व्यर्था मिथ्या तथा सति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनधीतोऽपि वेदोऽस्य  
 **प्रतिभातीत्य्** अलौकिकम् +++(ततोऽसम्भाव्यम्)+++॥  
@@ -6768,7 +6769,7 @@ are all to be presumed in the case of Pañcarātra,
 
 ## १४ तान्त्रिकतायाः बाह्यम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च -   
 
@@ -6796,7 +6797,7 @@ are all to be presumed in the case of Pañcarātra,
 $ To be identified. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदिकं तान्त्रिकं चेति  
 **विभाग-करणाद्** अपि ।  
@@ -6844,7 +6845,7 @@ Harita in his Dharmasastra, says- srutiśca dvividhā, vaidiki tantriki ca (Quot
 44 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > शैवं पाशुपतं सौम्यं  
 लागुडञ्च चतुर्विधम् ।  
@@ -6903,7 +6904,7 @@ Also see Saivasiddhānta p. 43- 6.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा -  
 
@@ -6932,7 +6933,7 @@ this description of the divisions of Tantra is also found in Pancarātra.
 
 ## १५ जीव-जन्मोक्तिः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च -  
 
@@ -6958,7 +6959,7 @@ should be Truth is a highly ludicrous contention.
 न्यायहीनं वचस्तथ्यमिति हास्यमिदम्महत् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च श्रुतिः - 
 
@@ -7000,7 +7001,7 @@ and,
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स्याद् एतत् उच्छेदाभाव-मात्र-प्रतिपादकम् एतद् वचनं  
 > न जन्माभावम् अवगमयति
@@ -7021,7 +7022,7 @@ not that it is not born.
 स्यादेतत् उच्छेदाभावमात्रप्रतिपादकमेतद्वचनं न जन्माभावमवगमयतीति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न, 
 
@@ -7047,7 +7048,7 @@ does not perish.
 न ह्यस्ति संभवो भावो जातो नैव क्षरेदिति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च,  
 >
@@ -7073,7 +7074,7 @@ it follows that there were no souls before the time of creation.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यदि जीवाः पृथग्भूताः  
 प्राक् सृष्टेः स्युः परात्मवत् ।  
@@ -7094,7 +7095,7 @@ on sat's absolute solitariness?
 कथमेतत्सदेवेति तदेकत्वावधारणम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रोच्यते "सद् एवे"ति  
 यद् एकत्वावधारणम् ।  
@@ -7118,7 +7119,7 @@ that were about to be created by sat.
 तत्सिसृक्षितवाय्वम्बुवियत्प्रभृतिगोचरम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्युदासिष्यताऽनेन  
 वचसा चेतनो यदि ।  
@@ -7139,7 +7140,7 @@ just as the creation of ether is described.
 गगनादेरिवास्यापि जननं निरदेक्ष्यत ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** च **निर्दिश्यते** तेन  
 **न** जीवो **जनिम्** ऋच्छति ।  
@@ -7160,7 +7161,7 @@ we do not hear of the creation of the individual soul.
 तत्तेजोऽसृजतेत्यादौ जीवसर्गो हि न श्रुतः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च "यतो वा इमानि भूतानि" इत्य्-अत्र  
 > जीवानाम् एव जनन-जीवन-प्रायणाभिसंवेशनानि प्रतीयन्ते?  
@@ -7177,7 +7178,7 @@ we hear that the souls too know origin, continuance and reabsorption.
 ननु च यतो वा इमानि भूतानि इत्यत्र जीवानामेव जननजीवनप्रायणाभिसंवेशनानि प्रतीयन्ते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा हि भूतशब्दोऽयं  
 जीवानाम् **अभिधायकः** ।  
@@ -7197,7 +7198,7 @@ for thus we find the word used in the passage bhrāmayan sarvabhūtāni,
 भ्रामयन् सर्वभूतानीत्येवमादिषु दर्शनात् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > जीवन्तीति हि शब्दोऽयं  
 जीवेष्व् **एवावकल्पते** ।  
@@ -7223,7 +7224,7 @@ The whole sentence includes tena jivanti, on which the present exegesis of bhuta
 तेन जायन्त इत्येतज् ज्ञायते जीवगोचरम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् इदम् अनुपपन्नं भूत-शब्दो विहायः-  
 पवन--हुत-भुग्-अम्भो-मेदिनीषु प्रसिद्धः ।  
@@ -7252,7 +7253,7 @@ namely, that they are born (jātāri) and die (prayanti).
 पदमिदमितरस्मिंल्लक्षणावृत्ति तेषां बहुविधपरिणामो गीयते जीवनञ्च ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रथमम् **अधिगता** ये खादयो भूत-शब्दात्  
 तद्-अनुगुणतयाऽर्थं **वक्ति** जीवन्ति-शब्दः ।  
@@ -7273,7 +7274,7 @@ then too the statement declares that the soul is born only in the sense that its
 यदि च भवति जीवे भूतशब्दस्तदानीमपि वदति तदीयञ्जन्म देहानुबन्धि ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो जीव-परत्वेऽपि  
 भूत-शब्दस्य **युज्यते** ।  
@@ -7295,7 +7296,7 @@ once born walks about.
 जायन्त इति शब्दोऽयं गौर्ज्जातो गच्छतीति वत् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा "ऽजो ह्य् एक" इत्य्-आद्याः  
 श्रुतयो ऽन्याश् च सन्ति नः ।  
@@ -7317,7 +7318,7 @@ Similarly, the word of the Lord:
 जीवानुत्पत्तिवादिन्यस्तथा भगवतोवचः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रकृतिं पुरुषञ्चैव  
 > विद्ध्य् अनादी उभाव् अपि । (Bh G. 18.61.)
@@ -7333,7 +7334,7 @@ Similarly, the word of the Lord:
 > प्रकृतिं पुरुषञ्चैव विद्ध्यनादी उभावपि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अजो नित्यश् शाश्वतोऽयं पुराणः ।  
 </details>
@@ -7348,7 +7349,7 @@ Similarly, the word of the Lord:
 अजो नित्यश्शाश्वतोऽयं पुराणः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न जायते म्रियते वा कदाचित् ।  
 
@@ -7366,7 +7367,7 @@ Similarly, the word of the Lord:
 इत्यादि ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यायश् च -  
 
@@ -7395,7 +7396,7 @@ as it consists of spirit, like the Supreme Soul.
 
 ## १६ नापौरुषेयता
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पश्यन्तः पौरुषेयत्वे  
 दूषणान्य् उक्तया दिशा ।  
@@ -7416,7 +7417,7 @@ posit that Tantra too must be eternal.
 अनन्यगतयः केचित् तन्त्रं नित्यमतिष्ठिपन् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् एतत् स्व-हृदय-निहित-विशदतर-  
 कतृ-स्मरण-प्रतिहतम् **अभिधीयत**  
@@ -7440,7 +7441,7 @@ notice.
 ## १७ पाशुपतादि-समता
 
 ### पौरुषेयत्वम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च -  
 
@@ -7466,7 +7467,7 @@ we shall have the defect of mutual exclusion.
 तथाऽस्त्विति यदि ब्रूयाद् व्याघातस्स्यात् परस्परम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-लोक-प्रसिद्धा च  
 वासुदेव-प्रणीतता ।  
@@ -7487,7 +7488,7 @@ can no more be rejected than the preferpersonal origin of the Veda.
 </details>
 
 ### अनुदय-विपर्यास-विशयाः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो कश्चिद् ब्रूयाद् -  
 
@@ -7515,7 +7516,7 @@ Cf. Slokavārtika ( I. 1. 2 ) $1.54a-
 " अप्रामाण्यं त्रिधा भिन्नं मिथ्यात्वाज्ञानसंशयैः । " 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वक्तव्यः 
 
@@ -7550,7 +7551,7 @@ Your worship better keep quiet.
 
 ## १८ उपसंहारः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् एवम् उदीरित-न्याय-श्रुति-स्मृतीतिहास-पुराण-न्याय-विरुद्धाभिधानेन,  
 समस्त-शिष्ट-जन-परिग्रह-विरहेण च,  
@@ -7575,7 +7576,7 @@ but actually wished to deceive the world.
 तदेवमुदीरितन्यायश्रुतिस्मृतीतिहासपुराणन्यायविरुद्धाभिधानेन, समस्तशिष्टजनपरिग्रहविरहेण च, स्वर्गापवर्गावसानोपदेशव्याजेन केनापि जगद्वञ्चयितुं विरचितानि पञ्चरात्रतन्त्राणीति मन्यामहे ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईदृशापस्मृति-विषयम् एव तद्वचः -  
 </details>
@@ -7590,7 +7591,7 @@ Concerning its apocryphal character, which we have now exposed, we have the decl
 ईदृशापस्मृतिविषयमेव तद्वचः -  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > या वेद-बाह्याः स्मृतयो  
 याश्च काश्च कुदृष्टयः ।  
@@ -7616,7 +7617,7 @@ Concerning its apocryphal character, which we have now exposed, we have the decl
 इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईदृश-दुर्-मार्गानुगामिन एव तेऽपि,  
 एषां वाङ्-मात्रेणापि +अर्चनं निषिध्यते,
@@ -7632,7 +7633,7 @@ Those who follow the Veda are forbidden to speak with those who follow such evil
 ईदृशदुर्मार्गानुगामिन एव तेऽपि एषां वाङ्मात्रेणापि अर्चनं निषिध्यते,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तञ्च -  
 
@@ -7663,7 +7664,7 @@ Those who follow the Veda are forbidden to speak with those who follow such evil
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्य् उपन्यस्तया नीत्या  
 पञ्च-रात्रम् अशेषतः ।  
@@ -7694,7 +7695,7 @@ I read rityā.
 ## ०१ निर्दोष-ज्ञान-जन्यतया प्रामाण्यानुमानम्
 
 ### प्रतिज्ञा
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विवादाध्यासितं तन्त्रं  
 प्रमाणम् इति **गृह्यताम्**।  
@@ -7717,7 +7718,7 @@ like the scriptural statements on the Vedic sacrifices jyotiştoma etc.
 </details>
 
 ### अनुमानय् अवयवाः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** तावद् अनुमानेऽस्मिन्  
 न्याय-शास्त्र-परीक्षिताः ।  
@@ -7738,7 +7739,7 @@ Let us consider the Object of the Proposition.
 दोषा मृगयितुं शक्यास्तत्र पक्षः परीक्ष्यताम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पक्षो नाम प्रतिज्ञाऽर्थः  
 स च सिद्धेन केनचित् ।  
@@ -7774,7 +7775,7 @@ a non-thing like a hare's horn can be neither S nor P.
 ## ०२ पक्ष-सौष्ठवम्
 
 ### प्रसिद्धिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र न तावद् अ-प्रसिद्ध-विशेषणः पक्षः -  
 प्रामाण्य-नाम्नः पदार्थस्य उभय-वादि-सिद्धत्वात् प्रत्यक्षादौ,  
@@ -7792,7 +7793,7 @@ for this term, ie. "validity," is for both parties established with regard to th
 प्रामाण्यनाम्नः पदार्थस्य उभयवादिसिद्धत्वात् प्रत्यक्षादौ,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् अ-प्रसिद्ध-विशेष्यः +++(सविशेषणः पक्षः)+++ पञ्च-रात्र-शास्त्रस्य सर्व-लोक-प्रसिद्धत्वात्, 
 </details>
@@ -7808,7 +7809,7 @@ Nor is the subject itself unknown, for the Pañcaratra system is known universal
 </details>
 
 ### न सिद्ध-साधनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि सिद्ध-साधनः +++(सविशेषणः पक्षः)+++,  
 प्रस्तुत-शास्त्र-प्रामण्यस्य प्रतिवादिनो ऽसिद्धत्वात्,+++(4)+++ 
@@ -7826,7 +7827,7 @@ for this Object, "The Pañcaratra is valid," is not proved for the opponent.
 </details>
 
 ### न प्रत्यक्ष-विरोधः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च प्रत्यक्ष-विरुद्धः +++(सविशेषणः पक्षः)+++ अ-प्रामाण्यस्यातीन्द्रियत्वात्, 
 </details>
@@ -7843,7 +7844,7 @@ since its opposite, ie. nonvalidity, is beyond perceptual verifiability.
 </details>
 
 ### नानुमानतो विरोधो बाह्यत्वादिभिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् अनुमानविरुद्धः +++(सविशेषणः पक्षः)+++, अनुपलम्भनात् ।  
 </details>
@@ -7860,7 +7861,7 @@ because no inference proving non-validity is found.
 </details>
 
 #### न बाह्यत्वाद् अप्रामाण्यम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **ननूपलभ्यत** एवानुमानम् -  
 > पञ्च-रात्र-शास्त्रमप्रमाणम् वेद-बाह्यत्वात् बौद्धागमवत् ।  
@@ -7878,7 +7879,7 @@ because it is non-Vedic, like Buddhism,
 > ननूपलभ्यत एवानुमानम् -पञ्चरात्रशास्त्रमप्रमाणम् वेदबाह्यत्वात् बौद्धागमवत् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र ब्रूमः कतरद् इहाप्रामाण्यं सिषाधयिषितम्  
 </details>
@@ -7893,7 +7894,7 @@ REFUTATION. We reply, What is this nonauthoritativeness which this reasoning see
 अत्र ब्रूमः कतरदिहाप्रामाण्यं सिषाधयिषितं  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि +++(अप्रामाण्यम्)+++ ज्ञानानुत्पत्ति-लक्षणं, ततः प्रत्यक्षविरोधः।  
 प्रत्यक्षं हि  
@@ -7916,7 +7917,7 @@ he hears is perceptually evident.
 यदि ज्ञानानुत्पत्ति-लक्षणं ततः प्रत्यक्षविरोधः, प्रत्यक्षं हि विदितपदतदर्थसङ्गतेः श्रोतुः पञ्चरात्रशास्त्रवाक्यश्रवणसमनन्तरमुपजायमानं तदर्थविषयं ज्ञानम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि +++(अप्रामाण्यम्)+++ संशय-लक्षणं - तत +++(→प्रत्यक्षतः)+++ एव विरोधात्।  
 न खलु  
@@ -7941,7 +7942,7 @@ does not occasion a doubtful cognition:
 नापि संशयलक्षणं तत एव विरोधात् न खलु पद्ममध्ये चतुर्बाहुं पूजयेत्पुरुषोत्तमम् इतीदं वचनं पूजयेन्न वेति संशयितं प्रत्ययमुत्पादयति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि विपर्यय-लक्षणं योग्यानुपलम्भाभावात्,  
 अनागत-विपर्ययोत्प्रेक्षायाः प्रत्यक्ष-विरोधात्, अशेष-व्यवहारोच्छेद-हेतुत्वाच् च।  
@@ -7980,7 +7981,7 @@ this "non-apprehension of what should be there (yogānupalambha) is the criterio
 
 #### वेद-भिन्नत्वान् नाप्रामाण्यम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++([वेद-बाह्यत्वाद् अप्रमाणम् इति] पञ्चरात्र-)+++आगम-विरुद्धञ् च -  
 
@@ -8024,7 +8025,7 @@ The claim that Pañcarātra is invalid is opposed by the Pañcarātra Agama itse
 ' तस्य' पाञ्चरात्रागमस्यैव अप्रामाण्ये निश्चिते सति, मदुक्तेनानुमानवाक्येन विरोधः स्फुट एव । तत्र को दोषः ? इति तस्य प्रश्नः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त एवं सति  
 तद्+++(=पाञ्चरात्र)+++-अप्रामाण्ये +++(त्वत्-प्रयुक्त-)+++ऽनुमान-प्रामाण्यम् +++(इष्यते)+++,  
@@ -8067,7 +8068,7 @@ But I don't see how the objector can reasonably infer the validity of Pañcarāt
 हन्त एवं सति तदप्रामाण्येऽनुमानप्रामाण्यम् अनुमानप्रामाण्ये तदप्रामण्यमित्यन्योन्याश्रयणम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च किम् इदं वेद-बाह्यत्वम्?   
 </details>
@@ -8082,7 +8083,7 @@ But I don't see how the objector can reasonably infer the validity of Pañcarāt
 अपि च किमिदं वेदबाह्यत्वं  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि वेदान्यत्वं ततः +++(वेद-भिन्नत्वात्)+++ प्रत्यक्षादिभिर् अनैकान्तः ।  
 </details>
@@ -8100,7 +8101,7 @@ which are also different from the Veda.
 यदि वेदान्यत्वं ततः प्रत्यक्षादिभिरनैकान्तः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ +++(प्रत्यक्ष-ग्रहणं वारयितुं)+++ "शब्दत्वे सती"ति हेतुर् विशेष्यते ततो निग्रहस्थानम्,  
 यथाऽहुः 
@@ -8131,7 +8132,7 @@ By the rules of debate this means a defeat.
 यथाऽहुः निर्विशेषहेतुप्रयोगे पुनर्विशेषणोपादानं निग्रहः, इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनैकान्तिकश्च मन्वादिवाक्यैः ।  
 </details>
@@ -8149,7 +8150,7 @@ which also are language and different from the Veda,
 
 #### अ-वेद-मूलत्वान् न
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथैतद्-दोष-हानाय  
 वेद-बाह्यत्व-शब्दतः ।  
@@ -8171,7 +8172,7 @@ then what do you, logician, think of it?
 अवेदमूलतां मन्द मन्यसे किन्नु तार्किक? ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनायम् अर्थः  -  
 "शब्दत्वे सत्य् अ-वेद-मूलत्वाद्" इति,  
@@ -8194,7 +8195,7 @@ which does not derive from the Veda!
 तेनायमर्थः शब्दत्वे सत्यवेदमूलत्वादिति, ततो वेदैरनैकान्त्यम्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा अ-वेदत्वे सति शब्दत्वे सति अ-वेद-मूलत्वाद् इति हेतुः,
 </details>
@@ -8212,7 +8213,7 @@ When the ground is redefined as
 अथवा अवेदत्वे सति शब्दत्वे सति अवेदमूलत्वादिति हेतुः,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथापि ।  
 
@@ -8237,7 +8238,7 @@ and yet are valid, like
 अवेदमूलैर्दुर्वारमनैकान्त्यं प्रसज्यते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
 
@@ -8261,7 +8262,7 @@ then still we have a vicious applicability to such precepts as
 अथ अवेदत्वे सति शब्दत्वे सति कार्यविषयत्वे सति अवेदमूलत्वं हेतुः, अत्रापि अजीर्णे मन्दमश्नीयादित्यादौ व्यभिचारिता ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ
 
@@ -8289,7 +8290,7 @@ since the great majority of its Statements concern Brahman.
 अथोक्तविशेषणविशिष्टत्वे धर्माधर्मविषयत्वेऽपि सत्यवेदमूलत्वादिति हेतुः, ततो भागासिद्धो हेतुः, न हि पञ्चरात्रशास्त्रं कृत्स्नं धर्माधर्मविषयम् ब्रह्मविषयाणामेव वचसां बाहुल्यात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ "प्रमाणान्तरायोग्यार्थत्वे सती"ति विशेषः  
 +++("अवेदत्वे सति, शब्दत्वे सति, अ-वेद-मूलत्वं हेतुः," इत्यत्र)+++  
@@ -8312,7 +8313,7 @@ that the Perception of God encompasses all things related to dharma and adharma.
 अथ प्रमाणान्तरायोग्यार्थत्वे सतीति विशेषः तत्रापि सैवासिद्धिः, भगवत्प्रत्यक्षस्य धर्माधर्मादिसमस्तवस्तुगोचरस्य श्रुतिशतप्रसिद्धत्वात् तच्चैतदनन्तरमेव वक्ष्यामः  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् अलम् अनेनाशिक्षिताक्षपाद-मतानाम् अ-प्रतिष्ठित-प्रतिभा-विजृम्भितेन ।  
 </details>
@@ -8334,7 +8335,7 @@ Akshapada - The founder of the school of logic.
 तदलमनेनाशिक्षिताक्षपादमतानामप्रतिष्ठितप्रतिभाविजृम्भितेन ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 संभाव्यमानान्य् अप्य् अनुमानान्तराणि  
 परस्ताद् उपन्यस्य निरस्यन्ते  
@@ -8353,7 +8354,7 @@ We conclude therefore, that the proposition "Pañcarātra is authoritative," is 
 </details>
 
 #### नागम-विरोधः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् आगम-विरुद्धः -  
 पञ्च-रात्र-शास्त्र-प्रामाण्य-प्रतिपादकस्य "इदम् महोपनिषदम्" इत्य्-आद्य्-आगम-शतस्य प्रदर्शयिष्यमाणत्वात् ।  
@@ -8372,7 +8373,7 @@ will be adduced which set forth that Pañcarātra is authoritative.
 </details>
 
 ### न स्व-व्याघातादि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-वचन+++(→विरोधः)+++--स्वाभ्युपगम+++(→विरोधः)+++--सर्व-लोक-प्रसिद्धि-विरोधाश्  
 **शब्द-विरोध**-प्रकारास् त्व् अनाशङ्कनीया एव, 
@@ -8393,7 +8394,7 @@ or contradiction with universally accepted facts.
 स्ववचन-स्वाभ्युपगम-सर्वलोकप्रसिद्धिविरोधाश्शब्दविरोधप्रकारास्त्वनाशङ्कनीया एव, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि न तावत् स्ववचनविरोधः,  
 स हि त्रेधा - उक्तिमात्रविरोधः, धर्मोक्तिविरोधः, धर्म्युक्तिविरोधश् चेति, 
@@ -8413,7 +8414,7 @@ and of utterance of substance.
 तथा हि न तावत् स्ववचनविरोधः, स हि त्रेधा उक्तिमात्रविरोधः, धर्मोक्तिविरोधः, धर्म्युक्तिविरोधश्चेति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र न तावद् उक्तिमात्र-विरुद्धोऽयं पक्षः,  
 न हि "पञ्च-रात्र-शास्त्रं प्रमाणम्" इति प्रतिज्ञा-वचनं  
@@ -8436,7 +8437,7 @@ does not cancel its own content, as does, for instance, the statement:
 न हि पञ्चरात्रशास्त्रं प्रमाणमिति प्रतिज्ञावचनं स्वार्थं व्याहन्ति यथा यावज्जीवमहं मौनी इति,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि धर्मोक्ति-विरोधः,  
 **न** हि प्रामाण्यं  
@@ -8457,7 +8458,7 @@ does not cancel the proposition.
 नापि धर्मोक्तिविरोधः, न हि प्रामाण्यं पञ्चरात्रोद्देशेन विधीयमानं पक्षं प्रतिक्षिपति सर्ववाक्यानामिव मिथ्यात्ववचनम्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि धर्म्य्-उक्ति-विरोधः,  
 सत्य् अपि धर्मिणि,  
@@ -8479,7 +8480,7 @@ as motherhood is contradicted by the property sterility.
 नापि धर्म्युक्तिविरोधः, सत्यपि धर्मिणि धर्मान्वयस्याऽविरुद्धत्वात्, न हि जननीत्वमिव वन्ध्यात्वेन पञ्चरात्रशास्त्रत्वं प्रामाण्येन विरुद्धम्, (प्. ३२) 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि विवादाध्यासितस्य प्रामाण्य-प्रतिज्ञाने  
 तत्र श्रुत्य्-उक्त-धर्मि-विशेष-विरोधः -  
@@ -8512,7 +8513,7 @@ So far the argument is not for validity but against invalidity.
 विहितहिंसानामिवाधर्मत्वप्रतिज्ञाने विवादाध्यासस्योपलक्षत्वात्,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो वा नागमविरोधः,  
 तद् एवं प्रतिपन्नः पक्षः ।  
@@ -8531,7 +8532,7 @@ so that we conclude that the proposition is presentable.
 
 ## ०३ हेतु-सौष्ठवम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि हेतोर् अनैकान्तिकत्वादयो दोषाः ।  
 </details>
@@ -8546,7 +8547,7 @@ so that we conclude that the proposition is presentable.
 नापि हेतोरनैकान्तिकत्वादयो दोषाः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि न तावद् अनैकान्तिकः, 
 </details>
@@ -8562,7 +8563,7 @@ The ground is not occasionally applicable to other terms.
 </details>
 
 ### नानैकान्तिकः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि द्वेधा साधारणासाधारणभेदात् -  
 यथा "पृथिवी-नित्यत्व-साधने प्रमेयत्वं" +++(इत्य् अनित्येष्व् अपि वर्तमानो हेतुः)+++ साधारणः,  
@@ -8606,7 +8607,7 @@ Like the ground "because it is knowable" which applies to things regardless of w
 </details>
 
 #### न साधारणत्वात्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र न तावन् निर्दोष-ज्ञान-कारणत्वं प्रमाणाप्रमाण-साधारणं,  
 येन साधारणानैकान्तिकं स्यात्, 
@@ -8617,7 +8618,7 @@ Like the ground "because it is knowable" which applies to things regardless of w
 तत्र न तावन्निर्दोषज्ञानकारणत्वं प्रमाणाप्रमाणसाधारणं येन साधारणानैकान्तिकं स्यात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि निर्द्दोष-ज्ञानकारणत्वम् अ-प्रमाण-भूत--विप्रलम्भक-वचनादिषु विपक्षेषु दृष्टचरम् ।  
 </details>
@@ -8635,7 +8636,7 @@ that Pañcaratra is deceptive and hence nonauthoritative.
 </details>
 
 #### नासाधारणत्वात्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् असाधारणः -  
 +++(पाञ्चरात्रं प्रामाणिकं निर्दोष-ज्ञान-जननात् - ज्योतिष्-टोमादि-वाक्यवत् इत्यत्र)+++  
@@ -8655,7 +8656,7 @@ shows its connection with other instances on the same side of the argument.
 </details>
   
 ### न विरुद्धः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि विरुद्धः,  
 विपरीत-व्याप्त्य्-अभावात्,  
@@ -8674,7 +8675,7 @@ since there is no concomitance of its opposite; being a cause of faultless knowl
 </details>
 
 ### न कालात्ययः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च कालात्ययापदिष्टः -  
 प्रत्यक्ष-विरोधाभावात्  
@@ -8694,7 +8695,7 @@ and in this it is analogous with Scripture.
 </details>
 
 ### नासिद्धः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चासिद्धत्वम्,  
 अ-सिद्धिर् हि आश्रयतः स्वरूपतो वा तावद् आश्रयासिद्धिः,  
@@ -8714,7 +8715,7 @@ The first does not apply, for its locus is Pañicarātra Sastra, which is proved
 न चासिद्धत्वम्, असिद्धिर्हि आश्रयतः स्वरूपतो वा तावदाश्रयासिद्धिः, पञ्चरात्रशास्त्रस्याश्रयत्वात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि स्व-रूपासिद्धः,  
 सोऽपि त्रेधा - अज्ञान-सन्देह-विपर्ययभेदात्,  
@@ -8732,7 +8733,7 @@ through ignorance, through dubiety, or through reversion.
 नापि स्वरूपासिद्धः, सोऽपि त्रेधा अज्ञान-सन्देह-विपर्ययभेदात्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तावद् अ-ज्ञानासिद्धिः,  
 तत्-प्रतिपादक-शब्दोच्चारणात्, 
@@ -8754,7 +8755,7 @@ Obviously, if the ground were not known, it could not be stated.
 न तावदज्ञानासिद्धिः, तत्प्रतिपादकशब्दोच्चारणात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि संदिग्धासिद्धः,  
 निर्दोषत्वस्य वादिनः स्वयं सिद्धत्वात्,  
@@ -8773,7 +8774,7 @@ while for the opponent the same is easily proved by the fact that no defects are
 नापि संदिग्धासिद्धः, निर्दोषत्वस्य वादिनः स्वयं सिद्धत्वात्, प्रतिवादिनोऽपि दोषानुपलम्भादेवानायाससिद्धत्वात्,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विपर्ययासिद्धिस्तु दूरोत्सारितैव ।  
 </details>
@@ -8791,7 +8792,7 @@ That the ground would be unestablished through reversal is utterly out of the qu
 
 ### पौरुषेयस्यापि ग्राह्यता
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु कथं पौरुषेयत्व-सामान्याद् आपतन्ती दोष-संभावना अपनीयते 
 </details>
@@ -8812,7 +8813,7 @@ This objection seems to speak to the summary denial that the ground is unestabli
 ननु कथं पौरुषेयत्वसामान्यादापतन्ती दोषसंभावना अपनीयते 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चरात्रमन्त्राणां कथं वाक्यत्व-सामान्याद् आपतन्ती वेदेषु सा +++(दोषसंभावना)+++ वार्यते, 
 </details>
@@ -8828,7 +8829,7 @@ There too it arises instantly, since the Vedas are language-statements.
 पञ्चरात्रमन्त्राणां कथं वाक्यत्वसामान्यादापतन्ती वेदेषु सा वार्यते, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपौरुषेयत्वाद् इति चेत्  
 तद् इहापि सर्व-ज्ञावाप्त-काम--परम-पुरुष-प्रणीततयेत्य् अवगम्य शाम्यतु भवान् ।  
@@ -8847,7 +8848,7 @@ and you may keep quiet!
 अपौरुषेयत्वादिति चेत्तदिहापि सर्वज्ञावाप्तकामपरमपुरुषप्रणीततयेत्यवगम्य शाम्यतु भवान् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदुक्तं भवति -  
 
@@ -8880,7 +8881,7 @@ hence the following debate with the Prabhakara,
 सन्ति किन्तु स्वतस्तस्य प्रमाणत्वमिति स्थितिः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वक्तुर् आशय-दोषेण  
 केषुचित् तद् **अपोद्यते** ।  
@@ -8901,7 +8902,7 @@ for instance in a language statement,
 अङ्गुल्यग्रेऽस्ति मातङ्गयूथमित्येवमादिषु ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रस्तुत-ग्रन्थ-सन्दर्भे  
 वक्तुर् आशय-गामिनीम् ।  
@@ -8922,7 +8923,7 @@ about any defects in the character of the speaker in the text collection here un
 दोषशङ्कां त्रयीमूर्द्धध्वनिरेवापमार्ष्टि नः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वदन्ति खलु वेदान्ताः  
 सर्वज्ञं जगतः पतिम् ।  
@@ -8945,7 +8946,7 @@ then how can we suppose Him to be deceitful etc.?
 ## ०४ सिद्ध-वस्तुनि शब्द-प्रामाण्यम्
 
 ### प्रतिज्ञा
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च   
 > 
@@ -8975,7 +8976,7 @@ they do not have proper denotative power.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् असत् सिद्धम् अप्य् अर्थम्  
 **आचक्षाणाः** प्रयोगतः ।  
@@ -9000,7 +9001,7 @@ by applications which concern karyas.
 </details>
 
 ### पुत्र-जन्मोदाहरणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् यथा "पुत्रस् ते जात"  
 इति वचन-श्रवणानन्तर-जनित-विशिष्ट-वदन-**विकासावसान**-समनन्तरं  
@@ -9033,7 +9034,7 @@ the statement itself has the power to convey an agreeable meaning.
 तद्यथा पुत्रस्ते जात इति वचनश्रवणानन्तरजनितविशिष्टवदनविकासावसानसमनन्तरं हृष्टोऽयमिति प्रतिपद्य हर्षोऽयं प्रियार्थावगमनिबन्धन इति स्वात्मन्याकलयन् मध्यमवृद्धस्यापि तन्निबन्धनमेव हर्षमनुमिमानस्तद्भावभावितया शब्दस्यैव प्रियार्थाऽवबोधकतामव्यवस्यति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राप्य् 
 
@@ -9056,7 +9057,7 @@ amongst the many different grounds that may occur according to past, present and
 तत्राप्यतीतानागतादिभेदभिन्नेषु हर्षहेतुषूपप्लवमानेषु कस्य वक्ताऽयमिति विचिकित्सोदये सति   
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 (तद्-अनन्तर-संजात--जात-कर्मावबोधतः ।  )
 </details>
@@ -9072,7 +9073,7 @@ receives knowledge that a birth ceremony is being held. )
 तदनन्तरसंजातजातकर्मावबोधतः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 (तद्-अन्तर-सञ्जातं  
 ज्ञापकम् **अन्विष्यतः** ।  
@@ -9086,7 +9087,7 @@ receives knowledge that a birth ceremony is being held. )
 तद्-अनुभूतः को ऽपीति भिन्न-वस्त्राभरणम्² पुरा³ ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तद्-धेतु-भूतः कोऽपी"ति  
 निश्चिन्वन्न् आत्मनः पुरा ॥  
@@ -9107,7 +9108,7 @@ Then he considers,
 कर्तव्यं जातकर्मेति प्रतीतेः किन्नु कारणम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतीतं प्रियम् इत्य् एवं  
 **विमृशन्न् अवगच्छति** ॥  
@@ -9145,7 +9146,7 @@ but a communication of an established fact,
 पुत्रजन्मैव निवान्यदिति व्युत्पित्सुरर्भकः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र च -  
 
@@ -9169,7 +9170,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 </details>
 
 ### विधि-पक्षेऽप्य् आवापोद्वापक्रमः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः,  
 अति प्रसङ्गात्।
@@ -9187,7 +9188,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः, अति प्रसङ्गात्।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न च जात-कर्म-कर्तव्यताऽवगतिर् नियमेन प्रियार्थावगम-पुरस्सरी, 
 </details>
@@ -9202,7 +9203,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 न च जात-कर्म-कर्तव्यताऽवगतिर् नियमेन प्रियार्थावगम-पुरस्सरी, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसो ऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, 
 </details>
@@ -9219,7 +9220,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसोऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्यावगतिः किं शब्द-कारणिका दृष्टा  
 येन "गाम् आनये"त्य् आदौ  
@@ -9236,7 +9237,7 @@ REFUTATION. Don't we find that the realization of a kārya is caused by a verbal
 कार्यावगतिः किं शब्द-कारणिका दृष्टा येन गाम्-आनयेत्य् आदौ गवानयनादि-कर्तव्यतावगतिः शब्द-कारणिकाऽभ्युपेयते। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
 
@@ -9257,7 +9258,7 @@ When you say that, since this realization cannot occur without a cause therefore
 अथ आकस्मिकत्वानुपपत्तेः सन्निहित-शब्द एव तद्-अवगम-हेतुर् इति चेत् समानोऽयं विधिर् इतरत्रापि।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यापि प्रवृत्ति-हेत्व्-अर्थ-  
 प्रतिपादकता क्वचित्।  
@@ -9278,7 +9279,7 @@ It has been decided by our opponent that the verbal denotation of a meaning whic
 लिङादि-प्रत्ययावाप-हैतुकी साऽवसीयते॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यश् च कार्य-परताम् एवाखिल-पदानाम् आतिष्ठते, 
 </details>
@@ -9293,7 +9294,7 @@ He who maintains that all words only bear meaningfully on kārya,
 यश् च कार्य-परताम् एवाखिल-पदानाम् आतिष्ठते, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, 
 </details>
@@ -9311,7 +9312,7 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 </details>
 
 ### न कार्यान्विताभिधान-मात्रम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > समर्थ्यमाना ऽपि कार्यान्वयिन्य् एव समर्थ्यत 
 
@@ -9341,7 +9342,7 @@ namely, that somebody who has this desire is prepared to do something about it.
 समर्थ्यमानापि कार्यान्वयिन्य् एव समर्थ्यत इति चेत् अलं व्यसनेन अन्यान्विताभिधानेनापि व्यवहारोपपत्तेः।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्याश्रयणीयेयम्  
 अन्वितार्थाभिधायिता।  
@@ -9367,7 +9368,7 @@ Words, he says, generally depend upon some factors
 and those factors need not necessarily be ‘kārya’.  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव्याप्तञ् चैतत् 
 
@@ -9393,7 +9394,7 @@ Pointing out the untenability of the theory of ‘kārya’,
 he says that it goes astray in the instance of ‘liṅ’ the optative itself.  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++("स्वर्गकामो ज्योतिष्टोमेन यजेते"ति यथा )+++  
 लिङ्-आदयो हि +++(स्वर्गकामना याजके←)+++ परिनिष्ठिताधिकाराद्य्-अनुबन्ध-संबन्धिनम् एव स्वार्थम् अभिदधति ।
@@ -9417,7 +9418,7 @@ Even the ‘liṅ’-suffix is found to depend upon a host of factors like the q
 > स्वार्थे पदानां व्युत्पत्तिर् आस्थेया सर्ववादिभिः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
 
@@ -9458,7 +9459,7 @@ Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र स
 यथा जरती वृद्धा स्त्री, तस्याः पतिः तदर्थं गुणमात्रं गृह्णाति ह्यवयवान्तरं त्यजतीति युक्तिशून्यम् ।”
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् आकाङ्क्षितासन्न-  
 योग्यार्थान्तर-सङ्गतेः ।  
@@ -9482,7 +9483,7 @@ Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र स
 Words convey their sense only in connection with such other idea or factor that is complete to its sense (ākāṅkṣita), that is compatible with it (yogya) and which is supplied by a word uttered along with it (āsanna). Kārya should therefore occupy a subordinate but not the supreme position in the scheme of significance of words.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++("तुष्यतु दुर्जन" इति)+++ यद्य् अपि +++("गाम् आनये"ति →)+++ प्रवृत्त्य्-अनुपपत्ति-समधिगमनीयैव  
 शब्द-शक्तिस्, तथाऽपि -
@@ -9516,7 +9517,7 @@ even so
 तुष्यतु दुर्जन 'न्यायेनाऽऽह ' यद्यपी 'ति । प्रवृत्तिर्गवानयनादिषु । तस्या अन्यथानुपपत्त्या प्रथमं शक्तिरभ्युपेया 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तटस्थोपायता-मात्रं  
 शब्द-शक्ति-विनिश्चये ।  
@@ -9541,7 +9542,7 @@ it is correct when we decide the denotation of language to take the standpoint t
 एवं कार्यस्यापीति ध्येयम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनन्य-लभ्यश् शब्दार्थ  
 इति न्याय-विदस् स्थिताः ।  
@@ -9569,7 +9570,7 @@ just as is the case with floating precious stones on water.
 The quality of gems is tested by putting them in water. If they float, that is an indication of their superiority. This method of testing or the knowledge regarding the test is no doubt useful in determining the class of gems; but it is of no avail at the time of wearing them. On this analogy, it is argued that the knowledge of 'karya' though useful to arrive at the significance of words, is not useful at the time of using those words. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव हि ब्रह्म-जातीयादि-वज्र-विशेषावधारणोपयोगिनोऽपि पयः-प्रतरणादेर् अवधृत-रत्न-सत्त्वस्य  
 न व्यवहार-दशायाम् उपयोगः,  
@@ -9593,7 +9594,7 @@ For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśv
 </details>
 
 ### नदी-तीर-फलम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि च कार्यान्वितम् एवार्थं शब्दाः प्रतिपादयन्ति कथं तेभ्यः परिनिष्ठित-नदी-तीर-फलादिसंसर्गावगमः, 
 </details>
@@ -9610,7 +9611,7 @@ For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśv
 यदि च कार्यान्वितम् एवार्थं शब्दाः प्रतिपादयन्ति कथं तेभ्यः परिनिष्ठित-नदी-तीर-फलादिसंसर्गावगमः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नायं मुख्यो लाक्षणिक 
 
@@ -9628,7 +9629,7 @@ If you say that a statement of such a substantive relation does not denote the r
 </details>
 
 ### मानान्तरानपेक्षा
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(शब्दानां मुख्य-प्रयोगः)+++ मानान्तरापूर्वे+++(←तेन न साध्यम् इत्य् "अपूर्वम्")+++ कार्य 
 
@@ -9660,7 +9661,7 @@ we reply: no, for then no use of words would be possible, since their meaning wo
 + शब्दस्येति शेषः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि मानान्तरापूर्वे+++(←तेन न साध्यम् इत्य् अपूर्वम्)+++  
 व्युत्पत्तिर् उपपद्यते ।  
@@ -9688,7 +9689,7 @@ Yamuna here attacks the theory advanced by the Prabhakaras that the words uttere
 </details>
 
 ### अपूर्वे शक्तिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽपि मन्यते 
 
@@ -9712,7 +9713,7 @@ when it bears on a kārya that is to be accomplished with a certain action.
 > लोके क्रिया-कार्ये व्युत्पन्न-शब्दः  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(शब्दः)+++ फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि-धात्व्-अर्थोत्तीर्ण-  +अपूर्व+++(-रूप)+++-कार्याभिधान-शक्तिर् वेदे मोदते,  
 </details>
@@ -9740,7 +9741,7 @@ X ' फलपदं' फल-वाचकं स्वर्ग-कामाद�
 वेदे निर्वृत्त इति भावः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर्  
 न शब्दार्थ-तत्त्वावधारणम् आद्रियते 
@@ -9772,7 +9773,7 @@ Cf. Prakaranapañcikā V. p. 95:
 वृष्ट्य्-आयत्त-फले कर्मणि प्रवर्तन्ते । "
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यापीदं मनोरथ-मात्रम्, 
 </details>
@@ -9787,7 +9788,7 @@ REFUTATION. This position is just wishful thinking;
 तस्यापीदं मनोरथ-मात्रम्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि क्रिया+++(-रूप)+++-कार्ये व्युत्पन्नः +++("यजेत"-शब्दः)+++  
 स्थायि+++(-अपूर्व-रूप)+++-कार्यं प्रतिपादयति - अति-प्रसङ्गात् । 
@@ -9831,7 +9832,7 @@ But he will deny the entire construction (67).
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने  
 ऽन्वयावगतिर् +++('स्वर्गकाम'पदस्य)+++ नोपपद्यते, मोपपादि। 
@@ -9856,7 +9857,7 @@ then we can never know their connection!
 ६ अन्वयावगतिः 'स्वर्गकाम'पदस्येति शेषः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु तद्-अनुपपत्त्या  
 कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्य्-अन्तरं भजते । 
@@ -9874,7 +9875,7 @@ it does not thereby acquire another denoting power.
 न तु तद्-अनुपपत्त्या कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्यन्तरं भजते । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं लक्षणाऽश्रीयताम् ।
 </details>
@@ -9889,7 +9890,7 @@ In such cases we surely must assume lakṣaṇā.
 कामं लक्षणाऽश्रीयताम् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि +++('सिंहो माणवकः', 'अग्निर्माणवकः' इत्यादिप्रयोगेषु)+++ विरुद्धार्थ-पद-समभिव्याहारे  
 पदानाम् अभिधानम् एवान्यथा नीयते,  
@@ -9911,7 +9912,7 @@ For when certain words are collocated that have incompatible meanings, these wor
 'सिंहो माणवकः', 'अग्निर्माणवकः' इत्यादिप्रयोगेषु । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं च मानान्तरापूर्व+++(←तेन न साध्यम् इत्य् अपूर्वम्)+++-  
 +++(-रूप-)+++कार्य-बोधन-शक्तता ।  
@@ -9938,7 +9939,7 @@ For when certain words are collocated that have incompatible meanings, these wor
 नास्तीति भाट्टो ग्रन्थकारश्चेति बोध्यम् । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैयोगिकस्+++(=विधि-सूचकः)+++ स +++(कर्म-फल-)+++सम्बन्धो  
 न पुनर् वैनियोगिकः +++(=साधन-सूचकः)+++ ।  
@@ -9971,7 +9972,7 @@ cannot be proved except by the relation of kārya with the fruit of the act, and
 'स च' कर्मफलसङ्गमः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च दुरुत्तरम् इतरेतराश्रयणम् ।
 </details>
@@ -9998,7 +9999,7 @@ And therefore there is a vicious interdependence that cannot be refuted.
 इति अन्योन्याश्रयणप्रकारः समनुसन्धेयः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > साध्य-स्वर्ग-विशिष्टस्य  
 पुरुषस्य **प्रवर्तकः** ।  
@@ -10019,7 +10020,7 @@ the injunction itself cannot be the means of achieving the desired heaven.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > भङ्गुरो **न** च धात्वर्थः  
 **करणत्वेन कल्पते** ।  
@@ -10048,7 +10049,7 @@ so that the statement of the injunction would become the means (sādhana) to rea
 इति तद्-भिन्न-कार्यार्थ-बोधकत्वं यद् उच्यते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् असन् - न हि साध्येन  
 स्वर्गेणायं +++(पुरुषो)+++ विशेष्यते ।  
@@ -10075,7 +10076,7 @@ A person is not specified by heaven as the object to be achieved,142 but it is t
 'ज्योतिष्टोमेन स्वर्गकामो यजेते'त्यत्र । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि स्वर्गोऽधिकारिविशेषणं साध्यत्वात् ।  
 </details>
@@ -10090,7 +10091,7 @@ Heaven can not be the specification of the person's qualification, because heave
 न हि स्वर्गोऽधिकारिविशेषणं साध्यत्वात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धम् एव हि सर्वस्य  
 नियोज्यस्य विशेषणम् ।  
@@ -10121,7 +10122,7 @@ Only something that has already been achieved, that actually exists, can specify
 न तु साध्यम् । एवं प्रकृते ऽपि विभाव्यम् । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च नियोज्य-विशेषणताम् +++(त्वन्-मते)+++ अनुभवतः स्वर्गादेः  
 कीदृशं साध्यत्वम् ।  
@@ -10139,7 +10140,7 @@ Only something that has already been achieved, that actually exists, can specify
 अपि च नियोज्य-विशेषणताम् अनुभवतः स्वर्गादेः कीदृशं साध्यत्वम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि साधन-संबन्ध-  
 योग्यत्वं - नैव तावता ॥  
@@ -10168,7 +10169,7 @@ thus as long as it is related with such a means it cannot be a fact.
 स्वर्गेण सिद्ध्यता भाव्यं यावद् योगम् अजन्मतः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धि-पर्यन्तता तस्य +++(स्वर्गस्य "नियोज्य-विशेषणस्य")+++  
 +++(अपूर्व=)+++नियोगैक-प्रमाणिका ॥
@@ -10235,7 +10236,7 @@ these actions, which are devoted simply to some material result, though a part o
 </details>
 
 #### साध्य-द्वयापत्तिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि स्वर्गस्य साध्यत्वं,  
 न नियोगस्य+++(=अपूर्वस्य)+++ साध्यता +++(इति वाच्यम्)+++॥  
@@ -10257,7 +10258,7 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 </details>
 
 ##### नियोग-स्वान्तन्त्र्यम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स्वतन्त्रं हि साध्य-द्वयम् एकवाक्यतां निरुणद्धि -  
 नानुगुणम्, 
@@ -10273,7 +10274,7 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 > स्वतन्त्रं हि साध्य-द्वयम् एकवाक्यतां निरुणद्धि नानुगुणम्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुगुणं चैतत्-साध्य-द्वयं -  
 नियोग-सिद्धिनान्तरीयकत्वात् स्वर्ग-सिद्धेः, 
@@ -10289,7 +10290,7 @@ And here the two sādhyas are interdependent since the realization of heaven is 
 अनुगुणं चैतत्-साध्यद्वयं नियोग-सिद्धि-नान्तरीयकत्वात् स्वर्ग-सिद्धेः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यद् आह  
 > 
@@ -10315,7 +10316,7 @@ And here the two sādhyas are interdependent since the realization of heaven is 
 इति चेत् — 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन् न -
 
@@ -10348,7 +10349,7 @@ REFUTATION. No;
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न हि नित्याधिकारेषु  
 +++(अपूर्वः=)+++नियोगस् ताम् +++(स्वर्गसिद्धिं)+++ अपेक्षते ।  
@@ -10382,7 +10383,7 @@ as he is enjoined upon to perform the periodical acts.
 नियोगस्यैव माहात्म्यं नित्येष्व् इव नियुज्यते । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियोगो हि प्रधानतया ऽधिगम्यमान-स्वर्गम् अभिलषन्तम् अप्य्  
 आत्मन्य् आकर्षति  
@@ -10400,7 +10401,7 @@ For the injunction draws unto itself the desirous person who himself thinks that
 </details>
 
 ##### निमेषादि-साधनता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं च ।  
 
@@ -10421,7 +10422,7 @@ Besides, a person who is desirous of heaven also opens and shuts his eyes; for y
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तत्-साधनतया नैते  
 गृह्यन्त" इति चेन् मतम् ।  
@@ -10442,7 +10443,7 @@ Besides, a person who is desirous of heaven also opens and shuts his eyes; for y
 यागादयः किं तद्-बुद्धि-ग्राह्या विधि-बहिष्कृताः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र च -  
 
@@ -10466,7 +10467,7 @@ On this point: When the injunction does not mean to convey a relation between th
 </details>
 
 #### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माल् लिङादिभ्यः प्रथमम् इष्ट-साधनता-अवगमः,  
 ततो रागतः प्रवृत्तिर् इत्य् एव युक्तम्, 
@@ -10486,7 +10487,7 @@ and that subsequently the desire for this object prompts a person to undertake t
 तस्माल् लिङादिभ्यः प्रथमम् इष्ट-साधनता-अवगमः, ततो रागतः प्रवृत्तिर् इत्य् एव युक्तम्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तद् अपूर्व-कार्याभिधान एव मुख्या शक्तिः, इतरत्र लाक्षणिकी"त्य् अनुपपन्नम्, 
 </details>
@@ -10509,7 +10510,7 @@ and that
 </details>
 
 ### अनुमान-मूलता न लौकिक-शब्देषु
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत एव यथा-यथं लौकिक-शब्देभ्यस् तत्-सिद्धार्थ-गोचरा बुद्धयो जायन्ते ।
 </details>
@@ -10526,7 +10527,7 @@ We conclude that ordinary, non-Vedic statements give rise to cognitions concerni
 अत एव यथा-यथं लौकिक-शब्देभ्यस् तत्-सिद्धार्थ-गोचरा बुद्धयो जायन्ते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु न ताः शब्द-महिम-भुवः, आनुमानिक्यो हि ताः, 
 </details>
@@ -10551,7 +10552,7 @@ but not inferential authority.
 See the verse "tasmādasti madillie ", etc., following. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा हि व्युत्पत्ति-समय-संविदितार्थ-प्रतिपादन-सामर्थ्यान्य् अपि पदानि  
 क्वचिद् +++(शब्देषु)+++ व्यभिचार-दर्शन-जनित-संशय-प्रतिबद्धानि  
@@ -10582,7 +10583,7 @@ na cApratitenarthena
 viseṣaścāvakalpate ।। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चानिश्चितोऽर्थो ज्ञातो भवति  
 अनिश्चयात्मनो ज्ञानस्याभावात् ।
@@ -10598,7 +10599,7 @@ viseṣaścāvakalpate ।।
 न चानिश्चितोऽर्थो ज्ञातो भवति अनिश्चयात्मनो ज्ञानस्याभावात् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तत्राज्ञातेऽपि वाक्यार्थे  
 श्रोतैवं विचिकित्सते ।  
@@ -10618,7 +10619,7 @@ If the meaning of a statement is not known, the listener wants to discover it: "
 ब्रवीत्य् अन्योन्य-संबन्ध-योग्यार्थानि पदान्य् अयम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> न चाविज्ञात-संबन्धान्  
 शब्दान् आप्ताः प्रयुञ्जते ।  
@@ -10658,7 +10659,7 @@ and the listener realizes that therefore the speaker has knowledge of such a con
 इति दोषो न कश्चन ॥ " 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > एवम् अन्वय-ज्ञाने ऽनुमिते  
 तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, 
@@ -10674,7 +10675,7 @@ If the knowledge of connection is thus inferred, the meaning discovered by the l
 एवम् अन्वय-ज्ञाने ऽनुमिते तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अतो लौकिकस्य वचसो वक्त्र्-अनुभव--पर-तन्त्रतया  
 तत्रैव पर्यवसानम् 
@@ -10693,7 +10694,7 @@ If the knowledge of connection is thus inferred, the meaning discovered by the l
 </details>
 
 #### शब्द-शक्तिर् अप्रतिहतैकत्र दोषेऽपि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् असत्,  
 न हि  
@@ -10716,7 +10717,7 @@ for a word conveys its right meaning as its natural function, and the observatio
 क्वचिद् वक्त्राशय-दोष-वशीकाराद् वितथ इत्य् अन्यत्रापि तत्-संभावनया स्वारसिकीम् अर्थावबोधकताम् उज्झितुम् अर्हति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि "मन्त्र-प्रतिहत-दशायां हुतवहो न दहती"त्य्  
 अन्यत्रापि तादृश-दशा-शङ्क्या न दहति, +++(5)+++
@@ -10739,7 +10740,7 @@ because in one case, when obstructed by mantras, it fails to burn, does not make
 ऽथवा हत-शब्दे भावे क्त-प्रत्यय इत्य् अनुसंधेयम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि 
 
@@ -10758,7 +10759,7 @@ And the fact that the sense of vision may give rise to a cognition which does no
 नापि शुक्ति-रजत-धियम् अर्थ-व्यभिचारिणीम् इन्द्रियं दोष-वशाद् उपलब्धम् इति घटादिकम् अपि नावगमयति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो विदित-पद-पदार्थ-सङ्गतेः  
 श्रोतुस् सहसैव शब्दो ऽर्थम् अवबोधयति  
@@ -10776,7 +10777,7 @@ Therefore, a statement does indeed instantly convey a certain meaning to the lis
 </details>
 
 #### मूल-ज्ञानापर्याप्तता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूल-ज्ञान-परिज्ञानाद्  
 अर्वाग् अर्थे ऽपि चोदिते ।  
@@ -10795,7 +10796,7 @@ It does not require knowledge of the basis. Before there is complete knowledge o
 कथम् एवम् अयं वेद इत्य् अनुमानं प्रवर्तते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "किम् **अज्ञासीद्** अयम् वक्ता  
 किञ्चिद्" इत्य् **अनुमित्ससे** ।  
@@ -10814,7 +10815,7 @@ You want to infer: "Did the speaker know something?" or wish to infer his knowle
 विशिष्टार्थान्वय-ज्ञानम् अनुमातुम् अथेच्छसि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** तावद् अयम् **अज्ञासीद्**  
 वक्ता किञ्चिद् इतीयता ।  
@@ -10833,7 +10834,7 @@ But the mere knowledge that the speaker knew something is not enough for utteran
 व्याहार-व्यवहारौ वा स्यातां वाक्यार्थ-गोचरौ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशिष्टार्थान्वय-गोचर-चेतो ऽनुमानन् तु  
 प्रथमतर-प्रवृत्त--तद्-विषय-शेमुषीम् अन्तरेणानुपपन्नम्  
@@ -10853,7 +10854,7 @@ This being so, the meaning of the statement must be known first.
 विशिष्टार्थान्वयगोचरचेतोऽनुमानन्तु प्रथमतरप्रवृत्ततद्विषयशेमुषीमन्तरेणानुपपन्नमिति प्रागेव शब्दार्थोऽवगन्तव्यः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्य् अनासादित-विषय-विशेष-संसर्गाः संविदः  
 परस्-परतो व्यतिभिद्यन्ते ।  
@@ -10869,7 +10870,7 @@ For cognitions whose particular objects are not connected, are not ~~connected~~
 न ह्यनासादितविषयविशेषसंसर्गाः संविदः परस्परतो व्यतिभिद्यन्ते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च तथा ऽनुमिताभिर् अर्थ-विशेषः सिध्यति, 
 </details>
@@ -10884,7 +10885,7 @@ Nor is a particular meaning established by cognitions that are inferred to be su
 न च तथा ऽनुमिताभिर् अर्थ-विशेषः सिध्यति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यादृशान्वय-प्रतिपादन-योग्या पद-रचना  
 सा तद्-अन्वय-ज्ञानम् आपादयति
@@ -10907,7 +10908,7 @@ I maintain that the connection of the particular meanings must be known previous
 यादृशान्वय-प्रतिपादन-योग्या पद-रचना सा तद्-अन्वय-ज्ञानम् आपादयतीति चेत्, अवगतस् तर्हि प्राग् एवार्थानाम् अन्वयः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि बुद्धाव् अनारोपित एवान्वयः प्रयोगं व्यवच्छिनत्ति,
 </details>
@@ -10924,7 +10925,7 @@ unless a connection has already reached the level of cognition it cannot give ri
 
 #### उपसंहारः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् अस्ति नदी-तीरे  
 फलम् इत्य्-एवम्-आदिषु ।  
@@ -10943,7 +10944,7 @@ unless a connection has already reached the level of cognition it cannot give ri
 या सिद्ध-विषया बुद्धिः सा शाब्दी नानुमानिकी ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च "अपूर्व-कार्य-गोचर एव शब्दः प्रमाणम्" इति -  
 </details>
@@ -10958,7 +10959,7 @@ Therefore the position that statements produce valid knowledge only if they deal
 ततश् च अपूर्व-कार्य-गोचर एव शब्दः प्रमाणम् इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-सिन्धान्त-चिराभ्यास-  
 व्यामुग्ध-बल-बिद्धिभिः ॥
@@ -10985,7 +10986,7 @@ it is true that statements may bear meaningfully and informatively on other mean
 </details>
 
 ### वेदान्तोक्त-पुरुषः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च यान्य् एतानि विलक्षण-पुरुष-प्रतिपादकानि वेदान्त-वचांसि 
 </details>
@@ -11000,7 +11001,7 @@ Consequently, all the statements of the Upaniṣads which set forth the existenc
 ततश् च यान्य् एतानि विलक्षण-पुरुष-प्रतिपादकानि वेदान्त-वचांसि 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "स एष सर्वाधिपतिः", 
 
@@ -11043,7 +11044,7 @@ e.g.
 "स एष सर्वाधिपतिः", "सर्वस्येशानः", "सर्वम् इदं प्रशास्ति", "तस्याध्यक्षम् इदं सर्वम्" इत्यादीनि,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान्य् अपि तत्र प्रमाणं  
 तद्-विषयासंदिग्धाविपर्यय-ज्ञान-हेतुत्वात् । 
@@ -11064,7 +11065,7 @@ are authoritative as to what they state, since they produce indubitable and unre
 
 ### सम्भावितानुवाद-विपर्ययौ
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
 > +++(तद्-वस्तु-)+++साधक-बाधकयोर् अन्यतरोपनिपात-सम्भव-प्रसक्तेर्  
@@ -11102,7 +11103,7 @@ To the Prabhakara this validity is ideal in the case of injunctions concerning a
 न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भवप्रसक्तेर्भावितानुवादविपर्ययपर्यालोचनया तद्गोचरवचसः प्रामाण्यप्रच्युतिः कार्यनिष्ठस्यापि तत्प्रसङ्गात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(लौकिकं←)+++कार्यम् अपि हि मानान्तर-वेद्यम् एव +++("ओदनेन होतव्यम्" इत्यत्र)+++ लौकिकं समिद्-आहरणादि,  
 तच् च मानान्तरेणापि **वेद्यम्** ओदन-पाकवद् इत्य् अभ्युपगमात् ।  
@@ -11135,7 +11136,7 @@ $ Vide Prakaraṇapañcikā II, p. 180-
 वेद्यम् ओदन-पाकवत् ॥ " 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> अथ विलक्षणाग्नि-होत्रादि-विषय-कार्यस्यासम्भावित-मानान्तरतया  
 > तत्-प्रतिपादयद् वचः प्रमाणम्,  
@@ -11153,7 +11154,7 @@ therefore the verbal testimony which sets forth such a thing must needs be its a
 > अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्य-महाऽऽनन्द-सन्दोह-वपुषि भगवति  
 > न मानान्तर-गन्ध-सम्बन्ध  
@@ -11174,7 +11175,7 @@ depending on one's particular partisan views.
 > हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च -  
 
@@ -11202,7 +11203,7 @@ since it has already been taken care of by another authority,
 प्रमाणम् एव तत्-पूर्वं न चेत् स्वार्थं विगाहते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य संभावना-मात्राद्  
 अप्रामाण्यम् अलौकिकम् । 
@@ -11220,7 +11221,7 @@ for it is a mere matter of assumption.
 </details>
 
 ### उपसंहारः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् परिनिष्ठितानुष्ठेयादि-भेद-शून्यम्  
 असन्दिग्धाविपर्यस्तविज्ञानं प्रमाणम् एष्टव्यम्,  
@@ -11239,7 +11240,7 @@ Therefore it must be maintained that all indubitable and unreversed knowledge is
 ## ०५ सार्वज्ञ्यम्
 
 ### शब्द-प्रमाणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत इदम् अपास्तम् -
 
@@ -11259,7 +11260,7 @@ Hence we reject our opponent's position. [[61]]
 प्रसिद्धैः करणैरेव सार्वज्ञ्यं नान्यथेति यत् । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यतः श्रुतिरेव तत्र परिपन्थिनी - 
 </details>
@@ -11274,7 +11275,7 @@ because śruti contradicts it:
 यतः श्रुतिरेव तत्र परिपन्थिनी - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पश्यत्य् अ-चक्षुस्  
 स शृणोत्य् अ-कर्णः  
@@ -11300,7 +11301,7 @@ has neither effect nor instrument;"153
 पश्यत्यचक्षुस् शृणोत्यकर्णः यश्चक्षुषा न पश्यति यश्चक्षूंषि पश्यति । न तस्य कार्यं करणं च विद्यते ।   
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स्वाभाविकी ज्ञान-बल-क्रिया च 
 
@@ -11322,7 +11323,7 @@ etc.
 </details>
 
 ### नार्थवादः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चासां गुण-वादत्वं प्रमाणाभावात् ।  
 </details>
@@ -11338,7 +11339,7 @@ for there is no authority for this assumption.
 न चासां गुणवादत्वं प्रमाणाभावात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलब्ध-मुख्य-वृत्तीनां  
 गुण-वाद-समाश्रयः ॥  
@@ -11359,7 +11360,7 @@ Since the primary meaning here makes sense, the assumption of metaphorical use i
 </details>
 
 #### न प्रत्यक्षतः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नन्व् इहापि मुख्य-अर्थ-भङ्ग-कारणम् अस्ति - प्रमाणान्तर-विरोधः । 
 </details>
@@ -11376,7 +11377,7 @@ Since the primary meaning here makes sense, the assumption of metaphorical use i
 नन्व् इहापि मुख्य-अर्थ-भङ्ग-कारणम् अस्ति प्रमाणान्तर-विरोधः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुतः प्रमाणान्तरात्, न तावत् प्रत्यक्षात्, 
 </details>
@@ -11391,7 +11392,7 @@ REFUTATION. What other means of knowledge? Not, to start, Perception,
 कुतः प्रमाणान्तरात्, न तावत् प्रत्यक्षात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि प्रत्यक्षम् उदीरित-पुरुषाभावावभासकम् उदीयमानं दृष्टम्, 
 </details>
@@ -11406,7 +11407,7 @@ for we see no Perception occur which shows that the said Person is non-existent.
 न हि प्रत्यक्षम् उदीरित-पुरुषाभावावभासकम् उदीयमानं दृष्टम्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > योग्य-अनुपलम्भाद् अभाव-निश्चय 
 
@@ -11427,7 +11428,7 @@ that is the said Person, is actually apprehended through Scripture itself, which
 </details>
 
 #### नानुमानतः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् अनुमानात्, 
 </details>
@@ -11442,7 +11443,7 @@ Nor does it militate against Inference;
 नाप्य् अनुमानात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् धि शीघ्र-जन्मागमिक-प्रत्यय-प्रक्षिप्त-प्रतिबन्धं  
 कथम् इव मन्थर-प्रवृत्ति प्रादुर्भवति ।
@@ -11463,7 +11464,7 @@ for how could an Inference which disproves that Person arise at all, slow-moving
 + शब्दप्रमाणापेक्षया अनुमानस्य दौर्बल्यमेव । शाब्दं ज्ञानं शीघ्रतरम् । व्याप्तिज्ञानानन्तरलब्धप्रतिष्ठस्या- नुमानस्य मन्थरप्रवृत्तिरेवेति भावः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं चैवं सति यागादेः  
 स्वर्गापूर्वादि-सङ्गतिः ।  
@@ -11483,7 +11484,7 @@ Moreover, if this were so, the relation of sacrificing etc. to heaven, apūrva15
 </details>
 
 #### न यूपादित्यवत्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यूपादित्यादि-तादात्म्यं  
 प्रत्यक्षेणैव बाधितम् ।  
@@ -11502,7 +11503,7 @@ True, the identity of sacrificial pole and sun, which is asserted by Scripture, 
 विस्पष्ट-दृष्ट-भेदत्वात् काष्ठ-सावित्र-बिम्बयोः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च  
 तत्र सन्निहित-यूपाञ्जन-विध्य्-एकवाक्यतया  
@@ -11529,7 +11530,7 @@ The figurative statement "adityo yūpaḥ "is made on the ground of simi- larity
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेह तथा विध्य्-अन्तरम् अस्ति यच्-छेषतया अर्थ-वादः स्यात् ।
 </details>
@@ -11547,7 +11548,7 @@ There is no other injunction to which it could be accessory as an arthavāda.157
 </details>
 
 #### न कल्पित-विधेः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अथ विध्य्-अन्वयाभावे  
 पुरुषार्थत्वाहानतः ।  
@@ -11566,7 +11567,7 @@ There is no other injunction to which it could be accessory as an arthavāda.157
 अध्य्-आहृत्य विधिं तत्र शेषत्वं परिकल्प्यते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यद् आहुः -  
 > 
@@ -11595,7 +11596,7 @@ There is no other injunction to which it could be accessory as an arthavāda.157
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन् न । 
 </details>
@@ -11611,7 +11612,7 @@ does not hold good.
 </details>
 
 ##### विध्य्-अनपेक्षा
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋते ऽपि विधि-संबन्धाद्  
 दृष्टैव हि पुम्-अर्थता ।  
@@ -11630,7 +11631,7 @@ For, we find that statements have human importance also outside any connection w
 "पुत्रस् ते जातः" इत्य्-आदौ तथेहापि भविष्यति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च तत्र विध्य्-अध्याहारः,  
 अन्तरेणापि विधिं पुत्र-जनन-अवगमाद् एव हर्षोत्पत्तेः । 
@@ -11647,7 +11648,7 @@ Nor need an injunction be supplemented in these cases. For without an injunction
 अन्तरेणापि विधिं पुत्र-जनन-अवगमाद् एव हर्षोत्पत्तेः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा "का क्रिया", "पाकः" इत्यादि-प्रश्नोत्तर-व्यवहारेषु  
 प्रष्टृ-जन-जिज्ञासित--क्रिया-विशेष-- प्रतिपादन-मात्र--निराकाङ्क्षः शब्दो  
@@ -11664,7 +11665,7 @@ Likewise, a statement which is self-sufficient in merely expressing particular a
 तथा "का क्रिया", "पाकः" इत्यादि-प्रश्नोत्तर-व्यवहारेषु प्रष्टृ-जन-जिज्ञासित-क्रिया-विशेष-प्रतिपादन-मात्र-निराकाङ्क्षः शब्दो न विध्य्-अध्याहारम् अपेक्षते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह तु ब्रह्म-विज्ञानं  
 महानन्द-फलं श्रुतम् ॥  
@@ -11690,7 +11691,7 @@ In the upaniṣadic texts the knowledge of brahman is declared to be rewarded by
 "ब्रह्मविद् ब्रह्म भवति", "प्राप्नोति ब्रह्म-वित् परम्" ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अश्नुते ब्रह्मणा सार्धं  
 सर्वान् कामान् स सामगः" ॥  
@@ -11717,7 +11718,7 @@ the human importance of statements without injunctions is quite clear from these
 </details>
 
 ### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् एवम् उदीरित-श्रुति-शत-समधिगतावितथ- सहज-सर्व-साक्षात्-काराकारुण्यादि-कल्याण-गुणैक-राशौ भगवति सिध्यति,  
 सिध्यत्य् एव तद्-अनुभव-मूलतया तन्त्र-प्रामाण्यम् ।
@@ -11759,7 +11760,7 @@ Also cf. Visnusamhitā - ch. II-
 
 ## ०६ विष्णुः परमः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु विरचित-नीत्या कश्चिद् आम्नाय-मूर्द्ध--  
 प्रमित-सहज-सर्व-ज्ञानवान् अस्तु नाम ।  
@@ -11788,7 +11789,7 @@ Also cf. Visnusamhitā - ch. II-
 </details>
 
 ### श्रुतिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्यल्पम् एतत् -  
 न ह्य् अत्र त्रयी-विदो विवदन्ते यद् 
@@ -11808,7 +11809,7 @@ REFUTATION. This is a worthless remark; no experts in the Veda dispute that the 
 अत्यल्पमेतत् न ह्यत्र त्रयीविदो विवदन्ते यद्वासुदेवः परमात्मा अखिलजगत्कारणमिति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयते हि स वेदान्तेष्व्  
 
@@ -11836,7 +11837,7 @@ For He is revealed in the upaniṣads as the Supreme Soul: "Truth, knowledge, in
 परा प्रकृतिरध्यक्षो वासुदेवस्तथा परः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > एकः परस्ताद् य इदं बभूव  
 यस्मात् परं नापरम् अस्ति किञ्चित् ।  
@@ -11870,7 +11871,7 @@ Therefore Viṣṇu's perfect knowledge is established by the upaniṣads.
 इत्यादिवाक्यञ्च ततस्स विष्णुस्त्रयीशिरः सिद्धविशुद्धबोधः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चान्यस्माज् जगज्-जन्म-  
 स्थिति-ध्वंसाश् श्रुतौ श्रुताः ।  
@@ -11890,7 +11891,7 @@ And it is not declared in śruti that the origination, subsistence and destructi
 </details>
 
 ### इतिहास-पुराणादि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमुम् एव परमात्मानं  
 द्वैपायन-पराशर--नारद-प्रभृति--महर्षि-वचनेभ्यः प्रतिपद्यामहे।  
@@ -11909,7 +11910,7 @@ Thus -
 अमुमेव परमात्मानं द्वैपायन-पराशरनारदप्रभृतिमहर्षिवचनेभ्यः प्रतिपद्यामहे। तथा हि -
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विष्णौ जगत्-स्थितं सर्वम्  
 इति विद्धि परन्तप ।  
@@ -11928,7 +11929,7 @@ Thus -
 सृजत्येष महाविष्णुर्भूतग्रामं चराचरम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > एष चाक्षिपते काले  
 काले विसृजते पुनः ।  
@@ -11947,7 +11948,7 @@ Thus -
 अस्मिन् गच्छन्ति विलयमस्माच्च प्रभवन्त्युत ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अनादिनिधनः श्रीमान्  
 मुनिर् नारायणः प्रभुः ।  
@@ -11968,7 +11969,7 @@ Thus -
 स वै सृजति भूतानि स्थावराणि चराणि च ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ब्रह्म परमं चेति  
 तथाऽन्यत्रापि पठ्यते ॥  
@@ -11985,7 +11986,7 @@ That He is the Supreme Brahman is also learnt elsewhere.
 तथाऽन्यत्रापि पठ्यते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > केशवो भरतश्रेष्ठ!  
 भगवान् ईश्वरः परः ।  
@@ -12008,7 +12009,7 @@ That He is the Supreme Brahman is also learnt elsewhere.
 पुरुषः सर्वमित्येतच्छ्रूयते बहुधा श्रुतौ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तत्त्वं जिज्ञासमानानां  
 हेतुभिः सर्वतो मुखैः ।  
@@ -12036,7 +12037,7 @@ That He is the Supreme Brahman is also learnt elsewhere.
 इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा दानधर्मे -  
 
@@ -12061,7 +12062,7 @@ Likewise in the Dānadharma,
 इति वेदरहस्यन्तु किन्न वेत्सि पुरन्दर ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तत्-प्रसादाद् वयं सर्वे  
 लोकानां स्थिति-हेतवः ।  
@@ -12083,7 +12084,7 @@ Likewise in the Dānadharma,
 यदि विष्णुरुदासीनो नास्माकं विद्यते शुभम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति रुद्रस्य वचनं,  
 तथा भारतमात्स्ययोः ॥  
@@ -12101,7 +12102,7 @@ Thus Rudra's word.166 Similarly, in the Mahābhārata and Matsya Purāṇa,
 इति रुद्रस्य वचनं तथा भारतमात्स्ययोः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तत्र यः परमात्मा हि  
 स नित्यो निर्गुणश् शुभः ।  
@@ -12124,7 +12125,7 @@ Thus Rudra's word.166 Similarly, in the Mahābhārata and Matsya Purāṇa,
 इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा वराहे -  
 
@@ -12154,7 +12155,7 @@ Likewise in the Varāha Purāṇa,
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नारायणात्परो देवो  
 न भूतो न भविष्यति ।  
@@ -12176,7 +12177,7 @@ Likewise in the Varāha Purāṇa,
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा लैङ्गेः -  
 
@@ -12201,7 +12202,7 @@ from Him Rudra and from Him all the world."
 यस्माद् ब्रह्मा ततो रुद्रः ततश्चैवाखिलं जगत् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ।  
 
@@ -12227,7 +12228,7 @@ He is the maker of its subsistence and its destruction."
 स्थितिसंयमकर्ताऽसाविति पाराशरं वचः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा मानवे -  
 
@@ -12255,7 +12256,7 @@ He is the maker of its subsistence and its destruction."
 </details>
 
 ### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् ईदृश-श्रुति-स्मृतीतिहास-पुराण-पर्यालोचनया  
 
@@ -12275,7 +12276,7 @@ Therefore, the study of these and similar śrutis, smṛtis, epical texts and Pu
 </details>
 
 ### न शिवादिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैवं परमात्मत्वं  
 रुद्रादेः श्रुतिषूदितम् ।  
@@ -12296,7 +12297,7 @@ Therefore, the study of these and similar śrutis, smṛtis, epical texts and Pu
 प्रत्युतोत्पत्तिम् एवाहुस् तस्यैकायन-शाखिनः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तमो वा इदम्" इत्य्-आदौ  
 तथा वेदे ऽपि दृश्यते ।  
@@ -12321,7 +12322,7 @@ that is the greatest in all the worlds,"
 यतो हि रुद्रस् सञ्जज्ञे तत् श्रेष्ठं भुवनेष्व् इति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तत् इद् आस भुवनेषु ज्येष्ठम्" इति ।  
 </details>
@@ -12336,7 +12337,7 @@ that is the greatest in all the worlds,"
 "तत् इद् आस भुवनेषु ज्येष्ठम्" इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा रौद्रं पदं स्पष्टं  
 कर्म-जन्यं प्रतीयते ॥  
@@ -12355,7 +12356,7 @@ Similarly, Rudra's position is clearly known to be a result of his karman: "He o
 "महिमानं निजं लेभे विष्णोर् अभ्यर्थनाद्" इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अस्य देवस्ये"ति,  
 </details>
@@ -12365,7 +12366,7 @@ Similarly, Rudra's position is clearly known to be a result of his karman: "He o
 "अस्य देवस्ये"ति,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ललाटाद् अभवद्-बिन्दुस्  
 तस्माद् रुद्रो व्यजायत ।"  
@@ -12388,7 +12389,7 @@ These and other śrutis declare that Rudra was born.
 </details>
 
 #### पुराण-वाद-निर्वाहः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवञ्च सति रुद्रादि-  
 महिमावेदिका इव ।  
@@ -12409,7 +12410,7 @@ This being so, the statements that in appearance convey the greatness of Rudra a
 या वाचस् तास् स्तुति-पराः "श्रोत्रं ब्रह्म" इति गीर् इव ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन रुद्रादीनां परमात्मत्व-प्रतिपादक-पुराण-वादाः  
 प्रत्यक्ष-श्रुति-विरोधान् न मुख्य-अर्थाः । +++(4)+++ 
@@ -12426,7 +12427,7 @@ Consequently, the passages in the Purāṇas which declare Rudra etc. to be the 
 प्रत्यक्ष-श्रुति-विरोधान् न मुख्य-अर्थाः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् वा त्याज्यतया तन्त्र-  
 सिद्धान्त-प्रतिपादकाः +++(पुराण-वादाः)+++।  
@@ -12447,7 +12448,7 @@ since their greatness is set forth only in non-Vedic Tantric texts,
 </details>
 
 ### वेदानुकूल-पुराणानि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेद-सिद्धान्त-मार्गेषु विष्णुर् एव परः स्मृतः ।  
 </details>
@@ -12462,7 +12463,7 @@ we say that Viṣṇu is stated to be the Supreme One in the texts of the Way of
 वेद-सिद्धान्त-मार्गेषु विष्णुर् एव परः स्मृतः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् यथा वैष्णवे -
 
@@ -12487,7 +12488,7 @@ For example in the Viṣṇu Purāṇa, "The Supreme Soul, the Basis of all crea
 > विष्णु-नामा स वेदेषु वेदान्तेषु च गीयते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाराहे ।
 
@@ -12512,7 +12513,7 @@ In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division
 > वेद-सिद्धान्त-मार्गेषु तन् न जानन्ति मोहिताः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नारायणात् परो देवो  
 न भूतो न भविष्यति ।  
@@ -12538,7 +12539,7 @@ In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division
 > एतद्-रहस्यं वेदानां पुराणानां च सत्तमाः ॥ इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा मात्स्ये ।
 
@@ -12567,7 +12568,7 @@ Likewise in the Matsya Purāṇa, "In those aeons where sattva prevails, the gre
 इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा लैङ्गे ।
 
@@ -12596,7 +12597,7 @@ Likewise in the Liṅga Purāṇa,
 > इत्य् एवं सततं वेदा गायन्ते नात्र संशयः ॥ इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा वायवीये ।
 
@@ -12625,7 +12626,7 @@ Likewise in the Vāyu Purāṇa,
 इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा भविष्यति ।
 
@@ -12659,7 +12660,7 @@ All this has already been explained in great detail in the Puruṣanirṇaya 176
 176: Title of one of Yāmuna's treatises.  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वं चैतत् पुरुष-निर्णये निपुणतरम् उपपादितम् इति नेह प्रपञ्च्यते ।
 </details>
@@ -12676,7 +12677,7 @@ All this has already been explained in great detail in the Puruṣanirṇaya 176
 
 ## ०७ पाञ्चरात्र-दानम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च ।  
 
@@ -12699,7 +12700,7 @@ Therefore, how can our tongue endeavour to say that the Tantra which is revealed
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स हि सहज-संवेदन-साक्षात्-कृत--दीक्षाऽऽराधनादि-धर्मः  
 </details>
@@ -12719,7 +12720,7 @@ Therefore, how can our tongue endeavour to say that the Tantra which is revealed
 > स हि सहज-संवेदन-साक्षात्-कृत--दीक्षाऽऽराधनादि-धर्मः  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वर्ग-पुत्रादि-वैषयिक-सुखम् अनेक-दुःख-संभिन्नम्,  
 न चातिचिरम् अनुवर्तत 
@@ -12742,7 +12743,7 @@ is inseparable from various forms of misery and does not, continue for long,
 न चातिचिरमनुवर्तत इति
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् अपि दुःख-पक्ष एव निक्षिप्य  
 मोक्षाय गृहेभ्यः प्रव्रजद्भ्यः शाण्डिल्य-नारदादि-परम-ऋषिभ्यस्  
@@ -12769,7 +12770,7 @@ which constitute the sole means of attaining the unparalleled beatitude they sou
 
 ## ०८ तन्त्रान्तराद् भेदः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** च तन्त्रान्तरेष्व् एष  
 न्यायः **प्रसरम्** अर्हति ।  
@@ -12789,7 +12790,7 @@ for in the various authors of those Tantras error etc. is possible.
 यतस्तत्तन्निबन्द्धॄणां विभ्रमाद्यपि संभवि ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्षादि-प्रमाणानां  
 न हि +++(तन्त्रान्तर-)+++मूलत्व-सम्भवः ।  
@@ -12810,7 +12811,7 @@ and they themselves do also not claim that Scripture is the basis.
 तन्त्रान्तरेषु शास्त्रन्तु मूलं तैरेव नेष्यते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यच् च वेद-सिद्धान्त-  
 विरुद्धार्थाभिधानतः ।  
@@ -12831,7 +12832,7 @@ the view that these Tantras are based on Perception or Scripture is sublated.
 प्रत्यक्षश्रुतिमूलत्वकल्पना तेषु बाध्यते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा माहेश्वरे तन्त्रे  
 **विरुद्धं** बहु **जल्पितम्** ।  
@@ -12850,7 +12851,7 @@ For there are four kinds of followers of the way of life set forth in those Tant
 चतुर्विधा हि तत्सिद्धचर्यामार्गानुसारिणः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा कापालिकाः काला-  
 मुखाः पाशुपतास् तथा ।  
@@ -12871,7 +12872,7 @@ The Kapalika doctrine is described as follows:
 </details>
 
 ### कापालिकाः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुद्रिका-षट्क-विज्ञानात्  
 पुनस् तस्यैव **धारणात्** ।  
@@ -12897,7 +12898,7 @@ External signs worn by Saiva sectarians.
 अपवर्गफलप्राप्तिर्न ब्रह्मावगमादिति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथाऽहुः ।  
 
@@ -12923,7 +12924,7 @@ As they say,
 भगासनस्थमात्मानं ध्यात्वा निर्वाणमृच्छति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा -  
 
@@ -12945,7 +12946,7 @@ The six mudrikas of the Kāpālikas are stated to be the earring, necklace, pend
 भस्म यज्ञोपवीतञ्च मुद्राषट्कं प्रचक्षते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कपालम् अथ खट्वाङ्गम्  
 उपमुद्रे **प्रकीर्तिते** ।  
@@ -12965,7 +12966,7 @@ One whose body is marked by these mudras will not be reborn in the world."
 आभिर्मुद्रितदेहस्तु न भूय इह जायते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** चेदृश-मुद्रिका-षट्क-परिज्ञान--तद्-धारण--  
 निन्दित-भगासन-स्थ-देह-ध्यानस्यापवर्ग-साधनत्वं श्रुतयो **मृष्यन्ति**,  
@@ -12983,7 +12984,7 @@ are means to attain release,
 न चेदृशमुद्रिकाषट्कपरिज्ञान -तद्धारण -निन्दितभगासनस्थदेहध्यानस्यापवर्गसाधनत्वं श्रुतयो मृष्यन्ति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता ह्य् ऐहिकामुष्मिक-सकल-विषयाभिलाष-विमुखस्य  
 अ-खिल--जगत्-कारण-वासुदेवात्म-भावैक-लभ्यं मोक्षम्  
@@ -13002,7 +13003,7 @@ and who concentrates on the soul Vasudeva as the cause of the entire Universe:
 ता ह्यैहिकामुष्मिकसकलविषयाभिलाषविमुखस्य अखिलजगत्कारणवासुदेवात्मभावैकलभ्यं मोक्षमाचक्षते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तमेव विदित्वा अतिमृत्युमेति 
 
@@ -13023,7 +13024,7 @@ there is no other path to tread etc." (Svet Up. 3.8.)
 </details>
 
 ### कालामुखाः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कालामुखा अपि  
 समस्त-शास्त्र-प्रतिषिद्ध--कपाल-भोजन--शव-भस्म-स्नान--  
@@ -13058,7 +13059,7 @@ these teachings are outside the Veda.
 </details>
 
 ### पाशुपताः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अपि पाशुपत-शैवाभ्यां विरुद्धाविरुद्ध-सम-+++(मिश्रण-)+++मुग्धं किञ्चिद् अभिहितं  
 तद् अपि श्रुति-बहिष्-कृतम् एव ।  
@@ -13076,7 +13077,7 @@ are likewise outside the Veda,
 यदपि पाशुपतशैवाभ्यां विरुद्धाविरुद्धसममुग्धं किञ्चिदभिहितं तदपि श्रुतिबहिष्कृतमेव ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रैषा पाशुपतप्रक्रिया ।  
 </details>
@@ -13091,7 +13092,7 @@ The Pasupata system is as follows:
 तत्रैषा पाशुपतप्रक्रिया ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवाः पशव **उच्यन्ते**  
 तेषाम् अधिपतिश् शिवः ।  
@@ -13112,7 +13113,7 @@ To assist the souls Siva has composed the Paficādhyāyi. ("The Doctrine of the 
 स तेषामुपकाराय पञ्चाध्यायीमचीकॢपत् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र पञ्च पदार्थास् तु  
 व्याख्याताः कारणादयः ।  
@@ -13136,7 +13137,7 @@ Cause, Effect, Injunction, Yoga and the Cessation of Misery.
 इति,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपादानं निमित्तञ् च  
 व्याख्यातं **कारणं** द्विधा ।  
@@ -13157,7 +13158,7 @@ and a sixteenth part of him is the material cause.
 निमित्तकारणं रुद्रस्तत्कला कारणान्तरम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मह्य्-अन्तं महद्-आदि कार्यम् **उदितं**, तद्वद् विधिर् **गीयते** ।  
 गूढाचार-मुख-स्मशान-भसित-स्नानावसानः परः+++(??)+++ ॥  
@@ -13183,7 +13184,7 @@ The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi??, which is
 गूढाचारमुखस्मशानभसितस्नानावसानः परः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 योगो धारणम् **उच्यते**  
 हृदि धियाम् ओङ्कार-पूर्वन् तथा ।  
@@ -13211,7 +13212,7 @@ The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems o
 </details>
 
 ### मुक्ति-कल्पना
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्यान्तिकी दुःख-निवृत्तिर् दुखान्त-शब्देनोक्ता  
 ताम् एव निश्शेष-वैशेषिकात्म-गुणोच्छेद-लक्षणां मुक्तिं **मन्यते**। 
@@ -13227,7 +13228,7 @@ The system holds that this cessation or release is defined by the annihilation o
 आत्यान्तिकी दुःखनिवृत्तिर्दुखान्तशब्देनोक्ता तामेव निश्शेषवैशेषिकात्मगुणोच्छेदलक्षणां मुक्तिं मन्यते
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयमेव चेश्वरकल्पना शैवानामन्येषां च ।  
 </details>
@@ -13242,7 +13243,7 @@ This conception of God is held by the Saivas as well as the others.
 इयमेव चेश्वरकल्पना शैवानामन्येषां च ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेयं सर्वा श्रुति-विरुद्धा कल्पना यतः -  
 </details>
@@ -13258,7 +13259,7 @@ And this view of God is entirely, incompatible with Scripture, for
 सेयं सर्वा श्रुतिविरुद्धा कल्पना यतः -  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 जगन्-निमित्तोपादानं  
 परं ब्रह्म श्रुतौ श्रुतम् ।  
@@ -13278,7 +13279,7 @@ Also, it is repeatedly revealed in the scriptures that release consists in perfe
 महानन्दात्मको मोक्षस्तत्रतत्रासकृच्छृतः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 परस्परविरोधेन  
 **व्याहतैषां** प्रमाणता ।  
@@ -13298,7 +13299,7 @@ it is not really necessary for them to be rejected with the stick of the Veda.
 त्रयीदण्डप्रतिक्षेपं किञ्चिन्नैव प्रतीक्षते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च शैवादयो वेद-  
 सिद्धवर्णाश्रमाद् बहिः ।  
@@ -13320,7 +13321,7 @@ and are consequently outside the Veda.
 कल्पयन्त्याश्रमादीनि ततोऽपि श्रुतिबाह्यता ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदाहुः -  
 
@@ -13350,7 +13351,7 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 
 ### तन्त्रान्तर-मूलम्
 #### शिवाप्रणीतता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च वाच्यम् "अ-प्रमाण-भूतम् इयन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयती"ति ।  
 </details>
@@ -13365,7 +13366,7 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 न च वाच्यम् अप्रमाणभूतमियन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयतीति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च समान-नाम-निर्मातृ-स्मरण-निबन्धनम् इति युक्तम्  
 अति-प्रसङ्गादिति, यतः-
@@ -13383,7 +13384,7 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 न च समाननामनिर्मातृस्मरणनिबन्धनमिति युक्तम् अति-प्रसङ्गादिति, यतः-
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(शिवाख्योऽपरः कर्तेति)+++ नामैकत्व-कृत-भ्रान्ति-  
 कल्पना ऽप्य् **उपपद्यते** ।  
@@ -13409,7 +13410,7 @@ and entails no overextension to other texts.
 </details>
 
 #### प्रमादः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमादोऽपि च नात्यन्तं रुद्रादिषु न सम्भवी ।+++(4)+++  
 </details>
@@ -13425,7 +13426,7 @@ And error is not entirely impossible in the case of such persons as Rudra etc.
 </details>
 
 #### मोह-शास्त्रम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् वा रुद्रस्य मोह-शास्त्र-प्रणेतृतया ऽवगतत्वाद्  
 व्यामोहयितुम् एव हीदृश-शास्त्र-प्रणयनम् उपपद्यत 
@@ -13445,7 +13446,7 @@ it is not even necessary to assume error on his part.
 यद्वा रुद्रस्य मोहशास्त्रप्रणेतृतयाऽवगतत्वाद् व्यामोहयितुमेव हीदृशशास्त्रप्रणयनमुपपद्यत इति नावश्यं प्रमाद एवाश्रयितव्यः,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च वाराहे ।  
 
@@ -13472,7 +13473,7 @@ For thus it reads in the Varaha Purana,
 कुहकादीन्द्रजालानि विरुद्धाचरणानि च ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > दर्शयित्वाऽल्पमायासं  
 फलं शीघ्रं प्रदर्शय ।  
@@ -13502,7 +13503,7 @@ corresponds to Varaha Purana. 70.36 tvam ca rudra mahabaho mokatastrāni kāraya
 इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तत्रैव भगवान् रुद्रः  
 प्रस्तुत-शैवाद्य्-आगमानां स्वयम् एव  
@@ -13523,7 +13524,7 @@ and that their only purpose is just to deceive them.
 तथा तत्रैव भगवान् रुद्रः प्रस्तुतशैवाद्यागमानां स्वयमेव वेदबाह्यत्वं वेदमार्गापभ्रष्टजनाधिकारित्वं तद्व्यामोहैकप्रयोजनतां च दर्शयति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ये वेद-मार्ग-निर्मुक्तास्  
 तेषाम् **मोहार्थम्** एव च ।  
@@ -13549,7 +13550,7 @@ cf. Varāha Pur., 70.41, which in cd reads nayasiddhanta sam jñabhir maya shās
 नयसिद्धान्तमार्गेण मया शास्त्रं प्रदर्शितम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तस्माद् आरभ्य कालात् तु  
 मत्-प्रणीतेषु सत्तमाः ।  
@@ -13575,7 +13576,7 @@ cf. Variha Pur., 70.38, which reads in cd shastrejo?? abhirato loko bahuljena bh
 शास्त्रेष्वभिरतो लोको न वेदान् बहु मन्यते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा पाशुपतादीनि  
 > प्रवर्तन्ते कलौ युगे ॥
@@ -13597,7 +13598,7 @@ nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate vedasanjaitam.
 </details>
 
 ### विरुद्धाचरणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च भगवत्-परिवारत्व-व्यतिरेकेण  
 स्व-प्रधान-पूजां पाशुपतादि-तन्त्र-सिद्धां वेद-बाह्यां दर्शयति । +++(4)+++ 
@@ -13616,7 +13617,7 @@ and does not form part of the worship of the Bhagavan:
 तथा च भगवत्परिवारत्वव्यतिरेकेण स्वप्रधानपूजां पाशुपतादितन्त्रसिद्धां वेदबाह्यां दर्शयति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तद् वेदबाह्यं कर्मोक्तं  
 माम् उद्दिश्योपसेव्यते ।  
@@ -13641,7 +13642,7 @@ cf. Varaha Pur., 70.21, yad vedabāḥyam karma ṣṣācchāstram udditya senza
 तद्वै पाशुपतं नाम कनिष्ठम्मोहनं नृणाम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "मां विष्णु--व्यतिरेकेण  
 पूजयन्ति नराधमाः ।"  
@@ -13667,7 +13668,7 @@ because they are too numerous.
 इत्यादिवाक्यजातानि न लिख्यन्तेऽतिगौरवात् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यक्तञ्च वेदबाह्यत्वम् एतच्-छास्त्रानुगामिनाम् ।  
 </details>
@@ -13683,7 +13684,7 @@ are outside the Veda,
 व्यक्तञ्च वेदबाह्यत्वमेतच्छास्त्रानुगामिनाम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा तत्रैव -  
 
@@ -13708,7 +13709,7 @@ as is stated in the same Purana:
 भविष्यथ त्रयीबाह्या वेदकर्मबहिष्कृताः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कलौ तद्-रूपिणस् सर्वे  
 जटा-लगुड-**धारिणः** ।  
@@ -13736,7 +13737,7 @@ all these hair-tuft wearing devotees of Rudra are consumed by the fire of Brahma
 ब्रह्मशापाग्निनिर्दग्धा रुद्रभक्ता जटाधराः ॥ इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसिद्धञ् चैतच् छैवागमेषु ।  
 </details>
@@ -13751,7 +13752,7 @@ These practices are well-known in the Saiva scriptures:
 प्रसिद्धञ्चैतच्छैवागमेषु ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > रुद्राक्षं कङ्कणं हस्ते  
 जटा चैका च मस्तके ।  
@@ -13771,7 +13772,7 @@ These practices are well-known in the Saiva scriptures:
 कपालं भस्मना स्नानम् इत्यादि ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा चैतेषामादित्य-पुराणेऽपि  
 भगवत्-त्यागेन समं वेद-त्यागं कथयति ।  
@@ -13788,7 +13789,7 @@ along with relinquishing the Bhagavan they relinquish the Veda:
 तथा चैतेषामादित्यपुराणेऽपि भगवत्त्यागेन समं वेदत्यागं कथयति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अन्ये भस्मजटोपेता  
 यथोक्ता गौतमात् पुरा ।  
@@ -13813,7 +13814,7 @@ as well as God Nārāyaṇa on account of Gautama's curse."
 इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > किञ्चैते वासुदेवस्य  
 मन्दा **निन्दां वितन्वते** ।  
@@ -13834,7 +13835,7 @@ for thus it is declared in the Linga Puriņa,
 ते च पाषण्डिनो ज्ञेया यथा लैङ्गै समीरितम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ये तु सामान्यभावेन  
 **मन्यन्ते** पुरुषोत्तमम् ।  
@@ -13858,7 +13859,7 @@ are to be regarded as heretics who are expelled from the Way of the Veda," (not 
 इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्च -  
 
@@ -13895,7 +13896,7 @@ supra §52.
 
 #### न वेदाः, न प्रत्यक्षम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मान् न वेद-मूलत्वं  
 नापि प्रत्यक्ष-मूलता ॥  
@@ -13919,7 +13920,7 @@ another cause must be assumed for them.
 </details>
 
 ### परतो ऽप्रामाण्यम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु मूलान्तरापेक्षा  
 यदि स्याद् अस्तु +++(अवेद-मूलत्व-)+++दूषणम् ॥  
@@ -13941,7 +13942,7 @@ But is in your own view knowledge not self-proved?
 स्वतःप्रमाणं विज्ञानं भवतां ननु दर्शने ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यं तद् एव विज्ञान-  
 प्रामाण्यम् **अपनीयते** ॥  
@@ -13966,7 +13967,7 @@ for both these defects are plain in their case.
 </details>
 
 ### नामादि-साम्यम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं श्रुतिविरुद्धस्य  
 स्फुट-मूलान्तरस्य यत् ॥  
@@ -13987,7 +13988,7 @@ while in fact one of the two is incompatible with Scripture and plainly shows a 
 पञ्चरात्रेण साधर्म्म्यं तन्त्रत्वेनाभिधित्सितम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रियात्वेन तु साधर्म्यं  
 ब्रह्म-हत्याऽश्वमेधयोः ॥+++(5)+++  
@@ -14009,7 +14010,7 @@ would mean that Brahmin Murder and Horse Sacrifice are on the same level because
 
 ## ०९ श्रुत्य्-अनुवादौचित्यम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च श्रुति-मूलत्वे  
 वेदाद् एवार्थ-सिद्धितः ॥  
@@ -14030,7 +14031,7 @@ then it cannot be assumed that the author was independent.
 तत्प्रणेतृस्वतन्त्रत्वकल्पना नेत्यचूचुदम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवं **न कल्प्यते** पुंसि  
 स्वातन्त्र्यं, **श्रूयते** हि तत् ॥  
@@ -14055,7 +14056,7 @@ but for God it is revealed in Scripture, e.g.,
 ## १० न वेद-बाह्यम्
 
 ### वेद-मूलता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु वेदमूला एव चेदेताः पञ्चरात्र-स्मृतयः -  
 > किं तर्हि तद्-अर्थ-स्मरणवत् तन्-मूल-भूत-वेद-वाक्य-स्मरणं नानुवर्तते पाञ्च-रात्रिकाणाम् ?  
@@ -14075,7 +14076,7 @@ whereas the meaning of these words apparently does persist?
 ननु वेदमूला एव चेदेताः पञ्चरात्रस्मृतयः किं तर्हि तदर्थस्मरणवत्तन्मूलभूतवेदवाक्यस्मरणं नानुवर्तते पाञ्चरात्रिकाणाम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न "चार्थस्मरणस्य प्रयोजनवत्त्वात्  
 > तस्य विफलत्वात्, तद्-अनादरणीयम्"  
@@ -14099,7 +14100,7 @@ for it is not proper to forget that from which the meaning's authority derives.
 न हि यतः प्रामाण्यं तदेव विस्मर्तुं युक्तम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अथ विस्मरणोपपत्तये प्रलीन-नित्यानुमेय-शाखा-मूलता आश्रीयते।  
 </details>
@@ -14116,7 +14117,7 @@ the standpoint is taken that the doctrine is based on a Vedic sakha which has be
 अथ विस्मरणोपपत्तये प्रलीननित्यानुमेयशाखामूलता आश्रीयते।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तदा यद् एव येन प्रमाणतया परिगृहीतं  
 > स तत्-प्रलीन-शाखा-मस्तके निक्षिप्य प्रमाणी-कुर्यात्।  
@@ -14135,7 +14136,7 @@ however, it is hard to prove what a lost or deducible śākhā actually contain.
 > तदा यदेव येन प्रमाणतया परिगृहीतं  स तत्प्रलीनशाखामस्तके निक्षिप्य प्रमाणीकुर्यात्नित्यानुमेयप्रलीनशाखयोस्तु स्वरूपसिद्धिरेव दुर्लभा ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अथ विद्यमान-शाखा-मूला एव ताः स्मृतयः।  
 तदा तत्-प्रणेतृवद्  
@@ -14155,7 +14156,7 @@ and hence his taking the trouble of promulgating these texts would be purposeles
 अथ विद्यमानशाखामूला एव ताः स्मृतयः तदा तत्प्रणेतृवदन्येऽपि तत एवोपलभेरन् इति ग्रन्थप्रणयनप्रयासवैयर्थ्यम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रोच्यते -  
 स खलु भगवान् अमोघ-सहज-संवेदन-साक्षाद्-भवद्--अखिल-वेद-राशिर्  
@@ -14185,7 +14186,7 @@ On this showing, nothing is unestablished.
 अत्रोच्यते स खलु भगवान् अमोघसहजसंवेदनसाक्षाद्भवदखिलवेदराशिर्विप्रकीर्णविविधविध्यर्थवादमन्त्रात्मकानेकशाखाध्ययनधारणादिष्वधीरधियो भक्तानवलोक्य तदनुकम्पया लघुनोपायेन तदर्थं संक्षिप्योपदिदेशेति न किञ्चिदनुपपन्नम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाऽहुः -  
 
@@ -14215,7 +14216,7 @@ the Sage, out of compassion with his devotees for their convenience."
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते च मन्व्-आदि-समस्त-स्मरण-साधारणाः पर्यनुयोगास्  
 तन्त्र-टीका-कृत-परिश्रमाणाम् अनायास-परिहार्या  
@@ -14238,7 +14239,7 @@ are easily answered by all those who have made a diligent study of the commentar
 </details>
 
 ### न वेद-निन्दा
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु चेदं वेद-मूलत्वं पञ्च-रात्र-तन्त्राणाम् अनुपपन्नं वेद-निन्दा-दर्शनात्, 
 </details>
@@ -14256,7 +14257,7 @@ we find in these very Tantras a condemnation of the Veda.
 ननु चेदं वेदमूलत्वं पञ्चरात्रतन्त्राणामनुपपन्नं वेदनिन्दादर्शनात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > उक्तं हि 
 > 
@@ -14279,7 +14280,7 @@ For it is said that
 उक्तं हि चतुर्षु वेदेषु पुरुषार्थमलभमानः शाण्डिल्य (प्. ५२) इदं शास्त्रमधीतवान् इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनवगत-वचन-व्यक्तेर् अयं पर्यनुयोगः,  
 न हि निन्दा निन्द्यं निन्दितुं प्रवर्तते  
@@ -14301,7 +14302,7 @@ but rather to praise something else than that which is censured.
 अपि तु  निन्दितादितरत्प्रशंसितुं
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैतरेयक-ब्राह्मणे - 
 
@@ -14324,7 +14325,7 @@ is understood to praise the post-dawn oblation.
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानवे
 
@@ -14357,7 +14358,7 @@ here the censure of the Samaveda serves to praise the other Vedas.
 इति सामवेदनिन्दा इतरवेदप्रशंसार्था, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा वा भारते -  
 
@@ -14397,7 +14398,7 @@ but to bestow praise on the Mahabharata.
 इति महाभारतप्रशंसार्थेति गृह्यते न वेदनिन्देति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं पञ्चरात्रप्रशंसेति गम्यते ।  
 </details>
@@ -14412,7 +14413,7 @@ In this same way the above statement must be taken as praise of the Pancarãtra.
 एवं पञ्चरात्रप्रशंसेति गम्यते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथानुदित-होमादेर्  
 अन्यत्र स्तुति-**दर्शनात्** ।  
@@ -14434,7 +14435,7 @@ so will it be in our case too.
 अतत्परत्वं निन्दायास्तथात्रापि भविष्यति ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेदप्रशंसा बहुशः पञ्चरात्रेऽपि दृश्यते ।  
 </details>
@@ -14450,7 +14451,7 @@ In Pañcaratra, too, we frequently find praise of the Veda;
 वेदप्रशंसा बहुशः पञ्चरात्रेऽपि दृश्यते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न हि तेभ्यः परं किञ्चिद्  
 वाङ्मयं कमलासन ।  
@@ -14475,7 +14476,7 @@ etc.
 इत्यादौ ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च "चतुर्षु वेदेषु" इति नायम् अर्थः -  
 वेदेषु पुरुषार्थो नास्तीति  
@@ -14499,7 +14500,7 @@ but simply "failing to find the purpose of human importance which is in the Veda
 अपि च "चतुर्षु वेदेषु" इति नायमर्थः वेदेषु पुरुषार्थो नास्तीति किन्तु यस्तेषु पुरुषार्थस्तमलभमान इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु "पुरुषार्थम्" "अलभमान" इत्यन्वयो न "वेदेषु पुरुषार्थम्" इति,  
 +++(येन "वेदेषु पुरुषार्थो वर्ततय्" इत्य् अर्थं गृह्णीयात्)+++
@@ -14518,7 +14519,7 @@ not between "purpose of human importance" and "in the Vedas."
 ननु "पुरुषार्थम्" "अलभमान" इत्यन्वयो न "वेदेषु पुरुषार्थम्" इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैवं - व्यावर्त्याभावात्,  
 </details>
@@ -14534,7 +14535,7 @@ for there is no negation in the sentence.
 मैवं - व्यावर्त्याभावात्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न हि वेदेष्व् एवायं पुरुषार्थो न लभ्यते।  
 अतो वेदेषु यः पुरुषार्थस्  
@@ -14559,7 +14560,7 @@ conveys that both Revelation and Pañcaratra have the same meaning.
 </details>
 
 ### दीक्षादौ
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पुनर् उक्तम् 
 
@@ -14592,7 +14593,7 @@ do not therefore become non-Vedic.
 यत्पुनरुक्तमुपनयनादिसंस्कृतानां भगवदाराधनार्थतया दीक्षालक्षणसंस्कारविधानादवैदिकत्वमिति तदयुक्तं न ह्युपनयनादिसंस्कृतानां ज्योतिष्टोमादिकर्माङ्गतया दीक्षादिसंस्कारविधायकम् आग्नावैष्णवम् इत्यादिवाक्यमवैदिकं भवति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वैदिक-संस्कारात् संस्कारान्तर-विधानं हेतुः,  
 तद् अनुपपन्नं -  
@@ -14617,7 +14618,7 @@ and if the latter is proved, it is proved that Pañcaratra Sastra is non Vedic.
 अथ वैदिकसंस्कारात् संस्कारान्तरविधानं हेतुः, तदनुपपन्नं सिद्धे हि पञ्चरात्रशास्त्रस्य अवैदिकत्वे तस्य संस्कारान्तरत्त्वसिद्धिः तत्सिद्धौ च तस्यावैदिकत्वसिद्धिरित्यन्योन्याश्रयणात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च समस्त-वैदिक-संस्कारेभ्यः संस्कारान्तरत्वं वा हेतुः,  
 उत कतिपयेभ्यः संस्कारेभ्यः?  
@@ -14635,7 +14636,7 @@ or that they are different from some Vedic sacraments.
 उत कतिपयेभ्यः संस्कारेभ्यः?  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तावद् अनन्तरः कल्पः  
 उपनयनादि-संस्कारस्यापि चौलादि-संस्कारात् संस्कारान्तरत्वेनावैदिकत्व-प्रसङ्गात्, 
@@ -14653,7 +14654,7 @@ because it is different from the sacrament of Tonsure;
 न तावदनन्तरः कल्पः उपनयनादिसंस्कारस्यापि चौलादिसंस्कारात् संस्कारान्तरत्वेनावैदिकत्वप्रसङ्गात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चान्त्यः कल्पः - उक्त-दोषानतिवृत्तेः,  
 न ह्य् उपनयनं समस्त-वैदिक-संस्कारेभ्यः संस्कारान्तरम्।  
@@ -14676,7 +14677,7 @@ is disproved on the ground that Pañcarātra Sastra is Vedic.
 </details>
 
 ### विद्या-स्थान-परिगणना
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अपि 
 
@@ -14702,7 +14703,7 @@ would also have an occasional application to the texts of the Bharata and Rāmā
 
 ### व्यासेनाङ्गीकारः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्तु "भगवता बादरायणेन निरस्तत्वाद्" इति तद् असत्,  
 कथं हि भगवान् द्वैपायनः सकल-लोकादर्श-भूत-परम-भागवतो  
@@ -14729,7 +14730,7 @@ model for the all the world?
 कथं हि भगवान् द्वैपायनः सकललोकादर्शभूतपरमभागवतो भागवतं शास्त्रं निरस्यतीत्युत्प्रेक्ष्येत ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 य एवमाह -  
 
@@ -14753,7 +14754,7 @@ as butter is extracted from curds,
 आविध्य मतिमन्थानं दघ्नो घृतमिवोद्धृतम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नवनीतं यथा दघ्नो  
 द्विपदां ब्राह्मणो यथा ।  
@@ -14775,7 +14776,7 @@ and the amṛta from the herbs
 आरण्यकं च वेदेभ्य ओषधीभ्यो यथाऽमृतम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इदं महोपनिषदं  
 चतुर्-वेद-समन्वितम् ।  
@@ -14794,7 +14795,7 @@ this Mahopanisada which is consistent with the four Vedas and the demonstrations
 साङ्ख्ययोगकृतान्तेन पञ्चरात्रानुशब्दितम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इदं श्रेय इदं ब्रह्म  
 इदं हितम् अनुत्तमम् ।  
@@ -14815,7 +14816,7 @@ Being consistent with Rk, Yajuh and Saman and the Atharvāngirasas,
 ऋग्यजुस्सामभिर्जुष्टमथर्वाङ्गिरसैस्तथा ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > भविष्यति प्रमाणं वै एतदेवानुशासनम् ।  
 
@@ -14833,7 +14834,7 @@ this discipline will of a certainty be authoritative. (Mahabharata, 12 340 (129.
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भीष्म-पर्वण्य् अपि -  
 
@@ -14859,7 +14860,7 @@ And in the Bhismaparvan too:
 अर्चनीयश्च सेव्यश्च पूजनीयश्च माधवः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सात्त्वतं विधिम् आस्थाय  
 **गीतस्** संकर्षणेन यः ।  
@@ -14883,7 +14884,7 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 इति । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा शान्तिपर्वण्यपि  -  
 </details>
@@ -14893,7 +14894,7 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 तथा शान्तिपर्वण्यपि  -  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं वैष्णवो दीक्षां  
 प्रविशेत् सर्वयत्नतः ।  
@@ -14916,7 +14917,7 @@ Also in the Śāntiparvan:
 दीक्षिताय विशेषेण प्रसीदेन्नान्यथा हरिः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसन्ते दीक्षयेद्विप्रं  
 ग्रीष्मे राजन्यमेव च ।  
@@ -14941,7 +14942,7 @@ One should consecrate a Brahmin in spring, a Kṣatriya in summer, a Vaiśya in 
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा -  
 
@@ -14966,7 +14967,7 @@ And likewise: "It has been made commensurate with the four Vedas on the great Mo
 (सम -शब्दात्ताद्धितेन इतच्प्रत्ययेन व्युत्पन्नः समितशब्दो भवति तुल्यार्थः ।)
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम्-आदि-वचो-भङ्गी-  
 शतैस् सादरम् ईरितैः ॥  
@@ -15000,7 +15001,7 @@ Yamuna holds Vyāsa, the author of the Mahābhārata to be one with Badarayana, 
 
 ### जीवाद्य्-उत्पत्ताव् आपत्तिः पूर्व-पक्ष-मात्रम्
 #### उत्पत्त्यसंभवात्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कथं तर्हीदं सूत्रम् "उत्पत्त्यसंभवात्" इति?  
 </details>
@@ -15017,7 +15018,7 @@ Yamuna holds Vyāsa, the author of the Mahābhārata to be one with Badarayana, 
 > कथं तर्हीदं सूत्रम् "उत्पत्त्यसंभवात्" इति?  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं वाऽस्य सूत्रस्य हृदयम् ? 
 </details>
@@ -15032,7 +15033,7 @@ REPLY. What is the intention of the sūtra?
 किं वाऽस्य सूत्रस्य हृदयम् ? 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इदम् अस्य सूत्रस्य [भावः]  
 > 
@@ -15058,7 +15059,7 @@ OBJECTION. The following: Since it is expounded in the Bhāgavata Śāstra that 
 The 'purvapakşa' arguments advanced here are those made by Sankara- See his commentary on the four sutras comprising the Utpattyasambhava or the ' Pañcarūtra ' sectionः Brahmasūtra II. ii. 42-45. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्य् एष सूत्रार्थस्  
 तर्हि पञ्चरात्र-शास्त्र-निराकरण-परं सूत्रम् । 
@@ -15077,7 +15078,7 @@ the sūtra is intended to reject the Pāñcarātra Śāstra.
 यद्य् एष सूत्रार्थस् तर्हि पञ्चरात्र-शास्त्र-निराकरण-परं सूत्रम् । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि पञ्चरात्र-शास्त्रेषु जीवोत्पत्तिर् अङ्गीकृता येनैवम् उच्यते ।  
 +++(अतो न सिद्धान्त-सूत्रम् इदम्। )+++
@@ -15094,7 +15095,7 @@ For the Pāñcarātra Śāstras do not accept that the individual soul has an or
 </details>
 
 ##### व्यूह-प्रयोजनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नन्व् अस्तीदं वचनं -  
 > 
@@ -15126,7 +15127,7 @@ Cf. Sankara under Brahmasutra II. ii. 42-
 प्रद्युम्नाच्च अनिरुद्ध इति । ' etc. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि तु व्यूह-रूपेण  
 व्यक्तिर् देवस्य कीर्त्यते ।  
@@ -15159,7 +15160,7 @@ Cf. Ahirbudhnya Samhitā, ch. V-
 **व्यक्ति-भावम्** उपागताः ॥ 5.43 ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र संव्यवहारार्थं  
 जीव-शब्दः प्रयुज्यते ॥  
@@ -15248,7 +15249,7 @@ C. also Visvaksena Samhitā XI. 146-147-
 अनिरुद्धो जगद्गुरुः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा ऽहुः —  
 
@@ -15278,7 +15279,7 @@ It is as they say: "The four vyūhas are to be worshipped successively by the fo
 To be identified. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च 
 
@@ -15301,7 +15302,7 @@ Besides, the words 'individual soul,' 'mind' and 'ego' do not denote these tanm�
 अपि च जीव-मनोऽहङ्कार-शब्दा न तन्-मात्र-वचनाः अपि तु तत्तद्-अधिष्ठानाधिकृत-विलक्षण-विग्रहवत्-पुरुषाभिधाना इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचित्र-देह-संपत्तिर्  
 जन्मेति व्यपदिश्यते ।  
@@ -15330,7 +15331,7 @@ Taittiriya Aranyaka X - i-1b; also Mahānārāyana I - 4b.
 </details>
 
 ##### निर्वाह-सूत्रान्तरम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च  
 जीवोत्पत्ति-प्रलयादि-गोचराः श्रुति-स्मृति-लोक-वादाः 
@@ -15359,7 +15360,7 @@ Besides, the Author of the Sūtras has already discarded the śruti, smṛti and
 † Here Yamuna points out the discrepancy in Sankara's division of the Brahmasutra into Adhikaraņas. According to Sankara, the aphorism "cara- caravyapāśrayastu " etc., forms another topic ( adhikarana). He argues that the origination of the jiva is not of primary significance. But according to Yamuna, this point has already been clarified by the sutra- "nātmā śruteḥ ", etc., so much so that the sutra "caracara" etc., becomes redundant and thus becomes "anadhikaraṇīya", that is to say that it does not deserve treatment as a separate topic. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं च 
 
@@ -15395,7 +15396,7 @@ and because of its eternality, which is proved by the śrutis."
 </details>
 
 #### न च कर्त्तुः करणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । 
 </details>
@@ -15414,7 +15415,7 @@ and because of its eternality, which is proved by the śrutis."
 एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । 
 </details>
@@ -15430,7 +15431,7 @@ that the instrument, Sc. the mind, originates from the agent, sc. Saṅkarṣa�
 न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
 </details>
@@ -15445,7 +15446,7 @@ For we have already stated that these names solely refer to the persons who uper
 उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किम् इति वा "कर्तुः करणं नोत्पद्यते" +++(इति सूत्रम्)+++?
 </details>
@@ -15460,7 +15461,7 @@ OBJECTION. Then why this sūtra at all?
 किम् इति वा कर्तुः करणं नोत्पद्यते ?
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > देवदत्तादेः कर्तुः परशु-प्रभृति-करणोत्पत्त्य्-अदर्शनाद् 
 
@@ -15495,7 +15496,7 @@ OBJECTION. Then why this sūtra at all?
 न चैवंभूतां श्रुतिम् उपलभामहे ॥ ४३ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त हतस् तर्हि  अपगत-सकल-करण-कलाप--स्व-महिम-प्रतिष्ठ-ब्रह्मणः  
 प्राण-मनः-प्रभृति-निखिल-करणोत्पत्त्यभ्युपगमः
@@ -15518,7 +15519,7 @@ REFUTATION. Well, then you reject the general view that all instruments, vital a
 "एतस्माज् जायते प्राणो मनः सर्वेन्द्रियाणि" इति [श्रुत्या] ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ "श्रुति-प्रसिद्धत्वात्  
 तत् तथैवाभ्युपेयते" ।  
@@ -15537,7 +15538,7 @@ Or if you do agree on this because it is clearly proved in Revelation, I ask you
 पञ्चरात्र-प्रसिद्धत्वाद् इदं किं नाभ्युपैषि भोः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि स्मृति-प्रसिद्धार्थ-  
 परित्यागो ऽतिशोभनः ।  
@@ -15569,7 +15570,7 @@ nirdoṣajñānajanmatvāt jyotiṣṭomādivākyavat
 ### व्यूह-रूप-भगवत्त्वय् उत्पत्ति-करण-सम्भवौ
 #### विज्ञानादि-भावे वा तद्-अप्रतिषेधः
 ##### चतुर्धा-भाव उपपन्नः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > यत् तु "चत्वार एते किं  
 समानैश्वर्य-भागिनः ।  
@@ -15596,7 +15597,7 @@ or has one a quaternity of personalities which he has assumed at his own desire?
 इति विकल्प्य   
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > "समानैश्वर्य-भागित्वे  
 तुल्यत्वान् नैव कार्यता ।  
@@ -15621,7 +15622,7 @@ or has one a quaternity of personalities which he has assumed at his own desire?
 इति दूषयतीति व्याख्यातं 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "विज्ञानादि-भावे वा तद्-अप्रतिषेधः" इति , 
 </details>
@@ -15670,7 +15671,7 @@ $ Cf. Sankara on II. ii. 44.
 ब्रह्मादि-स्तम्ब-पर्यन्तस्य समस्तस्यैव जगतो भगवद्-व्यूहत्वावगमात् ॥ ४४ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् अयुक्तम् - अ-सम्भावनीयत्वाद् विकल्पस्य । 
 </details>
@@ -15685,7 +15686,7 @@ REFUTATION. That is not correct, because an alternative is impossible.
 तद् अयुक्तम् असम्भावनीयत्वाद् विकल्पस्य । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि केनचिद् ईश्वर-वादिना  
 अनेकेश्वरं जगद् अभ्युपगतं  
@@ -15704,7 +15705,7 @@ For no one who holds that there is a God theorizes that the world has several Go
 वासुदेव एवैकः परा प्रकृतिर् इति वदद्भिः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किन्तु स एव भगवान् लीला-विरचित-चतुर्भेदः सकलम् अपि जगत् संरक्षतीति ।
 </details>
@@ -15747,7 +15748,7 @@ Cf. Philosophy of Visistādvaita, p. 156-
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेदम् अनुपपन्नं -  
 बल-भरतावरजाग्रजादि-प्रादुर्भाववद् उपपत्तेः, 
@@ -15764,7 +15765,7 @@ And this position is not unjustified, because it is justified in the same manner
 बलभरतावरजाग्रजादिप्रादुर्भाववदुपपत्तेः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव हि भगवतः स्व-लीला-विरचित-गगन-पवन-हर-विरिञ्च्य्- आदि-प्रपञ्चस्य  
 अचिन्त्य-महिम-लीलैक-प्रयोजनस्य  
@@ -15812,7 +15813,7 @@ Cf. Ahirbudhnya Samhitā ch. 36 Śls. 64, 65.
 </details>
 
 ### शब्द-विप्रतिषेधो न
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् परं "विप्रतिषेधाद्" इति  
 "चतुर्षु वेदेष्व्" इति श्रुति-विप्रतिषेधात्,  
@@ -15854,7 +15855,7 @@ Shankara on II-ii-42 -
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमाणम् इति तत्र श्रुतिविप्रतिषेधस्तु प्रागेव प्रत्युक्तः, 
 </details>
@@ -15869,7 +15870,7 @@ The former alternative, incompatibility with Revelation has already been refuted
 अप्रमाणमिति तत्र श्रुतिविप्रतिषेधस्तु प्रागेव प्रत्युक्तः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 परस्-पर-विप्रतिषेधस् तु  
 प्रधान-गुण--सामान्य-विशेषादि-न्याय- संपादित-वचन-व्यक्तीनां तन्त्राणां नास्त्य् एव 
@@ -15885,7 +15886,7 @@ Mutual conflict between the Pañcarātra Tantras themselves, whose terminologica
 परस्परविप्रतिषेधस् तु प्रधानगुणसामान्यविशेषादिन्यायसंपादितवचनव्यक्तीनां तन्त्राणां नास्त्येव 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यायानुग्रह-रहितानां तु वचसां  
 न क्वचिद् अपि परिनिश्चायकत्वम्,  
@@ -15923,7 +15924,7 @@ f The source is yet to be identified. This verse, however, is quoted in full by 
 Vedantadeśika too quotes this in his Nyayapariśuddhi, p.151. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् सूत्रकारेण  
 "इदं महोपनिषदम्" इत्य्-आदि-वचनैर्  
@@ -15958,7 +15959,7 @@ Enough.
 ## १२ ब्रह्म-सूत्रे ऽङ्गीकारः
 
 ### सन्दर्भः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रैष सूत्रार्थः -  
 पूर्वं स्वाभिप्रेत-समय-परिपन्थि--कपिल- काश्यप-सुगत-जिन-पशुपति-मतानां  
@@ -15979,7 +15980,7 @@ who oppose the Author's own accepted doctrine, are unnatural217 because they con
 तत्रैष सूत्रार्थः पूर्वं स्वाभिप्रेतसमयपरिपन्थिकपिल-काश्यपसुगत-जिन-पशुपतिमतानां श्रुतिन्याय विरोधादसामञ्जस्यं प्रतिपाद्य 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधुना स्वाभिप्रेत--पञ्च-रात्र-तन्त्राणाम् अपि इतर-समय-समान-परिगणनाद्  
 बुद्धौ सन्निहितानाम् इतर-समयवद् अ-सामञ्जस्यम् आशङ्क्य  
@@ -16010,7 +16011,7 @@ Now, in order to remove the suspicion that the Pancarãtra Tantras (which are hi
 
 ### जीव-करणोत्पत्त्य्-अर्थेन
 #### पूर्वपक्षः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राद्येन सूत्रद्वयेन पूर्वपक्ष उपक्षिप्यते,  
 </details>
@@ -16030,7 +16031,7 @@ In the first two Sūtras the prima-facie case is laid down:
 § According to Sankara, all the four aphorisms of the utpattyasambhava section । 11-ii-42-45] put forth the refutation of the Pañcarātra. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि -  
 
@@ -16048,7 +16049,7 @@ the Pancarãtra likewise has no validity, utpattyasaṃbhavāt, i.e., on account
 तथा हि पञ्चरात्रशास्त्रम् अप्रमाणम् उत्पत्त्यसंभवात् प्रतिपाद्यमानायाः संकर्षणाद्युत्पत्तेः असंभवात्
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कथम् असंभवः? उभयथा ऽप्यनुपपत्तेः। 
 </details>
@@ -16063,7 +16064,7 @@ the Pancarãtra likewise has no validity, utpattyasaṃbhavāt, i.e., on account
 कथम् असंभवः, उभयथा ऽप्यनुपपत्तेः। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा हि ।
 >
@@ -16087,7 +16088,7 @@ the Pancarãtra likewise has no validity, utpattyasaṃbhavāt, i.e., on account
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > समानैश्वर्यभागित्वे तुल्यत्वान् नैव सृज्यते ।
 एकात्मत्वे ऽभ्युपेते ऽपि तथोत्पत्तेः असंभवात् ।
@@ -16106,7 +16107,7 @@ the Pancarãtra likewise has no validity, utpattyasaṃbhavāt, i.e., on account
 स्रष्टृसृज्यविभागो हि नैकस्मिन् अवकल्पते ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा 
 
@@ -16134,7 +16135,7 @@ the Pancarãtra likewise has no validity, utpattyasaṃbhavāt, i.e., on account
 t Cf. Sribhāsya under II. ii. 40, where almost the same words are used. $ Mundakopanisad II. 1. 3. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वा -  
 
@@ -16170,7 +16171,7 @@ $ Mundakopanisad II. 1. 3.
 </details>
 
 #### उत्तर-पक्षः - व्यूह-ब्रह्म-त्वमात्रेण 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विज्ञानादि-भावे वा तद्-अ-प्रतिषेध 
 
@@ -16194,7 +16195,7 @@ By the particle va this prima-facie case is now reversed.
 Cf. Sribhāsya under IIii. 41- where again the same words are used. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् उक्तम् 
 
@@ -16213,7 +16214,7 @@ What has been said, viz., that there is no validity since in neither case origin
 यदुक्तमुभयथाऽपि संकर्षणाद्युत्पत्तेरसंभवादप्रामाण्यमिति नैतदस्ति।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास् सङ्कर्षणाद्य्-उत्पत्तेर् अप्रतिषेधः ।  
 </details>
@@ -16228,7 +16229,7 @@ it is not contradictory that Saṅkarṣaṇa etc. have originated.
 तस्यास्सङ्कर्षणाद्युत्पत्तेरप्रतिषेधः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि हि विज्ञानादय एते +++(सङ्कर्षणादयः)+++ न भवेयुः - स्याद् उत्पत्ति-प्रतिषेधः ।  
 </details>
@@ -16249,7 +16250,7 @@ i ' एते' सङ्कर्षणादयः ।
 </details>
 
 ##### विज्ञानादिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञानञ् चादि+++(श्)+++ चेति विज्ञानादि ब्रह्म,  
 तद्-भावे ब्रह्म-भावे उत्पत्तेर् अप्रतिषेधः ।
@@ -16332,7 +16333,7 @@ Inasmuch as they are Brahman (brahmabhāve), the origination is not contradictor
 घञि घस्लादेश-विधानात् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् उक्तं भवति -  
 
@@ -16385,7 +16386,7 @@ $ This Māyā is the Sakti or the Power of the Lord, termed also Jñāna, Vidya,
 </details>
 
 ##### करणोत्पत्तिः - विप्रतिषेधात्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु  
 
@@ -16410,7 +16411,7 @@ The objection that the mind cannot originate from Saṅkarṣaṇa, on the autho
 </details>
 
 #### उत्तर-पक्षः - युक्त्या करणोत्पत्ति-सिद्ध्या
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च "न च कर्तुः करणम्" इति किमुक्तं भवति? 
 </details>
@@ -16430,7 +16431,7 @@ The objection that the mind cannot originate from Saṅkarṣaṇa, on the autho
 These different interpretations are not included by Ramanuja in his Sribhasya. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं यस्याः क्रियाया यत् करणं  
 तत् क्रिया-कर्तुर् नोत्पद्यते,  
@@ -16454,7 +16455,7 @@ or that no instrument of any action whatever originates from any agent whatsoeve
 $ ' यत्र क्वापि क्रियायाम्' इति शेषः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राद्ये कल्पे  
 सिद्ध-साधनतया अनुमानस्य विप्रतिषेधः -   
@@ -16482,7 +16483,7 @@ nor can it be the instrument of the action of being originated, since it itself 
 न ह्यत्र सङ्कर्षणात्कर्त्तुरुत्पद्यमानं मनः स्वोत्पादने करणं कर्मत्वात्, नापि स्वोत्पत्तौ कर्तृत्वात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपरेऽपि कल्पे प्रत्यक्ष-विप्रतिषेधः -  
 
@@ -16500,7 +16501,7 @@ If the alternative view is taken, we have a conflict with Perception, because we
 अपरेऽपि कल्पे प्रत्यक्षविप्रतिषेधः उदकाहरणादौ करणभूतानामपि घटादीनां कर्त्तुः कुलालादेरुत्पत्तिदर्शनात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् इदम् आह - विप्रतिषेधाद् इति ।  
 </details>
@@ -16516,7 +16517,7 @@ This the Author says in the sūtra vipratiṣedhāt: 'because there is conflict.
 </details>
 
 #### उत्तर-पक्षः - ब्रह्म-कर्तृत्व-निश्चयेन
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् वा सूत्र-द्वस्यास्य  
 **व्याख्यानान्तरम्** उच्यते ।  
@@ -16547,7 +16548,7 @@ Or, we state an alternative explation for the two sutras.
 </details>
 
 ##### विज्ञानम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञानादेः +++(ब्रह्मणः)+++ प्रामाणत्व-  
 हेतोर् +++(सद्-)+++**भावे न युज्यते** ॥  
@@ -16578,7 +16579,7 @@ since it is vijñānādi, i.e. "a ground for validity",220 the denial of the val
 अन्यथा मन्वादिस्मृतेरपि अप्रामाण्य-प्रसक्तिर् इत्य् आशयः । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रानुवाद-सन्देह-  
 ज्ञानानुत्पत्ति-लक्षणम् ॥  
@@ -16598,7 +16599,7 @@ The invalidity, which is defined by the non-origination of knowledge through rep
 </details>
 
 ##### आदि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वक्त्र्-आशय-वश-प्राप्त-  
 मिथ्या-शंकाऽपनुत्तये ॥  
@@ -16623,7 +16624,7 @@ In order to remove the suspicion of untruth occasioned by the speaker's characte
 आदिशब्देन दोषरहित्यम्, विज्ञानशब्देन गुणसाहित्यं चामिप्रेतम् । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि -  
 
@@ -16658,7 +16659,7 @@ Cf. The following verse, which, according to tradition, forms the opening verse 
 </details>
 
 ##### विप्रतिषेधात्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पत्त्य्-असम्भवो यश् च  
 पूर्व-सूत्र-द्वयोदितः ।  
@@ -16683,7 +16684,7 @@ Cf. The following verse, which, according to tradition, forms the opening verse 
 इदानीं 'उत्पत्त्यसम्भव' इत्यादिना 'मूर्ति-भेदोऽपि कथम् ?' इति शङ्कायाः समाधानमुच्यते । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "विप्रतिषेधात्" इति पञ्च-रात्र-स्मरणानुमित-भगवत्-प्रत्यक्ष-विप्रतिषेधात् तद्-अनुमित-श्रुति-विप्रतिषेधाद् वेति ।  
 </details>
@@ -16706,7 +16707,7 @@ Brahmasutra II.ii. 42.
 </details>
 
 ### विरुद्ध-प्रमित्य्-उत्पत्त्य्-अर्थेन 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् वा सूत्राणां न्याय-प्रदर्शन-परत्वात्  
 पञ्च-रात्र-श्रुत्योर् अ-सन्तम् अपि विरोधं कृत्वा  
@@ -16725,7 +16726,7 @@ Brahmasutra II.ii. 42.
 
 #### पूर्व-पक्षः 
 ##### उत्पत्त्य्-असम्भवात् पाञ्चरात्राप्रामाण्यम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा - 
 
@@ -16748,7 +16749,7 @@ suppose that Pañcaratra is in conflict with the veda, is this śāstra then, li
 अप्रमाणमिदं शास्त्रं प्रमाणं वेति संशये ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमाणं +++(वेद-)+++विरुद्धार्थ-  
 प्रमित्य्--उत्पत्त्य्-अ-सम्भवात् ।  
@@ -16768,7 +16769,7 @@ and this impossibility itself is proved on the ground that there is independence
 असम्भवश्च सापेक्षनिरपेक्षत्वहेतुकः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावद् धि  
 सापेक्षं पञ्च-रात्र-स्मरणं  
@@ -16798,7 +16799,7 @@ and consequently conflicting with itself.
 न मूलप्रमाणोपस्थापनमुखेन स्वार्थं प्रमातुमुपक्रमते तावन्निरपेक्षापौरुषेयागमभुवा प्रत्ययेन तदर्थस्यान्यथा परिच्छेदात्तद्विरुद्धायाः प्रमितेरुत्पत्त्य्-असम्भवात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावद्धि पञ्चरात्रस्य  
 मूल-श्रुत्य्-अवबोधनम् ।  
@@ -16828,7 +16829,7 @@ yāvat pratyakṣaśāstreņa mūlameṣāṁ na kṛntyate ॥
 
 ##### न च कर्त्तुः करणं वेदः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु कथं वेदा वा निरपेक्षा?  
 यावता तेषाम् अपि भगवद्-अनुभव-सापेक्षम् एव प्रमाणत्वं -  
@@ -16853,7 +16854,7 @@ yāvat pratyakṣaśāstreņa mūlameṣāṁ na kṛntyate ॥
 $ This is the contention of the Naiyāyika. He does not accept the "apauruṣeyatva" of the Vedas. They, according to him, are dependent upon the Supreme Being, like the Pāñcarātrāgamas, for their validity, so much so they too are "pauruṣeya ", i.e., composed by the Divine Person. This is the point on which Yamuna differs from the Naiyayika. The aphorism "na ca kartuḥ harapum" ( Brahmasūtra II. ii. 40 ) is ingeniously interpreted by Yāmuna to elute the above concept of the Logician, and to establish the "apauruṣe- vatva " or the revealed character of the Vedas. 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यथैव हि पञ्च-रात्र-स्मृतयः तद्-अनुभव-सापेक्षाः,  
 एवं वेदा अपि 
@@ -16871,7 +16872,7 @@ Just as the Pāñcarātra Traditions are dependent on His cognition, so are the 
 यथैव हि पञ्चरात्रस्मृतयः तदनुभवसापेक्षाः एवं वेदा अपीति 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रोच्यते -  
 
@@ -16907,7 +16908,7 @@ This then means that the Vedas are preterhuman.
 </details>
 
 #### उत्तरपक्षः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञानादिभावे वा तदप्रतिषेधः।
 </details>
@@ -16922,7 +16923,7 @@ This then means that the Vedas are preterhuman.
 विज्ञानादिभावे वा तदप्रतिषेधः
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैतद् अस्ति पञ्चरात्रशास्त्रम् अप्रमाणमिति। 
 </details>
@@ -16937,7 +16938,7 @@ This then means that the Vedas are preterhuman.
 न चैतद् अस्ति पञ्चरात्रशास्त्रम् अप्रमाणमिति। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किम् तर्हि? तद्-अप्रतिषेधः। 
 </details>
@@ -16952,7 +16953,7 @@ then what? tadapratiṣedhaḥ,
 किम् तर्हि? तद्-अप्रतिषेधः। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमित्युत्पत्तेर् अप्रतिषेधः।  
 विरुद्धार्थम् अपि विकल्पेन प्रमाणम् इत्यर्थः ।  
@@ -16969,7 +16970,7 @@ i e. non-rejection of the origination of valid knowledge (namely, even when part
 विरुद्धार्थम् अपि विकल्पेन प्रमाणम् इत्यर्थः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 असम्भवद्--भ्रम-विप्रलम्भ-- भगवद्-अनुभवमूलत्वात्, "विज्ञानादि-भावे"।
 </details>
@@ -16984,7 +16985,7 @@ because it is based upon the direct cognition of the Bhagavān in whom error and
 असम्भवद्भ्रमविप्रलम्भभगवदनुभवमूलत्वात्, विज्ञानादिभावे।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञानं विशिष्टं ज्ञानम् - असम्भवत्स्खलनम् इति यावत्, 
 </details>
@@ -16999,7 +17000,7 @@ Vijñāna means "knowledge par excellence in which no mistake is possible.
 विज्ञानं विशिष्टं ज्ञानम् असम्भवत्स्खलनम् इति यावत्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्येषां हि सर्वधर्मशास्त्र-निबन्धनां  
 सांसारिकत्त्वेनासार्वज्ञ्यात्  
@@ -17018,7 +17019,7 @@ various lapses are conceivable in their knowledge.
 अन्येषां हि सर्वधर्मशास्त्र-निबन्धनां सांसारिकत्त्वेनासार्वज्ञ्यात् अनवाप्तकामत्वाच् च सम्भाव्यमानविविधविप्लवं ज्ञानम्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवतस् तु स्वाभाविक-निरङ्कुशैश्वर्यस्य  
 श्रुति-शत-समधिगतावितथ- सहज-समस्त-धर्माधर्मादि-साक्षात्-कारम् ज्ञानम्  
@@ -17035,7 +17036,7 @@ Whereas in the case of the Bhagavān, whose supremacy is natural and unlimited, 
 भगवतः तु स्वाभाविकनिरङ्कुशैश्वर्यस्य श्रुतिशतसमधिगतावितथसहजसमस्तधर्माधर्मादिसाक्षात्कारम् ज्ञानम् इति विज्ञानम् इत्युक्तम्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तादृशस्य तस्य  
 आदिभावे मूलत्वे सति  
@@ -17059,7 +17060,7 @@ When such knowledge is the 'beginning,' i.e. the basis, there is non-rejection, 
 
 ## १३ वेद-तुल्य-प्रामाण्यम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु कथं श्रुति-विरुद्धस्य तन्त्रस्य प्रामाण्याभ्युपगमः?  
 </details>
@@ -17075,7 +17076,7 @@ which conflicts with scripture, has validity?
 ननु कथं श्रुतिविरुद्धस्य तन्त्रस्य प्रामाण्याभ्युपगमः?  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्प्रामाण्ये हि श्रुत्या सह विकल्पः प्राप्नोति, 
 </details>
@@ -17091,7 +17092,7 @@ it becomes optional beside 89 scripture;
 तत्प्रामाण्ये हि श्रुत्या सह विकल्पः प्राप्नोति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(पाञ्चरात्रेण)+++ विकल्पश् च अष्ट-दोष-दुष्टः, 
 </details>
@@ -17106,7 +17107,7 @@ and optionality is deficient in the case of the Tantras by eight defects.
 विकल्पश्च अष्टदोषदुष्टः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स च क्वचिद् अन्यतर-परित्याग-कारणाभावाद् **अगत्या ऽभ्यनुज्ञायते**,  
 यथा "व्रीहिभिर् यजेत यवैर् यजेत" इति, 
@@ -17126,7 +17127,7 @@ beside "he must sacrifice with barley."
 स च क्वचिदन्यतरपरित्यागकारणाभावादगत्याऽभ्यनुज्ञायते, यथा व्रीहिभिर्यजेत यवैर्यजेत इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न हि तत्रान्यतरद् अपहर्तुं शक्यम् -  
 उभयोर् अप्य् अन्-अपेक्षत्वाविशिष्टत्वात् ।  
@@ -17143,7 +17144,7 @@ because both ~~neither~~ of these statements is characterized by independence.
 न हि तत्रान्यतरदपहर्तुं शक्यम् उभयोरप्यनपेक्षत्वाविशिष्टत्वात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** चैवम् अपि पञ्च-रात्र-श्रुत्योर् **विकल्पेन भवितव्यम्** अतुल्यत्वात्, 
 </details>
@@ -17159,7 +17160,7 @@ because the two are not equal;
 न चैवमपि पञ्चरात्रश्रुत्योर्विकल्पेन भवितव्यम् अतुल्यत्वात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > निरपेक्षं हि वैदिकं वचनं - अपौरुषेयत्वात्,  
 सापेक्षं च पञ्च-रात्र-वचनम् इति।  
@@ -17181,7 +17182,7 @@ So how can they be alternatives and optional?
 </details>
 
 ### इतर-निरपेक्षता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयतां - पञ्च-रात्र-शास्त्रस्यापि निरपेक्षत्वाद् एव +++(विकल्पत्वम्)+++।  
 </details>
@@ -17196,7 +17197,7 @@ So how can they be alternatives and optional?
 श्रूयतां पञ्चरात्रशास्त्रस्यापि निरपेक्षत्वादेव ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कथन्नु पौरुषेयस्य  
 > वचसो निरपेक्षता ।  
@@ -17212,7 +17213,7 @@ OBJECTION. How can a statement deriving from a person be independent?
 कथन्नु पौरुषेयस्य वचसो निरपेक्षता ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति चेद् इदम् **आचष्टां**  
 **पृष्टस्** सन्न् एष तार्किकः ॥  
@@ -17244,7 +17245,7 @@ All four are impossible.
 पुमर्थत्वाय वा तत्र चतुर्णामप्यसम्भवः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न खलु "चक्रवर्त्य्-उपचारेण भगवन्तं समर्चयेद्"  
 इतीदं वचनं श्रूयमाणं  
@@ -17265,7 +17266,7 @@ because the meaning of the words has already become known from other contexts.
 न खलु चक्रवर्त्त्युपचारेण भगवन्तं समर्चयेदितीदं वचनं श्रूयमाणं बोधकत्वाय किञ्चिदपेक्षते अन्यत्र व्युत्पत्तिग्रहणात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च तावता सापेक्षत्वेन दौर्बल्यं -  
 श्रुताव् अपि दौर्बल्य-प्रसङ्गात् ।+++(4)+++
@@ -17289,7 +17290,7 @@ but this must also apply to Vedic statements.
 न च तावता सापेक्षत्वेन दौर्बल्यं श्रुतावपि दौर्बल्यप्रसङ्गात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि निश्चय-जननाय,  
 न हि "अर्चयेद्" इत्य् एतत् "अर्चयेन् न वे"ति संशयितं प्रत्ययम् उत्पादयति -  
@@ -17310,7 +17311,7 @@ since that would entail a negation of the direct declaration of the real sense.
 न हि अर्चयेदित्येतत् अर्चयेन्न वेति संशयितं प्रत्ययमुत्पादयति व्युत्पत्तिप्रतिपत्तिव्याकोपप्रसङ्गात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि यथार्थत्वाय,  
 **न** ह्य् **उत्पन्नं** ज्ञानं  
@@ -17339,7 +17340,7 @@ The validity itself must be proved (namely by the character of the personal auth
 नापि यथार्थत्वाय, न ह्युत्पन्नं ज्ञानं स्वकारणव्यतिरेकेण यथार्थत्वाय अपरमपेक्षते गुणतः प्रामाण्यस्यायुक्तत्वात् अनभ्युपगमाच्च ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च पुरुषार्थत्वाय परापेक्षा -  
 शास्त्र-शरीर-पर्यालोचनाद् एव तत्-सिद्धेः, 
@@ -17357,7 +17358,7 @@ for the proof of this purpose follows from a consideration of the entire body of
 न च पुरुषार्थत्वाय परापेक्षा शास्त्रशरीरपर्यालोचनादेव तत्सिद्धेः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह हि यथोक्त-संस्कारवतां शास्त्र-श्रवणात् तद्-अर्थ-ज्ञानं,  
 ततस् तद्-अर्थं पाञ्चकालिकानुष्ठानम्,  
@@ -17381,7 +17382,7 @@ this is learnt solely from the Sastra itself.
 </details>
 
 #### आप्ति-निश्चयो नापेक्षितः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोच्येत 
 
@@ -17407,7 +17408,7 @@ after it has been made certain that the speaker is reliable,-
 अथोच्येत सत्यपि पञ्चरात्रतन्त्राणां स्वतःप्रामाण्ये यावत्तद्वक्तुराप्तिनिश्चयपुरस्सरं दोषाभावो नावधार्यते न तावत्प्रामाण्यं निष्पाद्यत इति 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् असत्,  
 **न** हि दोषाभाव-ज्ञानं प्रामाण्यं **निष्पादयति**  
@@ -17427,7 +17428,7 @@ and not from the defectlessness of this knowledge.
 तदसत्, न हि दोषाभावज्ञानं प्रामाण्यं निष्पादयति निर्दोषज्ञानकारणादेव तदुत्पत्तेः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च निर्दोषत्वायाप्तत्वादि-गुण-निश्चयः -  
 सत्ता-मात्रेण तत्-सिद्धेः,  
@@ -17445,7 +17446,7 @@ because the statement's defectlessness is proved solely by its being defectless.
 न च निर्दोषत्वायाप्तत्वादिगुणनिश्चयः सत्तामात्रेण तत्सिद्धेः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाह वार्तिककारः -  
 
@@ -17475,7 +17476,7 @@ because (its defectlessness) is already known."229
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 दोषाभाव-ज्ञानेऽपि  
 गुणानां सत्तयोपयोगो दर्शितः,  
@@ -17505,7 +17506,7 @@ they are helpful by merely existing."
 </details>
 
 ##### हानोपादानादि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चोत्पन्नम् अपि प्रमाणं  
 हानोपादानादि-व्यवहारायापरमम् अपेक्षते  -  
@@ -17525,7 +17526,7 @@ because action proceeds on the basis of recollection and desire.
 न चोत्पन्नमपि प्रमाणं हानोपादानादिव्यवहारायापरममपेक्षते स्मरणाभिलाषाभ्यामेव तत्सिद्धेः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाहुः 
 
@@ -17550,7 +17551,7 @@ As they say,
 </details>
 
 #### (अ)कर्तृवत्ता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च  
 
@@ -17575,7 +17576,7 @@ after the certainty about the non-existence of their author.
 </details>
 
 ##### ईश्वरकृततया दोषाभावः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ
 
@@ -17598,7 +17599,7 @@ the question of the non-validity does not arise for the Veda, for defects are im
 अथ योग्यानुपलम्भादेवानायाससिद्धे वक्तृ??भावे निराश्रयदोषाणामसम्भवादप्रामाण्यशङ्कैव वेदे नास्ति इति चेत् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यथाहुः ।  
 >
@@ -17631,7 +17632,7 @@ therefore its validity cannot be questioned."\*\*"
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त तर्हि पञ्च-रात्र-तन्त्रेऽपि  
 सर्व-ज्ञ--सर्वेश्वर-वक्तृ-भावाद् एव  
@@ -17649,7 +17650,7 @@ REFUTATION. Why, in the case of Pañcarátra too no question can arise about its
 हन्त तर्हि पञ्चरात्रतन्त्रेऽपि सर्वज्ञसर्वेश्वरवक्तृभावादेव अयत्नसिद्धे दोषाभावे अप्रामाण्यशङ्का नावतरतीति समानश्चर्चः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् उक्तं भवति -  
 
@@ -17670,7 +17671,7 @@ In other words, in both cases of self-validity there is positive certainty that 
 एतदुक्तं भवति उभयोरपि स्वतःप्रामाण्ययोरेकत्र दोषाभावनिश्चयः तदाश्रयपुरुषाभावनिश्चयात्, अन्यत्र तद्विरुद्धगुणवक्तृकत्व निश्चयादिति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा 
 
@@ -17692,7 +17693,7 @@ It is here as in the following two cases of absence of heat: there is no heat in
 </details>
 
 #### सापेक्षता न बाधिका
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च -  
 
@@ -17716,7 +17717,7 @@ It is here as in the following two cases of absence of heat: there is no heat in
 सापेक्षनिरपेक्षत्वे न हि बाधस्य कारणम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्तौ रजत-बोधस्य  
 निरपेक्षस्य बाधकम् …॥  
@@ -17740,7 +17741,7 @@ this cognition itself is considered as dependent.
 नेदं रजतविज्ञानं तत्सापेक्षमपीष्यते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सेयं +++(समाना)+++ ज्वाले"ति संवित्तेस्  
 तैल-वर्ति-विनाश-जा ॥  
@@ -17766,7 +17767,7 @@ the latter cognition itself is dependent because it arises from a sense-percepti
 अनुमा बाधिका दृष्टा सापेक्षाऽप्यक्षजन्मनः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो निरवकाशेन  
 सावकाशं **निषिध्यते** +++(न तु निरपेक्षेण)+++ ॥  
@@ -17790,7 +17791,7 @@ in our present case there is no such susceptibility either of Scripture or of Pa
 
 ### कर्ता
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ श्रुतिविरुद्धस्य  
 तन्त्रभागस्य दुश्शकम् ॥  
@@ -17811,7 +17812,7 @@ as it is in conflict with Scripture,
 वासुदेवप्रणीतत्वं निश्चेतुमिति मन्यसे ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चरात्र-विरुद्धस्य  
 वेदभागस्य वा कथम् ॥  
@@ -17832,7 +17833,7 @@ while it is invalidated because it conflicts with Pañcaratra?
 अपौरुषेयताज्ञानमाविर्भवति बाधितम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यापि वेद-भागत्वात्  
 तथाभावोऽभ्युपेयते ॥  
@@ -17851,7 +17852,7 @@ They accept it that the Veda is preterpersonal just because it is Veda; but then
 अस्यापि पञ्चरात्रत्वात् तत्प्रणीतत्वमिष्यताम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्तुर् अस्मरणात् तत्र  
 यदि चापौरुषेयता ॥  
@@ -17870,7 +17871,7 @@ If the preterpersonal origin of the Veda is proved by the fact that there is no 
 तत्कर्तृकत्वस्मृत्याऽत्र किन्न स्यात्तत्प्रणीतता ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्ति ह्य् आ-स्त्री-कुमारं सा  
 दृढा स्मृति-परम्परा ॥  
@@ -17889,7 +17890,7 @@ For there exists a strong transmission of the recollection, extending to women a
 पञ्चरात्रस्य निर्माता केशवो भगवानिति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्प्रणीतत्वविश्वासाद्  
 गजानश्वान् धनं बहु ॥  
@@ -17908,7 +17909,7 @@ So great a faith do people have in His authorship that they erect monuments acco
 दक्षिणां विविधां दत्त्वा प्रतिष्ठादीनि कुर्वते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एसाङ्ख्यस्य कपिलो वक्ता  
 पञ्चरात्रस्य केशवः ॥  
@@ -17929,7 +17930,7 @@ In the Skanda Purana it is said that "Kapila is the promulgator of Samkhya, Kesa
 पठ्यते भारते तथा ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पञ्चरात्रस्य कृत्स्नस्य  
 वक्ता नारायणः स्वयम् ॥  
@@ -17951,7 +17952,7 @@ This great Upanisada, consistent with the four Vedas,
 इदं महोपनिषदं चतुर्वेदसमन्वितम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > साङ्ख्य-योग-कृतान्तेन  
 पञ्च-रात्रानुशब्दितम् ॥  
@@ -17976,7 +17977,7 @@ as he had seen it and heard it in the abode of Brahma."
 ब्रह्मणस्सदने तात! यथादृष्टं यथाश्रुतम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमादिपुराणोक्तैः  
 सहस्रैर् न्याय-बृंहितैः ।  
@@ -18000,7 +18001,7 @@ On the other hand, some experts dispute that the Veda is eternal! ([[142]] [235]
 किन्तु वेदस्य नित्यत्वे विवदन्ते विपश्चितः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन निर्दोष-विज्ञान-  
 कारणत्वाद् द्वयोर् अपि ॥  
@@ -18032,7 +18033,7 @@ is this that both are causes of defectless knowledge.
 </details>
 
 ### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च तुल्यशिष्टत्वाद्  
 विकल्पेन प्रमाणता ॥  
@@ -18056,7 +18057,7 @@ Consequently, because both are equally exemplary, they are optionally valid. It 
 
 ## १४ अमोहकता
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च भगवतस् सर्व-ज्ञत्वेनासंभाव्यमानायाम् अपि भ्रान्तौ  
 सर्व-शक्तित्वेन विप्रलब्धमपि भवतीति  
@@ -18081,7 +18082,7 @@ or that it has been stated according to the truth with complete attentiveness of
 किमिदमपि शास्त्रं व्यामोहयितुमभिहितम् उत वस्तुतोऽवहितबुद्ध्या निबद्धम् इति? 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अन्यतर-पक्षावलम्बन-विक्लव-मनसां  
 क इव निर्णयोपायः?  
@@ -18100,7 +18101,7 @@ or that it has been stated according to the truth with complete attentiveness of
 अन्यतरपक्षावलम्बनविक्लबमनसां क इव निर्णयोपायः, प्रत्युत वेदविरोधादेव विप्लवनफलमित्यध्यवस्याम इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रोच्यते "विप्रतिषेधात्" इति -  
 समस्त-श्रुतीतिहास-पुराण-लोक-विप्रतिषेधात्।  
@@ -18117,7 +18118,7 @@ REFUTATION. To this objection the Author replies vipratisedhat, i.e., on account
 </details>
 
 ### नाकारणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि विना कारणेन भगवतः सर्व-शक्तित्व-मात्राद् विप्लावन-शङ्का -  
 </details>
@@ -18133,7 +18134,7 @@ if He might bave intended to ruin His devotees,
 यदि विना कारणेन भगवतः सर्वशक्तित्वमात्राद् विप्लावनशङ्का - 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्तैवं सर्वशक्तित्वान्  
 नरके धार्मिकान् अपि ।  
@@ -18152,7 +18153,7 @@ why, then one could also raise the question whether He would not hurl even the v
 पातयेन्नेति सन्देहान्निश्चेष्टं जगदापतेत् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि चायं सर्वशक्तित्वेन विप्रलिप्समानः  
 किम् अतीन्द्रियासत्यार्थान् वेदान् आदौ निर्माय   
@@ -18181,7 +18182,7 @@ how can we be sure about it?
 </details>
 
 ### स्वरूप-विरुद्धम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथास्य सत्य् अपि सर्व-शक्तित्वे  
 यावच्-छक्ति-करणे प्रमाणाभावाद् अनवस्थानाद् 
@@ -18200,7 +18201,7 @@ He acted up to the full measure of His omnipotence,
 अथास्य सत्यपि सर्वशक्तित्वे यावच्छक्तिकरणे प्रमाणाभावाद् अनवस्थानाद् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवतश् च स्व-भावाप्त-कामतया विप्रलम्भ-प्रयोजन-विरहाद् 
 </details>
@@ -18216,7 +18217,7 @@ because He is satisfied in all His desires,
 भगवतश्च स्वभावाप्तकामतया विप्रलम्भप्रयोजनविरहाद् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैषम्य-नैर्घृण्यादि-दोषैर् मात्रया ऽपि चासंस्पृष्टत्वात् 
 </details>
@@ -18231,7 +18232,7 @@ and since He is not in the least affected by defects of partiality and cruelty e
 वैषम्यनैर्घृण्यादिदोषैर्मात्रयापि चासंस्पृष्टत्वात् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वप्राणिजातस्य स्वभावसौहृदेन व्यवस्थानात्। 
 </details>
@@ -18247,7 +18248,7 @@ because He abides with natural affection for all living beings;
 </details>
 
 ### दोषास्मरणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विप्रलब्धुं प्रणीतत्वे च  
 विदुषाम् अद्य यावत् स्वाध्यायाध्ययन--तद्-अर्थानुष्ठानवतां  
@@ -18276,7 +18277,7 @@ and if this view is taken, all this will equally apply to the other ~~Vedas~~ as
 विदुषामद्य यावत् स्वाध्यायाध्ययन-तदर्थानुष्ठानवतां तत्कर्तृदोषविस्मरणानुपपत्तेस्तादृशाशङ्का नास्तीति चेत्तदेतत्सर्वमन्यत्रापि समानम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि -  
 </details>
@@ -18291,7 +18292,7 @@ Therefore,
 तथा हि ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किम् अस्यावाप्त-कामस्य  
 सर्वज्ञस्य दया-निधेः ।  
@@ -18314,7 +18315,7 @@ who have failed to understand the meaning (of the Veda)?
 </details>
 
 ### महाजन-गृहीतता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विप्रलब्धुं कृतं तन्त्रं  
 कथं वा परम-र्षयः ।  
@@ -18334,7 +18335,7 @@ if it had been composed in order to deceive?
 इतस्ततः प्रशंसन्ति तुल्यवच्छ्रुतिमूर्द्धभिः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि वेदैस् सह निर्विशेषं  
 वाराह-रामायण-भारतादौ ।  
@@ -18353,7 +18354,7 @@ For thus the saints declare in Vārāha Purana, the Ramayana and the Bharata etc
 अमुष्य तन्त्रस्य रहस्यभावं व (पठन्तीति द्रविडपाठः ।)दन्ति सन्तस्तमिमं वदामः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वेदेन पञ्चरात्रेण  
 भक्त्या यज्ञेन च द्विज ।  
@@ -18375,7 +18376,7 @@ and not in any other way, even in hundreds of lacs of years.
 प्राप्योऽहं नान्यथा प्राप्यो वर्षलक्षशतैरपि ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पञ्चरात्रं सहस्राणां  
 यदि कश्चिद् ग्रहीष्यति ।  
@@ -18399,7 +18400,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 तस्य वेदाः पञ्चरात्रं नित्यं हृदि व(वत्स्य प्राप्ते वसिष्यतीत्यार्षम् ।)सिष्यति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यद् इदं पञ्च-रात्रम् मे  
 शास्त्रं परम-दुर्लभम् ॥  
@@ -18420,7 +18421,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 तद् भवान् वेत्स्यते सर्वं मत्प्रसादादसंशयम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पुराणैश्चैव वेदैश्च  
 पञ्चरात्रैस् तथैव च ॥  
@@ -18439,7 +18440,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 ध्यायन्ति योगिनो नित्यं क्रतुभिश्च यजन्ति तम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > एवम् एकं साङ्ख्य-योगं  
 वेदारण्यकम् एव च ।  
@@ -18458,7 +18459,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 परस्पराङ्गान्येतानि पञ्चरात्रञ्च सत्तम? ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वेदेन पञ्चरात्रेण  
 यः पश्यति स पश्यति ।  
@@ -18477,7 +18478,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 इदम्महोपनिषदं चतुर्वेदसमन्वितम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वचसाम् एवम्-आदीनाम्  
 आनन्त्याद् उपरम्यते ।  
@@ -18500,7 +18501,7 @@ then there can be no faith in anything. It is with this view in mind that the Au
 सर्वत्र स्यादनाश्वास इत्येतदुपदिश्यते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "विप्रतिषेधात्"   
 इति।  
@@ -18519,7 +18520,7 @@ vipratisedAt.
 
 ## १५ विरोधाभासे तारतम्यम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवञ्च -  
 
@@ -18542,7 +18543,7 @@ Therefore, even if there were a conflict between the Bhagavan's doctrine and the
 विरोध एव नास्तीति प्रागेव प्रत्यपादयम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नन्व् अत्र-भवतां +++(शाबर-)+++भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथम् इव?  
 </details>
@@ -18562,7 +18563,7 @@ Sabarabhasya and KMS.
 नन्वत्र भवतां भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथमिव,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्य् अपि विरोधः - कृत्वा चिन्तया परिहृतस्,  
 तद् अपि गम्भीर-न्याय-सागरम् अवगाढुम् अ-परिवृढानां कोमल-मनसां  
@@ -18588,7 +18589,7 @@ must not be [[97]] disrespectful to the Veda.
 तच् च वेदाङ्गैस् तद्-उपबृंहणेन सिध्यतीति सुवचम्। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव हि भगवतो जैमिनेः "कर्म-फलोपन्यासः कर्म-श्रद्धा-संवर्धनाये"ति ।+++(5)+++
 </details>
@@ -18606,7 +18607,7 @@ that the fruits of acts serve to increase people's faith in the acts.
 
 ## १६ शिष्ट-बाह्य-ग्रहणे
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेद-बाह्य-गृहीतत्वाद्  
 अ-प्रामाण्यम् **अवादि** यत् ।  
@@ -18628,7 +18629,7 @@ because they are accepted by those who are outside Pancarātra?
 </details>
 
 ### बाह्यत्वे गृहीतत्वे च विकल्पाः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च ।  
 
@@ -18659,7 +18660,7 @@ or "being hostile to the Vedas?"
 तन्निषिद्धार्थकारित्वमाहो तद्द्वेषशीलता । 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा -  
 
@@ -18683,7 +18684,7 @@ In all  cases the ground proves to be defective, 35
 </details>
  
 ### वेद-भिन्नैर् अधीतता ज्ञातता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र तावद् -  
 
@@ -18714,7 +18715,7 @@ which themselves are "different from the Veda."
 प्रमाणमित्यनैकान्त्यं हेतोस्तत्र प्रसज्यते ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातत्वे ऽपि गृहीतत्वे  
 दोषाद् अस्मान् न मुच्यसे ।  
@@ -18731,7 +18732,7 @@ If you take "accepted" to mean "known," you do not get rid of the same defect.
 </details>
 
 ### वेद-भिन्नैः क्रियमाणार्थता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वोक्तं वेद-बाह्यत्वं,  
 क्रियमाणार्थता यदि ॥  
@@ -18753,7 +18754,7 @@ then there would likewise be an occasional application of the ground to the Veda
 </details>
 
 ### प्रतिषिद्धार्थ-कर्तृत्वे
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिषिद्धार्थ-कर्तृत्वे  
 वेद-बाह्यत्व-लक्षणे ॥  
@@ -18774,7 +18775,7 @@ which enjoin expiatory ceremonies. ([241]: Manusmrti, 8.107.)
 व्यभिचारस्त्रयीवाक्यैः प्रायश्चित्तविधायकैः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायश्चित्त-विधायकानि वाक्यानि  
 "कूष्माण्डैर् जुहुयात्" इत्यादीनि  
@@ -18800,7 +18801,7 @@ People who do prohibited acts follow Vedic expiations; but if acceptance by peop
 </details>
 
 #### वेद-द्वेषि-ग्रहणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि वेद-द्वेषि-जन-परिगृहीतत्वाद् अ-प्रामाण्यं पञ्च-रात्र-तन्त्राणाम्,  
 हेतोर् असिद्धत्वात्,
@@ -18818,7 +18819,7 @@ for the ground is unproved.
 नापि वेदद्वेषिजनपरिगृहीतत्वादप्रामाण्यं पञ्चरात्रतन्त्राणाम्,  हेतोरसिद्धत्वात्,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च न वेद-द्वेषि-जन-परिग्रहः प्रामाण्यं प्रतिहन्ति, 
 </details>
@@ -18833,7 +18834,7 @@ Besides, acceptance by people hostile to the Veda does not by itself refute the 
 अपि च न वेदद्वेषिजनपरिग्रहः प्रामाण्यं प्रतिहन्ति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि हि प्रतिहन्यात् - 
 निरर्गलस् तर्हि नास्तिकानां पन्थाः +++(तत्-परिग्रहेण)+++,  
@@ -18851,7 +18852,7 @@ for they endeavour to uproot the validity of the Veda.
 यदि हि प्रतिहन्यान्निरर्गलस्तर्हि नास्तिकानां पन्थाः, ते हि वेदप्रामाण्यप्रोत्सादनाय प्रयस्यन्तः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथञ्चिद् वेद-वाक्यानि  
 **गृहीत्वा विप्रलम्भनात्**+++(=वञ्चनात्)+++ ।  
@@ -18872,7 +18873,7 @@ simply by accepting" the Vedas in some manner by way of deception.
 अनायासेन मिथ्यार्थान् वेदान् कुर्युर्दिगम्बराः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
 
@@ -18898,7 +18899,7 @@ simply by accepting" the Vedas in some manner by way of deception.
 इत्यादिवचनपर्यालोचनया दोषो न निर्दोषवेदवाक्यानामिति चेत् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्-प्रस्तुत-तन्त्रेष्व् अप्य् अनधिकारि-श्रोतृ-जनानाम् एष दोषः,  
 न निर्दोष-तन्त्राणाम्  
@@ -18918,7 +18919,7 @@ so everything is the same, depending on what partisan view one takes.
 </details>
 
 ### अनधिकारि-ग्रहणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ मतं 
 
@@ -18947,7 +18948,7 @@ supra § 17: this Buddhist injunction is outside the Veda
 </details>
 
 #### अनधिकारः क्व?
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रापि किम् अखिल-वैदिक-कर्मानधिकारि-जन-परिगृहीतत्वं हेतुः,  
 उत कतिपय-वैदिक-कर्मानधिकारि-गृहीतत्वम्  
@@ -18968,7 +18969,7 @@ This point should be clarified.
 </details>
 
 #### अनधिकारो ऽखिले
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** तावद् अग्रिमः कल्पः  
 **कल्पते** हेत्व्-असिद्धितः ।  
@@ -18985,7 +18986,7 @@ This point should be clarified.
 नाधिकुर्यादहिंसादौ नृमात्रस्याधिकारः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यथा हि ब्राह्मण-हनन--तद्-धनापहरण--वर्णाङ्गना-संगम--वेदाध्ययनादि कुर्वाणाश् चण्डालादयो न दुष्येयुः - तद्-अनधिकारित्वात् ।  
 </details>
@@ -19006,7 +19007,7 @@ simply because they were not qualified to observe these prohibitions.
 अन्यथा हि ब्राह्मणहनन-तद्धनापहरणवर्णाङ्गनासंगम-वेदाध्ययनादि कुर्वाणाश्चण्डालादयो न दुष्येयुः तदनधिकारित्वात्।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य हि यन् न कर्त्तव्यं  
 तस्य हि तत्-करणं प्रत्यवायाय, 
@@ -19023,7 +19024,7 @@ he commits an offence.
 यस्य हि यन्न कर्त्तव्यं तस्य हि तत्करणं प्रत्यवायाय, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः सर्वेषाम् ईदृश-वैदिक-कर्मणि अधिकारो विद्यत एवेत्य्  
 असिद्धो हेतुः,  
@@ -19050,7 +19051,7 @@ For the observance of a prohibition is as much a ritual action as the observance
 </details>
 
 #### अनधिकार एकदेशे
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि कतिपय-वैदिक-कर्मानधिकारिभिर् गृहीतत्वाद् अ-प्रामाण्यं समस्त-वेद-वाक्यानाम् अप्रामाण्य-प्रसङ्गात्, 
 </details>
@@ -19069,7 +19070,7 @@ because that would entail the conclusion that all Vedic statements are invalid.
 नापि कतिपयवैदिककर्मानधिकारिभिर्गृहीतत्वादप्रामाण्यं समस्तवेदवाक्यानामप्रामाण्यप्रसङ्गात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्ति हि सर्वेषां कतिपय-वैदिक-कर्मानधिकारः,  
 ब्राह्मणस्येव राज-सूये,  
@@ -19089,7 +19090,7 @@ the ksatriya not for the ritual drinking of soma.
 अस्ति हि सर्वेषां कतिपयवैदिककर्मानधिकारः, ब्राह्मणस्येव राजसूये, राजन्यस्येव सोमपाने,   
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो व्यवस्थित-वर्णाधिकारि-गृहीत-वेद-वचनैर् अनैकान्तिको हेतुः, अ-प्रयोजकश् च ।  
 </details>
@@ -19107,7 +19108,7 @@ and is therefore inconclusive.
 </details>
 
 #### कारणदोषः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 चैत्यवन्दनतः स्वर्गो  
 भवतीतीदृशी मतिः ।  
@@ -19130,7 +19131,7 @@ but by the deficiency of its cause, [[100]]
 </details>
 
 ### शिष्ट-परिग्रहः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तश्च वैदिक-समस्तास्तिक-प्रवर-भृगु-भरद्वाज-द्वैपायन-प्रभृति-मह-र्षि-जन-परिग्रहः, 
 </details>
@@ -19145,7 +19146,7 @@ but by the deficiency of its cause, [[100]]
 उक्तश्च वैदिकसमस्तास्तिकप्रवरभृगु -भरद्वाज -द्वैपायनप्रभृति -महर्षिजनपरिग्रहः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यत्वेऽपि हि पञ्च-रात्र-तन्त्र-विहित-मार्गेण  
 प्रासाद-करण--प्रतिमा-प्रतिष्ठापन--प्रणाम-प्रदक्षिणोत्सवादीनि प्रत्यक्ष-श्रुति-विहिताग्निहोत्रादिवत् श्रेयस्-करतर-बुद्ध्या ऽनुतिष्ठतः शिष्टान् पश्यामः। 
@@ -19165,7 +19166,7 @@ just as they perform the agnihotra and other rituals enjoined directly by Script
 </details>
 
 #### श्रेयस्-साधनता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैतदाचरणं निर्मूलम् इति युक्तं  
 सन्ध्या-वन्दनाष्टका-चरणादेर् अपि निर्मूलत्व-प्रसङ्गात्, 
@@ -19182,7 +19183,7 @@ for that would entail that such smārta rites as crepuscular worship, astaka etc
 न चैतदाचरणं निर्म्मूलमिति युक्तं सन्ध्यावन्दनाष्टकाचरणादेरपि निर्मूलत्वप्रसङ्गात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तं च शिष्टाचारस्य प्रामाण्यम् -  
 अपि वा कारणाग्रहणे -  
@@ -19202,7 +19203,7 @@ they do know what is proper custom.
 </details>
 
 ### भागवत-परिग्रहे ऽदोषः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ भागवत-जन-परिगृहीतत्वाद् इति +++(अप्रामाण्ये)+++ हेतुः,  
 हन्त तर्हि तत्-परिगृहीतत्वाद् वाजसनेयकैकायन-शाखा-वचसां प्रत्यक्षादीनां चाप्रामाण्यप्रसङ्गः ।+++(5)+++  
@@ -19218,7 +19219,7 @@ they do know what is proper custom.
 अथ भागवतजनपरिगृहीतत्वादिति हेतुः, हन्त तर्हि तत्परिगृहीतत्वाद् वाजसनेयकैकायनशाखावचसां प्रत्यक्षादीनां चाप्रामाण्यप्रसङ्गः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ "तैर् एव परिगृहीतत्वाद्" इति +++(अप्रामाण्ये)+++ हेतुः  
 तद्-असाधारणानैकान्तिकम्, असिद्धञ्च ।  
@@ -19234,7 +19235,7 @@ This same ground, moreover, namely that Pancarãtra is invalid because it is acc
 अथ तैरेव परिगृहीतत्वादिति हेतुः तदसाधारणानैकान्तिकम्, असिद्धञ्च ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमिति वा तत्परिग्रहादप्रामाण्यम्? 
 </details>
@@ -19250,7 +19251,7 @@ Why is Pañcarātra rendered invalid by their acceptance?
 </details>
 
 #### नात्रैवर्णिकत्वात्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अत्रैवर्णिकत्वाद्" इति चेत्  
 किं भोः त्रैवर्णिकेतर-सवर्ण-रथकार-निषादादि-परिगृहीतानुष्ठीयमानार्थानाम् आथर्वणवचसां  
@@ -19273,7 +19274,7 @@ would also be invalid.
 अत्रैवर्णिकत्वादिति चेत् किं भोः त्रैवर्णिकेतरसवर्णरथकारनिषादादिपरिगृहीतानुष्ठीयमानार्थानामाथर्वणवचसां रथकार आदधीत एतया निषादस्थपतिं याजयेत् इत्यादिवचसां प्रामाण्यं नास्ति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्तुवाऽत्रैवर्णिक-परिग्रहो ऽप्रामाण्य-हेतुः,  
 एतेषां तु भगवच्-छास्त्रानुगामिनां भागवतानाम्  
@@ -19297,7 +19298,7 @@ their acceptance of Pañcaratra rather confirms its validity.
 
 ## १७ भागवत-ब्राह्मण्य-प्रमाणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 आह केन पुनः प्रमाणेनैषां ब्राह्मण्यमवगतम्,  केन वाऽन्येषाम् ।  
 </details>
@@ -19314,7 +19315,7 @@ the brahminhood of another set of people is evident.
 </details>
 
 ### शिखादिभिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु चक्षुर्-विस्फारण-समनन्तरं शिखा-यज्ञोपवीत--पालाश-दण्ड--मौञ्जी-युजो द्विज-कुमारकान् **पश्यन्तो**  
 "ब्राह्मणा" इत्य् **अवगच्छन्ति**।  
@@ -19331,7 +19332,7 @@ the brahminhood of another set of people is evident.
 ननु चक्षुर्विस्फारणसमनन्तरं शिखा -यज्ञोपवीत -पालाशदण्ड -मौञ्जीयुजो द्विजकुमारकान् पश्यन्तो ब्राह्मणा इत्यवगच्छन्ति 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह वा किम् अहर् अहर् अधीयमान-वाजसनेयकैकायन-शाखान् विलसद्-उपवीतोत्तरीय-शिखा-शालिनो ऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः **पश्यन्तो** ब्राह्मणा इति नावयन्ति ।  
 </details>
@@ -19347,7 +19348,7 @@ REFUTATION. And in our case, when one sees learned people who day after day stud
 </details>
 
 ### यजनादिभिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
 
@@ -19368,7 +19369,7 @@ If it be held that outcastes, low-caste people etc., may also illegitimately sac
 अथ याजन -प्रवचन -पालाशदण्डादीनां दुष्टशूद्रादिषु व्यभिचारसंभवाद् ब्राह्मण्यसिद्धवत्कारेण प्रवृत्तेश्च न तेभ्यो ब्राह्मण्य निर्णयः, तद्भागवतेतरविप्राणमपि समानम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ सत्य् अपि तेषां क्वचिद् व्यभिचारे,  
 तत्-सामान्याद् अन्यत्र +++(सद्-भागवतेषु)+++ व्यभिचार-शङ्कायां  
@@ -19399,7 +19400,7 @@ and lead to infinite regress.
 </details>
 
 ### गोत्रतः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ मतम् 
 
@@ -19419,7 +19420,7 @@ and lead to infinite regress.
 अथ मतम् अन्येषां ब्राह्मण्यं तदसाधारणगोत्रस्मरणादिति, तद् भागवतानामपि समानम्,   
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मरन्ति हि भागवताः -  
 वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।  
@@ -19436,7 +19437,7 @@ for the Bhagavatas have the tradition: "We are descendants of Bharadvaja, of Kas
 वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेदं गोत्रस्मरणं निर्मूलं सामयिकं (आधुनिकम्) वा  
 सर्वगोत्रस्मरणानां तथाभावप्रसङ्गात् । +++(4)+++ 
@@ -19452,7 +19453,7 @@ Nor is this recollection or tradition of gotras unfounded or merely contemporary
 न चेदं गोत्रस्मरणं निर्मूलं सामयिकं (आधुनिकम्) वा सर्वगोत्रस्मरणानां तथाभावप्रसङ्गात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 संभाव्यमान-दोषत्वाद्  
 वंशानां यदि संशयः ।  
@@ -19472,7 +19473,7 @@ this would confuse the whole world about the authenticity of their brahminhood.
 तद्ब्राह्मण्ये ततो लोकं सर्वं व्याकुलयेदयम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि ।  
 
@@ -19497,7 +19498,7 @@ and how, my excellent opponent, can you be quite sure yourself that your birth e
 निर्विशङ्कः कथं वेदमधीषे साधु सत्तम? ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन भागवतानाम् अ-विच्छिन्न-परम्-परा-प्राप्त--विचित्र-गोत्र-**स्मरण--पर्यवस्थापितं**  
 ब्राह्मण्यम् **अनपोदितम् आस्ते**  
@@ -19519,7 +19520,7 @@ between the brahminhood of Bhagavatas and of others.
 </details>
 
 ### देवता-विवेकतः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि परं 
 
@@ -19555,7 +19556,7 @@ is then the same authority stated for the brahminhood of the ones as well as of 
 इति विनिनिन्द ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 केन वा तेषां ब्राह्मण्यम् अवगतम्  
 किन् न एतेन,
@@ -19580,7 +19581,7 @@ if not by that same authority?
 </details>
 
 ### निर्णय-प्रकारः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि च कौतूहलम् -  
 
@@ -19606,7 +19607,7 @@ either Perception, or Inference, or Circumstantial-Implication.
 </details>
 
 #### प्रत्यक्षे शङ्का
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु कथं प्रत्यक्षं ब्राह्मण्यमवगमयति,  
 </details>
@@ -19621,7 +19622,7 @@ either Perception, or Inference, or Circumstantial-Implication.
 > ननु कथं प्रत्यक्षं ब्राह्मण्यमवगमयति,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न हि प्रथमाक्ष-सन्निपात-समनन्तरम्  
 अ-दृष्ट-पूर्व-विप्र-क्षत्र-समान-वयो-वेष- पिण्ड-द्वय-सन्निधाव्  
@@ -19640,7 +19641,7 @@ either Perception, or Inference, or Circumstantial-Implication.
 > न हि प्रथमाक्षसन्निपातसमनन्तरमदृष्टपूर्वविप्र -क्षत्रसमानवयोवेषपिण्डद्वयसन्निधावजगजमहिषादिविशेषवद् अयं ब्राह्मणः अयं क्षत्रिय इति विभागेन प्रतिपद्यामहे ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न च  
 > 
@@ -19669,7 +19670,7 @@ just as the recollection of the son of a sterile mother is impossible.
 </details>
 
 #### अनुमाने शङ्का
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चानुमानात् -  
 तत्-प्रतिबद्ध-लिङ्गादर्शनात् ।  
@@ -19686,7 +19687,7 @@ for we do not find a concomitant mark.
 न चानुमानात्तत्प्रतिबद्धलिङ्गादर्शनात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न च शम-दम-तपश्-शौचादयो ब्राह्मण्ये लिङ्गम्,   
 तेषां ब्राह्मणेन सता संपाद्यत्वाद्, व्यभिचाराच् च ।  
@@ -19704,7 +19705,7 @@ And such qualities as tranquillity, self-restraint, austerity, purity etc., cann
 
 #### अर्थापत्तौ शङ्का
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चार्थाप्रत्या ब्राह्मण्य-निर्णयः, अनुपपत्त्य्-अभावात्, 
 </details>
@@ -19720,7 +19721,7 @@ because it is not lacking in reason
 न चार्थाप्रत्या ब्राह्मण्यनिर्णयः, अनुपपत्त्यभावात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > न च वसन्ते ब्राह्मणोऽग्नीन् आदधीत 
 >
@@ -19746,7 +19747,7 @@ for knowledge of that sentencemeaning presupposes knowledge of the word-meaning 
 </details>
 
 #### प्रत्यक्षम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नायं दोषः, 
 </details>
@@ -19761,7 +19762,7 @@ for knowledge of that sentencemeaning presupposes knowledge of the word-meaning 
 नायं दोषः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि 
 
@@ -19782,7 +19783,7 @@ Perception becomes manifest only at the first contact between sense and object a
 न हि प्रथमाक्षसंप्रयोगसमय एव भासमानं प्रत्यक्षं नान्यदित्यस्ति नियमः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् एवेन्द्रिय-व्यापारानुवृत्तौ सत्याम्  
 अ-परोक्षम् अवभासते  
@@ -19800,7 +19801,7 @@ while there is continuity of the operation of the senses.
 यदेवेन्द्रियव्यापारानुवृत्तौ सत्यामपरोक्षमवभासते तत्प्रत्यक्षं 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च ब्राह्मण्यम् इति - तद् अपि प्रत्यक्षम्,  +++(5)+++
 </details>
@@ -19815,7 +19816,7 @@ Thus there can be Perception of brahminhood;
 तथा च ब्राह्मण्यमिति तदपि प्रत्यक्षम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतीमो हि वयम् उन्मीलित-लोचनाः  
 तत्-सन्तति-विशेषानुसंधान-समनन्तरं  
@@ -19838,7 +19839,7 @@ and who display the sacred thread, upper cloth, hairtuft and munja grass girdle.
 प्रतीमो हि वयमुन्मीलितलोचनाः तत्सन्ततिविशेषानुसंधानसमनन्तरं वसिष्ठ-काश्यपीय -शठमर्षणप्रभृतिविचित्रगोत्रकुलशालिषु समाचारशुचिषु विलसदुपवीतोत्तरीयशिखामौञ्जीबन्धेषु स्फुटतरसंदधद् ब्राह्मण्यम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैतद् अ-लौकिकं  
 यत् "सन्तति-विशेषानुसंधान-सापेक्षम् अक्षं  
@@ -19855,7 +19856,7 @@ Nor does it run counter to ordinary experience that the eyes can convey brahminh
 न चैतदलौकिकं यत्सन्ततिविशेषानुसंधानसापेक्षमक्षं ब्राह्मण्यं ग्राहयतीति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वत्र देश-काल-संस्थानादीतिकर्तव्यताऽनुगृहीतम् एवेन्द्रियं  
 स्व-गोचर-परिच्छेदोत्पादे कारणम् भवति। +++(5)+++ 
@@ -19871,7 +19872,7 @@ every case the sense becomes the cause of the rise of determination of sense-obj
 सर्वत्र देशकालसंस्थानादीतिकर्त्तव्यतानुगृहीतमेवेन्द्रियं स्वगोचरपरिच्छेदोत्पादे कारणम्भवति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 करण-मात्रस्यायं स्वभावो यद् इतिकर्त्तव्यतापेक्षणम् ।  
 </details>
@@ -19886,7 +19887,7 @@ It is the natural function of the sense-organ as such to relate itself to these 
 करणमात्रस्यायं स्वभावो यदितिकर्त्तव्यतापेक्षणम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा ऽऽह -  
 
@@ -19915,7 +19916,7 @@ unless it is favoured by these circumstances.
 इतिकर्तव्यतासाध्ये यस्य नानुग्रहेऽर्थिता ॥ इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च सन्तति-स्मृत्या  
 **ऽनुगृहीतेन** चक्षुषा ।  
@@ -19937,7 +19938,7 @@ without the object giving up its perceptuality.
 विज्ञायमानं ब्राह्मण्यं प्रत्यक्षत्वं न मुञ्चति ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च दृश्यते नाना  
 सहकारि-व्यपेक्षया ।  
@@ -19956,7 +19957,7 @@ So it is evident that the visual sense can be the instrument of knowledge of gen
 चक्षुषोजातिविज्ञानकरणत्वं यथोदितम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्णं व्यज्यते रूपात्  
 ताम्रत्वादेर् असंशयम् ।  
@@ -19975,7 +19976,7 @@ Gold becomes manifest through its colour fromcopper etc., gheeis differentiated 
 तैलाद् घृतं विलीनञ्च गन्धेन तु रसेन वा ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 भस्म-प्रच्छादितो वह्निः  
 स्पर्शनेनोपलभ्यते ।  
@@ -19996,7 +19997,7 @@ Sound may provide us with proof that there is a horse in the distance;
 अश्वत्वादौ च दूरस्थे निश्चयो जायते ध्वनेः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 संस्थानेन घटत्वादि  
 ब्राह्मणत्वादि योनितः ।  
@@ -20019,7 +20020,7 @@ a pitcher etc. are known through their configuration; brahminhood through descen
 इति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् समान-वयो-वेष-  
 पिण्ड-द्वय--**विलोकने** ।  
@@ -20039,7 +20040,7 @@ but the perceptuality of their differentness is not refuted by just this.
 तत्क्षणादक्षतो भेदो नावभातीति भाषितम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **नैतावता** विभागस्य  
 प्रत्यक्षत्वं **निवर्तते** ।  
@@ -20058,7 +20059,7 @@ In this case the non-perception of their differentness is caused by the defect o
 सादृश्यदोषात्तत्र स्याद् विभागस्यानवग्रहः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 समान-रूप-संस्थान-  
 शुक्तिका--कल-धौतयोः ।  
@@ -20081,7 +20082,7 @@ The difference between nacre and silver, which are similar in appearance and con
 </details>
 
 ### सन्तति-कार्यत्वम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्वा संतति-विशेष-प्रभवत्वम् एव ब्राह्मण्यम्,  
 </details>
@@ -20096,7 +20097,7 @@ Or else, brahminhood is that which arises from the differentiae of genus,
 यद्वा संततिविशेषप्रभवत्वमेव ब्राह्मण्यम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच् चान्वय-व्यतिरेकाभ्यां  
 यथाऽऽलोकं कार्यान्तरवद् अवगन्तव्यम् एव, 
@@ -20113,7 +20114,7 @@ by a process of positive and negative consideration,
 तच्चान्वयव्यतिरेकाभ्यां यथालोकं कार्यान्तरवदवगन्तव्यमेव, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यथा)+++  
 
@@ -20132,7 +20133,7 @@ e.g. "what are the specific characteristics to which the elders apply the term b
 के पुनः सन्ति विशेषा येषु ब्राह्मणशब्दं प्रयुञ्जते वृद्धाः केषु वा प्रयुञ्जते, ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **उक्तं** गोत्रार्षेयादि-  
 स्मृतिमत्स्व् इत्य् अनेकशः ।  
@@ -20158,7 +20159,7 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 </details>
 
 ### वैश्य-व्रात्य-मूलं न
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्यव्रात्यान्वये जन्म  
 यद् एषाम् उपवर्णितम् ॥  
@@ -20174,7 +20175,7 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 वैश्यव्रात्यान्वये जन्म यदेषामुपवर्णितम् ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पञ्चमस् सात्त्वतो नाम  
 विष्णोर् आयतनानि सः ।  
@@ -20195,7 +20196,7 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 पूजयेदाज्ञया राज्ञः स तु भागवतः स्मृतः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वैश्यात् तु जायते व्रात्याद्  
 
@@ -20217,7 +20218,7 @@ and
 </details>
 
 #### प्रयोगान्तराणि
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र ब्रूमः किम् एताभ्यां  
 वचनाभ्यां प्रतीयते ॥  
@@ -20241,7 +20242,7 @@ or must an invariable rule be stated ?
 अभिधानान्वयो वा स्यान्नियमो वाऽभिधीयताम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तावत् 
 
@@ -20260,7 +20261,7 @@ In It is impossible to make it a rule that the words Bhagavata and Satvata denot
 न तावत् सात्त्वत-भागवत-शब्दौ वैश्यव्रात्याभिधायकावेवेति नियन्तुं शक्यौ अप्रतीतेः, अतिप्रसङ्गाच्च, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि "पञ्चमः सात्त्वत" इत्यत्र  
 सात्त्वत-भागवत-शब्दयोर् अर्थान्तराभिधान-प्रतिषेधः प्रतीयते -  
@@ -20279,7 +20280,7 @@ In the statement, "the fifth one, Satvata," we do not find a denial that the wor
 श्रुतहान्यश्रुतकल्पनाप्रसङ्गात्। 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह हि व्रात्य-वैश्यान्वय-जन्मा यः पञ्चमः  
 सात्त्वत इति तस्य सात्त्वत-संज्ञान्वयो ऽवगम्यते  
@@ -20304,7 +20305,7 @@ is understood to bear the name of Satvata:
 उद्देश्यसमर्थकृत्वादित्यर्थः
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च पञ्चमस्य सात्त्वतत्वे  
 सात्त्वतेनापि वैश्य-व्रात्य-पञ्चमेन भवितव्यम्,  
@@ -20321,7 +20322,7 @@ the Satvata is not necessarily also be the fifth, namely the vaiśya vratya.
 न च पञ्चमस्य सात्त्वतत्वे सात्त्वतेनापि वैश्यव्रात्यपञ्चमेन भवितव्यम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि उद्दिश्यमानस्याग्निमत्त्वे  
 उपादीयमानस्याग्नेर् धूमवत्त्वेन भवितव्यम्  
@@ -20343,7 +20344,7 @@ The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get 
 न हि उद्दिश्यमानस्याग्निमत्त्वे उपादीयमानस्याग्नेर् धूमवत्त्वेन भवितव्यम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो नेदृश-स्मृति-पर्यालोचनया सात्त्वत-भागवत-शाब्दितानां व्रात्यत्व-निश्चयः ।  
 </details>
@@ -20359,7 +20360,7 @@ Consequently the consideration if a smrti statement of this kind cannot give cer
 </details>
 
 #### आचार्य-शब्दादौ व्यभिचारः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि पुनर् 
 
@@ -20385,7 +20386,7 @@ therefore an eminent brahmin who is an acarya imparting teaching of the Veda wit
 ततस्तत्रैव सहपठिताचार्यशब्दस्यापि निकृष्टव्रात्यापत्ये प्रयोगदर्शनात् साङ्गसरहस्यवेददातुर्द्विजपरस्यापि व्रात्यत्वं स्यात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
 
@@ -20410,7 +20411,7 @@ If, on the other hand, even though a true brahmin is denoted by the word ācāry
 आचार्य-शब्दस्य आचिनोत्यस्य बुद्धिम् इत्यादिगुणयोगेनापि वृत्तिसंभवान्न व्रात्यत्वशङ्का।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् अत्रापि  
 जात्य्-अन्तर-वाचक--सात्त्वत-भागवत --शब्दाभिधेयत्वेऽपि  
@@ -20432,7 +20433,7 @@ then in our case, too, the same argument can be made, namely thus: even though t
 तद् अत्रापि जात्यन्तरवाचकसात्त्वत-भागवत -शब्दाभिधेयत्वेऽपि भगवच्छास्त्रानुगामिनाममीषामतिस्पष्टविशिष्टगोत्रार्षेयादिस्मरणदृढावगतत्वाद् ब्राह्मण्यस्य सात्त्वत-भागवत-शब्दयोश्च सत्त्ववति भगवति भक्तियोगेनैव वृत्तिसम्भवान्न व्रात्यत्वशङ्कावतारः।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् उक्तं भवति ।  
 
@@ -20458,7 +20459,7 @@ lest the true brahmin be not made into a low-caste man because he is also denote
 मा भूदाचार्यशब्दत्वाद् ब्राह्मणस्य निकृष्टता ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च 'हरि'-शब्दस्य  
 दृष्टा मण्डूकवाचिता ।  
@@ -20482,7 +20483,7 @@ We find that the word hari also means 'frog.' Does it follow that a lion is a fr
 तथा गो-शब्दवाच्यत्वाच्छब्दश्चापि विषाणवान् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्च -  
 
@@ -20506,7 +20507,7 @@ Consequently, just as the words sudhanvan, ācārya etc., which denote more than
 </details>
 
 #### अवयव-रूढिः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् उक्तं 
 
@@ -20528,7 +20529,7 @@ Consequently, just as the words sudhanvan, ācārya etc., which denote more than
 यदुक्तं योगरूढिशक्तिद्वयोपनिपाते सात्त्वत-भागवत-शब्दयो रूढिशक्तिरेवाश्रयितुमुचितेति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् अ-युक्तं -  
 कॢप्तावयव-शक्त्यैवाभिधानोपपत्तौ सत्याम्  
@@ -20548,7 +20549,7 @@ then it is not right to assume a non-composite denotation.
 तदयुक्तं कॢप्तावयवशक्त्यैवाभिधानोपपत्तौ सत्यामकॢप्ताखण्डशक्तिकल्पनाऽनुपपत्तेः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽपि हि  
 सात्त्वत-भागवत-शब्दयोर् वैश्य-व्रात्यान्वय-जन्मनि रूढि-शक्तिम् अभ्युपगच्छति  
@@ -20580,7 +20581,7 @@ must also theorize that the words sattvavat and bhagarut, which are the stem and
 योऽपि हि सात्त्वत-भागवतशब्दयोर्वैश्यव्रात्यान्वयजन्मनि रूढिशक्तिमभ्युपगच्छति अभ्युपगच्छत्येव असावन्यत्र सत्त्ववद्भगवच्छब्दयोः प्रकृतिभूतयोस्तदुत्पन्नस्य च तद्धितप्रत्ययस्यार्थान्तराभिधानसामर्थ्यं सात्त्वतं विधिमास्थाय, जन्मान्तरकृतैः पुण्यैर्नरो भागवतो भवेदित्यादौ 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् इहापि +++(पूर्वेक्त-तद्धितान्त←)+++तद्-योगेनैव  
 व्रात्यान्वय-जन्मनि +++(प्रयोग=)+++वृत्ति-सम्भवेन  
@@ -20599,7 +20600,7 @@ because it is possible for it to be used in the sense of "issue of a vaisya vrat
 तदिहापि तद्योगेनैव व्रात्यान्वयजन्मनि वृत्तिसम्भवेन शक्त्यन्तरकल्पनायां प्रमाणं क्रमते, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 संभवति चैतेषाम् अपि साक्षाद्-भगवद्-आराधनाभावे ऽपि  
 वासुदेवस्यायतनशोधन-बलिनिर्हरण-- प्रतिमा-संरक्षणादि-क्रिया-योगेनैव  
@@ -20621,7 +20622,7 @@ guarding the idol etc., for it is taught that the can suffix may occur in the se
 संभवति चैतेषामपि साक्षाद्भगवदाराधनाभावेऽपि वासुदेवस्यायतनशोधन -बलिनिर्हरण -प्रतिमासंरक्षणादिक्रियायोगेनैव सात्त्वत -भागवत -शब्दाभिधेयत्वम्, तस्येदम् इति संबन्धमात्रेऽपि चाण्प्रत्ययस्मरणात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तश्च वैश्य-व्रात्यान्वय-जन्मनोऽपि भगवद्-आयतनादि-शोधनादि-क्रिया-योगः, 
 </details>
@@ -20636,7 +20637,7 @@ And it is declared that the issue of a vaiśya vratya has the work discipline of
 उक्तश्च वैश्यव्रात्यान्वयजन्मनोऽपि भगवदायतनादिशोधनादिक्रियायोगः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सात्त्वतानाञ् च देवायतन-शोधनं नैवेद्य-भोजनं प्रतिमा-संरक्षणम् 
 
@@ -20653,7 +20654,7 @@ And it is declared that the issue of a vaiśya vratya has the work discipline of
 सात्त्वतानाञ्च देवायतनशोधनं नैवेद्यभोजनं प्रतिमासंरक्षणम् इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा "विष्णोर् आयतनानि संपूजये"ति ।  
 </details>
@@ -20671,7 +20672,7 @@ and "he must worship Visnu's sanctuaries."'264
 </details>
 
 #### वृत्तिसाम्यान् न व्रात्यत्वम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन इदम् अप्य् अपास्तं  
 यद् एषाम् अपि वृत्ति-साम्याद् व्रात्यत्वम् इति।  
@@ -20687,7 +20688,7 @@ and "he must worship Visnu's sanctuaries."'264
 एतेन इदमप्यपास्तं यदेषामपि वृत्तिसाम्याद् व्रात्यत्वमिति।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यद् एव हि देवायतन-शोधन--बलि-निर्हरण--प्रतिमासंरक्षणादिकम्,  
 </details>
@@ -20702,7 +20703,7 @@ For it is one thing to clean the temple, clear away the bali offerings, guard th
 अन्यदेव हि देवायतनशोधनबलिनिर्हरणप्रतिमासंरक्षणादिकम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्ये चाभिगमनोपादानेज्या -स्वाध्याययोगा  
 भागवतैर् अहर्-अहर् अनुष्ठीयमानाः क्रिया-कलापा  
@@ -20720,7 +20721,7 @@ It is as it is in the case of the jyotistoma etc.
 अन्ये चाभिगमनोपादानेज्या -स्वाध्याययोगा भागवतैरहरहरनुष्ठीयमानाः क्रियाकलापा इति ज्योतिष्टोमादाविव  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैव ज्योतिष्टोमे -  
 ग्रह--चमस-जुह्वादि-पात्र-करण-तक्ष्णादिषु तक्ष्णो व्यापारः,  
@@ -20737,7 +20738,7 @@ In the jyotistoma, too, a carpenter has a task in making the various receptacles
 तथैव ज्योतिष्टोमे ग्रहचमसजुह्वादिपात्रकरणतक्ष्णादिषु तक्ष्णो व्यापारः, ऋत्विजस्तु विशिष्टमन्त्रोच्चारणदेवताभिध्यानाऽभिष्टवप्रभृतिषु ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च तावता तेषां तक्ष्णाञ् चैक-जातित्व-संशयः, 
 </details>
@@ -20752,7 +20753,7 @@ And this occupational similarity, limited as it is, does not raise the question 
 न च तावता तेषां तक्ष्णाञ्चैकजातित्वसंशयः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् इहापि भगवच्-छास्त्र-सिद्ध--पाञ्च-कालिकानुष्ठातॄणाम्  
 अन्येषाम् आयतन-शोधनादि कुर्वतां  
@@ -20770,7 +20771,7 @@ So here, too, there is a difference between those who perform the pañcakālikā
 </details>
 
 #### रथ-कारे न व्यभिचारः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पुनर् उक्तं -  
 
@@ -20798,7 +20799,7 @@ So here, too, there is a difference between those who perform the pañcakālikā
 यत्पुनरुक्तं सात्त्वत -भागवत -शब्दयोर्यौगिकत्वे रथकार आदधीत इत्यत्रापि रथकार -शब्दस्य रथकरणयोगेन त्रैवर्णिकवृत्तिप्रसङ्ग इति तदनुपपन्नम्,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 युक्तं हि तत्राधानोत्पत्ति-वाक्यावगत--वसन्तादि-काल-बाध-प्रसङ्गात्,  
 
@@ -20825,7 +20826,7 @@ would be invalidated.
 युक्तं हि तत्राधानोत्पत्ति-वाक्यावगत-वसन्तादि-काल-बाध-प्रसङ्गात्, सौधन्वना ऋभवः सूर-चक्षस इति मन्त्र-वर्णावगत-जात्यन्तर-वृत्ति-बाध-प्रसङ्गाच् च ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > माहिष्येण करिण्यां तु रथकारः प्रजायते  
 
@@ -20846,7 +20847,7 @@ Despite the fact that rathakāra is also a name for another caste-as learnt from
 इति स्मृत्य्-अवगत-जात्यन्तरत्वे ऽपि  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > क्षत्रिय-वैश्यानुलोमोत्पन्नो रथ-कारस्  
 तस्येज्या-ऽऽधानोपनयन-क्रियाश् चाप्रतिषिद्धा 
@@ -20871,7 +20872,7 @@ the rathakāra is not forbidden to perform rites of sacrificing, fire-building a
 इति शङ्ख-वचनाद्  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्या-साध्ये ऽपि कर्मण्य् अधिकाराविरोधात्, 
 </details>
@@ -20888,7 +20889,7 @@ there is no conflict of qualification for rites that can only be realized throug
 विद्या-साध्ये ऽपि कर्मण्य् अधिकाराविरोधात्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रै-वर्णिकानां च शिल्पोपजीवित्वस्य प्रतिषिद्धत्वेन  
 तेषु रथकार-शब्दस्यानुचितत्वाच् च  
@@ -20907,7 +20908,7 @@ therefore we can only conclude that in both cases different castes are denoted b
 त्रै-वर्णिकानां च शिल्पोपजीवित्वस्य प्रतिषिद्धत्वेन तेषु रथकार-शब्दस्यानुचितत्वाच् च जात्यन्तर-वाचित्वाध्यवसानम्,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेह तथा विरोधो ऽस्ति ।  
 </details>
@@ -20923,7 +20924,7 @@ and so there is no conflict (here).
 </details>
 
 #### अवयव-शक्ति-प्राधान्यम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च ।  
 
@@ -20954,7 +20955,7 @@ Moreover, when knowledge of the thing meant by a word is obtained from the denot
 </details>
 
 #### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च सत्त्वाद् भगवान्  
 भज्यते यैः परः पुमान् ।  
@@ -20973,7 +20974,7 @@ Therefore, those emine~nt brahmins are called sāttvatas and bhāgavatas who bec
 ते सात्त्वता भागवता इत्युच्यन्ते द्विजोत्तमाः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मृत्य्-अन्तराणि च भागवतानाम् उत्कृष्ट-ब्राह्मण्य-प्रतिपादकानीति  
 परस्तात् प्रदर्शयिष्यन्ते ।  
@@ -20990,7 +20991,7 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 </details>
 
 ### पृथङ्-निर्देशः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पुनर् उक्तं - 
 
@@ -21013,7 +21014,7 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 यत् पुनर् उक्तं समाने ब्राह्मण्ये किम् इति सात्त्वत-भागवतैकान्तिक-शब्दैर् एवैतेषां नियमेन व्यपदेश इति, तत् परिव्राजक-निगदादिवद् इत्य् अदोषः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव हि समाने ब्राह्मण्ये यजुष्ट्वे च  
 केचिद् एव ब्राह्मणाः  
@@ -21050,7 +21051,7 @@ the nigadas take place, not the yajuḥ formulae;"271
 271: not identified.  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेहापि भविष्यति,  
 
@@ -21074,7 +21075,7 @@ and this is so because of the interpretation:
 
 ### वृत्त्या
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृत्त्य्-अर्थं देवता-पूजा-  
 नैवेद्य-प्राशनादिभिः ।  
@@ -21093,7 +21094,7 @@ and this is so because of the interpretation:
 दौर्ब्राह्मण्यं यद् अप्य् उक्तं तत्र प्रतिविधीयते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** हि भागवतैस् सर्वैर्  
 वृत्तये **ऽभ्यार्चितो** हरिः ।  
@@ -21112,7 +21113,7 @@ Surely not all bhāgavatas worship Hari for their profession, for many Sātvatas
 दृष्टा हि बहवस् स्वार्थं पूजयन्तो ऽपि सात्त्वताः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचिद् यदि परं सन्तः  
 सात्त्वता वृत्ति-कार्शिताः ।  
@@ -21131,7 +21132,7 @@ If there are certain people who, while being Sātvatas, follow a reprehensible p
 याजयन्ति महा-भागैर् वैष्णवैर् वृत्ति-कारणात् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तावतैषां ब्राह्मण्यं  
 शक्यं नास्तीति भाषितुम् ।  
@@ -21150,7 +21151,7 @@ this fact alone does not mean that one may say that they are not brahmins. A ved
 न खल्व् आध्वर्यवं कुर्वन् ज्योतिष्टोमे पतिष्यति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि **न प्रतिगृह्णीयुः**  
 पूजैवाविफला भवेत् ।  
@@ -21170,7 +21171,7 @@ If the priest were not to receive fees, the pūjā itself would remain fruitless
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्चनान्ते हिरण्यं च  
 तस्मै देयं स्व-शक्तितः ।  
@@ -21195,7 +21196,7 @@ as is shown by the smṛti: "A sacrifice for which a small fee is given kills (t
 हन्त्यल्प-दक्षिणो यज्ञ इत्यादि-स्मृति-दर्शनात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत्विजा द्रव्य-लुब्धेन  
 स्वयं याञ्चा-पुरस्सरम् ॥  
@@ -21214,7 +21215,7 @@ It is however prohibited that a covetous Vedic priest officiate as a priest afte
 यद् आर्त्विज्यं कृतं कर्म तद् एव हि निषिध्यते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् यथा 
 
@@ -21261,7 +21262,7 @@ or "He should choose me."
 इति,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रद्धा-पूत-दक्षिणा-दानं  
 तूभयोर् अपि श्रेयस्करम् एव ।  
@@ -21277,7 +21278,7 @@ The donation of the sacerdotal fee which is purified by faith is felicitous for 
 श्रद्धापूतदक्षिणादानं तूभयोरपि श्रेयस्करमेव ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽर्चितं **प्रतिगृह्णाति**  
 **दद्याद्** अर्चितम् एव च ॥
@@ -21302,7 +21303,7 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 
 ### देवालकता
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अपि 
 
@@ -21324,7 +21325,7 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 </details>
 
 #### देवतान्तर-वृत्तौ
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् अपि देवतान्तर-वृत्त्य्-अर्थाराधन- तत्-कोशोपजीवन-विषयम् इति द्रष्टव्यम् ।  
 </details>
@@ -21339,7 +21340,7 @@ must be taken to refer to the professional worship of, and the living off the tr
 तद् अपि देवतान्तर-वृत्त्यर्थाराधन-तत्कोशोपजीवन-विषयम् इति द्रष्टव्यम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च भगवान् व्यासः -  
 
@@ -21362,7 +21363,7 @@ Thus the blessed Vyāsa: "A devalaka is he who lives on Rudra etc."
 </details>
 
 #### दीक्षा-हीनाः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि भवति शाण्डिल्य-वचनम् -  
 
@@ -21392,7 +21393,7 @@ One should not touch them or consort with them for a year."
 तांश् च संवत्सराद् ऊर्ध्वं न स्पृशेन् न च संविशेत् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा  
 
@@ -21416,7 +21417,7 @@ Likewise:
 अथ त्रिवर्षाद् ऊर्ध्वम् अयोग्या देव-कर्मणि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ये कल्पोक्तं प्रकुर्वन्ति  
 दीक्षा-हीना द्वि-जातयः ।  
@@ -21435,7 +21436,7 @@ Those brahmins who, without being consecrated, perform rites set forth in the Ka
 वृत्त्यर्थं वा यशोऽर्थं वा कल्प-देवलकास् तु ते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(कस्यचिद् विप्रस्य)+++ वृत्तिं **कृत्वा**, तु विप्रेण  
 दीक्षितेन विधानतः ।  
@@ -21458,7 +21459,7 @@ This is the principal offering; in another manner it is secondary."
 यजनं मुख्यम् एवैतद् गौणम् एवान्यथा भवेत् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यथा +++(←गौणाराधनम्)+++ +इत्य् अदीक्षितेन +इत्य् अर्थः,  
 </details>
@@ -21473,7 +21474,7 @@ This is the principal offering; in another manner it is secondary."
 अन्यथा +इत्य् अदीक्षितेन +इत्य् अर्थः,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् एव स्पष्टयति -  
 
@@ -21498,7 +21499,7 @@ This the author elucidates:
 </details>
 
 #### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्यादि-स्मृति-शत-पर्यालोचनात्  
 
@@ -21523,7 +21524,7 @@ By considering these and a hundred similar smṛti statements we can be sure tha
 </details>
 
 ### निर्माल्योपयोगाद् अशिष्टता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पुनश् 
 
@@ -21547,7 +21548,7 @@ By considering these and a hundred similar smṛti statements we can be sure tha
 तत्र ब्रूमः किम् इदं निर्माल्यं निवेद्यं चाभिप्रेतं श्रोत्रियस्य ?
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(विग्रहायार्पणस्यानङ्गीकारात्)+++  
 +++(निवेदनाद्य्-अविशिष्टं)+++ पुष्पौदनादि-मात्रं चेत्  
@@ -21571,7 +21572,7 @@ When he takes it only as the flowers and the cakes,278 he is contradicted by all
   
 
 ##### कौमारीलादि-पक्षे
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(देव-निवेदन-)+++विशिष्ट-प्रतिषेधोऽपि  
 न युक्तस् तद्-असिद्धितः +++(आक्षेपक-मते)+++ ।  
@@ -21587,7 +21588,7 @@ Also, a particularized prohibition is not in order, because it is not establishe
 विशिष्ट-प्रतिषेधोऽपि न युक्तस् तदसिद्धितः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्य् अनिरूपित-विशेषणा विशिष्ट-बुद्धिर् आविर् अस्ति, 
 </details>
@@ -21602,7 +21603,7 @@ No notion of a particularized thing occurs when the particularization is not det
 न ह्यनिरूपित-विशेषणा विशिष्ट-बुद्धिर् आविर् अस्ति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेह विशेषणं निरूपयितुं शक्यते। 
 </details>
@@ -21617,7 +21618,7 @@ and here it is impossible to determine the particularization.
 न चेह विशेषणं निरूपयितुं शक्यते, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > किम् इति न शक्यते -  
 यावता देवोद्देशेन परित्यागो विशेषणम्।  
@@ -21634,7 +21635,7 @@ and here it is impossible to determine the particularization.
 यावता देवोद्देशेन परित्यागो विशेषणम्।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 किम् इदानीं पञ्चरात्र-शास्त्रम् अपि प्रमाणम् अङ्गीकृतं भवता  
 येन पञ्चरात्र-तन्त्र-विहित-मन्त्र-प्रतिष्ठापित-प्रतिमासु देवताम् अभ्युपेत्य  
@@ -21653,7 +21654,7 @@ REPLY. Are you now accepting the validity of Pañcaratra? For only when one admi
 तदुद्देशेन त्यागो विशेषणमभिलष्यते? 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं हि तत्-प्रामाण्यानभ्युपगमे  
 तत्-प्रतिपाद्यमानाया देवतात्वम्,  
@@ -21671,7 +21672,7 @@ For unless the validity of the Tantra is admitted, how can an idol which is set 
 कथन्तरां च तदुद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न हि काचिज् जात्या देवता नामास्ति,  
 यैव हि हविः-प्रतियोगितया +++(न तद्-अन्तरा)+++ प्रमाण-भूताच् शब्दाद् अवगम्यते  
@@ -21694,7 +21695,7 @@ that is your own doctrine.
 </details>
 
 ##### पाञ्चरात्रिक-पक्षे
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
 
@@ -21714,7 +21715,7 @@ Or if it be held that
 अथ पञ्चरात्रिकैर् देवतोद्देशेन परित्यक्तत्वाभ्युपगमान् निर्माल्य-निवेद्य-भावः, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त तर्हि,  
 तैर् एव परम-पावनतयाऽपि निर्माल्य-निवेद्योपयोगस्याङ्गीकृतत्वात्  
@@ -21731,7 +21732,7 @@ well, in that case you must also admit its purity because the Pāñcarātrikas a
 हन्त तर्हि, तैर् एव परम-पावनतयाऽपि निर्माल्य-निवेद्योपयोगस्याङ्गीकृतत्वात् तद्वद् एव पावनत्वम् अङ्गीक्रियताम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथापावनम् एव तैः +++(पाञ्चरात्र-मोहितैः)+++ पावन-बुद्ध्या परिगृहीतम् इति न तत् प्राशस्त्यम् अङ्गीक्रियते, 
 </details>
@@ -21747,7 +21748,7 @@ Or if you do not accept this peculiar excellence, since in your opinion the Pā�
 अथापावनम् एव तैः पावन-बुद्ध्या परिगृहीतम् इति न तत् प्राशस्त्यम् अङ्गीक्रियते, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त तर्ह्य् अ-देवतैव देवता-बुद्ध्यारोपेण तैः परिगृहीतेति  
 न तद्-उद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावो ऽङ्गीक्रियताम् । +++(4)+++ 
@@ -21764,7 +21765,7 @@ Or if you do not accept this peculiar excellence, since in your opinion the Pā�
 </details>
 
 #### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् उक्तं भवति 
 
@@ -21795,7 +21796,7 @@ it must needs be accepted by those who admit the validity of the Pañcarātra Ta
 
 #### पाञ्चरात्रे ऽनिषेधः
 ##### निषेधाभासाः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 आह 
 
@@ -21815,7 +21816,7 @@ should reject nevertheless the nirmālya and nivedya?
 आह कथं पुनस् तत्र प्रामाण्यम् अङ्गीकुर्वता निर्माल्यं निवेद्यं च न परिहरणीयम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > निषिध्यते हि तन्त्रेषु  
 निर्माल्य-प्राशनादिकम् ।  
@@ -21834,7 +21835,7 @@ should reject nevertheless the nirmālya and nivedya?
 यथा सनत्-कुमारीय-संहितायाम् उदीरितम् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > निवेदितं तु यद् धव्यं  
 पुष्पं फलम् अथापि वा ।  
@@ -21855,7 +21856,7 @@ should reject nevertheless the nirmālya and nivedya?
 तत् प्रयत्नेन वर्जयेत् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा प्रदेशान्तरे -  
 > 
@@ -21888,7 +21889,7 @@ and drink the pañcagavya,279 in order to be purified."
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा इन्द्र-रात्रे ।  
 > 
@@ -21907,7 +21908,7 @@ and drink the pañcagavya,279 in order to be purified."
 न चोपजीवेद् देवेशं न निर्माल्यानि भक्षयेत् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा -  
 > 
@@ -21934,7 +21935,7 @@ and drink the pañcagavya,279 in order to be purified."
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा संहितान्तरे -  
 > 
@@ -21958,7 +21959,7 @@ and drink the pañcagavya,279 in order to be purified."
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 >>  तद् एवम् अनेक-संहिता-समधिगत-निषेधस्य निर्माल्योपभोगस्य  
 कथम् इव पावनत्वाङ्गीकारः ।  
@@ -21975,7 +21976,7 @@ and drink the pañcagavya,279 in order to be purified."
 </details>
 
 ##### विलम्ब्य प्रयोगः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्राह देवम् उद्दिश्य  
 त्यक्तस्यापि च वस्तुनः ।  
@@ -21996,7 +21997,7 @@ REFUTATION. To this he says: The utilization of a proffered substance which has 
 नाडिका-दशकाद् अर्वाग् उपयोगो न निन्द्यते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा इन्द्र-रात्रे एव -  
 
@@ -22021,7 +22022,7 @@ Thus in the same Indrarātra:
 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अ-काल-योगातिरिक्तं तु  
 निर्माल्यं परिचक्षते ।  
@@ -22046,7 +22047,7 @@ thereupon he must throw it in water, or in fire, or bury it in the ground."
 </details>
 
 ##### अनधिकारिभ्यो निषेधः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > उच्यते - नात्र निर्माल्य-  
 प्राशनादि प्रशस्यते ।  
@@ -22068,7 +22069,7 @@ thereupon he must throw it in water, or in fire, or bury it in the ground."
 नाडिका-दशके पूर्णे पश्चात् त्यागो विधीयते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सामान्येन निवेदितस्य पुष्पौदनादेः  
 कृत-कार्यताया निर्माल्यत्वेन +अपनये प्राप्ते  
@@ -22097,7 +22098,7 @@ they must be kept by way of accessory pūjā rite for a period of ten nāḍikā
 नाडिका-दश-पूरणं पूजाङ्गतया स्थापनं विधीयते दशनाड्यधिकं पूरं स्थापयेत् इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ततश् च तन्त्र-सिद्धान्त-  
 पर्यालोचनयापि वः ।  
@@ -22119,7 +22120,7 @@ they must be kept by way of accessory pūjā rite for a period of ten nāḍikā
 न सिद्ध्येत् तन्त्र-सिद्धान्तः क्व नु यूयं क्व चाल्पकाः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो विद्या-लवोल्लासि-  
 जिह्वा-ग्रस्त-विचेतसः ॥
@@ -22142,7 +22143,7 @@ This prohibition applies only to fools like you,
 ये हि युष्मद्-विधा मूर्खास् तेषाम् एव निषेध-गीः ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेव्यमानं हि तत् सर्वं  
 वैष्णवैर् अधिकारिभिः ।  
@@ -22161,7 +22162,7 @@ since all this is indeed to be observed by Vaiṣṇavas who are qualified to do
 अघौघ-ध्वंसनायालं सोम-पानम् इवाध्वरे ॥  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्येषां हि तद् अस्पृश्यं  
 पुरो-डाशः शुनाम् इव । +++(5)+++ 
@@ -22177,7 +22178,7 @@ for it is not to be touched by others, just as the puroḍaśa cake is not to be
 अन्येषां हि तद् अस्पृश्यं पुरो-डाशः शुनाम् इव ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् यथेश्वर-संहितायाम् -  
 
@@ -22219,7 +22220,7 @@ and, among those who are, it is even more difficult to find a disposition which 
 इति ।) 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अतश् च भाव-हीनानाम्  
 अभक्तानां च षण्-मुख ।  
@@ -22249,7 +22250,7 @@ and, among those who are, it is even more difficult to find a disposition which 
 </details>
 
 ##### पावित्र्यम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा प्रदेशान्तरे -  
 
@@ -22276,7 +22277,7 @@ And in another passage: "The saffron, sandal, camphor and oils that have been ta
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा पद्मोद्भवे -  
 
@@ -22298,7 +22299,7 @@ Likewise in the Padmodbhava: "He who wears the powder that is taken of Viṣṇu
 सोऽश्वमेधफलं प्राप्य विष्णुलोके महीयते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेश्वर-संहितायाम् ।  
 
@@ -22331,7 +22332,7 @@ Similarly in the Īśvara Saṃhitā,
 (अप्रतिपत्तिजैः = निन्दाऽसूयाद्य्-आविष्कार-कारकैर् इत्यर्थः ।)
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > निर्माल्य-बुद्ध्या देवीयं  
 पावनं **दूषयन्ति** ये ॥
@@ -22355,7 +22356,7 @@ Similarly in the Īśvara Saṃhitā,
 </details>
 
 ##### वैष्वक्सेने निषेधः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि पुनर् दीक्षितम् एवाधिकृत्य  
 समयानुशासन-समये निर्माल्योपयोग-निषेध-पराणि वचनानि  
@@ -22380,7 +22381,7 @@ The above statements which to the consecrated prohibit the use of nirmālya at t
 तद्-उपयोगानन्तर-काले निषेध-पराणि द्रष्टव्यानि ।)
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यतो भगवद्-अर्थेन  
 त्यक्तं स्रक्-चन्दनादिकम् ।  
@@ -22399,7 +22400,7 @@ Since the garlands, sandal etc, which are offered up to the Bhagavān, later on,
 पश्चाद् अभोग्यतां याति विष्वक्सेन-निवेदनात् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत एव निवेद्य्-आदि  
 ततोऽर्वाग् एव सात्त्वतैः ।  
@@ -22420,7 +22421,7 @@ therefore the Sātvatas use the nivedya etc. before that time. Consequently the 
 
 #### देवतान्तर-निर्माल्ये
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च ।  
 
@@ -22446,7 +22447,7 @@ therefore the Sātvatas use the nivedya etc. before that time. Consequently the 
 </details>
 
 #### निगमनम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये नाम भगवच्छास्त्र-  
 प्रामाण्यं नानुजानते ।  
@@ -22465,7 +22466,7 @@ So I have said that those who do not accept the validity of the Bhagavān's doct
 न निरूपयितुं शक्यं तैर् निर्माल्यम् इतीरितम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरूपणेऽपि भगवन्-  
 निर्माल्यम् अतिपावनम् ।  
@@ -22485,7 +22486,7 @@ When it is properly determined (namely according to the Bhagavān's doctrine) th
 </details>
 
 #### शब्द-प्रमाणम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 शब्द-प्रमाणके ह्य् अर्थे  
 यथा-शब्दं व्यवस्थितिः ।  
@@ -22509,7 +22510,7 @@ In a matter for which the only means of knowledge is verbal testimony, it must b
 न चात्र शब्दो नास्तीति वक्तव्यं बधिरेतरैः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा ब्रह्म-पुराणे च पठ्यते -  
 
@@ -22534,7 +22535,7 @@ For instance it is said in the Brahma Purāṇa:
 अन्यन् निवेद्य-निर्माल्यं भुक्त्वा चान्द्रायणं चरेत् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विष्णु-देह-परामृष्टं  
 माल्यं पाप-हरं शुभम् ।  
@@ -22554,7 +22555,7 @@ He who wears it on his head goes to supreme bliss."
 यो नरश् शिरसा धत्ते स याति परमां गतिम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन -  
 
@@ -22577,7 +22578,7 @@ It follows that the smṛti statement that a man who eats nirmālya and nivedya 
 इति स्मरणम् अपि रुद्रकाल्यादिविषयम् इत्यावेदितव्यम्, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा महा-भारते -  
 
@@ -22604,7 +22605,7 @@ Thus in the Mahābhārata:
 मध्यमानामिकाङ्गुष्ठैर् गृहीत्वान्नमितं पुनः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्राणाय चेत्य् अपानाय  
 व्यानाय च ततः परम् ।  
@@ -22627,7 +22628,7 @@ Thus in the Mahābhārata:
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा प्रदेशान्तरे  -  
 
@@ -22652,7 +22653,7 @@ Likewise in another passage, "what has been offered to the god must be given to 
 इति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा महा-भारते -  
 
@@ -22681,7 +22682,7 @@ Thus in the Mahābhārata:
 इति, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च भगवान् शौनकः 
 
@@ -22701,7 +22702,7 @@ And likewise the blessed Śaunaka:
 तथा च भगवान् शौनकः नैवेद्यं स्वयम् अश्नीयाद् इति, ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्यादि-स्मृति-शत-सिद्ध-शुद्धि विष्णोर्  
 नैवेद्यं भव-भय-भेदि यो विनिन्देत् ।  
@@ -22723,7 +22724,7 @@ He who condemns Viṣṇu's nivedya, whose purity is proved by hundreds of simil
 </details>
 
 #### प्राणाग्निहोत्र-नैवेद्यता
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु प्राणाग्निहोत्रस्य  
 नैवेद्य-साधनं कथम् ।  
@@ -22745,7 +22746,7 @@ The exemplary people do not approve of a means for homa etc. for which ~~no buil
 निर्-इष्टकं न शिष्टानाम् इष्टं होमादि-साधनम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न च +++(शरीरार्थं)+++ द्रव्यान्तराक्षेपो  
 होमायेत्य् अ-कल्पते ।  
@@ -22764,7 +22765,7 @@ The exemplary people do not approve of a means for homa etc. for which ~~no buil
 रागतः प्राप्तम् एवान्नं यतस् तेनोपजीव्यते ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नापि +++(सायम्-प्रातर्-अपेक्षया)+++ भुक्त्य्-अन्तराक्षेपो  
 नैवेद्यायोपपाद्यते ।  
@@ -22788,7 +22789,7 @@ as follows from the prohibition: "One should not take food in between."
 नान्तरा भोजनं कुर्याद् इति तत्-प्रतिषेधनात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैष दोषो यतः प्राण-  
 प्रभृतिर् देवता-गणः ॥  
@@ -22807,7 +22808,7 @@ REFUTATION. That is no defect, since the multitude of deities, like prāṇa etc
 गुण-भूतः श्रुतो विष्णोर् विष्णुपारिषदेशवत् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव हि भगवन्-निवेदितम् अपि पुष्पौदनादि  
 विष्वक्सेनाय दीयमानं नानौचित्यम् आवहति ।  
@@ -22825,7 +22826,7 @@ but actually given to Viśvaksena shows that.
 विष्वक्सेनाय दीयमानं नानौचित्यम् आवहति ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा वा होतुर् उच्छिष्ट  
 एव सोम-रसो ऽध्वरे ।  
@@ -22846,7 +22847,7 @@ He is familiar under various guises, or just as at a sacrifice the soma juice th
 अध्वर्य्वादेर् विशुद्ध्यै स्याद् एवम् अत्र भविष्यति ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च - 
 
@@ -22868,7 +22869,7 @@ Moreover, only scripture can be our criterion for what is to be eaten and what i
 तच् चेद् भोज्यम् इदं ब्रूते किं वयं विदधीमहि ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा ऽनुष्ठान-तन्त्रत्वं  
 नित्य-काम्याग्निहोत्रयोः ।  
@@ -22891,7 +22892,7 @@ Just as the same rule governs both the periodical and the desiderative agnihotra
 </details>
 
 ### वैदिक-कर्मातिरस्कारः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अप्य् उक्तं 
 
@@ -22921,7 +22922,7 @@ observe the sacraments of conception ceremony etc. according to the manner laid 
 </details>
 
 #### एकायन-शाखा
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये पुनः सावित्र्य्-अनुवचन-प्रभृति--त्रयी-धर्म-**त्यागेन** 
 एकायन-श्रुति-विहितान् एव चत्त्वारिंशत् संस्कारान् **कुर्वते**  
@@ -22956,7 +22957,7 @@ since otherwise it would follow that other brahmins too would forfeit their brah
 न तु शानच्प्रत्यय इत्यवधारयन्तु निपुणाः ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वत्र हि जाति-चरण-गोत्राधिकारादि-व्यवस्थिता एव समाचारा उपलभ्यन्ते ।  
 </details>
@@ -22971,7 +22972,7 @@ For everywhere among brahmins we find customs that differ according to birth, ca
 सर्वत्र हि जाति-चरण-गोत्राधिकारादिव्यवस्थिता एव समाचारा उपलभ्यन्ते ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्य् अपि सर्व-शाखा-प्रत्ययम् एकं कर्म  
 तथाऽपि न परस्-पर-विलक्षणाधिकारि-संबद्धा धर्माः  
@@ -22991,7 +22992,7 @@ do not all together accumulate in any one place.
 तथाऽपि न परस्परविलक्षणाधिकारिसंबद्धा धर्माः क्वचित्समुच्चीयन्ते, 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 विलक्षणाश् च त्रयी-विहित-स्वर्ग-पुत्रादि-विषयोपभोग-साधनैन्द्राग्नेयादि-कर्माधिकारिभ्यो द्विजेभ्यस्  
  
@@ -23019,7 +23020,7 @@ does not mean that either one forfeits his brahminhood-
 त्रय्यन्तैकायनश्रुतिविहितविज्ञानाभिगमनोपादानेज्याप्रभृतिभगवत्प्राप्त्येकोपायककर्माधिकारिणोमुमुक्षवो ब्राह्मणा इतिनोभयेषामप्यन्योन्यशाखाविहितकर्माननुष्ठानमब्राह्मण्यमापादयति,  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा चैकायन-शाखाया अपौरुषेयत्वं  
 तथा काश्मीरागम-प्रामाण्ये प्रपञ्चितम् इति  
@@ -23049,7 +23050,7 @@ and is therefore here not further discussed.
 </details>
 
 #### इतरे भागवताः
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृतानां तु भागवतानां  
 सावित्र्य्-अनुवचनादि-त्रयी-धर्म-बन्धस्य स्फुटतरम् उपलब्धेर्  
@@ -23077,7 +23078,7 @@ because they would have abandoned these Vedic dharmas.
 
 ## १८ समाप्तिः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्-तत्-कल्पित-युक्तिभिस् **शकलशः कृत्वा** तदीयं मतं   
 यच्-छिष्यैर् **उदमर्दि** सात्त्वत-मत-स्पर्धावताम् **उद्धतिः** ॥  
@@ -23101,7 +23102,7 @@ because they would have abandoned these Vedic dharmas.
 जीयान्नाथमुनिस्स्वयोगमहिमप्रत्यक्षतत्त्वत्रयः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकल्पं **विलसन्तु** सात्त्वत-मत-प्रस्पर्धि--दुष्-पद्धति--  
 व्यामुग्धोद्धत-दुर्विदग्ध-परिषद्-वैदग्ध्य-विध्वंसिनः ।  
@@ -23125,7 +23126,7 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 श्रीमन्नाथमुनीन्द्रवर्द्धितधियोनिर्धूतविश्वाशिवाः सन्तस्सन्ततगद्यपद्यपदवीहृद्यानवद्योक्तयः ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **इति श्री-यामुन-मुनि-विरचितम् आगम-प्रामाण्यम् ॥**
 </details>

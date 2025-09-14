@@ -5,7 +5,7 @@ author = "कोऴियाल-रङ्गरामानुजः"
 +++
 
 
-<details open=\"\"><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details open=><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 हेयोपादेयदर्पण-विषयसूची  
 
@@ -1244,7 +1244,7 @@ author = "कोऴियाल-रङ्गरामानुजः"
 अतः कालादि-दोषात् तद्-भ्रंशो मा भूद् इत्य् अस्माभिर् अद्यात्र दिक् प्रदर्शिता ।  
 इति सर्वम् अनवद्यम् ॥
 
-<details open=\"\"><summary>English</summary>
+<details open=><summary>English</summary>
 
 Despite being greater in terms of admirable qualities led by the knowledge of suchness,  
 it is only because of the glory of the knowledge of fine conduct  
