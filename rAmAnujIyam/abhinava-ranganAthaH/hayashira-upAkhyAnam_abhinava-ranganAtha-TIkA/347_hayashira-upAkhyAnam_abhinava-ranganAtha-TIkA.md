@@ -1668,7 +1668,7 @@ Source: [TW](https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shir
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-https://vishvAsa.github.io/) द्रष्टव्यम्। 
+[अत्र](https://vishvAsa.github.io/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/vishvAsaH/339_jIvotpatti-layau) द्रष्टव्यम्। 
 </details>
 
 <details><summary>दीधितिः - सृष्टिवाक्यानां (पितृपुत्र) (राजकुमार) न्यायद्वयप्रदर्शने तात्पर्यम् </summary>
