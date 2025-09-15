@@ -23073,7 +23073,7 @@ because they would have abandoned these Vedic dharmas.
 
 <details><summary>राममिश्रशास्त्री</summary>
 
-गायत्रीमन्त्रापेक्षा-विषयिणी टिप्पन्य् https://vishvAsa.github.io/) । 
+गायत्रीमन्त्रापेक्षा-विषयिणी टिप्पन्य् [अत्र](https://vishvAsa.github.io/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/rAma-mishra-shAstri-sAvitrI-japApexA/) । 
 </details>
 
 ## १८ समाप्तिः
