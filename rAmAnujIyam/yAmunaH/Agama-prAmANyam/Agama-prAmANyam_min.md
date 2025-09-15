@@ -17216,7 +17216,7 @@ because they would have abandoned these Vedic dharmas.
 
 <details open=><summary>राममिश्रशास्त्री</summary>
 
-गायत्रीमन्त्रापेक्षा-विषयिणी टिप्पन्य् [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/rAma-mishra-shAstri-sAvitrI-japApexA/) । 
+गायत्रीमन्त्रापेक्षा-विषयिणी टिप्पन्य् https://vishvAsa.github.io/) । 
 </details>
 
 ## १८ समाप्तिः

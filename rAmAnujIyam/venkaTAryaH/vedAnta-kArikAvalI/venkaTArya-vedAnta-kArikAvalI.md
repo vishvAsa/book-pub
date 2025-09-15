@@ -44,7 +44,7 @@ A.
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-1. After bowing down in salutation to the line of spiritual teachers beginning with the Lord of S'ri (Bhagavan Nārāyaṇa) I write the work Karikavali on the principles of the doctrine expounded by S'ri Rāmānuja. 
+1. After bowing down in salutation to the line of spiritual teachers beginning with the Lord of S'ri (Bhagavan Nārāyaṇa) I write the work Karikavali on the principles of the doctrine expounded by S'ri Rāmā- nuja. 
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -849,7 +849,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-विस्तारः [अत्र](/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/pramA/anumitiH/) ।
+विस्तारः https://vishvAsa.github.io/) ।
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
