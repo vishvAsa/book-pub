@@ -2296,7 +2296,7 @@ And the Vasus gathered together.
 
 <details open=><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-[मध्येऋच](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/) आरम्भः??
+https://vishvAsa.github.io/) आरम्भः??
 </details>
 
 स्तोम॑ त्रयस्त्रिँशे॒! भुव॑नस्य पत्नि॒!  
