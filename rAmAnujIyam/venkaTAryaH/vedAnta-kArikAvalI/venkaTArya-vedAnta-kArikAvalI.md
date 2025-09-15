@@ -849,7 +849,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-विस्तारः https://vishvAsa.github.io/) ।
+विस्तारः [अत्र](https://vishvAsa.github.io/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/pramA/anumitiH/) ।
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
