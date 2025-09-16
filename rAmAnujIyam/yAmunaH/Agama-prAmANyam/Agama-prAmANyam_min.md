@@ -265,11 +265,6 @@ for we know from experience
 that knowledges exceed one another as their contents exceed one another. 
 </details>
 
-<details open=><summary>Buitenen - Notes</summary>
-
-jagati or toke??: "in the world of experience, in common experience." 
-</details>
-
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इत्थम् ऐश्वर्य-वैराग्य-  
@@ -317,8 +312,7 @@ So what remains unproved? (is improper).
 6. This objection is thus refuted: 
 
 The supreme perceptual knowledge which you assume is just a fancy.  
-Perceptual knowledge can never go beyond its own sphere and trespass on another. 
-
+Perceptual knowledge can never go beyond its own sphere and trespass on another.
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -328,7 +322,7 @@ Perceptual knowledge can never go beyond its own sphere and trespass on another.
 रूप-रूपि-तद्-एकार्थ-  
 समवायिषु चाक्षुषः ।  
 प्रकर्षो **भवितुं युक्तो**  
-दृश्यमान-प्रकर्षवत् +++(भगवांस् तु न दृश्यमानः)+++॥
+दृश्यमान-प्रकर्षवत् +++(न तु स्पृश्यमान-प्रकर्षवत्)+++॥
 </details>
 
 <details open=><summary>Buitenen</summary>
@@ -341,12 +335,21 @@ where inherent relations of one kind,
 as between colour and coloured, obtain in one object.  
 </details>
 
+<details open=><summary>नरसिंहः</summary>
+
+> रूपे, तद्-वति घटे, तथा रूपेण सह एकस्मिन्न् अर्थे घटे समवाय-सम्बन्धेन विषयमानेषु संख्या-परिमाणादिष्व् एव नियतः चक्षुः-प्रकर्षः,  
+न तु स्पर्शेऽपि  
+स्व-भिन्नेन्द्रिय-ग्राह्ये स्पर्शन-ग्राह्याभावाद् 
+
+इति भावः ।
+</details>
+
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम्,  
 
 इन्द्रियान्तर-विज्ञानं  
-विश्वं **गोचरयेन् न** तु ।  
+विश्वं **गोचरयेन् न** तु +++(तद्-भिनेन्द्रिय-विषय-सद्-भावात्)+++ ।  
 **कथं** प्रत्यक्ष-विज्ञानं  
 विश्वं **बोधयितुं क्षमम्** ॥  
 </details>
@@ -354,7 +357,7 @@ as between colour and coloured, obtain in one object.
 <details open=><summary>Buitenen</summary>
 
 [[4]]  
-No knowledge that is received through one of the senses 
+No knowledge that is received through one of the senses  
 can encompass all that is knowable through all senses.  
 So how can perceptual knowledge by itself  
 make all things known,  
@@ -363,36 +366,41 @@ i.e. also things known only through other means of ... knowledge?
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ननु तत् +++(इन्द्रियम्)+++ कॢप्त-सामर्थ्यं विद्यमानोपलम्भने ।
+> ननु तत् +++(भगवत्-प्रत्यक्षं)+++ कॢप्त-सामर्थ्यं  
+> विद्यमानोपलम्भने ।
 </details>
 
 <details open=><summary>Buitenen</summary>
 
 7. The objector resumes:   
-However, the sensitivity which we attribute to Perception  
+
+> However, the sensitivity which we attribute to Perception  
 is directed toward the perceiving of what exists at present. 
 </details>
 
 ##### सातिशयस्य निरतिशयाप्राप्तिः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अ-सति हि स्व-भावानुबन्धिनि विद्यमानोपलम्भनत्वे  
+> अ-सति हि +++(प्रत्यक्ष-)+++स्व-भावानुबन्धिनि विद्यमानोपलम्भनत्वे  
 +++(प्रत्यक्षस्य)+++ प्रत्यक्षतैव परावर्तते।   
-न ह्य् अ-जात-मति-वृत्तं+++(=??)+++ वा ऽगमयद् अनुमानादि  
-प्रत्यक्ष-पक्ष-निक्षेपं,  
-तेन अशेष-विषयिता-लक्षण-प्रत्यक्ष-प्रकर्षः  
-स्व-भाव-नियम-निर्मूलितोदय 
-
-इति न हृदयम् अधिरोहति ।  
+न ह्य् अ-जात-मति-वृत्तं वा ऽवगमयद् अनुमानादि  
+प्रत्यक्ष-पक्ष-निक्षेपं क्षमते।   
+तेन  
+> 
+> > अशेष-विषयिता-लक्षण-प्रत्यक्ष-प्रकर्षः  
+स्व-भाव-नियम-निर्मूलितोदय  
+> 
+> इति न हृदयम् अधिरोहति ।  
 </details>
 
 <details open=><summary>Buitenen</summary>
 
-Of course, if Perception did not have this function of perceiving what exists at present as its natural function,  
+> Of course, if Perception did not have this function of perceiving what exists at present as its natural function,  
 it would cease to be Perception at all.  
-
-Therefore, it is not reasonable to say  
-that a superior kind of Perception,  
+>
+> Therefore, it is not reasonable to say that  
+>
+> > a superior kind of Perception,  
 defined as encompassing all objects,  
 is a priori impossible  
 because it is limited to being Perception! 
@@ -1389,7 +1397,6 @@ even to the extent of cancelling all connotations which we have learnt?
 
 <details open=><summary>Buitenen - Notes</summary>
 
-adhyayanasiddhabuddhyangato??abkangenāpi.  
 Such a "connotation" is, for example, that the rathakara in the literal sense of cartwright  
 is disqualified for Vedic ritual,  
 because a cartwright is a śūdra;  
@@ -1819,8 +1826,8 @@ Atri, too, very explicitly declares that they are not Brahmins:
 not in Atrismr̥ti:  
 Avaluka is unknown to me.  
 kalpa devalaka can be explained as a professional kalpa priest,  
-kalpa either in the sense of ("unorthodox) ritual," or 'astrological mansion"; gapabhogadevalaka is likewise obscure,  
-but probably refers to unorthodox priest engaged in gap??a worship.
+kalpa either in the sense of "(unorthodox) ritual," or 'astrological mansion'; gaNabhogadevalaka is likewise obscure,  
+but probably refers to unorthodox priest engaged in gaNa worship.
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2305,7 +2312,7 @@ the mountain has fire, because it has smoke.
 
 <details open=><summary>Buitenen - Notes</summary>
 
-avatara "descent, emergence." The meaning is as follows: Dharma is by definition that action which leads to a certain end by suprasensible law. Since the process (the Incans-end?? relation) is suprasensible, there can be no other authority for it than Scriptural authority. 
+avatara "descent, emergence." The meaning is as follows: Dharma is by definition that action which leads to a certain end by suprasensible law. Since the process (the incarnation) is suprasensible, there can be no other authority for it than Scriptural authority. 
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3027,11 +3034,11 @@ before he can actually undertake their production.
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि परं शक्तिम् अ-विदुषाम्  
-अभिलषित-साधनाय तद्-उपादानादि-व्यवहारो ऽनुपपन्नः,  
+यदि परं +++(उय्येत)+++- शक्तिम् अ-विदुषाम् +++(कुम्भकारादीनां)+++ 
+अभिलषित-साधनाय तद्-उपादानादि-व्यवहारो ऽनुपपन्नः।  
 इह तु नित्यागम-जन्मना प्रत्ययेन 
-संप्रत्य्-आकलित-यागादि--तत्-तद्-उत्पादन-पाटवाः पुरुषास्  
-तैर् एव विश्वम्-भरादि+++(=??!)+++-भावान् आविर्भावयन्ति,
+संप्रत्य्-आकलित-यागादि--तत्-तद्-उत्पादन-पाटवाः पुरुषास् +++(←अनीश्वरा देवा अपि)+++  
+तैर् एव विश्वम्-भरा+++(=भू)+++ऽऽदि-भावान् आविर्भावयन्ति,
 </details>
 
 <details open=><summary>Buitenen</summary>
@@ -3047,11 +3054,8 @@ Thus, aided by these causes, they render manifest such products as earth etc.
 ### धर्म-साक्षात्-काराभावेऽपि सृष्टिः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा च,
-
-> प्रत्यक्ष-प्रकृति+++(=उपादान)-+++-करणः कर्म-करण-प्रवीणो, नैवान्यः क्षम
-
-इति च नास्त्यत्र नियमः ॥
+तथा च प्रत्यक्ष-प्रकृति+++(=उपादान)-+++-करणः कर्म-करण-  
+प्रवीणो, नैवान्यः क्षम इति च नास्त्यत्र नियमः ॥
 </details>
 
 <details open=><summary>Buitenen</summary>
@@ -4005,12 +4009,6 @@ realizes that the one person's action has been caused by the other person's vari
 
 > "Surely this person has been made aware by the other of this karya  
 that he proceed to his action immediately upon become aware of what he has to do."
-</details>
-
-<details open=><summary>Buitenen - Notes</summary>
-
-[[130]]  
-Thus śalikanatha, Prakaranapancika, p. 182: niyo?? yali?? sarvakarye yaft soakiyalvena?? budhyate. 
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7416,7 +7414,7 @@ since that would mean over-extension.
 
 <details open=><summary>Buitenen - Note</summary>
 
-140: a?? sthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
+140: sthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
 beyond the inevitably transient action it involves;  
 for the kārya must remain in order to effect the fruit of the action  
 at any time after the completion of the action.  
@@ -9796,9 +9794,9 @@ there is no other path to tread etc." (Svet Up. 3.8.)
 <details open=><summary>विश्वास-टिप्पनी</summary>
 
 इह कापालिक-कालामुखयोर् भ्रमो भाति।  
-तद् एव श्रीभाष्ये ऽनुवर्तितं रामानुजेनेति च श्रीभाष्ये (ii.2.35-37)।??  
+तद् एव श्रीभाष्ये ऽनुवर्तितं रामानुजेनेति च श्रीभाष्ये (ii.2.35-37)।  
 
-सम्बद्धम् - [TW](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/)[^lnk_1]
+सम्बद्धम् - [TW](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/)[^lnk_1]।
 </details>
 
 <details open=><summary>Buitenen</summary>
@@ -9886,33 +9884,16 @@ and a sixteenth part of him is the material cause.
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-मह्य्-अन्तं महद्-आदि कार्यम् **उदितं**, तद्वद् विधिर् **गीयते** ।  
-गूढाचार-मुख-स्मशान-भसित-स्नानावसानः परः+++(??)+++ ॥  
-+++(छन्दः??)+++
+मह्य्-अन्तं महद्-आदि **कार्यम्** उदितं, तद्वद् **विधिर्** गीयते  
+गूढाचार-मुख-स्मशान-भसित-स्नानावसानः, परः ।  
+**योगो** धारणम् उच्यते हृदि धियाम् ओङ्कार-पूर्वन् तथा   
+**दुःखान्तो** हि मतो ऽपवर्ग - इति ते पञ्चापि **संकीर्तिताः** +++(पूर्वश्लोकस्थ-कारणेन सह)+++ ॥
 </details>
 
 <details open=><summary>Buitenen</summary>
 
 The Effect comprises the elements from Mahat to earth.  
 The Injunction is stated to comprehend principally a number of rites, secret practices, bathing and lying in ashes etc. 182  
-</details>
-
-<details open=><summary>Buitenen - Notes</summary>
-
-Mahat - The highest material evolute; the sloka is out of order.
-
-The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi??, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaśa yanādikrijāparaḥ.
-</details>
-
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
-
-योगो धारणम् **उच्यते**  
-हृदि धियाम् ओङ्कार-पूर्वन् तथा ।  
-**दुःखान्तो** हि मतो ऽपवर्ग  
-इति ते पञ्चापि संकीर्तिताः ॥
-</details>
-
-<details open=><summary>Buitenen</summary>
 
 The Yoga is said to be concentration and the muttering of formula, OM etc.   
 The Cessation of Misery is held to be release;   
@@ -9922,7 +9903,21 @@ thus the five Categories are enumerated.
 
 <details open=><summary>Buitenen - Notes</summary>
 
-The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems out of order. The sense is clear however.
+Mahat - The highest material evolute.
+</details>
+
+<details open=><summary>नरसिंहः</summary>
+
+Vide Indian Philosophy, Vol. I, p. 489: 
+
+> “The five categories are :  
+> 1 Kāraṇa or Cause: The Cause is the Lord, the Pati, the Eternal ruler, who creates, maintains and destroys the whole existence.  
+> 2 Kārya or Effect: It is what is dependent on the cause. It includes knowledge or vidyā, organs or kalā and individual souls or paśu. All knowledge and existence, the five elements and the five qualities, the five senses and the five organs of actions and the three internal organs of intelligence, egoism and mind are dependent on the Lord.  
+> 3 Yoga or Discipline: It is the mental process by which the individual soul gains God.  
+> 4 Vidhi or Rules: It relates to the practices that make for righteousness.  
+> 5 Duḥkhānta or the end of misery: It is final deliverance or destruc-tion of misery and obtaining an elevation of spirit, with full powers of Knowledge and Action.” 
+
+For a more detailed explanation of these categories, see Liṅgadhāraṇa-candrikā, pp. 351-57.
 </details>
 
 ### मुक्ति-कल्पना
@@ -10130,7 +10125,7 @@ For thus it reads in the Varaha Purana,
 <details open=><summary>Buitenen - Notes</summary>
 
 [[139]]  
-corresponds to Varaha Purana. 70.36 tvam ca rudra mahabaho mokatastrāni kāraya al pajasam?? darsayitva mahajātu mahetoarah. 
+corresponds to Varaha Purana. 70.36 tvam ca rudra mahābaho mohaśāstrāṇi kāraya  
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10186,7 +10181,7 @@ do not respect the Vedas.16
 
 <details open=><summary>Buitenen - Notes</summary>
 
-cf. Variha Pur., 70.38, which reads in cd shastrejo?? abhirato loko bahuljena bhaved atah. 
+cf. Variha Pur., 70.38, which reads in cd shastreśv abhirato loko bahulyena bhaved atah. 
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10236,7 +10231,7 @@ This ritual called Pasupata is the lowliest and deceives men.188"
 
 <details open=><summary>Buitenen - Notes</summary>
 
-cf. Varaha Pur., 70.21, yad vedabāḥyam karma ṣṣācchāstram udditya senzate I tad raudram iti cikk?? yatam tan nestam gaditam nṛṇām.
+cf. Varaha Pur., 70.21, yad vedabāḥyam karma …
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13039,7 +13034,7 @@ since that would entail a negation of the direct declaration of the real sense.
 नापि यथार्थत्वाय,  
 **न** ह्य् **उत्पन्नं** ज्ञानं  
 स्व-कारण-व्यतिरेकेण यथार्थत्वाय अपरम् **अपेक्षते** -  
-+++(वेद-वाक्य-??)+++गुणतः प्रामाण्यस्यायुक्तत्वात्, +++(गुणत्व-)+++अनभ्युपगमाच् च ।  
++++(वेद-वाक्य-)+++गुणतः प्रामाण्यस्यायुक्तत्वात्, +++(गुणत्व-)+++अनभ्युपगमाच् च ।  
 </details>
 
 <details open=><summary>Buitenen</summary>
