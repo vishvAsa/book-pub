@@ -1,7 +1,6 @@
 +++
 title = "आगम-प्रामाण्यम्"
 author = "यामुनः"
-
 +++
 
 <details open=><summary>Buitenen - विश्वास-टिप्पनी</summary>
@@ -7137,7 +7136,7 @@ For an explanation of the ardhajaratī-nyāya see Nyāyasudhā under I. iii. 1, 
 >
 > इति लोक-प्रवादो ऽर्धजरतीशब्दे। 
 
-Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र सर्वत्यागे ग्रहणे वा प्रसक्ते, निर्युक्तिकम् एकांशोपादानम् अरंशान्तरत्यागश् च क्रियते, तत्रायं न्यायोऽवतरति—  
+Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र सर्वत्यागे ग्रहणे वा प्रसक्ते, निर्युक्तिकम् एकांशोपादानम् अरंशान्तरत्यागश् च क्रियते, तत्रायं न्यायोऽवतरति—  
 यथा जरती वृद्धा स्त्री, तस्याः पतिः तदर्थं गुणमात्रं गृह्णाति ह्यवयवान्तरं त्यजतीति युक्तिशून्यम् ।”
 </details>
 
@@ -9799,7 +9798,7 @@ there is no other path to tread etc." (Svet Up. 3.8.)
 इह कापालिक-कालामुखयोर् भ्रमो भाति।  
 तद् एव श्रीभाष्ये ऽनुवर्तितं रामानुजेनेति च श्रीभाष्ये (ii.2.35-37)।??  
 
-सम्बद्धम् - [TW](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/)
+सम्बद्धम् - [TW](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/)[^lnk_1]
 </details>
 
 <details open=><summary>Buitenen</summary>
@@ -17216,7 +17215,7 @@ because they would have abandoned these Vedic dharmas.
 
 <details open=><summary>राममिश्रशास्त्री</summary>
 
-गायत्रीमन्त्रापेक्षा-विषयिणी टिप्पन्य् [अत्र](https://vishvAsa.github.io/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/rAma-mishra-shAstri-sAvitrI-japApexA/) । 
+गायत्रीमन्त्रापेक्षा-विषयिणी टिप्पन्य् [अत्र](https://vishvAsa.github.io/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/rAma-mishra-shAstri-sAvitrI-japApexA/)[^lnk_2] । 
 </details>
 
 ## १८ समाप्तिः
@@ -17260,3 +17259,7 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 **इति श्री-यामुन-मुनि-विरचितम् आगम-प्रामाण्यम् ॥**
 </details>
 
+
+[^lnk_1]: https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/
+
+[^lnk_2]: https://vishvAsa.github.io/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/rAma-mishra-shAstri-sAvitrI-japApexA/
