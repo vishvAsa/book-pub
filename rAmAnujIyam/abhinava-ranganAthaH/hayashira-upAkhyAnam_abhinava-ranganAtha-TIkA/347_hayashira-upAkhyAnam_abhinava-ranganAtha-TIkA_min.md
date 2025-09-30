@@ -1,11 +1,10 @@
 +++
 title = "३४७ हय-शिर-उपाख्यानम् अभिनव-रङ्गनाथ-टीका"
 author = "अभिनव-रङ्गनाथः"
-
 +++
 
 
-Source: [TW](https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shira-ratna-bhushana-commentary-by-srimad-bhinava-/page/234/mode/2up)
+Source: [TW](https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shira-ratna-bhushana-commentary-by-srimad-bhinava-/page/234/mode/2up)[^lnk_1]
 
 # ०१ भूषणारम्भः
 
@@ -1668,7 +1667,7 @@ Source: [TW](https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shir
 
 <details open=><summary>विश्वास-टिप्पनी</summary>
 
-[अत्र](https://vishvAsa.github.io/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/vishvAsaH/339_jIvotpatti-layau) द्रष्टव्यम्। 
+[अत्र](https://vishvAsa.github.io/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/vishvAsaH/339_jIvotpatti-layau)[^lnk_2] द्रष्टव्यम्। 
 </details>
 
 <details open=><summary>दीधितिः - सृष्टिवाक्यानां (पितृपुत्र) (राजकुमार) न्यायद्वयप्रदर्शने तात्पर्यम् </summary>
@@ -2344,37 +2343,64 @@ Source: [TW](https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shir
 तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ॥  इति
 </details>
 
-##### कृष्णस्य रुद्रपूजनं लोकानुष्ठापनेन स्वदत्तवरपालनार्थम्
+##### कृष्णस्य रुद्-रपूजनं लोकानुष्ठापनेन स्वदत्तवरपालनार्थम्
 
-1 अहमात्मा हि लोकानां 2 विश्वेषां पाण्डुनन्दन ॥ २३ ॥ 
+> 1 अहम् आत्मा हि लोकानां  
+2 विश्वेषां पाण्डु-नन्दन ॥ २३ ॥  
+> तस्माद् आत्मानम् एवाग्रे  
+रुद्रं सम्पूजयाम्य् अहम् ।
 
 <details open=><summary>दीधितिः</summary>
 
-1 एतेन 'अन्तः प्रविष्टः शास्ता जनाना'मिति श्रुतिः अन्तर्यामिब्राह्मणं च नारायणपरमिति ख्यापितम् । अयमर्थः शाङ्कर (बृ. आ.) भाष्यवार्तिकादिवाक्यैः 'ईश्वरो हि जगत्स्रष्टा' इति श्लोकविवरणावसरे स्थिरीकरिष्यते ॥
+1 एतेन 'अन्तः प्रविष्टः शास्ता जनाना'म् इति श्रुतिः  
+अन्तर्यामिब्राह्मणं च नारायणपरमिति ख्यापितम् ।  
+अयम् अर्थः शाङ्कर-(बृ. आ.)-भाष्यवार्तिकादि-वाक्यैः  
+'ईश्वरो हि जगत्-स्रष्टा' इति श्लोकविवरणावसरे स्थिरीकरिष्यते ॥
 
-2 एतेन विश्वान्तर्यामित्वं भगवतः रुद्रान्तर्यामित्वमन्तरा न घटते तेन च उत्तरार्धगतरुद्रशब्दोऽपि रुद्रान्तर्यामिपर इति द्योतितम् ॥
+2 एतेन  
+
+> विश्वान्तर्यामित्वं भगवतः रुद्रान्तर्यामित्वम् अन्तरा न घटते  
+तेन च उत्तरार्ध-गत-रुद्र-शब्दोऽपि  
+रुद्रान्तर्यामिपर 
+
+इति द्योतितम् ॥
 </details>
 
-> तस्मादात्मानमेवाग्रे रुद्रं सम्पूजयाम्यहम् ।  
-3 यद्यहं नार्चयेयं वै ईशानं वरदं शिवम् ॥ २४ ॥  
+> 3 यद्य् अहं नार्चयेयं वै  
+ईशानं वरदं शिवम् ॥ २४ ॥  
+> +++(जीव-द्वारा)+++ आत्मानं नार्चयेत् कश्चिद्  
+इति मे भावितात्मनः ।  
+मया प्रमाणं हि कृतं  
+लोकः समनुवर्तते ॥ २५ ॥
 
 <details open=><summary>दीधितिः</summary>
 
-3 एतावता भगवतः रुद्रान्निकर्षो नास्तीति सिद्धया रुद्रपूजामन्तरैव स्थितिसंभवे रुद्रपूजनं किमर्थमिति शङ्कायां पूर्वं रुद्राय स्वेन दत्तस्य वरस्य कार्यकारित्वसंपादनार्थमित्यभिप्रेत्याह यद्यहमित्यादिना ॥
+3 एतावता "भगवतः रुद्रान् निकर्षो नास्ती"ति सिद्ध्या  
+रुद्रपूजाम् अन्तरैव स्थितिसंभवे  
+रुद्रपूजनं किमर्थम् इति शङ्कायां  
+
+> पूर्वं रुद्राय स्वेन दत्तस्य वरस्य कार्यकारित्व-संपादनार्थम् 
+
+इत्य् अभिप्रेत्याह यद्य् अहम् इत्य्-आदिना ॥
 </details>
 
-> आत्मानं नार्चयेत्कश्चिदिति मे भावितात्मनः ।  
-मया प्रमाणं हि कृतं लोकः समनुवर्तते ॥ २५ ॥  
-प्रमाणानि हि पूज्यानि ततस्तं पूजयाम्यहम् ।  
-यस्तं4 वेत्ति स मां वेत्ति योऽनुतं स हि मामनु ॥ २६ ॥  
-रुद्रनारायणश्चैव सत्वमेकं द्विधा कृतम् ।
+> प्रमाणानि हि पूज्यानि  
+> ततस् तं पूजयाम्य् अहम् ।  
+यस् तं4 वेत्ति स मां वेत्ति  
+> योऽनु तं स हि माम् अनु ॥ २६ ॥  
+रुद्र-नारायणश्चैव  
+> सत्त्वम् एकं द्विधा कृतम् ।
 
 <details open=><summary>दीधितिः</summary>
 
-4 ज्ञानिनां विशेषमाह यस्त्वं वेत्तीत्यादिना 'नारायणात्मको ज्ञेयः, 
+4 ज्ञानिनां विशेषमाह यस्त्वं वेत्तीत्यादिना  
 
-> एतौ द्वौ विबुधश्रेष्ठौ प्रसादक्रोधजौ स्मृतौ ।  
-निमित्तमात्रं सर्वप्राणिवरप्रदौ 
+> 'नारायणात्मको ज्ञेयः, 
+
+> एतौ द्वौ विबुधश्रेष्ठौ  
+प्रसादक्रोधजौ स्मृतौ ।  
+
+> निमित्तमात्रं सर्वप्राणिवरप्रदौ 
 
 इति पूर्वोक्तेन यथावस्थिताकारेण वेत्तीत्यर्थः ॥
 </details>
@@ -6567,7 +6593,7 @@ Source: [TW](https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shir
 'विद्यासहायवान्' इत्यत्र विद्याशब्देन 'द्वितीयां, तनुम्' इति पदद्वयेन च विश्वकर्मसूक्तद्वयप्रत्यभिज्ञापनमुखेन याज्ञवल्क्याय शुक्लयजुर्वेदमुपदेष्टुरादित्यस्य हयरूपस्य वाग्देवीस्वरूपस्य च निर्धारणं बृहादारण्यकैतरीयोपनिषत्प्रघट्टकयोः हयशिरोऽवतारमूलप्रमाणत्वव्यञ्जनं च कृतं भवति1 ॥
 ## १४ दीधितिः - विस्तारः
 
-Source: [TW](https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shira-ratna-bhushana-commentary-by-srimad-bhinava-/page/%E0%A5%A8%E0%A5%AA%E0%A5%A6/mode/2up?q=%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF)
+Source: [TW](https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shira-ratna-bhushana-commentary-by-srimad-bhinava-/page/%E0%A5%A8%E0%A5%AA%E0%A5%A6/mode/2up?q=%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF)[^lnk_3]
 
 1 अत्रेदमवधेयम् । बृहदारण्यकं शुक्लयजुर्वेदान्तर्गतं शुक्लयजुर्वेदश्च हयशिरोरूपधारिणाऽऽदित्येन याज्ञवल्क्यायोपदिष्ट इति घर्मसूक्तानन्तरसूक्ते 'स इदग्निः कण्वतमः कण्वसखा, 'वाजिन्तमाय' इत्यादिमन्त्रद्वयोपज्ञेषु - 
 
@@ -9608,3 +9634,10 @@ Source: [TW](https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shir
 *इति श्री लक्ष्मी-हयग्रीव-दिव्य-पादुका-सेवक श्रीमद्-अभिनव-रङ्गनाथ-ब्रह्मतन्त्र-परकाल-महादेशिक-कृतिषु हय-शिरो-रत्न-भूषण-दीधितिः (शालिवाहन शके १८५१ तमे विभव-वर्षे श्रावण-मासे) समाप्ता ॥*
 
 [[४०९]]
+
+
+[^lnk_1]: https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shira-ratna-bhushana-commentary-by-srimad-bhinava-/page/234/mode/2up
+
+[^lnk_2]: https://vishvAsa.github.io/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/vishvAsaH/339_jIvotpatti-layau
+
+[^lnk_3]: https://archive.org/details/Zzlg_hayashira-upakhyana-with-haya-shira-ratna-bhushana-commentary-by-srimad-bhinava-/page/%E0%A5%A8%E0%A5%AA%E0%A5%A6/mode/2up?q=%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF

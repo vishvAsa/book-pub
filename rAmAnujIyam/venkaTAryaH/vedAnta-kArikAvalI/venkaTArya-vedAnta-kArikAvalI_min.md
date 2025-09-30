@@ -1,13 +1,12 @@
 +++
 title = "वेङ्कटार्य-वेदान्त-कारिकावली"
 author = "वेङ्कटार्यः"
-
 +++
 
 
 # ०१ प्रत्यक्ष-निरूपणान्तम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीमद्-रमा-धवोपज्ञां  
 **नत्वा** ऽऽचार्य-परम्पराम् ।  
@@ -20,7 +19,7 @@ author = "वेङ्कटार्यः"
 1. After bowing down in salutation to the line of spiritual teachers beginning with the Lord of S'ri (Bhagavan Nārāyaṇa) I write the work Karikavali on the principles of the doctrine expounded by S'ri Rāmā- nuja. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मान-मेय-विभेदेन  
 पदार्थो द्वि-विधो मतः ।  
@@ -33,7 +32,7 @@ author = "वेङ्कटार्यः"
 2. The entire Padarthas or entities are of two kinds—Māna (Means of valid knowledge) and Meya (The object of such knowledge). The Mana is again of three divisions- Pratyaksa (Perception), Anumāna(Inference) and S'abda (Verbal testimony). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमेयं द्विविधं प्रोक्तं  
 द्रव्याद्रव्य-विभेदतः ।  
@@ -48,7 +47,7 @@ author = "वेङ्कटार्यः"
 [Note. The Jada is that which can be cognized For instance the only with the aid of external means. Pot can be cognized only with the aid of our knowledge.+++(5)+++ If the knowledge ceases to function, the pot cannot be cognized. But the case of Ajada is different. It is cognizable even without the aid of external means. For instance the Atman is cognizable by self even with out the aid of the knowledge. Likewise the cognition [[४]] which is an attribute of the Atman is cognizable by him even without the aid of external means i.e. another knowledge, when it operates with an object.] 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(जडम्)+++ प्रकृतिः काल इत्य्, आद्या  
 चतुर्विंशतिधा मता ।  
@@ -63,7 +62,7 @@ author = "वेङ्कटार्यः"
 4. The two kinds of Jaḍadravya are Prakṛti (The Primary Matter) and Kāla (Time). The former i.e., Prakrti is of twenty-four kinds. The Kala is said to be of three divisions due to its Upadhis (Limiting adjuncts). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अजडं तु पराक् प्रत्यग्  
 इति भेदाद् द्वि-धा स्थितम् ।  
@@ -80,7 +79,7 @@ author = "वेङ्कटार्यः"
 [The Parāk is that which is not Self-aware. The Pratyak is that which is Self-aware. These two may be equalized with Inanimate and Animate respectively.] 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यग् जीवेश्वर-भिदा-  
 शाली, जीवः पुनस् त्रिधा ।  
@@ -95,7 +94,7 @@ author = "वेङ्कटार्यः"
 6. The Pratyak is of two kinds-Jiva (Individual Souls) and Iśvara (The Ruling Supreme Soul). The Jiva is again of three kinds-Baddha (Bound in Samsāra), Mukta (Freed from Samsāra) and Nitya (Eternally freed from Samsara or never bound in Samsāra). The Baddha is of two kinds. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुभुक्षुश्च मुमुक्षुश्च  
 बुभुक्षुश्च पुनर्द्विधा ।  
@@ -108,7 +107,7 @@ author = "वेङ्कटार्यः"
 7. They are-Bubhuksu (Desirous of worldly enjoyments) and Mumuksu (Desirous of freedom from Samsara and divine bliss.) The Bubhukṣu is again of two kinds-Arthakamapara (Addicted to worldly wealth and pleasure) and Dharmapara (Addicted to Dharma). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यदेवपरो विष्णु-  
 परो धर्मपरो द्विधा ।  
@@ -124,7 +123,7 @@ author = "वेङ्कटार्यः"
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्त-प्रपन्नभेदेन  
 स तु मोक्षपरो द्विधा ।  
@@ -146,7 +145,7 @@ Or he is Ekantin who is resolved to attain Mokṣa by Prapatti  alone taking it 
 But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagavan alone. That is-for him Bhagavan alone is Upaya and Upeya.] 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृप्त आर्त इति द्वेधा  
 परमैकान्त्युदाहृतः ।  
@@ -161,7 +160,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 [The five-fold forms are— Para, Vyūha, Vibhava, Antaryāmin and Arca.] 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर एकश्, चतुर्धा तु  
 **व्यूहः** स्याद् वासुदेवकः ।  
@@ -176,7 +175,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 11. Para is only one. But Vyuhas are four-fold, namely - Vasudeva, Samkarsana, Pradyumna and Aniruddha. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्स्यादयस्तु विभवा  
 अनन्ताश्च प्रकीर्तिताः ।  
@@ -189,7 +188,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 12. Vibhava forms are told as innumerable constituting Matsya (Fish) and so on. Iśvara abides in every things else as Antaryāmin (Inner Ruler). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **अर्चावतारः** श्रीरङ्ग-  
 वेङ्कटाद्र्य्-आदिषु स्थितः ।  
@@ -202,7 +201,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 13. Arcās or Images are His avatāras or incarnations enshrined in sacred temples such as SriRangam, Venkatadri etc. The Kesava and other forms are mentioned by the wise as different Vyuhas. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्त्वं रजस् तमः शब्द-  
 स्पर्श-रूप-रसास् तथा ।  
@@ -215,7 +214,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 14. The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (sound), Sparśa (touch), Rūpa (colour), Rasa (taste), Gandha ( odour), Samyoga (union) and S'akti (Potency) are the ten kinds of Adravya (Non-Substance). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमायाः करणं तत्र  
 **प्रमाणं** परिकीर्तितम् ।  
@@ -228,7 +227,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 15. The Pramāna is that which is an instrument or means for the Prama (Valid knowledge). The Prama is the knowledge from which proceeds the verbal usage of a thing in its true and essential nature. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा संशयान्यथा-ज्ञान-  
 विपरीत-धियो न हि ।  
@@ -245,7 +244,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 [For instance—Is this a post or a man?] 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धीस् तु धर्म-विपर्यासे  
 **ऽन्यथाज्ञानम्** उदाहृतम् ।  
@@ -260,7 +259,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 [Anyathājñāna is — The conch is yellow. Viparitadhi is-This (shell) is silver.] 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साक्षात्कार-प्रमा-हेतुः  
 **प्रत्यक्षं** मानम् ईरितम् ।  
@@ -273,7 +272,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 18. The Pratyaksapramāna is that which causes the perceptive and valid congnition. The perception is of two kinds-Savikalpa and Nirvikalpa. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रहः प्रथम-पिण्डस्य  
 निर्विकल्पक उच्यते ।  
@@ -286,7 +285,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 19. The Nirvikalpaka is the cognition of a first thing perceived for the first time. The Savikalpaka is the cognition obtained by the perception of another thing of the same kind that was perceived once before with a recollection on it. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् +++(साक्षात्त्वम्)+++ इन्द्रिय-सापेक्षम्  
 अनपेक्षञ्च दृश्यते ।  
@@ -299,7 +298,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 20. This perception is also of another two kinds : Indriyāpekṣa (Dependent on senses) and Indriyanapekṣa (Independent on senses). The latter is also of two kinds : Svatassiddha (Self-acquired) and Divya (Divine). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योगजं तु स्वतः-सिद्धम्  
 अन्यत् स्वामि-प्रसादजम् ।  
@@ -312,7 +311,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 21. Svatassiddha is a perception acquired through the power of yoga and the other i.e. Divya is obtained by the grace of the Lord Bhagavan. The wise men call all these as recent. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्य-मुक्तेश्वर-ज्ञानम्  
 **अनर्वाचीनम्** उच्यते ।  
@@ -329,7 +328,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 [[१३]] 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशादृष्ट-चिन्ताद्यैः  
 संस्कारोद्बोधने सति +++(सा स्मृतिः)+++।  
@@ -342,7 +341,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 23. The Smrti is produced when the Samskāra (Reminiscent impression) is aroused by seeing a similar thing, Adrsta (Invisible effect of Karman) and Cinta (Deep thinking) etc. Like recollection, Pratyabhijñā (Recognition) also is included under Perception. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुण्य-पूरुष-निष्ठा ऽपि  
 **प्रतिभा** ऽत्रैव सम्मता ।  
@@ -360,7 +359,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
  
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अभावस्य पदार्थान्तरत्वं निराकरोति-)+++  
 भूतले तु घटाभावो  
@@ -374,7 +373,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 25. The Non-existence of a pot on the earth is nothing but the surface of the earth. The Prāgabhāva (Antecedent non-existence) of a pot is nothing but the clay. And the Pradhvamsa (destruction) of a pot is nothing but the kapāla (the potsherds). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अन्योन्याभावस्य पार्थक्यं निराकरोति—)+++  
 स्वासाधारणधर्मो हि  
@@ -389,7 +388,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 26. The peculiar or uncommon quality of a thing is mentioned by the term Bheda. That the word Bheda invariably requires the Pratiyogin (The counter correlate) is due to the nature of that word. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तःकरण-चैतन्यं  
 तद्-वृत्त्या विषयेण च ।  
@@ -409,7 +408,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 28. These and other similar sayings of the philosophers of other schools are not acceptable to us. The Sāmānya (generality), Samavāya (Inherent contact) and Visesa (particularity) are not acceptable to us.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्ख्यादि-गुण-वर्गस्य  
 गुण-पार्थक्य-कल्पनम् ।  
@@ -428,10 +427,10 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 <details open=><summary>विश्वास-टिप्पनी</summary>
 
-विस्तारः [अत्र](https://vishvAsa.github.io/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/pramA/anumitiH/) ।
+विस्तारः [अत्र](https://vishvAsa.github.io/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/pramA/anumitiH/)[^lnk_1] ।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुमित्य्-आत्म-विज्ञाने  
 **ऽनुमानं** करणं स्मृतम् ।  
@@ -446,7 +445,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 १८ 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साध्याभावाधिकरणावृत्तित्वं **व्याप्तिर्** उच्यते ।  
 व्याप्यस्य +++(पर्वतवत्-)+++पक्ष-वृत्तित्व-धीः **परामर्श**-नाम-भाक् ॥ २.२॥
@@ -457,7 +456,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 2. Vyapti (Invariable concomitance) is that the Hetu (Reason) does not exist where Sadhya (The property to be established) is not found. Paramarśa (consideration) is the knowledge of Vyapya (the middle term) as existing in Paksa (Minor term or the subject). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तज्+++(=परामर्श)+++-जा पक्षे साध्य-मतिर्  
 **अनुमित्य्**-आत्मिका मता ।  
@@ -472,7 +471,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 1 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्+++(=साहचर्य-ज्ञान)+++-स-पक्षे - **स-पक्षस्** तु  
 पूर्वं निश्चित-साध्यकः ।  
@@ -487,7 +486,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 [[१९]] 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्वयी+++(= यत्र a → b)+++ व्यतिरेकी+++(= यत्र ¬b → ¬a)+++ च  
 किञ्च **हेतुर्** द्विलक्षणः ।  
@@ -496,7 +495,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 चासिद्धः, सत्-प्रतिपक्षकः  … +++(हेत्वाभासाः)+++॥ २.५॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाधितश् चेति पञ्चैते  
 **हेत्व्-आभासा** न साधकाः ।  
@@ -520,7 +519,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 Thus the inference of Svārtha (For one's own ) has been described in detail. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्याय-जन्यः परामर्शः  
 परार्थानुमितेः कृते ।  
@@ -533,7 +532,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 7. In the case of Parārthānumāna ( Inference for other's sake), the Parāmarśa (the consideration of Reason) is produced by the Nyāya (syllogism). The group of the five argumentative sentences namely- Pratijña (Assertion) etc. is called Nyāya. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रतिज्ञा** साध्यनिर्देशो  
 **हेतुस्** तद्वचनं मतम् ।  
@@ -546,7 +545,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 8. Pratijñā is mentioning the Sādhya. Hetu is mentioning the Reason. Udaharana is mentioning the example with the statement of Vyapti (concomitance). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(धूमवद्-)+++व्याप्यस्य पक्ष-वृत्तित्व-  
 बोधश् **चोपनयो** मतः ।  
@@ -563,7 +562,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 # ०३ शब्द-निरूपणम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाप्तानुक्तवाक्यं यत्  
 तच् छाब्द-करणं स्मृतम् ।  
@@ -576,7 +575,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 1. The sentence which is not uttered by non- trustworthy person, is considered as the means of the verbal cognition. Because there is no any human origin for the Veda, this definition is applicable in the case of Veda also. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अम्बा तात इत्य्-आद्य्-अङ्गुलि-निर्देशा इव)+++  
 सिद्धे +++(शब्द-)+++व्युत्पत्ति--सद्-भावाद्  
@@ -590,7 +589,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 2. The Veda can teach us about the Brahman which is already in existence, as the words are capable of denoting the things already existent. Therefore the authoritativeness of the Vedanta passages should not be questioned as there is no truth in saying that a word can denote only the thing which is to be accomplished. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्म-ब्रह्माभिधायित्वात्   
 स च भागद्वयात्मकः ।  
@@ -603,7 +602,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 3. The Veda has two parts—one dealing with the Karman and the other with the Brahman. The former part deals with the Karman and the latter with the Brahman. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्-ऐक्यात् पूर्व-परयोर्  
 व्याख्ययोर् **एक-शास्त्रता** ।  
@@ -616,7 +615,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 4. As the text of entire Veda comes under one head (Veda) with its two parts, its explanatory treatise also should come under a single head (Mimāmsā) with its two parts (Purva and Uttara). The internal difference of the subjects of each of the parts does not stands in the way of oneness of Mimamsā as in the case of adhyayas of each part. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विध्य्--अर्थ-वाद--मन्त्रात्मा  
 त्रिविधः स प्रतीयते ।  
@@ -629,7 +628,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 5. It is of three kinds : Vidhi, Arthavāda and Mantra. Mantra is that which indicates the thing to be performed by the agent. The term Arthavāda may be defined thus: 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवृत्त्य्-उत्तम्भिका या स्याद्,  
 **विधिर्** वाक्यं प्रवर्तकम् ।  
@@ -642,7 +641,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 6. Arthavada is that which induces the agent to perform the action. Vidhi is that which enjoins something on the agent. Vidhi is of three varieties: Apūrva, Niyama and Parisamkhya. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्या नैमित्तिकाः काम्या  
 इति ते +++(विधयो)+++ बहुधा मताः ।  
@@ -655,7 +654,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 7. Again Vidhis are of various kinds : Nitya, Naimittika, Kamya and so won. The nature and characteristics of these varieties may be understood from other works. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छन्दः कल्पश्च शिक्षा च  
 निरुक्तं ज्यौतिषं तथा ।  
@@ -668,7 +667,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 8. Chandas, Kalpa, Siksā, Nirukta, Jyautisa and Vyakaraṇa. Wise men say that these are six auxiliary works of the Veda. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुष्टुब्-आदिकं **छन्दः**,  
 **कल्पः** श्रौतादि-बोधकः ।  
@@ -681,7 +680,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 9. Chandas treats on metre such as anustubh etc. Kalpa deals with the rules and regulations on the performance of S'rauta and other rites. S'ikṣa is a treatise on phonetics. Nirukta gives a glossary on certain important Vedic words. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुष्ठानादि-कालस्य  
 निर्णये ज्यौतिषं भवेत् ।  
@@ -695,7 +694,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतन्-मूलतया स्मृत्यादीनां प्रामाण्यम् ईरितम् ।  
 एतद्-विरुद्धं यत्-किञ्चिन् नाश्नुवीत प्रमाणताम् ॥ ३.११॥
@@ -708,7 +707,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 [[२८]] 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकाङ्क्षादिकम् एतच् च  
 शाब्द-बोधैक-कारणम् ।  
@@ -721,7 +720,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 12. Akānksā (mutual expectancy of words) and so on are the means to understand the correct meaning of a sentence. They are not explained here for the fear of bulkiness of the work. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुख्यौपचारिकत्वाभ्यां  
 स **शब्दो** द्विविधो मतः ।  
@@ -734,7 +733,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 13. Words are of two kinds: Mukhya (of primary denotation) and Aupacārika (of secondary denotation). Mukhya is a word that which denotes its natural meaning. Aupacārika is a word other than the Mukhya. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरीर-वाचकाः शब्दाः  
 शरीरि-कृत-वृत्तयः +++(=शरीरि-बोधका इति)+++ ।  
@@ -753,7 +752,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 # ०४ प्रकृति-निरूपणम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्-प्रमा-विषयं तत् स्यात्  
 **प्रमेयम्** इति तद् द्विधा ।  
@@ -767,7 +766,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवस्थान्तर-योगित्वम्  
 **उपादानत्वम्** उच्यते ।  
@@ -781,7 +780,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमिश्र-सत्त्व-राहित्यं  
 **जडत्वम्** अनुगद्यते ।  
@@ -794,7 +793,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 3. The Jada is that which is devoid of non-mixed Sattvaguna. Jada is of two kinds : Prakrti and Kala. Prakṛti is that which has the three-fold Guna:- Sattva, Rajas and Tamas. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रकृतिः** सा क्षराविद्या-  
 माया-शब्दैर् निगद्यते ।  
@@ -809,7 +808,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 4. Prakrti is also named as Kşara, Avidyā and Māyā. It is also called Avyakta when it assumes the kinetic state of becoming manifest. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव्यक्तान् **महद्**-उत्पत्तिः  
 सात्त्विकत्वादि-भेदतः ।  
@@ -822,7 +821,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 5. The Mahat comes forth from the Avyakta with three divisions : - Sattvika, Rājasa and Tamasa. The Ahamkara comes forth from Mahat with three divisions:—Sāttvika, Rājasa and Tamasa. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सत्त्व-रजस्-तमो-भेदेन)+++  
 वैकारिकस्, तैजसश् च,  
@@ -836,7 +835,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 6. For these three Ahamkaras there are three other names-Vaikarika, Taijasa and Bhutādi respectively. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु वैकारिकात् सात्त्विकाहङ्काराद् उपस्कृतात् ।  
 एकादशेन्द्रियाणि स्युर् ज्ञान-कर्मेन्द्रियात्मना ॥ ४.७॥
@@ -847,7 +846,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 7. Among these, from the Sāttvikāhamkāra alias Vaikarika, assisted by the Taijasa, the eleven Indriyas (Organs) come forth with two divisions : - Organs of sense and those of action. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञान-प्रसरणे शक्तं  
 **ज्ञानेन्द्रियम्** उदाहृतम् ।  
@@ -863,7 +862,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **मनः** स्मृत्य्-आदि-हेतुस् तद्-  
 बन्ध-मोक्षादि-कारणम् ।+++(5)+++  
@@ -876,7 +875,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 9. Mind is the cause for 'recollection and other mental functions. It also leads to bondage and liberation. The sense-organ which has the power to cognise the sound alone is called S'rotra. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूप-मात्र-ग्राहि **चक्षुस्**  
 **त्वक्** स्पर्श-ग्रह-कारणम् ।  
@@ -889,7 +888,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 10. The sense of sight cognises colour alone. The sense of touch is the means for cognising touch. The sense of smell cognises smell alone. The sense of taste cognises taste alone. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषां विषय-सम्बन्धः  
 **संयोगादिः** प्रकीर्तितः ।  
@@ -902,7 +901,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 11. The contact between these (senses) and their objects is said to be direct conjunction etc. The sense of action is considered to be helpful in the action, utterance of words etc. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **पञ्चधा** वाक्-पाणि-पाद-  
 पायूपस्थ-प्रभेदतः ।  
@@ -915,7 +914,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 12. They are of five kinds :—the organ of speech, hand, foot, the organ of execretion and that of genera tion. The organ of speech is the cause for the utterance of letters. Hand is helpful for manual work. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सञ्चार-कारणं **पादः**  
 **पायुर्** मल-निवृत्तिकृत् ।  
@@ -928,7 +927,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 13. Foot is helpful for (physical) movement. The organ of excretion brings about the removal of excreta. The organ of generation produces great pleasure between a man and a woman. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजसाहङ्क्रिया-युक्त-तामसाहङ्कृतेः पुनः ।  
 जायते शब्द-तन्मात्रादिकं, भूतादिकारणम् ॥ ४.१४॥
@@ -939,7 +938,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 14. From the Tamasahamkāra associated with (assisted by) the Rājasahaṁkära are produced the subtle elements of sound etc. which produce the elements and the rest. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूतानाम् एव सूक्ष्मैक-  
 पूर्वावस्था-विशेष-कृत् ।  
@@ -952,7 +951,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 15. It is called Tanmatra (subtle element) which assumes the specific and primary subtle forms of the elements. They are five according as the elements are. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … तन्-मात्र--पञ्चकं शब्दाद्य्-  
 आश्रयत्वेन सम्मतम् ।  
@@ -965,7 +964,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 16 & 17. The five subtle elements are held to be the abodes of the respective qualities. Sound and others and are the inherent causes of the gross elements. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … स्पर्श-तन्मात्रकं रूप-  
 रस-तन्मात्रके अपि ।  
@@ -978,7 +977,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 The subtle elements are those of sound, touch, colour, taste and smell. The gross elements are Akasa, air, fire, water and earth. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … पञ्च भूतानि, तन्मात्र-  
 स्वरूपं तु निरूप्यते ।  
@@ -991,7 +990,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 18. The essential nature of the subtle elements is described as following. The first subtle element is in the stage intermediate between Tamasahaṁkāra and Akasa. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शब्दतन्मात्रम्, अस्माच् च  
 वियद् उत्पद्यते तथा ।  
@@ -1004,7 +1003,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 19. It is the subtle element of sound from which is produced the sky (Akāsa). The sky itself is called Dik (directions) due to the movement of the sun. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रव्यं तद् आकाश-वाय्वोर्  
 मध्यावस्था-सुसंयुतम् ।  
@@ -1017,7 +1016,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 20. The subtle element of touch is in the stage between the sky (Akās/a) and the air. From this is produced the air. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यावस्था-युतं वायु-  
 तेजसोर् द्रव्यम् उच्यते ।  
@@ -1030,7 +1029,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 21. The subtle element of colour is in the stage between air and fire. From this is produced fire. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यावस्था-युतं तेजः-  
 पयसोर् द्रव्यम् उच्यते ।  
@@ -1047,7 +1046,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 [[४२]] 
 
  
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यावस्था-युतं वारि-  
 पृथिव्योर् द्रव्यम् उच्यते ।  
@@ -1055,7 +1054,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 **पृथिवी** समुदेत्यसौ ॥ ४.२३॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आद्यं+++(→आकाशः)+++ शब्दवद्, अन्यच्+++(→वायुश्)+++ च  
 शब्द-स्पर्शवद् उच्यते ।  
@@ -1063,7 +1062,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 तृतीयञ्+++(→अग्निः)+++ च, तुरीयकम्+++(→आपः)+++ …॥ ४.२४॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … रूप-शब्द-स्पर्श-रस-  
 युक्तं, गन्धाधिकं परम्+++(→पृठिवी)+++ ।  
@@ -1077,7 +1076,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्रकृतिर् अव्यक्त-  
 महदादि-क्रमाद् भिदाम् ।  
@@ -1090,7 +1089,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 26. Thus Prakrti has been described with its twenty-four manifestations as Avyakta, Mahat and so on. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पञ्चीकरणम्…)+++   
 भूतानि भगवान् सृष्ट्वा  
@@ -1105,7 +1104,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्धा रचितान् अंशांस्  
 तत्-तद्-अंशे युनक्ति सः ।  
@@ -1118,7 +1117,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 28. Then He took the part which was unsplit and had it combined with the other half formed by the combination of the one eighth parts of the other four elements. Thus He created the five gross elements.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यभूतांश-सत्त्वेऽपि  
 स्वांश-भूयस्त्वतः कृतः ।  
@@ -1133,7 +1132,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 29. Each gross element is composed of its own major portion, though each has parts of other elements. Hence the five elements have the respective names as earth, water, fire, air and Ākāsa. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चीकरणम् एतादृग्  
 उपलक्षयति श्रुतिः ।  
@@ -1146,7 +1145,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 30. The Vedic passage purports also this Pañicī- karana (Five-fold combination). When Mahat and Ahamkara also are taken into consideration for the process, then is formed Saptīkarana (Seven-fold combination). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूत-पञ्चकम् अव्यक्तम् एते महद्-अहङ्कृती ।  
 उपादानानि देहस्य, +इन्द्रियाणि प्रतिपूरुषम् … ॥ ४.३१॥
@@ -1157,7 +1156,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 31, 32. The five gross elements together with Avyakta, Mahat and Ahamkara act as the inherent or material cause of the human body. But the Indriyas (senses) possessed by different persons are distinct from each other. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भिन्नान्य्, आकल्प-कल्पानि  
 शरीरं भूषयन्ति हि ।+++(5)+++  
@@ -1171,7 +1170,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **शरीरं** द्विविधं - नित्यम्  
 अनित्यम् इति भेदतः ।  
@@ -1184,7 +1183,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 33. Body is of two types-eternal and non-eternal. The Lord and the Nityasūris have the eternal one which is natural to them.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **स्** अपि तद् द्वेधा  
 कर्माकर्म-कृतत्वतः ।  
@@ -1197,7 +1196,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 34. The non-eternal one is two-fold according as it is produced and not produced by Karman. That which is not produced by Karman is possessed by the Lord and Nityasūris as contrived at their will. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च **कर्मकृतं** द्वेधा  
 **स्वेच्छा-सहकृतं** तथा ।  
@@ -1210,7 +1209,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 35. That which is produced by Karman is of two types-produced with the assistance of one's own [[४९]] desire and produced by Karman only. The bodies of the sage Saubhari and other blessed individuals, belong to the former type. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वितीयम् अस्मदादीनां +++(कर्ममात्रकृतम्)+++  
 सामान्येन पुनर् द्विधा ।  
@@ -1225,7 +1224,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 Bodies like those of ours come under the latter type. Again the bodies could be generally classified under two heads of immovable and movable. Stones and similar things are considered immovable. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **जङ्गमञ्** च द्विधा प्रोक्तं  
 स्याद् योनिजम् अयोनिजम् ।  
@@ -1238,7 +1237,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 37. The movables are two-fold-those born of the womb (Yonija) and not born of the womb (Ayonija). The devine beings, men and animals are Yonijas (viviparous). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्भिज्-ज+++(←इतीन्द्रगोप-मण्डूकादय)+++--स्वेद-ज+++(←यूकामत्कुणादयः)++++अण्डोत्थ+++(←पक्ष्यादयः)+++-नारक्य्-आख्यम् **अयोनिजम्** ।  
 एवं पञ्चीकृतानां +++(भूतानां)+++ स्याद् +++(ब्रह्म-)+++अण्डोत्पादकता स्मृता ॥ ४.३८॥
@@ -1249,7 +1248,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 38. Those which are not born from the womb (Ayonijas) are frog etc. (coming out from the earth), insects and vermin (produced by sweat or warm vapour), born from the eggs and those inhabitant of the hell. It is those which are thus combined in five that are considered to produce the Anda (cosmic Egg). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अण्डोत्पत्तेः पूर्व-सृष्टिः  
 **समष्टिर्**, अत उत्तरा ।  
@@ -1262,7 +1261,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 39. The creation which precedes the production of the Anda is called the collective creation and the other which follows it is called the distributive creation. This two-fold creation is acceptable to all Vedantins. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव्यक्तादेर् महत्त्वादिर्  
 अवस्थान्तरम् +++(इति)+++ इष्यते ।  
@@ -1275,7 +1274,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 40. The manifestation of Avyakta etc. as Mahat etc. is considered to be a condition different from the previous one. If that condition is dissimilar to the previous one, then it is considered to be a different Tattva. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्थम् अव्यक्त-महद्-अहङ्-कारेन्द्रिय-नामकैः । +++(←यतिभङ्गः)+++  
 तन्-मात्राणीति तत्त्वानि **चतुर्विंशतिधा** ऽभवन् ॥ ४.४१॥
@@ -1286,7 +1285,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 41. Thus came the twenty-four Tattvas - Avyakta, Mahat, Ahamkāra, Indriyas and Tanmatras. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भोग्य-भोगोपकरण-  
 भोग-स्थानानि चेशितुः ।  
@@ -1299,7 +1298,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 42. Matter etc. become the objects, means and places of enjoyments for the Lord and the finite souls. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषयो **भोग्यम्**, अक्ष्यादि  
 **भोगोपकरणं** मतम् ।  
@@ -1313,7 +1312,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं पञ्चीकृतैर् भूतैर्  
 आरब्धं **प्राकृतं** भवेत् ।  
@@ -1326,7 +1325,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 44. The material world is thus envolved out of the five-fold elements. Anda is in the form of wood- apple (Kapittha). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **जम्बू-द्वीपम्** इदं सर्वं  
 लवणोदधिना ऽऽवृतम् ।  
@@ -1339,7 +1338,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 45. This whole Jambudvipa is encircled by the salt ocean. Beyond this, there is Plakṣadvipa with the sea of sugar-cane juice. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु **शाल्मलि-द्वीपं**  
 सुरा-सागर-वेष्टितम् ।  
@@ -1352,7 +1351,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 46. Then there is S'almalidvipa with the sea of wine. Then there is Kusadvipa with the sea of clarified butter.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **क्रौञ्चद्वीपं** ततः पश्चाद्  
 दध्य्-अर्णव-समावृतम् ।  
@@ -1365,7 +1364,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 47. Then there is Krauñicadvīpa with the sea of curds and then S'akadvipa with the sea of milk. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **पुष्कर-द्वीपम्** अभितः  
 शुद्धाम्बुधि-समावृतम् ।  
@@ -1378,7 +1377,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 48. Then there is Puşkaradvipa encircled by the sea of fresh water. All these are encircled by the golden land. Then there is a circle-shaped mountain. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **अन्धकारावृतः** सोऽपि  
 सोऽपि **गर्भोदकेन** च ।  
@@ -1391,7 +1390,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 49. It is encircled by darkness, that too by Garbhodaka. Anda is thus only one which is above and below the earth. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अण्डान्य् एतादृशानि स्युर्  
 अनन्तानि महाहरेः ।  
@@ -1412,7 +1411,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 
 # ०५ काल-निरूपणम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुण-त्रय-विहीनो यः  
 स जडः **काल** उच्यते ।  
@@ -1425,7 +1424,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 1. Time is said to be Jada (an inert substance) devoid of the triad of Guņas. It is of two kinds: Akanda (Undivided) and Kanda (Divided). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आद्यो +++(→अखण्डकालः)+++ विभुर् भूत-भावि-  
 वर्तमानत्व-धी-करः ।  
@@ -1438,7 +1437,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 2. The former is Vibhu (all pervading). It gives rise to the cognition as per past, future and present and has also many divisions as Nimeșa and so on. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ-खण्ड-काल एवायं  
 **नित्य** इत्यवगम्यते ।  
@@ -1451,7 +1450,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 3. The undivided Time is known to be Nitya (eternal). It acts as Upādāna (material cause) for its various manifestations (as Nimesa etc.). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सावधित्वान् निमेषादि-)+++कार्य-रूपस् ततो नैव  
 नित्य इत्य् अवधार्यताम् ।  
@@ -1464,7 +1463,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 4. Hence, the effected Time is Anitya, (non- eternal). The Lord in His sportive sphere functions as dependent on Time. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष नित्य-विभूतौ तु  
 न कालम् +++(तत्र वर्तमानम् अप्य्)+++ अवलम्बते ।  
@@ -1477,7 +1476,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 5. But in His eternal sphere He functions not dependent on Time. But Time serves as an instrument in his sport. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्य-नैमित्तिक--प्राकृत-लयाः कालहेतुकाः । +++(यतिभङ्गः)+++  
 एवं प्रकाशितं काल-स्वरूपस्य निरूपणम् ॥ ५.६॥
@@ -1492,7 +1491,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 
 # ०६ नित्य-विभूति-निरूपणम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुद्ध-सत्त्वे धर्म-भूत-  
 ज्ञान--जीवेश्वरेषु च ।  
@@ -1505,7 +1504,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 1. Ajadatva (Being other than Jada or inert) is the common characteristic of S'uddhasattva (The substance of pure Sattvaguna), Dharmabhutajñāna (Attributive knowledge), Jiva and Iśvara. Ajaḍatva is nothing but Svayamprakaśatā (Self-luminosity). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पराक्त्वे सत्य् अजडता  
 लक्ष्म प्रथमयोर् +++(शुद्ध-सत्त्व--धर्म-भूत-ज्ञानयोः)+++ मतम् ।  
@@ -1518,7 +1517,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 2. Parāktva (Being the object of the knowledge of others only) along with Ajaḍatva is the common characteristic of the first two categories (S'uddhasattva and Dharmabutajñāna). Parāktva is defined as the state of being knowable for others only. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्त्वैक-मूर्तिको देशः  
 **शुद्ध-सत्त्वम्** अचेतनम्।  
@@ -1531,7 +1530,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 3. S'uddhasattva is a non-sentient substance full of pure Sattva guna (ie., not mixed with Rajas and Tamas). It is limited downward and unlimited upward. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयम्-प्रकाशरूपेयं  
 +++("पर"-शब्द-सहित-)+++पञ्चोपनिषद्+++(→अप्राकृत-पञ्च-भूत)+++-आत्मिका ।+++(5)+++  
@@ -1544,7 +1543,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 4. This kind of substance is formed with divine elements described in the hymns of Pañcopanisad. This is the Eternal Wealth of the Lord Visņu and is in the form of Ananda ( Bliss). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेयं विभूतिर् ईशस्य  
 नित्य-मुक्तात्मनाम् अपि ।  
@@ -1557,7 +1556,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 5. This eternal substance is considered to have assumed different forms of the objects of enjoyment, the means of enjoyment and the places of enjoyment of the Lord Iśvara, the Nityas (Eternal souls) and Muktas (Released souls ). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **भोग्यम्** ईश्वर-देहादि  
 द्वितीयं+++(→ भोगोपकरणम्)+++ चन्दनादिकम् ।  
@@ -1570,7 +1569,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 6. The objects of enjoyment are the Lord's body and so on. The means of enjoyment are Candana (sandal) etc. The places of enjoyment are the towers of precious gems and so on. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देहा ईश्वर-नित्यानां  
 नित्येच्छा-कल्पिता हरेः ।  
@@ -1585,7 +1584,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 But those of Muktas are brought about by His (Lord's) Saṁkalpa (Will).
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीपतेर् व्यूह-विभवार्चावतारतया सतः ।  
 अ-प्राकृत-शरीराणि प्रतिष्ठानन्तरं हरेः …॥ ६.८॥
@@ -1593,7 +1592,7 @@ But those of Muktas are brought about by His (Lord's) Saṁkalpa (Will).
 
 [[६४]] 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसादोन्मुखतापत्तौ  
 **प्रकटानि भवन्ति** हि ।  
@@ -1612,7 +1611,7 @@ But those of Muktas are brought about by His (Lord's) Saṁkalpa (Will).
 This state of thing happens only on His divine Will (Samkalpa). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकृताप्राकृत-तनु-  
 संसर्गः कथम् इत्य् +++(चेत्)+++ - अलम् ।  
@@ -1625,7 +1624,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 10. The objection, viz.-how can there be a contact between the non-material body and material world?-is not sound, because such a contact is often proved in the case of the Lord's incarnations such as Rāma, Krsna and so on. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 औज्ज्वल्यादिगुणा ये स्युर्  
 दिव्य-मङ्गल-विग्रहे ।  
@@ -1641,7 +1640,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 [[६६]] 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्तानाम् अशरीरत्व-  
 वचनं यत्तु दृश्यते ।  
@@ -1654,7 +1653,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 12. The statement that the Muktas have no body, should mean the absence of such body as caused by Karman. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरूपयन्ति श्रीनाथ-  
 दिव्य-मङ्गल-विग्रहम् ।  
@@ -1676,7 +1675,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 13. Our revered and ancient Acāryas in Vedanta explain the blissful body of the Lord of Sri thus as said in Purāna : "O Lord of Kamalā, the sense of mind is your disc, knowledge is your sword, ignorance is your sheath, the elements with their gunas are your garland, the two-fold Ahamkaras are your S'ankha (conch) and Sarnga (bow), the ten senses are your arrows, Jivatattva is your Kaustubha Gem, the Prakṛti is your Sri-Vatsa mole, and the Mahat is your Gadā (club).” 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिपाद्-विभूति--वैकुण्ठ-  
 पर-व्योमादि-शब्दिता ।  
@@ -1691,7 +1690,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 [[६८]] 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वादशावरणोपेतम्  
 अनेक-शत-गोपुरम् ।  
@@ -1705,7 +1704,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनन्दनामकस् तत्र  
 सुदिव्यनिलयः स्फुटः ।  
@@ -1719,7 +1718,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनन्तस् तत्र च फणा- 
 मणि-तेजो-विराजितः ।  
@@ -1732,7 +1731,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 17. In this Hall is seen Ananta, brilliant with the luster of gems of his hoods. There is on him a throne (Simhasana) attended by Dharma and other attendants. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र चामरवद्-धस्तैर्  
 विमलादिभिर् अर्चितम् ।  
@@ -1749,7 +1748,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 ७० 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रानन्दमयः साक्षात्  
 सर्व-वाचाम् अगोचरः ।  
@@ -1767,7 +1766,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 # ०७ धर्मभूतज्ञान-निरूपणादि
 
 ## ज्ञानम्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मो भवति यज् ज्ञानं  
  प्रभा दीपे +++(तेजस् तेजसि)+++ यथात्मनोः +++(धर्मी-भूत-ज्ञानयोः जीवेश्वरयोः)+++।  
@@ -1783,7 +1782,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धेषु तत् तिरोभूतं  
 मुक्तेषु प्राक्-तिरोहितम् ।  
@@ -1796,7 +1795,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 2. In respect of those who are under bondage. it (Knowledge) is concealed. In respect of those who are freed from bondage it was formerely concealed. Knowledge is said to be the subject of loss and production, because of its contraction and expansion. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्कोच +++(शरीर-प्राप्त्या)+++ इन्द्रिय-द्वारा +++(विषयम् प्रति निर्गत्य)+++  
 ज्ञानं सङ्कोच्यते यदि ।  
@@ -1811,7 +1810,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 10 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स्व-निरूपित-विषयताकम्, स्व-गोचर-ज्ञानान्तरानपेक्षं इति)+++  
 +++(ज्ञानं)+++ स्व-प्रकाशं, स्वतो-मानम् +++(परतो ऽप्रामाण्यम्)+++  
@@ -1825,7 +1824,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 4. In this system, it (knowledge) is held as selfluminous and self-valid. Its self-luminosity is due to the fact that it reveals itself as well as other objects just as the light. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमो-विशेष-सान्निध्याज्  
 ज्ञानं स्वापे तिरोहितम् ।  
@@ -1838,7 +1837,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 5. During sleep, knowledge (of men) is eclipsed by the vicinity of Tamas. Knowledge is considered as both a substance and quality like the rays (of the sun). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धी+++(=ज्ञान)+++-भेदाः सुख-दुःखेच्छा-  
 द्वेष-यत्ना, न ते पृथक् ।  
@@ -1851,7 +1850,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 6. Happiness, sorrow, desire, enmity, effort etc., are only the various manifestations of knowledge and not different from it. The usage as 'I hate, I desire ' etc., must be considered like 'I recollect' etc. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मृत्यादयो ज्ञान-भेदा  
 अनन्ता **जीव-वृत्तयः+++(→गुणाः/धर्माः)+++** ।  
@@ -1864,7 +1863,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 7. Recollection and other manifestations of the knowledge resting on jiva are endless. The numerous qualities of the Lord are the different forms of His knowledge and power. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गद्य-त्रये महाचार्यैर्  
 अयम् अर्थ उदीरितः ।  
@@ -1879,7 +1878,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 </details>
 
 ## भक्ति-प्रपत्ती
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्ति-प्रपत्ति-सुप्रीत  
 ईश्वरो मुक्ति-दायकः ।  
@@ -1893,7 +1892,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्म-योग--ज्ञान-योगौ  
 भक्तौ साधनम् ऊचिरे ।  
@@ -1906,7 +1905,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 10. Karma-yoga and Jñāna-yoga are said to be the means of Bhakti-yoga. The ritual worship of the Lord without any regard for its fruits is called Karma- yoga. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनिर्मलान्तःकरणे +++(स्वात्मनि)+++  
 चिन्तनं **ज्ञान-योगकः** ।  
@@ -1920,7 +1919,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **भक्तियोगो** ऽयम् अष्टाङ्गो  
 ऽविच्छिन्ना स्मृतिसन्ततिः ।  
@@ -1933,7 +1932,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 12. The uninterrupted stream of meditation (on the Lord) which is practised with its eight-fold auxiliaries and developed by the application of Viveka and other disciplines so as to reach the state on a par with direct intuition, is called Bhakti-yoga. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्-तच्-छरीरावसान-  
 समये परिणामिनी ।  
@@ -1946,7 +1945,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 13. This Yoga will grow ripe at the end of the material body. This is called Sadhanabhakti (Bhakti as the means). It requires Prapatti (Self -Surrender) as its auxiliary. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रपत्ति-योग-रूपा)+++ **फल-भक्तिस्** तु भगवद्-  
 अनुग्रह-कृता भवेत् ।  
@@ -1961,7 +1960,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 ८२ 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तर्-आदित्य-विद्यादि-  
 भेदात् सा +++(साधन-भक्तिः, न साध्य-भक्तिः)+++ बहुधा मता ।  
@@ -1975,7 +1974,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यासविद्या **प्रपत्तिः** स्याद्  
 अङ्गपञ्चक-योगिनी ।  
@@ -1983,7 +1982,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 प्रातिकूल्यस्य वर्जनम् ॥ ७.१६॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षिष्यतीति विश्वासो,  
 गोप्तृत्व-वरणं तथा ।  
@@ -1996,7 +1995,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 16 & 17. Nyāsavidyā is the Prapatti (Self-surrender to God) which has five-fold auxiliaries-namely -determination to be always agreeable to the Lord and His devotees, abstaining from hostility towards them, faith as 'He will surely save me', seeking Him [[८४]] as the saviour, surrendering one's self to Him, and helplessness. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरूपसदनाद् एषा विज्ञातव्या मनीषिभिः ।  
 इयम् उत्तर-पूर्वाघाश्लेष-नाशकृद् उच्यते ॥ ७.१८॥
@@ -2008,7 +2007,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपचारान् विना ब्रह्म-  
 विदां नास्या विरोधकृत् ।  
@@ -2027,7 +2026,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 # ०८ जीव-निरूपणम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अणुत्वे सति चैतन्यं  
 **जीव**-लक्षणम् उच्यते ।  
@@ -2041,7 +2040,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवस्यानेक-**विषयानु-  
 भवो** ऽणोर् अपि स्मृतः ।  
@@ -2054,7 +2053,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 2. Though Jiva is subtle, his experience of different objects, is accountable to the expansion of his knowledge. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वानुभूत-विषय--  
 प्रति-सन्धान-योगतः ।  
@@ -2067,7 +2066,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 3. He is permanent because of his recollection on the objects formerely experienced. The Jivas dwelling in different bodies are individually different and called as Bhoktr (enjoyer) etc. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(जीवः)+++ प्रकृत्य्+++(→प्राकृत-देह)+++-अपेक्षया देही,  
 +++(तन्नियाम्यत्व--तद्-आधारत्वादिभिः)+++ देहः श्रीमद्+++(-वुष्ण्व्)+++-अपेक्षया ।  
@@ -2082,7 +2081,7 @@ This state of thing happens only on His divine Will (Samkalpa).
    That he is self-luminous is taught by clear Sruti passages. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(नैक-शरीरक-सौबरि-वत्)+++ देशान्तर-फलादीनाम्  
 उपलब्धिर् अणोर् अपि ।  
@@ -2095,7 +2094,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 5. Wise men say that though he is atomic, his experience of the objects in different places, is accountable to his knowledge which extends by virtue of his Karman. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धो मुक्तो नित्य इति  
 **जीवः** स त्रिविधो मतः ।  
@@ -2110,7 +2109,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 6. The Jivas are of three kinds - Fixed in bondage, Released and Eternal. Of these those fixed in bondage are connected with Samsara (transmigration) and include all Jivas from Brahman (the creator) to small insects. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रैवर्गिकार्थ-निष्णाता  
 **बुभुक्षव** उदाहृताः ।  
@@ -2123,7 +2122,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 7. Those are Bubhuksus (desirous of worldly enjoyments) who are longing for Dharma, Artha and Kama. Of these those who wrongly think that the body is the self are called Arthakāmapara (devoted to wealth and passion). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु **धर्म-परास्** तत्र  
 यागाद्य्-अर्थानुषङ्गिणः ।  
@@ -2136,7 +2135,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 8. But those who are engaged in performing various sacrifices are called Dharmaparas (devoted to [[९१]] Dharma). That is Dharma which is ordained by the Vedic injunction as the means of heavenly pleasure. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्राद्याराधन-परा  
 **अन्य-देव-परा** मताः ।  
@@ -2149,7 +2148,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 9. Those who worship the other deities Rudra and so on are called Anyadevaparas (devotees of other gods). The Bhagavatas are those who worship Bhagavan Viṣṇu alone. They are of three kinds- Arta (distressed) Jijñāsu (desirous of getting Jñānai.e. self) and Arthārthin (ambitious in getting wealth). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षूणां च **कैवल्य-  
 पराणां** लक्ष्म कथ्यते ।  
@@ -2162,7 +2161,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 10. Now the characteristics of the Mumuksus (ambitious for the Eternal Bliss) and Kaivalyaparas (desirous of being aloof from material connection) are described. Kaivalya is the enjoyment of one's own self after the release from material connection. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैवल्यम् अर्चिर्-मार्गेण  
 गत्वापि परमं पदम् ।  
@@ -2175,7 +2174,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 11. Even on reaching the Highest Region (Paramapada) through the path of Arcis (Light) etc., they remain in a corner of that Region like a beloved wife on separation from her lover. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैवल्यम् एतत् केषाञ्चिद्  
 आर्याणाम् एव +++(मोक्षत्वेन)+++ सम्मतम् ।  
@@ -2188,7 +2187,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 12. This state of Kaivalya is acceptable only to some of our philosophers. But our preceptors do not accept Kaivalya (as Mukti). This is their conclusion. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **भक्ताः** पूर्वोक्त-भक्त्यैव  
 मुक्ति-सम्प्राप्त्य्-अपेक्षिणः ।  
@@ -2201,7 +2200,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 13. Bhaktas (engaged in Bhaktiyoga) are eager to reach Mukti (Eternal Bliss) by the means of Bhakti- yoga (Devotional meditation) as described before. From the rule of Apaśudradhikarana of the Brahma- sūtra, it is evident that S'ūdras are not qualified for Bhaktiyoga. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साध्य-साधन-भक्तिभ्यां  
 **भक्ताः** स्युर् द्वि-विधा मताः ।  
@@ -2214,7 +2213,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 14. Bhaktas are of two kinds because of the two- fold division of Bhakti as Sadhya and Sadhana (effect and means). The former group includes Parankuśa and others while the latter Vyasa and others. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षवः **प्रपन्नाश्** चाकिञ्चन्यादिक-योगिनः ।  
 त्रैवर्गिक-परा, मोक्ष-पराश् चेति च ते +++(→ प्रपन्ना)+++ द्विधा ॥ ८.१५॥
@@ -2225,7 +2224,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 15. Among the Mumukşus (desirous of Moksa) Prapannas (Self-surrendering devotees) have for their qualifications 'the helplessness' etc. Again they are of two kinds-aspirant for Trivarga and Mokṣa. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मार्थ-कामान् स्वाम्य्-अर्थे +++(→प्रार्थनार्थत्वेन)+++  
 येऽन्वतिष्ठंस् त आदिमाः +++(त्रिवर्गपराः)+++ ।  
@@ -2239,7 +2238,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवद्-भोग-सम्प्राप्त्यै  
 महाचार्ये समाश्रिताः ।  
@@ -2252,7 +2251,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 17. To acquire the enjoyment of the Lord they rest on great preceptors. They resort to Prapatti alone due to their inability for practising Bhaktiyoga etc. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **सर्वाधिकारितां** धीराः  
 प्रपत्तेर् **आचचक्षिरे** ।  
@@ -2267,7 +2266,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 Wise men say that all are qualified for Prapatti. Of these Ekantins are those who long for other objects also along with Mukti. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **परमैकान्तिनस्** त्व् ऐच्छन्  
 भगवत्-प्रीतिम् एव ये ।  
@@ -2275,7 +2274,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 यो मोक्षम् अभिकाङ्क्षति  …॥ ८.१९॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **दृप्त, आर्तस्** तु संसारे  
 वह्नाव् इव समुत्तपन् ।  
@@ -2289,7 +2288,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्सङ्गाद् इति सुश्लोक-द्वयोक्त-गतिमान् नरः ।+++(←यति-भङ्गः)+++  
 आविर्-भूत--स्व-स्व-रूपो मुक्तो ब्रह्मानुभूति-भाक् ॥ ८.२१॥
@@ -2301,7 +2300,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्तस्य भोगमात्रे तु  
 साम्यं श्रुतिषु चोदितम् ।  
@@ -2315,7 +2314,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वेच्छा च हरिसङ्कल्पायत्ता मुक्तस्य लभ्यते ।  
 अनावर्तन-शास्त्रं तु कर्मावर्त-निषेध-कृत् ॥ ८.२३॥
@@ -2327,7 +2326,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यासङ्कुचित-ज्ञाना  
 नित्यं भगवद्-आज्ञया ।  
@@ -2341,7 +2340,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेषाम् अवतारादिर् इच्छयैव हरेर् इव ।  
 आधिकारिकता ऽमीषाम् ईश्वरेण निरूपिता ॥ ८.२५॥
@@ -2356,7 +2355,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 # ०९ ईश्वर-निरूपणम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वेतराखिल-शेषित्वम्  
 ईश्वरस्य तु **लक्षणम्** ।  
@@ -2370,7 +2369,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्कल्प-युक्त एवैष  
 **निमित्तं कारणं** मतम् ।  
@@ -2385,7 +2384,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 by His nature of being immanent in time etc.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्य-रूपेण वैविध्य-  
 योग्य् **उपादानम्** उच्यते ।  
@@ -2398,7 +2397,7 @@ by His nature of being immanent in time etc.
 3. That is called the material cause which undergoes different modifications in the form of effect. That is the efficient cause which brings about such modifications. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्योत्पत्त्य्-उपकारेण  
 **सहकारि** च तद् भवेत् ।  
@@ -2407,7 +2406,7 @@ by His nature of being immanent in time etc.
 सर्व-विज्ञान-वादतः …॥ ९.४॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **उपादानत्वम्** एवोक्तं  
 मृदादाव् इव चेश्वरे ।  
@@ -2421,7 +2420,7 @@ by His nature of being immanent in time etc.
 In consideration of His Will mentioned in the words 'It thought' etc. He is also the efficient cause like the potter. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहकारित्वम् अप्य् अस्यान्तर्यामि-ब्राह्मणोदितम् +++(←“ यः पृथिवीम् अन्तरो यमयति ")+++।  
 सद्-ब्रह्मात्मादयः शब्दाः कारणत्वावबोधिनः …॥ ९.६॥
@@ -2432,7 +2431,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 6. His concurrent causation also has been stated in the Antaryami-Brāhmaṇa (The portion of Vedic Text teaching His immanency). The terms such as Sat, Brahman and Atman refer to Him as the cause (of universe). 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … तत्र च्छाग-पशु-न्यायान्  
 +++(सामान्यवचनस्य विशेषे पर्यवसानं यतः)+++  
@@ -2441,7 +2440,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 नाम-रूप-विभागानर्हत्वावस्था-समन्वितम् …॥ ९.७॥+++(←यति-भङ्गः)+++
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुसूक्ष्म-चिद्-अचिद्-युक्तम्  
 एकं ब्रह्मात्मकं मतम् +++(वक्ष्यमाण-काले)+++।  
@@ -2455,7 +2454,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 The Brahman has been held to be only one because He was qualified by the sentient and non-sentient things only in their subtlest forms and stood in such a state which did not permit Him to have any classification with different names and forms.  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृद्-घटादाव् अपि ततस्  
 "तद् एकम् +++(पूर्वाह्णय् आसीद्)+++" इति गीयते ।  
@@ -2469,7 +2468,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् +++(→सद्)+++ एवान्तः-प्रवेशेन  
 नाम-रूप-विभाग-कृत् ।  
@@ -2482,7 +2481,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 10-13. The Brahman effected different names and forms by penetrating all beings as immanent Self just as the individual soul got different names and forms by entering various bodies. Just as the individual soul is denoted by the words like Deva (Divine being) etc. in their primary sense
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … "देवोऽहम्" इति शब्दैश् च  
 मुख्य-वृत्त्याभिधीयते ।  
@@ -2490,7 +2489,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 नीलाद्य्-अव्यभिचारिणम् … ॥ ९.११॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … विशिष्टम् एव मुख्यार्थं  
 वदन्ति निरुपाधिकम् ।  
@@ -2503,7 +2502,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 and just as the words like 'blue' [[११०]] etc. denote by their very nature the substance possessed with colour in primary sense, so also the Lord is denoted by all the words in their primary sense because He penetrates all the things and brings about different names and forms. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … विभाग-कृत्, स तैः शब्दैर्  
 मुख्य-वृत्त्या ऽभिधीयते ।  
@@ -2516,7 +2515,7 @@ and just as the words like 'blue' [[११०]] etc. denote by their very nature
 Some philosophers opine that these words denote their objects only in the secondary sense. But this view is not proper. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरीराद्य्-अपृथग्-भावाच्  
 छब्दा +++(विशेषण-विशेष्यादि-)+++निष्कर्षकेतरे ।  
@@ -2529,7 +2528,7 @@ Some philosophers opine that these words denote their objects only in the second
 14. All the words, except those which are intended to specify Him in exclusion of His adjuncts, denote Him appropriately as qualified by adjuncts because He is inseparably connected with them. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सर्वं ब्रह्मे"त्य् "ऐतद्-आत्म्यम्"  
 इत्य्-आदि-व्यपदिष्टयः ।  
@@ -2542,7 +2541,7 @@ Some philosophers opine that these words denote their objects only in the second
 15. By the same reason the usages like All are Brahman" "All are in the form of Brahman " etc. can be sensibly explained in the sense of Samānādhikaranya. (A term which denotes a single thing as possessed with different attributes.)
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वरूप-भिदया भेद-  
 श्रुतयो ऽस्मन्-मते स्थिताः ।  
@@ -2557,7 +2556,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 [[११२]]
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारणात् सूक्ष्म-चिद्-अचिद्-  
 युक्तात् +++(ब्रह्मणः)+++ स्थूलैतद्+++(→चिद्-अचिद्)+++ +++(जगत्)+++ आहितम् ।  
@@ -2572,7 +2571,7 @@ Some philosophers opine that these words denote their objects only in the second
 17. In the Arambhanādikarana and other topics, it has been clearly stated that the effect qualified by the sentient and non-sentient things in their gross form is not different from the cause qualified by the subtle forms of the sentient and non-sentient things.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्गुणत्व-पराः काश्चिच्  
 छ्रुतयः सन्ति ता इमाः ।  
@@ -2594,7 +2593,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 # १० अद्रव्य-निरूपणम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रव्यम् एवं निरूप्याथ  
 तद् अद्रव्यं निरूप्यते ।  
@@ -2608,7 +2607,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजस्तमोभ्याम् अस्पृष्टम्  
 अद्रव्यं **पूर्वम्**+++(→शुद्धम्)+++ उच्यते ।  
@@ -2621,7 +2620,7 @@ Some philosophers opine that these words denote their objects only in the second
 2. Sattva which is not associated with Rajas and Tamas is called the former (Pure-Sattva). Sattva which is associated with Rajas and Tamas is called Mixed-Sattva. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतीन्द्रियं प्रकाशादि-  
 निदानं **सत्त्व**-शब्दितम् ।  
@@ -2635,7 +2634,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … प्रमाद-मोहादि-हेतुर्,  
 इत्थं त्रैगुण्य-रूपणम् ।  
@@ -2648,7 +2647,7 @@ Some philosophers opine that these words denote their objects only in the second
 4. It (Tamas) is the cause for carelessness, delusion and others. Thus is triad of qualities. During the dissolution of the world, these qualities remain in the state of equilibrium. But when the creation takes place, they become divercified.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रोत्र-ग्राह्यो गुणः **शब्दो**  
 वर्णावर्णात्मना द्विधा ।  
@@ -2661,7 +2660,7 @@ Some philosophers opine that these words denote their objects only in the second
 5. The quality which is cognoscible by the sense of hearing is called Sound. It is of two kinds-lettered and non-lettered according to their production from the organs palate etc. and instruments drum etc. respectively. It abides in all the five elements. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **स्पर्शस्** त्वग्-इन्द्रिय-ग्राह्यः  
 पृथिव्य्-आदि-चतुष्टये ।  
@@ -2675,7 +2674,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चक्षुरिन्द्रियनिर्ग्राह्यं  
 **रूपम्**, एतच् चतुर्विधम् …।  
@@ -2688,7 +2687,7 @@ Some philosophers opine that these words denote their objects only in the second
 7. The quality which is cognoscible by the sense of vision is called colour. It is of four kinds-white, red, yellow and black. Again the first (white) is of two kinds : 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भास्वराभास्वरत्वाभ्यां  
 **भास्वरं** तेजसि स्थितम् ।  
@@ -2701,7 +2700,7 @@ Some philosophers opine that these words denote their objects only in the second
 8. One of them is brilliant and the other non- brilliant. The brilliant colour is seen in luminous things. The non-brilliant colour is said to exist in earth and water. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसनेन्द्रिय-निर्ग्राह्यो  
 **रसः** षोढा स कीर्तितः +++(मधुराम्ल-लवण-तिक्त-रूक्ष-कषाय-भेदात्)+++ ।  
@@ -2715,7 +2714,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्याम् एव **गन्धः** स्यात्  
 पृथिवी-जलयो **रसः** ।  
@@ -2728,7 +2727,7 @@ Some philosophers opine that these words denote their objects only in the second
 10. Odour abides in earth only. Taste abides in earth and water. Colour abides in earth, water and luminous objects. Touch abides in all the three mentiond above and in wind. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **शब्दः** पञ्चसु भूतेषु  
 प्राधान्येनैवम् उच्यते ।  
@@ -2744,7 +2743,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 [[१२०]] 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संयुक्त-प्रत्यये +++(संयुक्त-व्यवहारे च)+++ हेतुः  
 **संयोग** इति कथ्यते ।  
@@ -2757,7 +2756,7 @@ Some philosophers opine that these words denote their objects only in the second
 12. That is called Sariyoga (conjunction) which is the cause of the cognition of the substances as conjoined together. Conjunction is considered to be of two kinds-effected and non-effected. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(चन्द्रस्य)+++ मेष-हस्तादि-संयोगः  
 +++(कदाचिद् एव जायमानत्वात्)+++ कार्यो, ऽकार्यो विभोर् विभोः ।  
@@ -2773,7 +2772,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् कालस्येश्वरेण  
 संयोगोऽपि सुसम्मतः ।  
@@ -2787,7 +2786,7 @@ Some philosophers opine that these words denote their objects only in the second
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-हेतुषु हेतुत्व-  
 निर्वोढ्री **शक्तिर्** इष्यते ।  
@@ -2800,7 +2799,7 @@ Some philosophers opine that these words denote their objects only in the second
 15. Potency is that quality which helps the causation in all causes. This is seen in gems, mystical spell etc. But it is beyond the scope of the senses. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **बुद्ध्यादयो**+++(=बुद्धि-सुख-दुःखेच्छा-द्वेष-प्रयत्न-धर्माधर्माख्याः)+++ ऽष्टौ +++([जीवेश्वरयोः] धर्म-भूत-)+++**विज्ञाने**  
 **भावना**+++(=परिचितार्थे बुद्धि-प्रसरः)+++ चान्तर् **आविशन्** ।  
@@ -2813,7 +2812,7 @@ Some philosophers opine that these words denote their objects only in the second
 16-18. The eight qualities viz. cognition, etc. and reminiscence are included in Consiousness. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … द्रव्य-स्वरूप-रूपत्वान् +++(तत्रैव परिगणनीयत्वान्)+++  
 नाधिक्यं यान्ति केवलम् ।  
@@ -2826,7 +2825,7 @@ Some philosophers opine that these words denote their objects only in the second
 Fluidity, vicidity, number, size and speed are nothing but the nature of the relevant substances. Therefore they do not exceed the number of qualities enumerated.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संयोगाभाव-रूपत्वात्  
 पृथक्त्वस्य विभागवत् +++(न पुनः परिगणनीयता)+++ ।  
@@ -2839,7 +2838,7 @@ Fluidity, vicidity, number, size and speed are nothing but the nature of the rel
 Elasticity is included in conjunction. Like disunion, separateness also is of the nature of the absence of contact. Weight also is a kind of potency. Therefore these is no separate quality in excess of the qualities enumerated. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मणाम्+++(=संयोग-विभाग-जनकानां)+++ अपि शक्तित्वं  
 केचिद् आहुर् मनीषिणः ।  
@@ -2852,7 +2851,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 19. Some wise men say that Karman (action) also is included in potency. But other Vedantins say that it is a separate quality. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राचीन-ग्रन्थ-पदवीम्  
 अनुसृत्य यथा-मति ।  
@@ -2865,7 +2864,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 20. Following the way of the earlier texts, the logical exposition of the Viśiṣṭadvaita system is exemplified to the best of my judgment. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अण्णयार्याध्वरीन्द्रस्य  
 तार्तीयीक-तनू-भुवा ।  
@@ -2880,7 +2879,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 
 [[१२५]] 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरमायि रमायत्त-  
 परमाद्भुत-तेजसः ।  
@@ -2895,7 +2894,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 
 [[१२६]] 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्ति-प्रपत्त्योर् अधिदेवताभ्याम्  
 इवाब्ज-नाभस्य पदाम्बु-जाभ्याम् ।  
@@ -2908,7 +2907,7 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 23. I dedicate at the lotus-feet of the Lord (having the lotus in the navel) which feet seem as presiding deities of Devotional meditation and Self-surrender, the string of concise verses of our system of thought, whose chapters are in the same number as that of the fingers of those feet. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यः श्रीमच्--छठ-मर्षणान्वय-पयः-सिन्धोः सुधांशुर् महान्  
 अण्णार्यः समभूद् विभूषित-+++(न्याय-व्याकरण-मीमांसा-शारीरकाख्य-)+++चतुस्-तन्त्रो वचः-कान्तिभिः ।  
@@ -2927,3 +2926,5 @@ Elasticity is included in conjunction. Like disunion, separateness also is of th
 Thus here ends the tenth chapter entitled the treatment of non-substance, of the work called the Vedantakarikavali composed by Bucci Venkaṭācārya, the third son of Anṇayaryasomapithin, who was the moon of the ocean of S'athamarṣaṇa family and seer of other shore of six darsanas.
 </details>
 
+
+[^lnk_1]: https://vishvAsa.github.io/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/pramA/anumitiH/

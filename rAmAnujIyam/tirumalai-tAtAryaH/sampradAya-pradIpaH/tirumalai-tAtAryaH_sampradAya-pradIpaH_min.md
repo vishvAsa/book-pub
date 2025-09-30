@@ -1,11 +1,10 @@
 +++
 title = "तिरुमलै-तातार्यः - सम्प्रदाय-प्रदीपः"
 author = "तिरुमलै-तातार्यः"
-
 +++
 
 
-Source: [TW](https://archive.org/details/Vaishvadeva/sampradAya-pradIpaH_DTSwamy/page/n1/mode/2up)
+Source: [TW](https://archive.org/details/Vaishvadeva/sampradAya-pradIpaH_DTSwamy/page/n1/mode/2up)[^lnk_1]
 
 ।। श्रीः ।।  
 सम्प्रदाय-प्रदीपः ॥ 
@@ -307,6 +306,7 @@ Source: [TW](https://archive.org/details/Vaishvadeva/sampradAya-pradIpaH_DTSwamy
 इति सम्प्रदाय-प्रदीपे विवेक-काण्डः । 
 
 [[19]]
+
 # ०२ प्रतिवचन-काण्डः
 
 अथ प्रतिवचनकाण्डः॥ 
@@ -2275,3 +2275,5 @@ Source: [TW](https://archive.org/details/Vaishvadeva/sampradAya-pradIpaH_DTSwamy
 
 3 कृष्ण-राज-वोडयार् । राजा शासनम् १७१४ - १७३२ 
 अयं महा-राजः तिरुपति-क्षेत्र-वासिनं बृहत्-पर-काल-स्वामिनं मैसूर् -राज्यम् आनाय्य आश्रयति स्म । 
+
+[^lnk_1]: https://archive.org/details/Vaishvadeva/sampradAya-pradIpaH_DTSwamy/page/n1/mode/2up

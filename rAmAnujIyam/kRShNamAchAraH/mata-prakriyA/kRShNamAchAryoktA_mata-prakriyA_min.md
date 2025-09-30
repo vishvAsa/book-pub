@@ -1,11 +1,10 @@
 +++
 title = "कृष्णमाचार्योक्ता मत-प्रक्रिया"
 author = "कृष्णमाचार्यः"
-
 +++
 
 
-Source: [TW](https://archive.org/details/in.ernet.dli.2015.495933/page/n74/mode/1up)
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.495933/page/n74/mode/1up)[^lnk_1]
 
 (सङ्कल्पसूर्योदय-प्रस्तावात्)
 
@@ -1351,3 +1350,5 @@ Source: [TW](https://archive.org/details/in.ernet.dli.2015.495933/page/n74/mode/
 > सङ्क. सू २-४९.
 
 इति ।
+
+[^lnk_1]: https://archive.org/details/in.ernet.dli.2015.495933/page/n74/mode/1up

@@ -1,11 +1,10 @@
 +++
 title = "प्रयोगमाला (पाञ्चरात्र-भागः)"
 author = "उत्तमूरु-वीरराघवः"
-
 +++
 
 
-Source: [TW](https://archive.org/details/Vaishvadeva/prayogamAlA)
+Source: [TW](https://archive.org/details/Vaishvadeva/prayogamAlA)[^lnk_1]
 # १ प्रमाणसंग्रहः
 
 आषोडशात् ब्राह्मणस्यापतिता गायत्री; द्वाविंशते राजन्यस्य, द्व्यधिकाया वैश्यस्य ॥ (गौतमधर्मसूत्रम्)
@@ -140,14 +139,14 @@ Source: [TW](https://archive.org/details/Vaishvadeva/prayogamAlA)
 
 ## वस्त्रम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्नात्वाऽवगाह्य विधिवत् स्नानवस्त्रमधस्त्यजेत् ।  
 तदेव विसृजेदूर्ध्वं कूपाद्युद्धृतवारिणा ॥  
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (व्याघ्रपादः)
 
@@ -155,7 +154,7 @@ Source: [TW](https://archive.org/details/Vaishvadeva/prayogamAlA)
 नोपर्य् आधस्त्यम् अम्बरम् ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्येद् अग्रे पुरः कच्छा  
 द्वयं पार्श्वे च गूहनम् ।  
@@ -168,7 +167,7 @@ Source: [TW](https://archive.org/details/Vaishvadeva/prayogamAlA)
 front, 2 sides, genital, 2 back-sides, back = 7
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरः कच्छा पुरो धार्या  
 पश्चात् कच्छा तु पृष्ठतः ।  
@@ -642,7 +641,7 @@ front, 2 sides, genital, 2 back-sides, back = 7
 
 ## सदोऽनुज्ञा
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नम॒स् सद॑से॥  
 नम॒स् सद॑स॒स्-पत॑ये॥    
@@ -671,7 +670,7 @@ front, 2 sides, genital, 2 back-sides, back = 7
 
 इति संकल्प्य,
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्लाम्बरधरं विष्णुं  
 शशिवर्णं चतुर्भजम् ।  
@@ -679,7 +678,7 @@ front, 2 sides, genital, 2 back-sides, back = 7
 सर्वविघ्नोपशान्तये ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य द्वि-रद-वक्त्राद्याः  
 पारिषद्याः परश्शतम् ।  
@@ -869,8 +868,8 @@ front, 2 sides, genital, 2 back-sides, back = 7
 
 **परिचयः**
 
-- सायणः /- तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n325/mode/2up)। ऋग्भाष्ये [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n573/mode/2up)।
-- तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चम् एवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)।
+- सायणः /- तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n325/mode/2up)[^lnk_2]। ऋग्भाष्ये [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n573/mode/2up)[^lnk_3]।
+- तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चम् एवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)[^lnk_4]।
 </details>
 
 ###### आह्वानम्
@@ -941,7 +940,7 @@ front, 2 sides, genital, 2 back-sides, back = 7
 अ᳓-स्वप्न-जस् तर᳓णयस् सु-शे᳓वा +++(=सुमुखाः)+++  
 अ᳓-तन्द्रासो ऽवृका᳓+++(=अहिंसका)+++ अ᳓-श्रमिष्ठाः ।  
 ते᳓ +++(रश्मयः)+++ पाय᳓वस् **सध्रि᳓यञ्चो** +++(=सङ्गताः)+++**निष᳓द्य**+++(=उपविश्य)+++  
-+अग्ने त᳓व नः **पान्त्व्** अमूर +++(=अमर्त्य)+++ ॥
++अ᳓ग्ने त᳓व नः **पान्त्व्** अमूर +++(=अमर्त्य)+++ ॥
 
 +++(उतथ्यभार्या ममता। तस्याम् बृहस्पतिर् रेतः स्थापयितुम् अयतत। तत्र वर्तमानं रेतोऽन्तरम् आक्षिपत्। बृहस्पतिर् अशपत् तम् दीर्घतमा भवेति। सोऽ अग्नेर् अलभत चक्षुः।)+++
 
@@ -1018,7 +1017,7 @@ front, 2 sides, genital, 2 back-sides, back = 7
 
 ### बन्धनम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे यजमान)+++  
 अ॒ग्निर् आयु॑ष्मा॒न् ,   
@@ -1032,7 +1031,7 @@ front, 2 sides, genital, 2 back-sides, back = 7
 +++(हे यजमान)+++ ब्रह्मायु॑ष्म॒त्, तद्ब्रा॑ह्म॒णैरायु॑ष्मत् , [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]
 
 +++(हे यजमान)+++ दे॒वा आयु॑ष्मन्तः।  
-ते॒॑ऽमृते॑न [+आयु॑ष्मन्तः]  [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]  
+ते॒॑ऽमृते॑न [+आयु॑ष्मन्तः]  [तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि ।]  
 
 पि॒तर॒ आयु॑ष्मन्त॒स् ते स्व॒धयाऽऽयु॑ष्मन्त॒स्, तेन॒ त्वा ऽऽयु॒षा ऽऽयु॑ष्मन्तङ् करोमि । 
 </details>
@@ -1402,7 +1401,7 @@ front, 2 sides, genital, 2 back-sides, back = 7
 
 +++(स्व-शरीरैकदेशेन)+++ **पु᳓रुष** एवे᳓दँ᳓ **स᳓र्वम्** ।  
 य᳓द् भूतं᳓ य᳓च् च भ᳓व्यम्।   
-उत᳓+++(→तथा देवात्मभिः)+++ +अ᳓मृतत्व᳓स्ये᳓शानः +++(परमे व्योम्नि)+++ ।  
+उत᳓+++(→तथा देवात्मभिः)+++ +अमृतत्व᳓स्ये᳓शानः +++(परमे व्योम्नि)+++ ।  
 य᳓द्+++(→यस्माद्)+++ +++(ब्रह्माण्डरूपेण)+++ अ᳓न्नेन+++(=अशितेन)+++ +**अतिरो᳓हति** । ३
 
 एता᳓वान् +++(ब्रह्माण्डम् इति)+++ अस्य महिमा᳓ ।  
@@ -1457,8 +1456,8 @@ front, 2 sides, genital, 2 back-sides, back = 7
 
 +++(देवाः)+++ य᳓त् +++(एकपात्)+++पु᳓रुषं +++(पशुं)+++ **व्य᳙दधुः** +++(बलौ)+++।  
 कतिधा᳓ **व्य᳙कल्पयन्** ?  
-मुखं कि᳓म् अस्य कौ᳓ बाहू᳓ ?  
-का᳓व् ऊरू᳓ पा᳓दाव् **उच्येते** ? १२
+मु᳓खं कि᳓म् अस्य कौ᳓ बाहू᳓ ?  
+का᳓व्+++(←वकारो न शाकले)+++ ऊरू᳓ पा᳓दाव् **उच्येते** ? १२
 
 ब्राह्मणो᳡ ऽस्य मु᳓खम् आसीद्  
 बाहू᳓ राजनि᳓यः कृतः᳓  
@@ -1493,7 +1492,7 @@ front, 2 sides, genital, 2 back-sides, back = 7
 +++(सर्वहुद्-)+++यज्ञे᳓न यज्ञ᳓म् **अयजन्त** देवाः᳓ ।  
 ता᳓नि ध᳓र्माणि प्रथमा᳓न्य् **आसन्** ।  
 +++(य एवं विदुः)+++ ते᳓ ह ना᳓कं +++(यज्ञैः)+++ **महिमा᳓नः**+++(=पूजयन्तः)+++ **सचन्त**+++(=प्राप्नुवन्ति, तैत्तिरीये - "सचन्ते" )+++,,  
-यत्र पू᳓र्वे +++(नानापात्रेषु पश्चात्)+++ साध्याः᳓ **स᳓न्ति** देवाः᳓ । १८
+य᳓त्र पू᳓र्वे +++(नानापात्रेषु पश्चात्)+++ साध्याः᳓ **स᳓न्ति** देवाः᳓ । १८
 
 ॥ ॐ नमो नारा॑यणा॒य ॥
 
@@ -1636,7 +1635,7 @@ front, 2 sides, genital, 2 back-sides, back = 7
 पुण्ड्रेषु केशवादीन् आवाहयेत् ॥  
 +++(ॐ केशवाय नमः। ओं माधवाय नमः … इत्यादि १२।)+++
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 _चतुश्-चक्रं_ नमस्यामि  
 **केशवं** कनक-प्रभम् ।
@@ -1645,7 +1644,7 @@ _चतुश्-चक्रं_ नमस्यामि
 _चतुश्-शङ्खं_ नमाम्य् अहम् ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **माधवं** मणि-भङ्गाभं  
 चिन्तयामि _चतुर्-गदम्_ ।
@@ -1654,7 +1653,7 @@ _चतुश्-शङ्खं_ नमाम्य् अहम् ॥
 **गोविन्दम्** अभिसंश्रये ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **विष्णुं** _चतुर्-हलं_ वन्दे  
 पद्म-किञ्जल्क+++(=केसर)+++-सन्निभम् ।
@@ -1663,7 +1662,7 @@ _चतुर्-मुसलम्_ अब्जाभं
 संश्रये **मधु-सूदनम्** ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि-वर्णं _चतुः-खड्गं_  
 भावयामि **त्रि-विक्रमम्** ।
@@ -1672,7 +1671,7 @@ _चतुर्-मुसलम्_ अब्जाभं
 _चतुर्-वज्रं_ विभावये॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **श्रीधरं** पुण्डरीकाभं  
 _चतुःपट्टं_ समाश्रये ।
@@ -1681,7 +1680,7 @@ _चतुर्-मुद्गरम्_ अभ्येमि
 **हृषीकेशं** तडित्-प्रभम्॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 _पञ्चायुधं_ **पद्म-नाभं**  
 प्रणमाम्य् अर्क-रोचिषम् ।
@@ -1690,7 +1689,7 @@ _पञ्चायुधं_ **पद्म-नाभं**
 इन्द्र-गोप-निभं भजे ।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासुदेवम् उपासेऽहं  
 पूर्णेन्द्व्-अयुत-सन्निभम् ।।
@@ -2296,21 +2295,21 @@ And the Vasus gathered together.
 
 <details open=><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-[मध्येऋच](https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/) आरम्भः??
+[मध्येऋच](https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/)[^lnk_5] आरम्भः??
 </details>
 
-स्तोम॑ त्रयस्त्रिँशे॒! भुव॑नस्य पत्नि॒!  
-विव॑स्वद्-वाते! अ॒भि नो॑ **गृणाहि**+++(←गृ शब्दे)+++ ।    
-घृ॒तव॑ती सवित॒र्! आधि॑पत्यै॒ᳶ  
-पय॑स्वती॒ **रन्ति॒र्**+++(←रम्)+++ +++(इयम्)+++ **आशा॑ नो अस्तु** ।
+स्तो᳓म त्रयस्-त्रिँशे! भु᳓वनस्य पत्नि!  
+वि᳓वस्वद्-वाते! अभि᳓ नो **गृणाहि**+++(←गृ शब्दे)+++ ।    
+घृत᳓वती +++(→आ)+++ सवितर्! आ᳓धिपत्यैᳶ  
+प᳓यस्वती **र᳓न्तिर्**+++(←रम्)+++ +++(इयम्)+++ **आ᳓शा नो अस्तु** ।
 
-ध्रु॒वा दि॒शाव्ँ वि॑ष्णु-प॒त्न्य् अ-घो॑रा॒  
-ऽस्येशा॑ना॒ सह॑सो॒, या म॒नोता॑ +++(←मनस् + ऊता)+++।    
-बृह॒स्पति॑र् मात॒रिश्वो॒त वा॒युस्  
-स॑न्धुवा॒ना+++(←धु कम्पने)+++ वाता॑ अ॒भि नो॑ **गृणन्तु** ।
+ध्रुवा᳓ दिशाव्ँ᳓ विष्णु-पत्न्य् अ᳓-घोरा,  
+ऽस्ये᳓शाना स᳓हसो, या᳓ मनो᳓ता +++(←मनस् + ऊता)+++।    
+बृ᳓हस्-प᳓तिर् मातरि᳓श्वोत᳓ वायु᳓स्  
+**सन्धुवाना᳓**+++(ः←धु कम्पने)+++ वा᳓ता अभि᳓ नो **गृणन्तु** ।
 
-वि॒ष्ट॒म्भो दि॒वो, ध॒रुण॑ᳶ पृथि॒व्या,  
-अ॒स्येशा॑ना॒ जग॑तो॒, विष्णु॑-पत्नी ।    
+विष्टम्भो᳓ दिवो᳓, धरु᳓णᳶ पृथिव्या᳓,  
+अस्ये᳓शाना ज᳓गतो, वि᳓ष्णु-पत्नी ।    
   
 
 ## पुरुषसूक्तम् 
@@ -2359,7 +2358,7 @@ And the Vasus gathered together.
 <details open=><summary>Jamison Brereton</summary>
 
 90 (916)  
-Purusạ  
+Purusạ  
 Nārāyaṇa  
 16 verses: anuṣṭubh, except triṣṭubh 16  
 
@@ -2420,10 +2419,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 púruṣaḥ ← púruṣa- (nominal stem)  
@@ -2631,7 +2630,7 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 
 <details open=><summary>ब्रह्ममुनि - विषयः</summary>
 
-इस सूक्त में सब जड़जङ्गमका उत्पादक स्वामी परमात्मा है तथा जीवों के लिये भोग अपवर्ग देनेवाला है इत्यादि विषय हैं।
+इस सूक्त में सब जड़जङ्गमका उत्पादक स्वामी परमात्मा है तथा जीवों के लिये भोग अपवर्ग देनेवाला है इत्यादि विषय हैं।
 </details>
 
 <details open=><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -2659,7 +2658,7 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 
 +++(स्व-शरीरैकदेशेन)+++ **पु᳓रुष** एवे᳓दँ᳓ **स᳓र्वम्** ।  
 य᳓द् भूतं᳓ य᳓च् च भ᳓व्यम्।   
-उत᳓+++(→तथा देवात्मभिः)+++ +अ᳓मृतत्व᳓स्ये᳓शानः +++(परमे व्योम्नि)+++ ।  
+उत᳓+++(→तथा देवात्मभिः)+++ +अमृतत्व᳓स्ये᳓शानः +++(परमे व्योम्नि)+++ ।  
 य᳓द्+++(→यस्माद्)+++ +++(ब्रह्माण्डरूपेण)+++ अ᳓न्नेन+++(=अशितेन)+++ +**अतिरो᳓हति** । ३
 
 <details open=><summary><h14></h14>></summary>
@@ -2692,10 +2691,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 evá ← evá (invariable)  
@@ -2931,7 +2930,7 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 
 <details open=><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (पुरुषः-एव) परमपुरुष परमात्मा ही (अमृतत्वस्य-ईशानः) मोक्ष का स्वामी अधिष्ठाता है (उत) और (इदं सर्वं यत्-भूतं यत्-च भव्यम्) यह सब जो उत्पन्न हुआ, जो होनेवाला जगत् है तथा (यत्-अन्नेन-अतिरोहति) जो अन्न-भोजन से बढ़ता है जीवमात्र, उसका भी परमपुरुष परमात्मा स्वामी है ॥२॥
+पदार्थान्वयभाषाः -  (पुरुषः-एव) परमपुरुष परमात्मा ही (अमृतत्वस्य-ईशानः) मोक्ष का स्वामी अधिष्ठाता है (उत) और (इदं सर्वं यत्-भूतं यत्-च भव्यम्) यह सब जो उत्पन्न हुआ, जो होनेवाला जगत् है तथा (यत्-अन्नेन-अतिरोहति) जो अन्न-भोजन से बढ़ता है जीवमात्र, उसका भी परमपुरुष परमात्मा स्वामी है ॥२॥
 </details>
 
 <details open=><summary>ब्रह्ममुनि - भावार्थः</summary>
@@ -2982,10 +2981,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 asya ← ayám (pronoun)  
@@ -3208,12 +3207,12 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 
 <details open=><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (एतावान् महिमा-अस्य) यह जड़-जङ्गम प्रसार या संसार इस परम पुरुष परमात्मा का महिमा-महत्त्वसूचक व्यापार है (अतः-ज्यायान् पूरुषः) इससे बड़ा वह परमात्मा है (विश्वा भूतानि-अस्य पादः) साड़ी जड़-जङ्गम वस्तुएँ इसके पादमात्र हैं (अस्य त्रिपात्) इस परमात्मा का त्रिपाद्रूप (दिवि-अमृतम्) प्रकाशमय स्वरूप में अमृत है ॥३॥
+पदार्थान्वयभाषाः -  (एतावान् महिमा-अस्य) यह जड़-जङ्गम प्रसार या संसार इस परम पुरुष परमात्मा का महिमा-महत्त्वसूचक व्यापार है (अतः-ज्यायान् पूरुषः) इससे बड़ा वह परमात्मा है (विश्वा भूतानि-अस्य पादः) साड़ी जड़-जङ्गम वस्तुएँ इसके पादमात्र हैं (अस्य त्रिपात्) इस परमात्मा का त्रिपाद्रूप (दिवि-अमृतम्) प्रकाशमय स्वरूप में अमृत है ॥३॥
 </details>
 
 <details open=><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  सारा संसार उसके एकदेश में है, वह परमात्मा इससे महान् है, तथा ये सारी जड़-जङ्गम वस्तुएँ उसके एक पादमात्र हैं, उसका अमृतस्वरूप त्रिपाद तो प्रकाशस्वरूप में है ॥३॥
+भावार्थभाषाः -  सारा संसार उसके एकदेश में है, वह परमात्मा इससे महान् है, तथा ये सारी जड़-जङ्गम वस्तुएँ उसके एक पादमात्र हैं, उसका अमृतस्वरूप त्रिपाद तो प्रकाशस्वरूप में है ॥३॥
 </details>
 
 <details open=><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -3259,10 +3258,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ait ← √i- 1 (root)  
@@ -3524,12 +3523,12 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 
 <details open=><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (त्रिपात् पुरुषः) पूर्वोक्त वह अमृतरूप तीन पादों से युक्त परमात्मा (ऊर्ध्वः-उदैत्) नश्वर संसार से ऊपर स्थित है (अस्य पादः) इसका पादमात्र संसार (इह पुनः-अभवत्) इधर नश्वररूप में पुनः-पुनः उत्पन्न होता है (ततः) पश्चात्(साशनानशने-अभि) भोगसेवित-भोगनेवाले जीवात्मा को तथा भोगरहित न भोगनेवाले जड़ के प्रति (विष्वक्-व्यक्रामत्) विविध गुणवत्ता से व्याप्त होता है ॥४॥
+पदार्थान्वयभाषाः -  (त्रिपात् पुरुषः) पूर्वोक्त वह अमृतरूप तीन पादों से युक्त परमात्मा (ऊर्ध्वः-उदैत्) नश्वर संसार से ऊपर स्थित है (अस्य पादः) इसका पादमात्र संसार (इह पुनः-अभवत्) इधर नश्वररूप में पुनः-पुनः उत्पन्न होता है (ततः) पश्चात्(साशनानशने-अभि) भोगसेवित-भोगनेवाले जीवात्मा को तथा भोगरहित न भोगनेवाले जड़ के प्रति (विष्वक्-व्यक्रामत्) विविध गुणवत्ता से व्याप्त होता है ॥४॥
 </details>
 
 <details open=><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  पूर्ण पुरुष परमात्मा अमृतरूप त्रिपाद इस संसार से ऊपर है, यह संसाररूप पाद पुनः-पुनः उत्पन्न होता है। इसके अन्दर भोगनेवाले जीव और न भोगनेवाले जड़ के अन्दर परमात्मा व्याप रहा है ॥४॥
+भावार्थभाषाः -  पूर्ण पुरुष परमात्मा अमृतरूप त्रिपाद इस संसार से ऊपर है, यह संसाररूप पाद पुनः-पुनः उत्पन्न होता है। इसके अन्दर भोगनेवाले जीव और न भोगनेवाले जड़ के अन्दर परमात्मा व्याप रहा है ॥४॥
 </details>
 
 <details open=><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -3575,10 +3574,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ajāyata ← √janⁱ- (root)  
@@ -3870,10 +3869,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 havíṣā ← havís- (nominal stem)  
@@ -4080,12 +4079,12 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 
 <details open=><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (यत्)जब (देवाः)सृष्टि के आरम्भ में वेदप्रकाशक परमर्षि अग्न्यादि महानुभाव (पुरुषेण हविषा) अपने आत्मा में धारण करने योग्य परमात्मा द्वारा (यज्ञम्-अतन्वत) मानस यज्ञ को सेवन करते हैं (अस्य) तो इस यज्ञ का (वसन्तः-आज्यम्) वसन्त ऋतु घृत (आसीत्)होता है, वसन्त में ओषधियाँ उत्पन्न होती हैं, अतः अध्यात्मयज्ञ को प्रबोधित करने के लिये वह घृतसमान है (ग्रीष्मः-इध्मः) ग्रीष्म ऋतु इन्धन होता है, क्योंकि ग्रीष्म में वनस्पतियाँ बढ़ती हैं, अतः वह इन्धन के समान है (शरत्-हविः) शरद् ऋतु हव्य द्रव्य होता है, शरद्ऋतु में वनस्पतियाँ समृद्ध पुष्ट होती हैं, इसलिए अध्यात्मयज्ञ की समृद्धि का कारण शरद् ऋतु है ॥६॥
+पदार्थान्वयभाषाः -  (यत्)जब (देवाः)सृष्टि के आरम्भ में वेदप्रकाशक परमर्षि अग्न्यादि महानुभाव (पुरुषेण हविषा) अपने आत्मा में धारण करने योग्य परमात्मा द्वारा (यज्ञम्-अतन्वत) मानस यज्ञ को सेवन करते हैं (अस्य) तो इस यज्ञ का (वसन्तः-आज्यम्) वसन्त ऋतु घृत (आसीत्)होता है, वसन्त में ओषधियाँ उत्पन्न होती हैं, अतः अध्यात्मयज्ञ को प्रबोधित करने के लिये वह घृतसमान है (ग्रीष्मः-इध्मः) ग्रीष्म ऋतु इन्धन होता है, क्योंकि ग्रीष्म में वनस्पतियाँ बढ़ती हैं, अतः वह इन्धन के समान है (शरत्-हविः) शरद् ऋतु हव्य द्रव्य होता है, शरद्ऋतु में वनस्पतियाँ समृद्ध पुष्ट होती हैं, इसलिए अध्यात्मयज्ञ की समृद्धि का कारण शरद् ऋतु है ॥६॥
 </details>
 
 <details open=><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  आदि सृष्टि में वेदप्रकाशक ऋषि अध्यात्मयज्ञ का अनुष्ठान करते हैं। अपने आत्मा में धारण करने योग्य परमात्मा के द्वारा उसका रचा वसन्तऋतु घृतसमान होकर अध्यात्मयज्ञ को प्रबोधित करता है, भिन्न-भिन्न ओषधियों के उत्पन्न होने से परमात्मा है, इस भाव जागृत करता है, पुनः ग्रीष्म ऋतु इसकी समिधा इन्धन बन जाता है, क्योंकि ग्रीष्म ऋतु में ओषधियाँ बढ़ती हैं, तो परमात्मा की आस्तिकता में दृढ़ता आ जाती है, पुनः शरद् ऋतु उसका हव्यपदार्थ हो जाता है, क्योंकि शरद् ऋतु में ओषधियाँ पुष्ट होती हैं, अतः परमात्मा का साक्षात् होने का निमित्त बन जाता है ॥६॥
+भावार्थभाषाः -  आदि सृष्टि में वेदप्रकाशक ऋषि अध्यात्मयज्ञ का अनुष्ठान करते हैं। अपने आत्मा में धारण करने योग्य परमात्मा के द्वारा उसका रचा वसन्तऋतु घृतसमान होकर अध्यात्मयज्ञ को प्रबोधित करता है, भिन्न-भिन्न ओषधियों के उत्पन्न होने से परमात्मा है, इस भाव जागृत करता है, पुनः ग्रीष्म ऋतु इसकी समिधा इन्धन बन जाता है, क्योंकि ग्रीष्म ऋतु में ओषधियाँ बढ़ती हैं, तो परमात्मा की आस्तिकता में दृढ़ता आ जाती है, पुनः शरद् ऋतु उसका हव्यपदार्थ हो जाता है, क्योंकि शरद् ऋतु में ओषधियाँ पुष्ट होती हैं, अतः परमात्मा का साक्षात् होने का निमित्त बन जाता है ॥६॥
 </details>
 
 <details open=><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -4131,10 +4130,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 aukṣan ← √ukṣ- (root)  
@@ -4402,10 +4401,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 sarvahútaḥ ← sarvahúta- (nominal stem)  
@@ -4679,10 +4678,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380);; repeated line  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380);; repeated line  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 sarvahútaḥ ← sarvahúta- (nominal stem)  
@@ -5040,10 +5039,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ajāyanta ← √janⁱ- (root)  
@@ -5338,10 +5337,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 ádadhuḥ ← √dhā- 1 (root)  
@@ -5564,8 +5563,8 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 
 +++(देवाः)+++ य᳓त् +++(एकपात्)+++पु᳓रुषं +++(पशुं)+++ **व्य᳙दधुः** +++(बलौ)+++।  
 कतिधा᳓ **व्य᳙कल्पयन्** ?  
-मुखं कि᳓म् अस्य कौ᳓ बाहू᳓ ?  
-का᳓व् ऊरू᳓ पा᳓दाव् **उच्येते** ? १२
+मु᳓खं कि᳓म् अस्य कौ᳓ बाहू᳓ ?  
+का᳓व्+++(←वकारो न शाकले)+++ ऊरू᳓ पा᳓दाव् **उच्येते** ? १२
 
 <details open=><summary><h14></h14>></summary>
 
@@ -5597,10 +5596,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 āsīt ← √as- 1 (root)  
@@ -5858,10 +5857,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 candrámāḥ ← candrámas- (nominal stem)  
@@ -6132,10 +6131,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 antárikṣam ← antárikṣa- (nominal stem)  
@@ -6399,10 +6398,10 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)  
-popular;; epic anuṣṭubh (380)
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
 _________
 **Morph**  
 āsan ← √as- 1 (root)  
@@ -6666,7 +6665,7 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 +++(सर्वहुद्-)+++यज्ञे᳓न यज्ञ᳓म् **अयजन्त** देवाः᳓ ।  
 ता᳓नि ध᳓र्माणि प्रथमा᳓न्य् **आसन्** ।  
 +++(य एवं विदुः)+++ ते᳓ ह ना᳓कं +++(यज्ञैः)+++ **महिमा᳓नः**+++(=पूजयन्तः)+++ **सचन्त**+++(=प्राप्नुवन्ति, तैत्तिरीये - "सचन्ते" )+++,,  
-यत्र पू᳓र्वे +++(नानापात्रेषु पश्चात्)+++ साध्याः᳓ **स᳓न्ति** देवाः᳓ । १८
+य᳓त्र पू᳓र्वे +++(नानापात्रेषु पश्चात्)+++ साध्याः᳓ **स᳓न्ति** देवाः᳓ । १८
 
 <details open=><summary><h14></h14>></summary>
 
@@ -6995,7 +6994,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 [[71]]
 
-- सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n197/mode/1up) ।
+- सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n197/mode/1up)[^lnk_6] ।
 
 ###### ॥ उत्तरनारायणम् ॥
 
@@ -7007,7 +7006,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 <details open=><summary>विश्वास-टिप्पनी</summary>
 
-सन्दर्भार्थम् आदौ [पुरुषसूक्तम्](sahasra-shIrShA) ईक्षताम्।
+सन्दर्भार्थम् आदौ [पुरुषसूक्तम्](sahasra-shIrShA)[^lnk_7] ईक्षताम्।
 </details>
 
 अद्भ्यः᳓ सं᳓भूतः पृथिव्यै᳓+++(व्याः)+++ र᳓साच् च +++(विराट् ब्रह्माण्डरूपः)+++।  
@@ -7067,7 +7066,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 ###### परिपूर्णपुरुषध्यानम्
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्री᳓श् च ते लक्ष्मी᳓श् च प᳓त्न्यौ ।  
 अहोरात्रे᳓ पार्श्वे᳓ ।  
@@ -7256,6 +7255,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/khilAni/2/06_shrI-sUktam_hiraNya-varNAm/"></div>  
 
 [[73]]
+
 # १५ यज्ञोपवीतनिर्माणविधिः
 
 ॥ यज्ञोपवीतनिर्माणविधिः ॥
@@ -7305,7 +7305,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 1चतस्रस् स्वयमातृण्णा दिक्षूपदधाति -
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूर्! अ॒ग्निञ् च॑ पृथि॒वीञ् च॒ माञ् च॑ ।  
 त्रीँश् च॑ लो॒कान्त् सव्ँ॑वत्स॒रञ् च॑ ।  
@@ -7323,7 +7323,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 एवं सर्वासु दिक्षु योज्यम् ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भुवो॑ वा॒युञ् चा॒न्तरि॑क्षञ् च॒ माञ्च॑ ।  
 त्रीँश्च॑ लो॒कान्त् सव्ँ॑वत्स॒रञ्च॑ ।  
@@ -7331,7 +7331,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 तया॑  दे॒वत॑या ऽङ्गिर॒स्वद् ध्रु॒वा **सी॑द** ॥ 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व॑र् आदि॒त्यञ् च॒ दिव॑ञ् च॒ माञ् च॑ ।  
 त्रीँश्च॑ लो॒कान्त् सव्ँ॑वत्स॒रञ्च॑ ।  
@@ -7339,7 +7339,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 तया॑ दे॒वत॑या ऽङ्गिर॒स्वद् ध्रु॒वा **सी॑द** ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूर् भुव॒स् स्व॑श् च॒न्द्रम॑सञ् च॒ दिश॑श् च॒ माञ्च॑ ।  
 त्रीँश्च॑ लो॒कान्त् सव्ँ॑वत्स॒रञ्च॑ ।  
@@ -7357,10 +7357,10 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 इति नवतन्तुदेवताः अक्षतैरावाह्य, आसनादिषोडशोपचारैरभ्यर्च्य, प्रथमग्रन्थिदेवतां ब्रह्माणम् आवाहयामि । द्वितीयग्रन्थिदेवतां विष्णुम् आवाहयामि । तृतीयग्रन्थिदेवतां गिरीशम् आवाहयामि । इति ग्रन्थित्रयदेवताः अभ्यर्च्य, यज्ञोपवीताधिष्ठातृदेवतां श्रियःपतिम् आवाहयामि इति श्रियः पतिं च आवाह्य, अभ्यर्च्य, यज्ञोपवीतसहितं कूर्चं पाणिना गृहीत्वा,
 
-आ स॒त्येन॒ रज॑सा॒ **वर्त॑मानो**  
-**निवे॒शय॑न्न्** अ॒मृतं॒ मर्त्यं॑ च ।  
-हि॒र॒ण्यये॑न सवि॒ता रथे॒न॒+  
-+आऽऽदे॒वो **या॑ति॒** भुव॑ना **वि॒पश्य॑न्** ॥
+आ᳓ सत्ये᳓न र᳓जसा **व᳓र्तमानो**  
+**निवेश᳓यन्न्** अमृ᳓तं म᳓र्त्यं च ।  
+हिरण्य᳓येन सविता᳓ र᳓थेन+  
++आ᳓ऽऽदेवो᳓ **याति** भु᳓वना **विप᳓श्यन्** ॥
 
 उ᳓द् वयं᳓ त᳓मसस् प᳓रि  
 ज्यो᳓तिष् **प᳓श्यन्त** उ᳓त्तरम् ।  
@@ -7392,6 +7392,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 ॥ यज्ञोपवीतप्रतिष्ठाविधिः समाप्तः ॥
 
 [[94]]
+
 # १७ यज्ञोपवीतधारणक्रमः
 
 यज्ञोपवीतधारणक्रमः ॥
@@ -7476,7 +7477,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 बिम्बानां जलेनाभिषेकात् परं  
 किञ्चिद् इव श्रीचूर्णं गृहीत्वा ऽभिषिच्य  
-गलस्याधो श्रीचूर्णपिष्टं स्थापयन्तीति [दृश्यते](https://youtu.be/gSSX7vFzZgI?t=737) । 
+गलस्याधो श्रीचूर्णपिष्टं स्थापयन्तीति [दृश्यते](https://youtu.be/gSSX7vFzZgI?t=737)[^lnk_8] । 
 </details>
 
 > असंस्कृतां हरिद्रां तु  
@@ -7515,3 +7516,19 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 इति विष्वक्सेनसंहितोक्ता तुलसीमणिमालिकाप्रतिष्ठा सम्पूर्णा ॥
 
 [[102]]
+
+[^lnk_1]: https://archive.org/details/Vaishvadeva/prayogamAlA
+
+[^lnk_2]: https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n325/mode/2up
+
+[^lnk_3]: https://archive.org/stream/RgVedaWithSayanasCommentaryPart2/rv_sayanabhasya_part2#page/n573/mode/2up
+
+[^lnk_4]: https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up
+
+[^lnk_5]: https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/
+
+[^lnk_6]: https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_1_-_Babasastri_Phadke_1898#page/n197/mode/1up
+
+[^lnk_7]: sahasra-shIrShA
+
+[^lnk_8]: https://youtu.be/gSSX7vFzZgI?t=737
