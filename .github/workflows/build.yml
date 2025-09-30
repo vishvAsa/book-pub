@@ -18,7 +18,7 @@ jobs:
       - name: Pull Git LFS files
         run: git lfs pull
       - name: Disable Git LFS
-        run: git lfs uninstall
+        run: rm .gitattributes
 
       - uses: gacts/directory-listing@v1
         with:
