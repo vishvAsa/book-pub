@@ -2024,7 +2024,7 @@ author = "ApastambaH"
 
 ##### अभोज्यम्
 नानुदेश्यं भुञ्जीत २२
-तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](../../../../../../static/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/gRhyam/karmANi/upanayana)[^lnk_1] मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
+तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](../../../../../../static/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md/(/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam)[^lnk_1]) मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
 न चास्मै श्रुति-विप्रतिषिद्धम् उच्छिष्टं दद्यात् ५
 यथा क्षार-लवण-मधु-मांसानीति ६
 एतेनान्ये नियमा व्याख्याताः ७
@@ -2792,6 +2792,6 @@ author = "ApastambaH"
 अशूद्राणाम् अदुष्टकर्मणाम् उपायनं वेदाध्ययनम् अग्न्याधेयं **फलवन्ति च कर्माणि** ६
 
 
-[^lnk_1]: ../../../../../../static/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/gRhyam/karmANi/upanayana
+[^lnk_1]: ../../../../../../static/taittirIyam/sUtram/ApastambaH/dharma-sUtram/vishvAsa-prastutiH/1/01/02/23_tathA_xAralavaNamadhumAMsAni.md/(/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam
 
 [^lnk_2]: https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956221000

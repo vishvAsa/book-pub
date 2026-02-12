@@ -13,9 +13,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-1. [^1]  Now (follow) the ceremonies (the knowledge of) which is derived from practice (and not from the Śruti).
+1. [f1]  Now (follow) the ceremonies (the knowledge of) which is derived from practice (and not from the Śruti).
 
-[^1]:  1, 1-11. The Paribhāṣās for the Pākayajñas.
+[f1]:  1, 1-11. The Paribhāṣās for the Pākayajñas.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -238,9 +238,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-7. [^2]  Ceremonies belonging to the Fathers (are performed) in the second fortnight (of the month),
+7. [f2]  Ceremonies belonging to the Fathers (are performed) in the second fortnight (of the month),
 
-[^2]:  7-10. Comp. 7 with 2, 8 with 3, 9 with 4, 10 with 6.
+[f2]:  7-10. Comp. 7 with 2, 8 with 3, 9 with 4, 10 with 6.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -438,9 +438,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-12. [^3]  Having set the fire in a blaze, he strews eastward-pointed Darbha grass around it,
+12. [f3]  Having set the fire in a blaze, he strews eastward-pointed Darbha grass around it,
 
-[^3]:  12 seq. Description of the regular form of a Pākayajña.
+[f3]:  12 seq. Description of the regular form of a Pākayajña.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -711,9 +711,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-19. [^4]  The preparation of the (blades used as) 'purifiers,' the measure of their length, the preparation of the Prokṣaṇī water, and the sprinkling of the vessels are the same here as at the sacrifices of the new and full moon, (but are performed) in silence.
+19. [f4]  The preparation of the (blades used as) 'purifiers,' the measure of their length, the preparation of the Prokṣaṇī water, and the sprinkling of the vessels are the same here as at the sacrifices of the new and full moon, (but are performed) in silence.
 
-[^4]:  Comp. Śrauta-sūtra I, 11, 6 seqq.
+[f4]:  Comp. Śrauta-sūtra I, 11, 6 seqq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -769,9 +769,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-20. [^5]  To the west of the fire he pours water into a vessel over which he has laid (two grass blades called) purifiers, purifies (the water) three times with two northward-pointed purifiers, holds it on a level with his nose and mouth, places it to the north of the fire on Darbha grass, and covers it with Darbha grass.
+20. [f5]  To the west of the fire he pours water into a vessel over which he has laid (two grass blades called) purifiers, purifies (the water) three times with two northward-pointed purifiers, holds it on a level with his nose and mouth, places it to the north of the fire on Darbha grass, and covers it with Darbha grass.
 
-[^5]:  This is the Praṇītā water.
+[f5]:  This is the Praṇītā water.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -806,9 +806,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-21. [^6]  On the south side he causes a Brāhmaṇa to sit down on Darbha grass.
+21. [f6]  On the south side he causes a Brāhmaṇa to sit down on Darbha grass.
 
-[^6]:  The Brahman.
+[f6]:  The Brahman.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -963,9 +963,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-2. [^1]  As paridhis (or pieces of wood laid round the fire) yoke-pins are used at the marriage, the Upanayana, the Samāvartana, the parting of the (wife's) hair, the tonsure of the child's hair, the cutting of the beard, and at expiatory ceremonies.
+2. [f1]  As paridhis (or pieces of wood laid round the fire) yoke-pins are used at the marriage, the Upanayana, the Samāvartana, the parting of the (wife's) hair, the tonsure of the child's hair, the cutting of the beard, and at expiatory ceremonies.
 
-[^1]:  2, 2. On the paridhi woods, comp. chiefly Hillebrandt, Neu-und Vollmondsopfer, 66 seq.
+[f1]:  2, 2. On the paridhi woods, comp. chiefly Hillebrandt, Neu-und Vollmondsopfer, 66 seq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1079,9 +1079,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-5. [^2]  Having put a piece of wood on the fire, he offers the two Āghāra oblations as at the sacrifices of the new and full moon, silently.
+5. [f2]  Having put a piece of wood on the fire, he offers the two Āghāra oblations as at the sacrifices of the new and full moon, silently.
 
-[^2]:  The Śrauta rules on the two Āghāras are given Śrauta-sūtra II, 12, 7; 14, 1.
+[f2]:  The Śrauta rules on the two Āghāras are given Śrauta-sūtra II, 12, 7; 14, 1.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1148,9 +1148,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-6. [^3]  Then he offers the two Ājyabhāga oblations, over the easterly part of the northerly part (of the fire) with (the words), 'To Agni Svāhā!' over the easterly part of the southerly part (another oblation) exactly like the preceding one, with (the words), 'To Soma Svāhā!'
+6. [f3]  Then he offers the two Ājyabhāga oblations, over the easterly part of the northerly part (of the fire) with (the words), 'To Agni Svāhā!' over the easterly part of the southerly part (another oblation) exactly like the preceding one, with (the words), 'To Soma Svāhā!'
 
-[^3]:  Comp. Śrauta-sūtra II, 18, 5; Hillebrandt, loc. cit., p. 106, note 3.
+[f3]:  Comp. Śrauta-sūtra II, 18, 5; Hillebrandt, loc. cit., p. 106, note 3.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1208,9 +1208,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-7. [^4]  Having offered the chief oblations (belonging to each sacrifice) according to prescription, he adds the following oblations, viz. the Jaya, Abhyātāna, Rāṣṭrabhṛt oblations, the oblation to Prajāpati, the Vyāhṛtis one by one, the oblation to (Agni) Sviṣṭakṛt with (the following formula), 'What I have done too much in this ceremony, or what I have done here too little, all that may Agni Sviṣṭakṛt, he who knows, make well sacrificed and well offered. Svāhā!'
+7. [f4]  Having offered the chief oblations (belonging to each sacrifice) according to prescription, he adds the following oblations, viz. the Jaya, Abhyātāna, Rāṣṭrabhṛt oblations, the oblation to Prajāpati, the Vyāhṛtis one by one, the oblation to (Agni) Sviṣṭakṛt with (the following formula), 'What I have done too much in this ceremony, or what I have done here too little, all that may Agni Sviṣṭakṛt, he who knows, make well sacrificed and well offered. Svāhā!'
 
-[^4]:  On the Jaya, Abhyātāna, Rāṣṭrabhṛt formulas, comp. Pāraskara I, 5, 7 seq.; Hiraṇyakeśin I, I, 3, 7 seq.; Taitt. Saṃhitā III, 4, 4-7. The last formula occurs also in Āśvalāyana I, 10, 23; Hiraṇyakeśin I, I, 3, 6, &c.
+[f4]:  On the Jaya, Abhyātāna, Rāṣṭrabhṛt formulas, comp. Pāraskara I, 5, 7 seq.; Hiraṇyakeśin I, I, 3, 7 seq.; Taitt. Saṃhitā III, 4, 4-7. The last formula occurs also in Āśvalāyana I, 10, 23; Hiraṇyakeśin I, I, 3, 6, &c.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1298,9 +1298,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-8. [^5]  The sprinkling (of water) round (the fire is repeated) as above; the Mantras are altered so as to say, 'Thou hast given thy consent,' 'Thou hast given thy impulse.'
+8. [f5]  The sprinkling (of water) round (the fire is repeated) as above; the Mantras are altered so as to say, 'Thou hast given thy consent,' 'Thou hast given thy impulse.'
 
-[^5]:  Comp. above, Sūtra 3.
+[f5]:  Comp. above, Sūtra 3.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1396,9 +1396,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-10. [^6]  There the ritual based on the Brāhmaṇa (holds good),
+10. [f6]  There the ritual based on the Brāhmaṇa (holds good),
 
-[^6]:  According to Haradatta, this Sūtra would imply that wheresoever the ritual described in the preceding Sūtras holds good, p. 255 another ritual based on the Brāhmaṇa, and more especially on the treatment of the Agnihotra in the Brāhmaṇa, may be used in its stead.
+[f6]:  According to Haradatta, this Sūtra would imply that wheresoever the ritual described in the preceding Sūtras holds good, p. 255 another ritual based on the Brāhmaṇa, and more especially on the treatment of the Agnihotra in the Brāhmaṇa, may be used in its stead.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1419,9 +1419,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-11. [^7]  (To which the words allude), 'He sacrifices twice; he wipes off (his hand) twice; he partakes twice (of the sacrificial food); having gone away he sips (out of the Sruc) and licks off (the Sruc).'
+11. [f7]  (To which the words allude), 'He sacrifices twice; he wipes off (his hand) twice; he partakes twice (of the sacrificial food); having gone away he sips (out of the Sruc) and licks off (the Sruc).'
 
-[^7]:  Comp. Taitt. Brāhmaṇa II, 1, 4, 5; Śatapatha Brāhmaṇa II, 3, 1, 18. 21. - At the Agnihotra the sacrificer, having wiped off the Sruc with his hand, wipes off the hand on the Barhis or on the earth (Āpast.-Śraut. VI, 10, 11; 11, 4; Kātyāyana IV, 14, 20). As to the following acts alluded to in this Sūtra, comp. Āpastamba VI, 11, 4. 5; 12, 2.
+[f7]:  Comp. Taitt. Brāhmaṇa II, 1, 4, 5; Śatapatha Brāhmaṇa II, 3, 1, 18. 21. - At the Agnihotra the sacrificer, having wiped off the Sruc with his hand, wipes off the hand on the Barhis or on the earth (Āpast.-Śraut. VI, 10, 11; 11, 4; Kātyāyana IV, 14, 20). As to the following acts alluded to in this Sūtra, comp. Āpastamba VI, 11, 4. 5; 12, 2.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1634,9 +1634,9 @@ author = "ApastambaH"
 
 <details open=><summary>Oldenberg</summary>
 
-16. [^8]  Under the Invakās (Nakṣatra), (the wooers who go to the girl's father) are sent out: such wooers are welcome.
+16. [f8]  Under the Invakās (Nakṣatra), (the wooers who go to the girl's father) are sent out: such wooers are welcome.
 
-[^8]:  On the Nakṣatra Invakās, comp. Section 3, Sūtra 4. This Sūtra forms a Śloka-hemistich, on which Haradatta observes, 'This verse has not been made by the Sūtrakāra.'
+[f8]:  On the Nakṣatra Invakās, comp. Section 3, Sūtra 4. This Sūtra forms a Śloka-hemistich, on which Haradatta observes, 'This verse has not been made by the Sūtrakāra.'
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1667,9 +1667,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-1. [^1]  Under the Maghās (Nakṣatra) cows are provided;
+1. [f1]  Under the Maghās (Nakṣatra) cows are provided;
 
-[^1]:  3, 1, 2. Comp. Ṛg-veda X, 85, 13; Atharva-veda XIV, i, 13; Kauśika-sūtra 75; Rāmāyaṇa I, 71, 24; 72, 13; Weber, Die vedischen Nachrichten von den Naxatra, II, 364 seq. These parallel passages most decidedly show that in Sūtra 2 we ought to read vyuhyate, not vyūhyate.
+[f1]:  3, 1, 2. Comp. Ṛg-veda X, 85, 13; Atharva-veda XIV, i, 13; Kauśika-sūtra 75; Rāmāyaṇa I, 71, 24; 72, 13; Weber, Die vedischen Nachrichten von den Naxatra, II, 364 seq. These parallel passages most decidedly show that in Sūtra 2 we ought to read vyuhyate, not vyūhyate.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1717,9 +1717,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-3. [^2]  A daughter whom he wishes to be dear (to her husband), a father should give in marriage under the Niṣṭyā (Nakṣatra); thus she becomes dear (to her husband); she does not return (to her father's) house: this is an observance based on a Brāhmaṇa.
+3. [f2]  A daughter whom he wishes to be dear (to her husband), a father should give in marriage under the Niṣṭyā (Nakṣatra); thus she becomes dear (to her husband); she does not return (to her father's) house: this is an observance based on a Brāhmaṇa.
 
-[^2]:  Comp. Taittirīya Brāhmaṇa I, 5, 2, 3.
+[f2]:  Comp. Taittirīya Brāhmaṇa I, 5, 2, 3.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1749,9 +1749,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-4. [^3]  The word Invakās means Mṛgaśiras; the word Niṣṭyā means Svāti.
+4. [f3]  The word Invakās means Mṛgaśiras; the word Niṣṭyā means Svāti.
 
-[^3]:  Comp. Sūtra 3, and above, Section 2, Sūtra 16.
+[f3]:  Comp. Sūtra 3, and above, Section 2, Sūtra 16.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1793,9 +1793,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-5. [^4]  At the wedding one cow;
+5. [f4]  At the wedding one cow;
 
-[^4]:  5-8. Comp. Śāṅkhāyana-Gṛhya I, 12, 10. It is clear that with the first cow the bride's father has to receive the bridegroom. The 'house' mentioned in Sūtra 6 seems to be the house of the newly-married couple. In the expression 'whom he reveres,' 'he,' according to the commentaries, is the bridegroom.
+[f4]:  5-8. Comp. Śāṅkhāyana-Gṛhya I, 12, 10. It is clear that with the first cow the bride's father has to receive the bridegroom. The 'house' mentioned in Sūtra 6 seems to be the house of the newly-married couple. In the expression 'whom he reveres,' 'he,' according to the commentaries, is the bridegroom.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -1935,9 +1935,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-10. [^5]  Let (the wooer) avoid in his wooing a girl that sleeps, or cries, or has left home.
+10. [f5]  Let (the wooer) avoid in his wooing a girl that sleeps, or cries, or has left home.
 
-[^5]:  This Sūtra forms a half-śloka.
+[f5]:  This Sūtra forms a half-śloka.
 </details>
 
 <details open=><summary>हरदत्त-प्रस्तावः</summary>
@@ -1965,9 +1965,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-11. [^6]  And let him avoid one who has been given (to another), and who is guarded (by her relations), and one who looks wicked (?), or who is a most excellent one (?), or (who is like the fabulous deer) śarabha (?), a hunch-back, a girl of monstrous appearance, a bald-headed girl, a girl whose skin is like a frog's (?), a girl who has gone over to another family (?), a girl given to sensual pleasures (?), or a herdess, or one who has too many friends, or who has a fine younger sister, or one whose age is too near to that of the bridegroom (?).
+11. [f6]  And let him avoid one who has been given (to another), and who is guarded (by her relations), and one who looks wicked (?), or who is a most excellent one (?), or (who is like the fabulous deer) śarabha (?), a hunch-back, a girl of monstrous appearance, a bald-headed girl, a girl whose skin is like a frog's (?), a girl who has gone over to another family (?), a girl given to sensual pleasures (?), or a herdess, or one who has too many friends, or who has a fine younger sister, or one whose age is too near to that of the bridegroom (?).
 
-[^6]:  Most expressions in this Sūtra are quite doubtful, and their translation rests on the explanations of the commentators (see pp. 44, 45 of Dr. Winternitz's edition), which are evidently for the most part only guesses.
+[f6]:  Most expressions in this Sūtra are quite doubtful, and their translation rests on the explanations of the commentators (see pp. 44, 45 of Dr. Winternitz's edition), which are evidently for the most part only guesses.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -2030,9 +2030,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-12. [^7]  Girls who have the name of a Nakṣatra, or of a river, or of a tree, are objectionable.
+12. [f7]  Girls who have the name of a Nakṣatra, or of a river, or of a tree, are objectionable.
 
-[^7]:  12, 13. These Sūtras would require only slight alterations to make a śloka.
+[f7]:  12, 13. These Sūtras would require only slight alterations to make a śloka.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -2150,9 +2150,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-16. [^8]  If she touches one of the former (objects, this portends) prosperity as characterized (by the nature of what she has touched).
+16. [f8]  If she touches one of the former (objects, this portends) prosperity as characterized (by the nature of what she has touched).
 
-[^8]:  The seeds mean offspring, and so on.
+[f8]:  The seeds mean offspring, and so on.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -2658,9 +2658,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <details open=><summary>Oldenberg</summary>
 
-8. [^1]  With the next Yajus (M. I, 1, 8) he places a round piece of Darbha net-work on her head; on that, with the next (verse; M. I, 1, 9) he places a right yoke-hole; on this hole he lays with the next (verse; M. I, 1, 10), a piece of gold, and washes her with the next five verses (M. I, 2, 1-5), (so that the water runs over that gold and through the yoke-hole); with the next (verse; M. I, 2, 6) he causes her to dress in a fresh garment, and with the next (M. I, 2, 7) he girds her with a rope.
+8. [f1]  With the next Yajus (M. I, 1, 8) he places a round piece of Darbha net-work on her head; on that, with the next (verse; M. I, 1, 9) he places a right yoke-hole; on this hole he lays with the next (verse; M. I, 1, 10), a piece of gold, and washes her with the next five verses (M. I, 2, 1-5), (so that the water runs over that gold and through the yoke-hole); with the next (verse; M. I, 2, 6) he causes her to dress in a fresh garment, and with the next (M. I, 2, 7) he girds her with a rope.
 
-[^1]:  4, 8. As to the last sentence of this Sūtra, comp. the statements collected by Hillebrandt, Neu- and Vollmondsopfer, p. 59.
+[f1]:  4, 8. As to the last sentence of this Sūtra, comp. the statements collected by Hillebrandt, Neu- and Vollmondsopfer, p. 59.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -3089,9 +3089,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 1. Having before the sacrifice gone round the fire, so that their right sides are turned towards it,
 
-2. [^1]  They sit down in their former position, and while she takes hold of him, he offers the oblations (indicated by the) next (Mantras), with (the Mantras), 'To Soma, the acquirer of a wife, Svāhā!' (M. I, 4, I-16), one oblation with each Mantra.
+2. [f1]  They sit down in their former position, and while she takes hold of him, he offers the oblations (indicated by the) next (Mantras), with (the Mantras), 'To Soma, the acquirer of a wife, Svāhā!' (M. I, 4, I-16), one oblation with each Mantra.
 
-[^1]:  5, 2. See 4, 9.
+[f1]:  5, 2. See 4, 9.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -3152,9 +3152,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <details open=><summary>Oldenberg</summary>
 
-3. [^2]  He then causes her, to the north of the fire, to tread with her right foot on a stone, with (the verse), 'Tread' (M. I, 5, 1).
+3. [f2]  He then causes her, to the north of the fire, to tread with her right foot on a stone, with (the verse), 'Tread' (M. I, 5, 1).
 
-[^2]:  See below, IV, 10, 9.
+[f2]:  See below, IV, 10, 9.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -3235,9 +3235,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <details open=><summary>Oldenberg</summary>
 
-6. [^3]  He (?) sacrifices (that grain) with (the verse), 'This wife' (M. I, 5, 2).
+6. [f3]  He (?) sacrifices (that grain) with (the verse), 'This wife' (M. I, 5, 2).
 
-[^3]:  'The action of sacrificing belongs to the bridegroom; the hands of the wife represent the sacrificial vessel.' Haradatta. - 'It is the bridegroom who sacrifices the grain with the verse, "This wife."' Sudarśanārya.
+[f3]:  'The action of sacrificing belongs to the bridegroom; the hands of the wife represent the sacrificial vessel.' Haradatta. - 'It is the bridegroom who sacrifices the grain with the verse, "This wife."' Sudarśanārya.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -3290,9 +3290,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 <details open=><summary>Oldenberg</summary>
 
-7. [^4]  Having gone round the fire, with the right side turned towards it, with the next three (verses; M. I, 5, 3-5) he makes her tread on the stone as above (M. I, 5, 6).
+7. [f4]  Having gone round the fire, with the right side turned towards it, with the next three (verses; M. I, 5, 3-5) he makes her tread on the stone as above (M. I, 5, 6).
 
-[^4]:  See above, Sūtra 3.
+[f4]:  See above, Sūtra 3.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -3453,9 +3453,9 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <details open=><summary>Oldenberg</summary>
 
-11. [^5]  He enters upon the performance of the Jaya and following oblations.
+11. [f5]  He enters upon the performance of the Jaya and following oblations.
 
-[^5]:  11, 12. See Section 2, Sūtras 7. 8; Section 4, Sūtra 8.
+[f5]:  11, 12. See Section 2, Sūtras 7. 8; Section 4, Sūtra 8.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -3490,9 +3490,9 @@ and (again) the oblation with the next (verse; I, 5, 12);
 
 <details open=><summary>Oldenberg</summary>
 
-12. [^6]  Having performed (the rites) down to the sprinkling (of water) round (the fire), and having untied the rope with the next two verses (I, 5, 16. 17), he should then make her depart (from her father's house in a vehicle), or should have her taken away.
+12. [f6]  Having performed (the rites) down to the sprinkling (of water) round (the fire), and having untied the rope with the next two verses (I, 5, 16. 17), he should then make her depart (from her father's house in a vehicle), or should have her taken away.
 
-[^6]:  12 seq. Comp. Hiraṇyakeśin I, 7, 22, 1 seq.
+[f6]:  12 seq. Comp. Hiraṇyakeśin I, 7, 22, 1 seq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -4579,9 +4579,9 @@ __________________
 
 <details open=><summary>Oldenberg</summary>
 
-1. [^1]  He then makes her offer the sacrifice of a Sthālīpāka sacred to Agni.
+1. [f1]  He then makes her offer the sacrifice of a Sthālīpāka sacred to Agni.
 
-[^1]:  7, 1 seq. Hiraṇyakeśin I, 7, 23, 2 seq.
+[f1]:  7, 1 seq. Hiraṇyakeśin I, 7, 23, 2 seq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -4775,9 +4775,9 @@ __________________
 
 <details open=><summary>Oldenberg</summary>
 
-6. [^2]  Or he may sacrifice after having picked out, once, a portion (of the sacrificial food with the Darvi spoon).
+6. [f2]  Or he may sacrifice after having picked out, once, a portion (of the sacrificial food with the Darvi spoon).
 
-[^2]:  As to the technical meaning of upahatya or upaghātam, comp. the note on Gobhila I, 8, 2; Gṛhya-saṃgraha I, 111.
+[f2]:  As to the technical meaning of upahatya or upaghātam, comp. the note on Gobhila I, 8, 2; Gṛhya-saṃgraha I, 111.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -4961,9 +4961,9 @@ __________________
 
 <details open=><summary>Oldenberg</summary>
 
-13. [^3]  Having silently anointed (a part of) the Barhis (by dipping it) into the remains both (of the Sthālīpāka and the Ājya) in the way prescribed (in the Śrauta ritual) for the (part of the Barhis called) Prastara, he throws (that part of the Barhis) into the fire.
+13. [f3]  Having silently anointed (a part of) the Barhis (by dipping it) into the remains both (of the Sthālīpāka and the Ājya) in the way prescribed (in the Śrauta ritual) for the (part of the Barhis called) Prastara, he throws (that part of the Barhis) into the fire.
 
-[^3]:  Comp. Śrauta-sūtra III, 5, 9 seqq. - On the prastara, see Hillebrandt, Neu- and Vollmondsopfer, 64. 142. 146.
+[f3]:  Comp. Śrauta-sūtra III, 5, 9 seqq. - On the prastara, see Hillebrandt, Neu- and Vollmondsopfer, 64. 142. 146.
 </details>
 
 <details open=><summary>हरदत्त-प्रस्तावः</summary>
@@ -5011,9 +5011,9 @@ __________________
 
 <details open=><summary>Oldenberg</summary>
 
-14. [^4]  (The rule regarding) the second sprinkling (of water round the fire) is valid (here).
+14. [f4]  (The rule regarding) the second sprinkling (of water round the fire) is valid (here).
 
-[^4]:  See above, I, 2, 8. The upahomas prescribed above, I, 2, 7, are not performed here, but the second paṛṣecana is.
+[f4]:  See above, I, 2, 8. The upahomas prescribed above, I, 2, 7, are not performed here, but the second paṛṣecana is.
 </details>
 
 <details open=><summary>हरदत्त-प्रस्तावः</summary>
@@ -5088,9 +5088,9 @@ __________________
 
 <details open=><summary>Oldenberg</summary>
 
-16. [^5]  Whom he reveres. To that (Brāhmaṇa) he makes the present of a bull.
+16. [f5]  Whom he reveres. To that (Brāhmaṇa) he makes the present of a bull.
 
-[^5]:  I have altered in my translation the division of the two sentences. Comp. Hiraṇyakeśin I, 7, 23, 5-6, and the note there.
+[f5]:  I have altered in my translation the division of the two sentences. Comp. Hiraṇyakeśin I, 7, 23, 5-6, and the note there.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -5223,9 +5223,9 @@ __________________
 
 <details open=><summary>Oldenberg</summary>
 
-19. [^6]  From then onwards he should offer morning and evening with his hand these two oblations (to Agni and to Agni Sviṣṭakṛt) of (rice) grains or of barley.
+19. [f6]  From then onwards he should offer morning and evening with his hand these two oblations (to Agni and to Agni Sviṣṭakṛt) of (rice) grains or of barley.
 
-[^6]:  The two regular daily oblations corresponding to the Agnihotra of the Śrauta ritual.
+[f6]:  The two regular daily oblations corresponding to the Agnihotra of the Śrauta ritual.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -5317,9 +5317,9 @@ __________________
 
 <details open=><summary>Oldenberg</summary>
 
-22. [^7]  Before and after (those oblations) the sprinkling (of water) round (the fire is performed) as stated above.
+22. [f7]  Before and after (those oblations) the sprinkling (of water) round (the fire is performed) as stated above.
 
-[^7]:  See I, 2, 3. 8.
+[f7]:  See I, 2, 3. 8.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -5346,9 +5346,9 @@ __________________
 
 <details open=><summary>Oldenberg</summary>
 
-23. [^8]  By the sacrifice of the new and full moon the other ceremonies have been explained (the knowledge of) which is derived from practice.
+23. [f8]  By the sacrifice of the new and full moon the other ceremonies have been explained (the knowledge of) which is derived from practice.
 
-[^8]:  See I, 1, 1.
+[f8]:  See I, 1, 1.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -5543,9 +5543,9 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <details open=><summary>Oldenberg</summary>
 
-25. [^9]  The sacrifice (of a cow) on the arrival of a guest (should be performed as stated below) without alterations.
+25. [f9]  The sacrifice (of a cow) on the arrival of a guest (should be performed as stated below) without alterations.
 
-[^9]:  See below, V, 13, 16.
+[f9]:  See below, V, 13, 16.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -5574,9 +5574,9 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <details open=><summary>Oldenberg</summary>
 
-26. [^10]  (The deities) of the Vaiśvadeva ceremony are the Viśve devās,
+26. [f10]  (The deities) of the Vaiśvadeva ceremony are the Viśve devās,
 
-[^10]:  See Āpastamba Dharma-sūtra II, 2, 3, 1 (S.B.E., vol. ii, p. 103).
+[f10]:  See Āpastamba Dharma-sūtra II, 2, 3, 1 (S.B.E., vol. ii, p. 103).
 </details>
 
 <details open=><summary>हरदत्त-प्रस्तावः</summary>
@@ -5776,9 +5776,9 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <details open=><summary>Oldenberg</summary>
 
-27. [^11]  Of ceremonies performed on full-moon days, the full-moon day on which they are performed.
+27. [f11]  Of ceremonies performed on full-moon days, the full-moon day on which they are performed.
 
-[^11]:  For instance, the Srāvaṇī paurṇamāsī is the deity of the ceremony described below, VII, 18, 5 seq.
+[f11]:  For instance, the Srāvaṇī paurṇamāsī is the deity of the ceremony described below, VII, 18, 5 seq.
 </details>
 
 <details open=><summary>हरदत्त-प्रस्तावः</summary>
@@ -5813,9 +5813,9 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 
 <details open=><summary>Oldenberg</summary>
 
-1. [^1]  At the opening and concluding ceremonies of the Vedic study, the Ṛṣi who is indicated (as the
+1. [f1]  At the opening and concluding ceremonies of the Vedic study, the Ṛṣi who is indicated (as the
 
-[^1]:  8, 1. Haradatta observes that at the kāṇḍopākaraṇa and kāṇḍasamāpana the Ṛṣi of that kāṇḍa, at the general adhyāyopākaraṇa and samāpana all kāṇḍarshis, should be worshipped.
+[f1]:  8, 1. Haradatta observes that at the kāṇḍopākaraṇa and kāṇḍasamāpana the Ṛṣi of that kāṇḍa, at the general adhyāyopākaraṇa and samāpana all kāṇḍarshis, should be worshipped.
 
 Ṛṣi of the Kāṇḍa which they study, is the deity to whom the ceremony belongs),
 </details>
@@ -6671,9 +6671,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-12. [^2]  During her (first) monthly illness he instructs her about the things forbidden (to menstruous women), contained in the Brāhmaṇa, in the section, 'A menstruous woman with whom,' &c.
+12. [f2]  During her (first) monthly illness he instructs her about the things forbidden (to menstruous women), contained in the Brāhmaṇa, in the section, 'A menstruous woman with whom,' &c.
 
-[^2]:  Taittirīya Saṃhitā II, 5, 1, 6 seq.
+[f2]:  Taittirīya Saṃhitā II, 5, 1, 6 seq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -6969,9 +6969,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-5. [^1]  When the moon, on the following day, will be in conjunction with Tiṣya, she strews three times seven barley-grains around (the plant) Clypea Hernandifolia with (the formula), 'If thou belongest to Varuṇa, I redeem thee from Varuṇa. If thou belongest to Soma, I redeem thee from Soma.'
+5. [f1]  When the moon, on the following day, will be in conjunction with Tiṣya, she strews three times seven barley-grains around (the plant) Clypea Hernandifolia with (the formula), 'If thou belongest to Varuṇa, I redeem thee from Varuṇa. If thou belongest to Soma, I redeem thee from Soma.'
 
-[^1]:  9, 5. Comp. Gobhila II, 6, 6 seq.
+[f1]:  9, 5. Comp. Gobhila II, 6, 6 seq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -7427,9 +7427,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-6. [^1]  Having put three Darbha blades into his hair (towards each of the four directions) (the teacher [?]) shaves his hair with the next four (verses; M. II, 1, 3-6) with the different Mantras, towards the different (four) directions.
+6. [f1]  Having put three Darbha blades into his hair (towards each of the four directions) (the teacher [?]) shaves his hair with the next four (verses; M. II, 1, 3-6) with the different Mantras, towards the different (four) directions.
 
-[^1]:  10, 6, 7. The difference which Haradatta makes between the teacher who begins to shave him (pravapati) and the barber who goes on with shaving (vapantam) seems too artificial.
+[f1]:  10, 6, 7. The difference which Haradatta makes between the teacher who begins to shave him (pravapati) and the barber who goes on with shaving (vapantam) seems too artificial.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -7471,9 +7471,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-7. [^2]  With the following (verse, M. II, 1, 7, somebody) addresses him while he is shaving.
+7. [f2]  With the following (verse, M. II, 1, 7, somebody) addresses him while he is shaving.
 
-[^2]:  Haradatta: The teacher addresses the barber, &c. - Sudarśanārya: The mother of the boy or a Brahmacārin [comp. Sūtra 8] . . . addresses the teacher who shaves him.
+[f2]:  Haradatta: The teacher addresses the barber, &c. - Sudarśanārya: The mother of the boy or a Brahmacārin [comp. Sūtra 8] . . . addresses the teacher who shaves him.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -7547,9 +7547,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-9. [^3]  After (the boy) has bathed, and (the ceremonies) from the putting (of wood) on (the fire) down to the Ājyabhāga oblations (have been performed), he causes him to put a piece of Palāśa wood on the fire with the next (verse; M. II, 2, 1), and makes him tread with his right foot on a stone to the north of the fire, with (the verse), 'Tread' (M. II, 2, 2).
+9. [f3]  After (the boy) has bathed, and (the ceremonies) from the putting (of wood) on (the fire) down to the Ājyabhāga oblations (have been performed), he causes him to put a piece of Palāśa wood on the fire with the next (verse; M. II, 2, 1), and makes him tread with his right foot on a stone to the north of the fire, with (the verse), 'Tread' (M. II, 2, 2).
 
-[^3]:  Comp. above, II, 4, 3.
+[f3]:  Comp. above, II, 4, 3.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -7688,9 +7688,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-11. [^4]  He ties thrice around him, from left to right, a threefold-twisted girdle of Muñja grass with the next two (verses; M. II. 2, 9. 10), and (gives him) a skin as his outer garment with the next (verse; II, 2, 11).
+11. [f4]  He ties thrice around him, from left to right, a threefold-twisted girdle of Muñja grass with the next two (verses; M. II. 2, 9. 10), and (gives him) a skin as his outer garment with the next (verse; II, 2, 11).
 
-[^4]:  Comp. Āpast. Dharma-sūtra I, I, 2, 33; I, 3, 3 seq.
+[f4]:  Comp. Āpast. Dharma-sūtra I, I, 2, 33; I, 3, 3 seq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -7787,9 +7787,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-12. [^5]  To the north of the fire (the teacher) spreads out Darbha grass; on that he causes (the boy) to station himself with the next (verse; M. II. 3, 1), pours his joined hands full of water into (the boy's) joined hands, makes him sprinkle himself three times with the next (verse; M. II, 3, 2), takes hold of his right hand with the next (formulas; M. II, 3, 3-12), gives him with the next (formulas; M. II, 3, 13-23) in charge to the deities (mentioned in those Mantras), initiates him with the next Yajus (M. II, 3, 24), and murmurs into his right ear the (Mantra), 'Blessed with offspring' (II, 3, 25).
+12. [f5]  To the north of the fire (the teacher) spreads out Darbha grass; on that he causes (the boy) to station himself with the next (verse; M. II. 3, 1), pours his joined hands full of water into (the boy's) joined hands, makes him sprinkle himself three times with the next (verse; M. II, 3, 2), takes hold of his right hand with the next (formulas; M. II, 3, 3-12), gives him with the next (formulas; M. II, 3, 13-23) in charge to the deities (mentioned in those Mantras), initiates him with the next Yajus (M. II, 3, 24), and murmurs into his right ear the (Mantra), 'Blessed with offspring' (II, 3, 25).
 
-[^5]:  As to the words, 'he initiates him' (upanayati), comp. Śāṅkhāyana II, 2, 11. 12; Āśvalāyana I, 20, 4 &c.
+[f5]:  As to the words, 'he initiates him' (upanayati), comp. Śāṅkhāyana II, 2, 11. 12; Āśvalāyana I, 20, 4 &c.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -7963,9 +7963,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-5. [^1]  (The rites) down to the Ājyabhāgas have been prescribed.
+5. [f1]  (The rites) down to the Ājyabhāgas have been prescribed.
 
-[^1]:  11, 5. See above, Section 10, Sūtra 9.
+[f1]:  11, 5. See above, Section 10, Sūtra 9.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -8421,9 +8421,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-16. [^2]  The staff of a Brāhmaṇa is made of Palāśa wood, that of a Rājanya of a branch of the Nyagrodha tree, so that the downward-turned end (of the branch) forms the tip (of the staff), that of a Vaiśya of Bādara or Udumbara wood.
+16. [f2]  The staff of a Brāhmaṇa is made of Palāśa wood, that of a Rājanya of a branch of the Nyagrodha tree, so that the downward-turned end (of the branch) forms the tip (of the staff), that of a Vaiśya of Bādara or Udumbara wood.
 
-[^2]:  16, 17. These Sūtras are identical with Dharma-sūtra I, 1, 2, 38 (S.B.E., vol. ii, p. 9).
+[f2]:  16, 17. These Sūtras are identical with Dharma-sūtra I, 1, 2, 38 (S.B.E., vol. ii, p. 9).
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -8851,9 +8851,9 @@ ______________
 
 <details open=><summary>Oldenberg</summary>
 
-26. [^3]  On the fourth day (after the Upanayana the teacher) takes the garment (of the student) for himself with the next (verse; M. II, 6, 15), having made him put on another (garment).
+26. [f3]  On the fourth day (after the Upanayana the teacher) takes the garment (of the student) for himself with the next (verse; M. II, 6, 15), having made him put on another (garment).
 
-[^3]:  The garment which the teacher takes for himself is that mentioned above, IV, 10, 10.
+[f3]:  The garment which the teacher takes for himself is that mentioned above, IV, 10, 10.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -9652,9 +9652,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-3. [^1]  At noon, after (the ceremonies) from the putting (of wood) on the fire down to the Ājyabhāga oblations (have been performed), he puts a piece of Palāśa wood on (the fire) with the next (verse; M. II, 7, 1), sits down to the west of the fire on a mat or on erakā grass, recites the next (verse, II, 7, 2) over a razor, and hands it over to the barber with the next Yajus (II, 7, 3). (The rites) beginning with the pouring together of (warm and cold) water down to the burying of the hair are the same as above (comp. M. II, 7, 4).
+3. [f1]  At noon, after (the ceremonies) from the putting (of wood) on the fire down to the Ājyabhāga oblations (have been performed), he puts a piece of Palāśa wood on (the fire) with the next (verse; M. II, 7, 1), sits down to the west of the fire on a mat or on erakā grass, recites the next (verse, II, 7, 2) over a razor, and hands it over to the barber with the next Yajus (II, 7, 3). (The rites) beginning with the pouring together of (warm and cold) water down to the burying of the hair are the same as above (comp. M. II, 7, 4).
 
-[^1]:  12, 3. See above, IV, 10, 5-8.
+[f1]:  12, 3. See above, IV, 10, 5-8.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -9759,9 +9759,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-6. [^2]  With water of the description stated above he bathes with the six next (verses; II, 7, 6-11), and with the next (II, 7, 12) he cleanses his teeth with a stick of Udumbara wood.
+6. [f2]  With water of the description stated above he bathes with the six next (verses; II, 7, 6-11), and with the next (II, 7, 12) he cleanses his teeth with a stick of Udumbara wood.
 
-[^2]:  See IV, 10, 5.
+[f2]:  See IV, 10, 5.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -10156,9 +10156,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-2. [^1]  He sits down on a bunch of grass, as stated above (comp. M. II, 9, 7), at a place where they are going to honour him (with the Argha reception).
+2. [f1]  He sits down on a bunch of grass, as stated above (comp. M. II, 9, 7), at a place where they are going to honour him (with the Argha reception).
 
-[^1]:  13, 2. See above, IV, II, 7.
+[f1]:  13, 2. See above, IV, II, 7.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -10252,9 +10252,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-5. [^2]  (The guest) should recite the next (verse, II, 9, 10) over (that water) and should stretch out the right foot first to a Brāhmaṇa, the left to a Śūdra.
+5. [f2]  (The guest) should recite the next (verse, II, 9, 10) over (that water) and should stretch out the right foot first to a Brāhmaṇa, the left to a Śūdra.
 
-[^2]:  Comp. Āśvalāyana-Gṛhya I, 24, 11. 12.
+[f2]:  Comp. Āśvalāyana-Gṛhya I, 24, 11. 12.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -11005,9 +11005,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-6. [^1]  The second (is to be used) for Brāhmaṇas; and the river near which they dwell is to be named.
+6. [f1]  The second (is to be used) for Brāhmaṇas; and the river near which they dwell is to be named.
 
-[^1]:  Āśvalāyana I, 14, 7; Pāraskara I, 15, 8. Comp. Zeitschrift der D. M. Gesellschaft, XXXIX, 88.
+[f1]:  Āśvalāyana I, 14, 7; Pāraskara I, 15, 8. Comp. Zeitschrift der D. M. Gesellschaft, XXXIX, 88.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -11037,9 +11037,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-7. [^2]  He ties barley-grains with young shoots (to the head of the wife); then she keeps silence until the stars appear.
+7. [f2]  He ties barley-grains with young shoots (to the head of the wife); then she keeps silence until the stars appear.
 
-[^2]:  7, 8. Sudarśanārya mentions that instead of the singular, 'She keeps silence, she breaks her silence,' some read the dual, so that the husband and his wife are referred to.
+[f2]:  7, 8. Sudarśanārya mentions that instead of the singular, 'She keeps silence, she breaks her silence,' some read the dual, so that the husband and his wife are referred to.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -11478,9 +11478,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-1. [^1]  After he has touched the new-born child with the Vātsapra hymn (Taitt. Saṃh. IV, 2, 2; M. II, 11, 20), and has taken him on his lap with the next Yajus (M. II, II, 21), with the next (three) (verses - II, 11, 22; 12, 1. 2 - one by one) he addresses the child, kisses him on his head, and murmurs (the third verse) into his right ear.
+1. [f1]  After he has touched the new-born child with the Vātsapra hymn (Taitt. Saṃh. IV, 2, 2; M. II, 11, 20), and has taken him on his lap with the next Yajus (M. II, II, 21), with the next (three) (verses - II, 11, 22; 12, 1. 2 - one by one) he addresses the child, kisses him on his head, and murmurs (the third verse) into his right ear.
 
-[^1]:  15, 1. We ought to read uttarābhir, not uttarābhyām. Comp. below, Sūtra 12.
+[f1]:  15, 1. We ought to read uttarābhir, not uttarābhyām. Comp. below, Sūtra 12.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -12101,9 +12101,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-12. [^2]  When (the father) returns from a journey, he should address the child and kiss him on his head with the next two (verses, M. II, 14, 3. 4), and should murmur the next Mantras (II, 14, 5) into his right ear.
+12. [f2]  When (the father) returns from a journey, he should address the child and kiss him on his head with the next two (verses, M. II, 14, 3. 4), and should murmur the next Mantras (II, 14, 5) into his right ear.
 
-[^2]:  Comp. above, Sūtra 1.
+[f2]:  Comp. above, Sūtra 1.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -12290,9 +12290,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-4. [^1]  Brāhmaṇas are entertained with food as at the initiation (Upanayana).
+4. [f1]  Brāhmaṇas are entertained with food as at the initiation (Upanayana).
 
-[^1]:  16, 4. See above, IV, 10, 5.
+[f1]:  16, 4. See above, IV, 10, 5.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -12317,9 +12317,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-5. [^2]  The putting (of wood) on the fire, &c. (is performed) as at the Sīmantonnayana.
+5. [f2]  The putting (of wood) on the fire, &c. (is performed) as at the Sīmantonnayana.
 
-[^2]:  See above, VI, 14. 2.
+[f2]:  See above, VI, 14. 2.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -12350,9 +12350,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-6. [^3]  He makes (the boy) sit down to the west of the fire, facing the east, combs his hair silently with a porcupine's quill that has three white spots, with three Darbha blades, and with a bunch of unripe Udumbara fruits; and he arranges the locks in the fashion of his ancestral Ṛṣis,
+6. [f3]  He makes (the boy) sit down to the west of the fire, facing the east, combs his hair silently with a porcupine's quill that has three white spots, with three Darbha blades, and with a bunch of unripe Udumbara fruits; and he arranges the locks in the fashion of his ancestral Ṛṣis,
 
-[^3]:  Comp. VI, 14, 3.
+[f3]:  Comp. VI, 14, 3.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -12406,9 +12406,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-8. [^4]  The ceremonies beginning with the pouring together of (warm and cold) water and ending with the putting down of the hair are the same (as above; comp. M. II, 14, 11).
+8. [f4]  The ceremonies beginning with the pouring together of (warm and cold) water and ending with the putting down of the hair are the same (as above; comp. M. II, 14, 11).
 
-[^4]:  See IV, 10, 5-8.
+[f4]:  See IV, 10, 5-8.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -12454,9 +12454,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-10. [^5]  The ceremony is (repeated) three days with the (same razor). (Then) the rite is finished.
+10. [f5]  The ceremony is (repeated) three days with the (same razor). (Then) the rite is finished.
 
-[^5]:  I translate as if the words tena tryaham and karmanivṛttiḥ formed two Sūtras.
+[f5]:  I translate as if the words tena tryaham and karmanivṛttiḥ formed two Sūtras.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -12529,9 +12529,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-13. [^6]  Or he may perform the Godāna sacred to Agni.
+13. [f6]  Or he may perform the Godāna sacred to Agni.
 
-[^6]:  'Having performed the same rites as at the opening of the study of the Āgneya-kāṇḍa, he performs an Upasthāna to the deities as taught with regard to the Śukriyavrata.' Haradatta. - 'After the ceremonies down to the Ājyabhāgas have been performed, one chief oblation of Ājya is offered with the formula, "To Agni, the Ṛṣi of the Kāṇḍa, svāhā!"' Sudarśanārya.
+[f6]:  'Having performed the same rites as at the opening of the study of the Āgneya-kāṇḍa, he performs an Upasthāna to the deities as taught with regard to the Śukriyavrata.' Haradatta. - 'After the ceremonies down to the Ājyabhāgas have been performed, one chief oblation of Ājya is offered with the formula, "To Agni, the Ṛṣi of the Kāṇḍa, svāhā!"' Sudarśanārya.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -12587,9 +12587,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-14. [^7]  Some prescribe the keeping of a vow through one year in connection with the Godāna.
+14. [f7]  Some prescribe the keeping of a vow through one year in connection with the Godāna.
 
-[^7]:  Comp. the statements given in the note on Gobhila III,
+[f7]:  Comp. the statements given in the note on Gobhila III,
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -12652,9 +12652,9 @@ MISSING??
 
 <details open=><summary>Oldenberg</summary>
 
-16. [^8]  According to the followers of the Sāma-veda he should 'touch water.'
+16. [f8]  According to the followers of the Sāma-veda he should 'touch water.'
 
-[^8]:  The udakopasparśana according to the rite of the Sāmavedins is described by Gobhila, I, 2, 5 seqq.
+[f8]:  The udakopasparśana according to the rite of the Sāmavedins is described by Gobhila, I, 2, 5 seqq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -13246,9 +13246,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-1. [^1]  When a boy is attacked by the dog-demon (i.e. epilepsy), (the father or another performer of the ceremony), having devoted himself to austerities (such as fasting), covers him with a net. Then he causes a gong to be beaten or a bell to be rung, takes (the boy) by another way than the door into the gambling-hall, raises (the earth in the middle of the hall) at the place in which they gamble, sprinkles it (with water), casts the dice, lays (the boy) on his back on the dice, and besprinkles him with his joined hands with curds and salt, with the next (eleven) (formulas, II, 16, 1-11), in the morning, at noon, and at night.
+1. [f1]  When a boy is attacked by the dog-demon (i.e. epilepsy), (the father or another performer of the ceremony), having devoted himself to austerities (such as fasting), covers him with a net. Then he causes a gong to be beaten or a bell to be rung, takes (the boy) by another way than the door into the gambling-hall, raises (the earth in the middle of the hall) at the place in which they gamble, sprinkles it (with water), casts the dice, lays (the boy) on his back on the dice, and besprinkles him with his joined hands with curds and salt, with the next (eleven) (formulas, II, 16, 1-11), in the morning, at noon, and at night.
 
-[^1]:  18, 1. Comp. Pāraskara I, 16, 24; Hiraṇyakeśin II, 2, 7.
+[f1]:  18, 1. Comp. Pāraskara I, 16, 24; Hiraṇyakeśin II, 2, 7.
 </details>
 
 <details open=><summary>हरदत्त-प्रस्तावः</summary>
@@ -13341,9 +13341,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-3. [^2]  Over a boy who suffers from the 'Śaṅkha' disease, (the father, &c.) having devoted himself to austerities, should recite the next two (verses, II, 16, 12. 13), and should pour (water) on his head with a water-pot with the next (verse, II, 16, 14), in the morning, at noon, and at night.
+3. [f2]  Over a boy who suffers from the 'Śaṅkha' disease, (the father, &c.) having devoted himself to austerities, should recite the next two (verses, II, 16, 12. 13), and should pour (water) on his head with a water-pot with the next (verse, II, 16, 14), in the morning, at noon, and at night.
 
-[^2]:  'Saṅkhin is a person attacked by such a disease that he utters cries like the sound of a conch trumpet (śaṅkha).' Haradatta.
+[f2]:  'Saṅkhin is a person attacked by such a disease that he utters cries like the sound of a conch trumpet (śaṅkha).' Haradatta.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -13390,9 +13390,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-5. [^3]  On the day of the full moon of (the month) Śrāvaṇa after sunset a Sthālīpāka (is offered).
+5. [f3]  On the day of the full moon of (the month) Śrāvaṇa after sunset a Sthālīpāka (is offered).
 
-[^3]:  Here follows a description of the Sarpabali.
+[f3]:  Here follows a description of the Sarpabali.
 </details>
 
 <details open=><summary>हरदत्त-प्रस्तावः</summary>
@@ -13446,9 +13446,9 @@ ________________________
 
 <details open=><summary>Oldenberg</summary>
 
-6. [^4]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he sacrifices of the Sthālīpāka, and with each of the next (formulas, II, 16, 15-17) he offers with his joined hands Kiṃśuka flowers.
+6. [f4]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he sacrifices of the Sthālīpāka, and with each of the next (formulas, II, 16, 15-17) he offers with his joined hands Kiṃśuka flowers.
 
-[^4]:  Comp. above, III, 7, 2-3.
+[f4]:  Comp. above, III, 7, 2-3.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -14240,9 +14240,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-8. [^1]  (Now follows) the 'redescent' in the winter.
+8. [f1]  (Now follows) the 'redescent' in the winter.
 
-[^1]:  Comp. the note on Śāṅkhāyana IV, 17, 1.
+[f1]:  Comp. the note on Śāṅkhāyana IV, 17, 1.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -14420,9 +14420,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-13. [^2]  Having prepared a Sthālīpāka for Lana and one for Kṣetrapati, he goes out in an easterly or northerly direction, prepares a raised surface, (and then follow the ceremonies) beginning with the putting of wood on the fire.
+13. [f2]  Having prepared a Sthālīpāka for Lana and one for Kṣetrapati, he goes out in an easterly or northerly direction, prepares a raised surface, (and then follow the ceremonies) beginning with the putting of wood on the fire.
 
-[^2]:  The description of the śūlagava sacrifice, which here follows, agrees in most points with the statements of Hiraṇyakeśin II, 3, 8.
+[f2]:  The description of the śūlagava sacrifice, which here follows, agrees in most points with the statements of Hiraṇyakeśin II, 3, 8.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -14493,9 +14493,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-1. [^1]  With the next (verse, II, 18, 10) he has the Īśāna led to the southern (hut),
+1. [f1]  With the next (verse, II, 18, 10) he has the Īśāna led to the southern (hut),
 
-[^1]:  20, 1-3. Comp. Hiraṇyak. II, 3, 8, 2-4. Haradatta explains the Īśāna, the mīḍhuṣī, and the jayanta as images of the three gods.
+[f1]:  20, 1-3. Comp. Hiraṇyak. II, 3, 8, 2-4. Haradatta explains the Īśāna, the mīḍhuṣī, and the jayanta as images of the three gods.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -14890,9 +14890,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-11. [^2]  With his firmly shut fist full of Darbha grass he besprinkles (them) with scents; the bull first.
+11. [f2]  With his firmly shut fist full of Darbha grass he besprinkles (them) with scents; the bull first.
 
-[^2]:  On grumuṣṭi, see the notes of the commentators, p. 93 of Dr. Winternitz's edition, and the commentary on Taitt. Saṃhitā V, 4, 5, 3 (Indische Studien, XII, 60).
+[f2]:  On grumuṣṭi, see the notes of the commentators, p. 93 of Dr. Winternitz's edition, and the commentary on Taitt. Saṃhitā V, 4, 5, 3 (Indische Studien, XII, 60).
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -15006,9 +15006,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-15. [^3]  Let him sacrifice quickly; the god has a strong digestion (?).
+15. [f3]  Let him sacrifice quickly; the god has a strong digestion (?).
 
-[^3]:  I have translated here as in Hiraṇyak. II, 3, 9, 11. Haradatta and Sudarśanārya give another explanation of the words 'pāko devaḥ;' see p. 93 of the edition.
+[f3]:  I have translated here as in Hiraṇyak. II, 3, 9, 11. Haradatta and Sudarśanārya give another explanation of the words 'pāko devaḥ;' see p. 93 of the edition.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -15146,9 +15146,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-1. [^1]  The times for the monthly Śrāddha are in the second fortnight (of the month), as they are stated.
+1. [f1]  The times for the monthly Śrāddha are in the second fortnight (of the month), as they are stated.
 
-[^1]:  21, 1. Comp. Dharmaśāstra II, 7, 16, 8 seq.; Sacred Books, vol. ii, p. 139. Comp. Professor Bühler's remarks, vol. ii, p. xiv.
+[f1]:  21, 1. Comp. Dharmaśāstra II, 7, 16, 8 seq.; Sacred Books, vol. ii, p. 139. Comp. Professor Bühler's remarks, vol. ii, p. xiv.
 </details>
 
 <details open=><summary>हरदत्त-प्रस्तावः</summary>
@@ -16176,9 +16176,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-12. [^2]  He bakes a cake of four cups (of rice).
+12. [f2]  He bakes a cake of four cups (of rice).
 
-[^2]:  12, 13. Comp. Hiraṇyak. II, 5, 14, 3 seq.
+[f2]:  12, 13. Comp. Hiraṇyak. II, 5, 14, 3 seq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -16257,9 +16257,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-1. [^1]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he makes with his joined hands oblations of the cake with the next (verse, II, 20, 27).
+1. [f1]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he makes with his joined hands oblations of the cake with the next (verse, II, 20, 27).
 
-[^1]:  22, 1. Comp. above, VII, 18, 6.
+[f1]:  22, 1. Comp. above, VII, 18, 6.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -16292,9 +16292,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-2. [^2]  The rest (of the cake) he makes ready, divides (it) into eight parts and offers it to the Brāhmaṇas.
+2. [f2]  The rest (of the cake) he makes ready, divides (it) into eight parts and offers it to the Brāhmaṇas.
 
-[^2]:  I believe that śeṣaḥ means the rest of the cake. The word 'siddhaḥ' possibly refers to such preparations of the food as are indicated in Hiraṇyak. II, 5, 14, 7. Haradatta understands śeṣaḥ as the rest of the rites (tantrasya śeṣaḥ): 'The rest of the rites is p. 294 the regular one, without alterations:' it must be admitted that the expressions used by Hiraṇyak. II, 5, 14, 10 would agree well with this explanation.
+[f2]:  I believe that śeṣaḥ means the rest of the cake. The word 'siddhaḥ' possibly refers to such preparations of the food as are indicated in Hiraṇyak. II, 5, 14, 7. Haradatta understands śeṣaḥ as the rest of the rites (tantrasya śeṣaḥ): 'The rest of the rites is p. 294 the regular one, without alterations:' it must be admitted that the expressions used by Hiraṇyak. II, 5, 14, 10 would agree well with this explanation.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -16364,9 +16364,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-4. [^3]  Having silently offered five Ājya oblations, and having cooked, the omentum of the (cow), and performed the 'spreading under' and the sprinkling over (of Ājya), he sacrifices (the omentum) with the next (verse, II, 20, 28) with a Palāśa leaf from the middle or the end (of the stalk).
+4. [f3]  Having silently offered five Ājya oblations, and having cooked, the omentum of the (cow), and performed the 'spreading under' and the sprinkling over (of Ājya), he sacrifices (the omentum) with the next (verse, II, 20, 28) with a Palāśa leaf from the middle or the end (of the stalk).
 
-[^3]:  See above, V, 13, 16.
+[f3]:  See above, V, 13, 16.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -17023,9 +17023,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-18. [^4]  If any harm is done him by these two (beasts), let him touch the earth as indicated above.
+18. [f4]  If any harm is done him by these two (beasts), let him touch the earth as indicated above.
 
-[^4]:  See VII, 19, 11. On reṣaṇe, comp. below, 23, 9.
+[f4]:  See VII, 19, 11. On reṣaṇe, comp. below, 23, 9.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -17151,9 +17151,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-3. [^1]  One who wishes that his wife should not be touched by other men, should have big living centipedes ground to powder, and should insert (that powder) with the next (formula, II, 22, 3), while she is sleeping, into her secret parts.
+3. [f1]  One who wishes that his wife should not be touched by other men, should have big living centipedes ground to powder, and should insert (that powder) with the next (formula, II, 22, 3), while she is sleeping, into her secret parts.
 
-[^1]:  23, 3. Comp. Hiraṇyak. I, 4, 14, 7.
+[f1]:  23, 3. Comp. Hiraṇyak. I, 4, 14, 7.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
@@ -17259,9 +17259,9 @@ With the next (formulas, II, 17, 9-26) he should worship (the serpents), should 
 
 <details open=><summary>Oldenberg</summary>
 
-6. [^2]  If he wishes that somebody be not estranged from him, let him pour his own urine into the horn of a living animal, and sprinkle (it) with the next two (verses, II, 22, 5. 6) three times from right to left around (the person) while he is sleeping.
+6. [f2]  If he wishes that somebody be not estranged from him, let him pour his own urine into the horn of a living animal, and sprinkle (it) with the next two (verses, II, 22, 5. 6) three times from right to left around (the person) while he is sleeping.
 
-[^2]:  6, 7. Comp. Pāraskara III, 7; Hiraṇyak. I, 4, 13, 19 seqq.
+[f2]:  6, 7. Comp. Pāraskara III, 7; Hiraṇyak. I, 4, 13, 19 seqq.
 </details>
 
 <details open=><summary>हरदत्तः</summary>
