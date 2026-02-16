@@ -12320,7 +12320,7 @@ So, safe to say that deliberate (literal) shrAvaNa to v4s was to be avoided; but
 
 अप्रयतोपहतम् अन्नम् अप्रयतं, न त्व् अभोज्यम् २१
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
 अप्रयतम् अन्नम्  
 अग्नाव् अधिश्रितम्  
