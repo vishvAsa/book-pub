@@ -1113,50 +1113,50 @@ saptabhiḥ pāvamānībhir "yadanti yac ca dūraka" iti ētābhir, yajuṣ-pavi
 
 **pāvamānyaḥ**
 
-pava̭māna॒s suva॒r-jana̭ḥ ।  
-pa॒vitrḙ̄ṇa॒ +++(nānā-viṣayēṣu)+++ vica̭rṣaṇiḥ ।  
-yaᳶ pōtā॒ sa **pṷnātu** mā ।  
+pava̭māna̱s suva̱r-jana̭ḥ ।  
+pa̱vitrḙ̄ṇa̱ +++(nānā-viṣayēṣu)+++ vica̭rṣaṇiḥ ।  
+yaᳶ pōtā̱ sa **pṷnātu** mā ।  
 
-**pu॒nantṷ** mā **dēvaja॒nāḥ** ।  
-pu॒nantu॒ **mana̭vō** dhi॒yā ।  
-pu॒nantu॒ **viśva̭ ā॒yava̭ḥ**+++(=manuṣyāḥ)+++ ।  
+**pu̱nantṷ** mā **dēvaja̱nāḥ** ।  
+pu̱nantu̱ **mana̭vō** dhi̱yā ।  
+pu̱nantu̱ **viśva̭ ā̱yava̭ḥ**+++(=manuṣyāḥ)+++ ।  
 
-jāta̭vēdaᳶ pa॒vitra̭vat ।  
-pa॒vitrḙ̄ṇa **punāhi**+++(=punīhi)+++ mā ।  
-śu॒krēṇa̭ dēva॒ **dīdya̭t** ।  
-**agnē॒** kratvā॒+++(=prajñayā)+++ kratū॒m̐r anṷ ॥46॥  
+jāta̭vēdaᳶ pa̱vitra̭vat ।  
+pa̱vitrḙ̄ṇa **punāhi**+++(=punīhi)+++ mā ।  
+śu̱krēṇa̭ dēva̱ **dīdya̭t** ।  
+**agnē̱** kratvā̱+++(=prajñayā)+++ kratū̱m̐r anṷ ॥46॥  
 
-yat tḙ̄ **pa॒vitra̭m a॒rciṣi̭** ।  
-agnē॒ vita̭tam anta॒rā ।  
-brahma॒ tēna̭ **punīmahē** ।  
+yat tḙ̄ **pa̱vitra̭m a̱rciṣi̭** ।  
+agnē̱ vita̭tam anta̱rā ।  
+brahma̱ tēna̭ **punīmahē** ।  
 
-u॒bhābhyā̭n dēva **savitaḥ** ।  
-pa॒vitrḙ̄ṇa sa॒vēna̭ ca ।  
-i॒dam brahma̭ **punīmahē** ।+++(5)+++  
+u̱bhābhyā̭n dēva **savitaḥ** ।  
+pa̱vitrḙ̄ṇa sa̱vēna̭ ca ।  
+i̱dam brahma̭ **punīmahē** ।+++(5)+++  
 
-vai॒śva॒dē॒vī **pṷna॒tī** dē॒vy **āgā̭t**+++(=āgacchatu)+++ ।  
-yasyai̭ ba॒hvīs ta॒nuvō̭ vī॒ta-pr̥̭ṣṭhāḥ+++(=kānta-stutayaḥ)+++ ।  
-tayā॒ **mada̭ntas** sadha॒-mādyḙ̄ṣu +++(=saha mādyanti yēṣu savanēṣu)+++ ।  
-va॒yam̐ **syā̭ma॒** pata̭yō rayī॒ṇām ॥47॥  
+vai̱śva̱dē̱vī **pṷna̱tī** dē̱vy **āgā̭t**+++(=āgacchatu)+++ ।  
+yasyai̭ ba̱hvīs ta̱nuvō̭ vī̱ta-pr̥̭ṣṭhāḥ+++(=kānta-stutayaḥ)+++ ।  
+tayā̱ **mada̭ntas** sadha̱-mādyḙ̄ṣu +++(=saha mādyanti yēṣu savanēṣu)+++ ।  
+va̱yam̐ **syā̭ma̱** pata̭yō rayī̱ṇām ॥47॥  
 
-**vai॒śvā॒na॒rō** ra॒śmibhi̭r mā **punātu** ।   
-**vāta̭ᳶ** prā॒ṇēnḙ̄ṣi॒rō+++(←iṣa gatau)+++ ma̭yō॒bhūḥ ।  
-**dyāvā̭pr̥thi॒vī** paya̭sā॒ payō̭bhiḥ +++(iti kramaśaḥ)+++ ।   
-r̥॒tāva̭rī+++(=r̥tavatyau)+++ ya॒jñiyḙ̄ mā **punītām** ।  
+**vai̱śvā̱na̱rō** ra̱śmibhi̭r mā **punātu** ।   
+**vāta̭ᳶ** prā̱ṇēnḙ̄ṣi̱rō+++(←iṣa gatau)+++ ma̭yō̱bhūḥ ।  
+**dyāvā̭pr̥thi̱vī** paya̭sā̱ payō̭bhiḥ +++(iti kramaśaḥ)+++ ।   
+r̥̱tāva̭rī+++(=r̥tavatyau)+++ ya̱jñiyḙ̄ mā **punītām** ।  
 
 **yadanti**
 
-ya᳓d a᳓nti ya᳓c ca dūrakē᳓  
-bhayaṁ᳓ vinda᳓ti mā᳓m iha᳓  
-pa᳓vamāna vi᳓ ta᳓j jahi
+yád ánti yác ca dūrakḗ  
+bhayáṁ vindáti mā́m ihá  
+pávamāna ví táj jahi
 
 **yajuṣ-pavitram**  
 <details open><summary><h5>viśvāsa-prastutiḥ</h5></summary>
 
-āpō̭ a॒smān mā॒tara̭ś śundhantu।+++(ra4)+++  
-ghr̥॒tēna̭ nō ghr̥ta॒-puva̭ᳶ+++(→ghr̥tapāvakāḥ)+++ punantu ।  
-viśva̭m a॒smat pra va̭hantu ri॒pram+++(=pāpam)+++ +++(ra5)+++  
-ud +++(adbhya)+++ ā̭bhya॒ś śuci॒r ā pū॒ta ḙ̄mi ।+++(ra5)+++
+āpō̭ a̱smān mā̱tara̭ś śundhantu।+++(ra4)+++  
+ghr̥̱tēna̭ nō ghr̥ta̱-puva̭ᳶ+++(→ghr̥tapāvakāḥ)+++ punantu ।  
+viśva̭m a̱smat pra va̭hantu ri̱pram+++(=pāpam)+++ +++(ra5)+++  
+ud +++(adbhya)+++ ā̭bhya̱ś śuci̱r ā pū̱ta ḙ̄mi ।+++(ra5)+++
 
 </details>
 
@@ -1164,31 +1164,31 @@ ud +++(adbhya)+++ ā̭bhya॒ś śuci॒r ā pū॒ta ḙ̄mi ।+++(ra5)+++
 
 **r̥k**
 
-káyā² naści³trá ā bhuva²꣯dū³tī² sa³dā²vr̥³dha²ḥ sákhā²। ka²yā³ śáci²ṣṭhayā vr̥³tā² ॥ 12-1:0682 ॥
+ka¹yā² naści³tra¹ ā bhuva²ʳdū³tī² sa³dā²vr̥³dha²ḥ sa¹khā²। ka²yā³ śa¹ci²ṣṭhayā vr̥³tā² ॥ 12-1:0682 ॥
 
 <details open><summary>viśvāsa-śākala-prastutiḥ</summary>
 
-ka᳓yā naś citra᳓ +++(→indraḥ)+++ **ā᳓ bhuvad**  
-**ūtī᳓** +++(=rakṣaṇam/ tarpaṇam [tēna])+++, sadā᳓-vr̥dhaḥ +++(=vardhamānaḥ)+++ sa᳓khā ।  
-ka᳓yā śa᳓ciṣṭhayā +++(=prajñāvatā)+++ vr̥tā᳓ +++(=vartanēna)+++ 1
+káyā naś citrá +++(→indraḥ)+++ **ā́ bhuvad**  
+**ūtī́** +++(=rakṣaṇam/ tarpaṇam [tēna])+++, sadā́-vr̥dhaḥ +++(=vardhamānaḥ)+++ sákhā ।  
+káyā śáciṣṭhayā +++(=prajñāvatā)+++ vr̥tā́ +++(=vartanēna)+++ 1
 
 </details>
-kástvā² sa³tyṓ madā²꣯nā³ṁ máꣳhi²ṣṭhō matsa³dándha²saḥ। dr̥³ḍhā́ ci²dā³ru²jē³ vásu² ॥ 12-2:0683 ॥
+ka¹stvā² sa³tyō¹ madā²ʳnā³ṁ ma¹ꣳhi²ṣṭhō matsa³da¹ndha²saḥ। dr̥³ḍhā¹ ci²dā³ru²jē³ va¹su² ॥ 12-2:0683 ॥
 
 <details open><summary>viśvāsa-śākala-prastutiḥ</summary>
 
-ka᳓s tvā satyō᳓ ma᳓dānāṁ  
-maṁ᳓hiṣṭhō +++(=pūjyaḥ)+++ **matsad** +++(=mādayēd)+++ a᳓ndhasaḥ+++(= bhōjyaḥ (→[sōmaḥ])+++) ।  
-dr̥ḷhā᳓ +++(=ḍham)+++ cid **āru᳓jē** +++(=sambhaṅktum)+++ va᳓su 2
+kás tvā satyṓ mádānāṁ  
+máṁhiṣṭhō +++(=pūjyaḥ)+++ **matsad** +++(=mādayēd)+++ ándhasaḥ+++(= bhōjyaḥ (→[sōmaḥ])+++) ।  
+dr̥ḷhā́ +++(=ḍham)+++ cid **ārújē** +++(=sambhaṅktum)+++ vásu 2
 
 </details>
-a³bhī²꣫ ṣu ṇa³ḥ sákhī²nāmavi³tā́ ja²ritr̥³ṇā²m। śa³táṁ bha²vāsyū³táyē² ॥ 12-3:0684 ॥॥12(ṭā)॥
+a³bhī²ᵘ ṣu ṇa³ḥ sa¹khī²nāmavi³tā¹ ja²ritr̥³ṇā²m। śa³ta¹ṁ bha²vāsyū³ta¹yē² ॥ 12-3:0684 ॥॥12(ṭā)॥
 
 <details open><summary>viśvāsa-śākala-prastutiḥ</summary>
 
-abhī᳓ ṣu᳓ ṇaḥ sa᳓khīnām  
-**avitā᳓** jaritr̥̄ṇā᳓m +++(=stōtr̥̄ṇām)+++।  
-śataṁ᳓ **bhavāsy** ūti᳓bhiḥ +++(=rakṣābhiḥ)+++3  
+abhī́ ṣú ṇaḥ sákhīnām  
+**avitā́** jaritr̥̄ṇā́m +++(=stōtr̥̄ṇām)+++।  
+śatáṁ **bhavāsy** ūtíbhiḥ +++(=rakṣābhiḥ)+++3  
 +++(abhibhavasi = sammukhō bhavasi)+++
 
 </details>  
@@ -1228,10 +1228,10 @@ au+++([pē])+++hō+++("3)+++hāi।
 
 **āṅgīrasam**
 
-+++(ahaṁ)+++ ha॒m̐saś śṷci॒-ṣad, vasṷr antarikṣa॒-sad,  
-+hōtā̭ vēdi॒-ṣad, ati̭thir durōṇa॒-sat ।  
-nr̥॒-ṣad, va̭ra॒-sad, r̥̭ta॒-sad vyō̭ma॒-sad,  
-a॒b-jā, gō॒-jā, r̥̭ta॒-jā, a̭dri॒-jā, r̥॒taṁ br̥॒hat ॥
++++(ahaṁ)+++ ha̱m̐saś śṷci̱-ṣad, vasṷr antarikṣa̱-sad,  
++hōtā̭ vēdi̱-ṣad, ati̭thir durōṇa̱-sat ।  
+nr̥̱-ṣad, va̭ra̱-sad, r̥̭ta̱-sad vyō̭ma̱-sad,  
+a̱b-jā, gō̱-jā, r̥̭ta̱-jā, a̭dri̱-jā, r̥̱taṁ br̥̱hat ॥
 
 </details>
 
@@ -22274,20 +22274,20 @@ balīnāṁ madhyē tasyatasya balērdēśē saṁskāraḥ kartavyaḥ। kaḥ
 
 aupāsanē pacanē vā ṣaḍbhirādyaiḥ pratimantraṁ hastēna juhuyāt 16  
 
-- ōm+++(ityanujñākṣaraṁ)+++ a॒gnayē॒ svāhā̭+++(haviḥpradānārthaḥ)+++।  
+- ōm+++(ityanujñākṣaraṁ)+++ a̱gnayē̱ svāhā̭+++(haviḥpradānārthaḥ)+++।  
 
-- sōmā̭ya॒ svāhā̭।+++(kaiścinnōcyatē mantraḥ।)+++  
+- sōmā̭ya̱ svāhā̭।+++(kaiścinnōcyatē mantraḥ।)+++  
 
-- viśvḙ̄bhyō dē॒vēbhya॒s svāhā̭।  
+- viśvḙ̄bhyō dē̱vēbhya̱s svāhā̭।  
 
-- +++(khē)+++ dhru॒vāya̭ bhū॒māya̭+++(=bhūmnē)+++ svāhā̭।  
+- +++(khē)+++ dhru̱vāya̭ bhū̱māya̭+++(=bhūmnē)+++ svāhā̭।  
 
-dhru॒va॒-kṣita̭yē॒+++(←svaraḥ??)+++ +++(khē)+++ svāhā̭।  
+dhru̱va̱-kṣita̭yē̱+++(←svaraḥ??)+++ +++(khē)+++ svāhā̭।  
 +++(vivāhē dhruva-darśana-mantrē'py ayam prayōgaḥ)+++  
 
-a॒cyu॒ta॒-kṣita̭yē॒+++(←svaraḥ??)+++  svāhā̭।  
+a̱cyu̱ta̱-kṣita̭yē̱+++(←svaraḥ??)+++  svāhā̭।  
 
-- a॒gnayḙ̄ sviṣṭa॒kr̥tḙ̄ svāhā̭।+++(=rudrō'gnissviṣṭakr̥t)+++  
+- a̱gnayḙ̄ sviṣṭa̱kr̥tḙ̄ svāhā̭।+++(=rudrō'gnissviṣṭakr̥t)+++  
 
 </details>
 
@@ -22315,13 +22315,13 @@ yatra pacyatē sa pacanō'gniḥ । aupāsanavatāmōpāsanē, dhidhurasya paca
 
 ubhayataḥ pariṣēcanaṁ yathā purastāt 17  
 
-adi॒tē'nva̭mam̐sthāḥ। +++(iti dakṣiṇataḥ, prācīnam)+++ 
+adi̱tē'nva̭mam̐sthāḥ। +++(iti dakṣiṇataḥ, prācīnam)+++ 
 
-anṷma॒tē'nva̭mam̐sthāḥ।  +++(iti paścimād udīcīnam)+++
+anṷma̱tē'nva̭mam̐sthāḥ।  +++(iti paścimād udīcīnam)+++
 
-sara̭sva॒tē 'nva̭mam̐sthāḥ।  +++(iti uttarataḥ prācīnam)+++
+sara̭sva̱tē 'nva̭mam̐sthāḥ।  +++(iti uttarataḥ prācīnam)+++
 
-dēva̭ savita॒ḥ prāsā̭vīḥ।  +++(iti prāgārambhaṁ pradakṣiṇaṁ)+++
+dēva̭ savita̱ḥ prāsā̭vīḥ।  +++(iti prāgārambhaṁ pradakṣiṇaṁ)+++
 
 </details>
 
@@ -22422,7 +22422,7 @@ aparēṇā'gnimagnēḥ paścāt । saptamāṣṭamābhyāṁ 'dharmāya svā
 udadhānasaṁnidhau navamēna 21  
 
 - dharmā̭ya svāhā̭ । adha̭rmāya svāhā̭। +++(aparēṇāgniṁ saptamāṣṭamābhyāmudagapavargam 20)+++  
-- a॒dbhyas svāhā̭ । +++(udadhānasaṁnidhau navamēna 21)+++  
+- a̱dbhyas svāhā̭ । +++(udadhānasaṁnidhau navamēna 21)+++  
 
 </details>
 
@@ -22450,7 +22450,7 @@ udakaṁ yatra dhīyatē tadudadhānaṁ[#4] maṇikākhyam । tasya sannidhau 
 
 madhyē'gārasya daśamaikādaśābhyāṁ prāgapavargam 22  
 
-- ō॒ṣa॒dhi॒va॒na॒spa॒tibhya॒s svāhā̭। ra॒kṣō॒dē॒va॒ja॒nēbhya॒s svāhā̭ । +++(madhyē'gārasya daśamaikādaśābhyāṁ prāgapavargam 22)+++  
+- ō̱ṣa̱dhi̱va̱na̱spa̱tibhya̱s svāhā̭। ra̱kṣō̱dē̱va̱ja̱nēbhya̱s svāhā̭ । +++(madhyē'gārasya daśamaikādaśābhyāṁ prāgapavargam 22)+++  
 
 </details>
 
@@ -22476,7 +22476,7 @@ daśamaikādaśābhyāṁ 'auṣadhivanaspatibhyaḥ svāhā, rakṣōdēvajanē
 
 uttarapūrvadēśē'gārasyōttaraiścaturbhiḥ 23  
 
-- +++(vāstuvidyāprasiddhēbhyaḥ)+++ gr̥hyā̭bhya॒s svāhā̭। a॒va॒sānḙ̄bhyas+++(=sīmābhyaḥ)+++ svāhā̭ । a॒va॒sāna̭patibhya॒s svāhā̭ । sa॒rva॒bhū॒tēbhya॒s svāhā̭ । +++(uttarapūrvadēśē'gārasyōttaraiścaturbhiḥ 23)+++  
+- +++(vāstuvidyāprasiddhēbhyaḥ)+++ gr̥hyā̭bhya̱s svāhā̭। a̱va̱sānḙ̄bhyas+++(=sīmābhyaḥ)+++ svāhā̭ । a̱va̱sāna̭patibhya̱s svāhā̭ । sa̱rva̱bhū̱tēbhya̱s svāhā̭ । +++(uttarapūrvadēśē'gārasyōttaraiścaturbhiḥ 23)+++  
 
 </details>
 
@@ -22527,8 +22527,8 @@ ityāpastambadharmasūtravr̥ttau dvitīyapraśnē tr̥tīyā kaṇḍikā ॥3�
 
 dēhalyāmantarikṣaliṅgēna 2
 
-- kāma̭ya॒ svāhā̭ । +++(śayyādēśē kāmaliṅgēna)+++  
-- a॒ntari̭kṣāya॒ svāhā̭ । +++(dēhalyāmantarikṣaliṅgēna 2)+++  
+- kāma̭ya̱ svāhā̭ । +++(śayyādēśē kāmaliṅgēna)+++  
+- a̱ntari̭kṣāya̱ svāhā̭ । +++(dēhalyāmantarikṣaliṅgēna 2)+++  
 
 </details>
 
@@ -22556,7 +22556,7 @@ dēhalī dvārasthā'dhastāddāru । tasyā'dhōvēdikētyanyē । antardvār
 
 uttarēṇāpidhānyām 3
 
-- yad ēja̭ti+++(=kampatē)+++ jaga̭ti yac ca॒ cēṣṭa̭ti, nāmnō̭ bhā॒gō 'yaṁ, nāmnē॒ svāhā̭। +++(uttarēṇāpidhānyām (argalē)3)+++  
+- yad ēja̭ti+++(=kampatē)+++ jaga̭ti yac ca̱ cēṣṭa̭ti, nāmnō̭ bhā̱gō 'yaṁ, nāmnē̱ svāhā̭। +++(uttarēṇāpidhānyām (argalē)3)+++  
 
 </details>
 
@@ -22583,9 +22583,9 @@ yēnā'pidhīyatē dvāraṁ sā'pidhānī kavāṭam । tadargalamityanyē ।
 uttarairbrahmasadanē 4  
 
 +++(uttarairbrahmasadanē)+++  
-- pr̥॒thi॒vyai svāhā̭। a॒ntari̭kṣāya॒ svāhā̭। di॒vē svāhā̭ ।  
-- sūryā̭ya॒ svāhā̭ । ca॒ndrama̭sē॒ svāhā̭ । nakṣa̭trēbhya॒s svāhā̭ ।  
-- indrā̭ya॒ svāhā̭ । br̥ha॒spata̭yē॒ svāhā̭ । pra॒jāpa̭tayē॒ svāhā̭ । brahma̭ṇē॒ svāhā̭।  
+- pr̥̱thi̱vyai svāhā̭। a̱ntari̭kṣāya̱ svāhā̭। di̱vē svāhā̭ ।  
+- sūryā̭ya̱ svāhā̭ । ca̱ndrama̭sē̱ svāhā̭ । nakṣa̭trēbhya̱s svāhā̭ ।  
+- indrā̭ya̱ svāhā̭ । br̥ha̱spata̭yē̱ svāhā̭ । pra̱jāpa̭tayē̱ svāhā̭ । brahma̭ṇē̱ svāhā̭।  
 
 </details>
 
@@ -22614,7 +22614,7 @@ apara āāha- brahmā yatra sīdati gārhyēṣu karmasu agnērdakṣiṇatō br
 
 dakṣiṇataḥ pitr̥liṅgēna prācīnāvītyavācīnapāṇiḥ kuryāt 5
 
-- sva॒dhā pi॒tr̥bhya॒s svāhā̭। +++( dakṣiṇataḥ pitr̥liṅgēna prācīnāvīty avācīna-pāṇiḥ kuryāt 5)+++  
+- sva̱dhā pi̱tr̥bhya̱s svāhā̭। +++( dakṣiṇataḥ pitr̥liṅgēna prācīnāvīty avācīna-pāṇiḥ kuryāt 5)+++  
 
 </details>
 
@@ -22640,7 +22640,7 @@ anantarāṇāṁ balīnāṁ dakṣiṇataḥ pitr̥liṅgēna 'svadhā pitr̥b
 
 raudra uttarō yathā dēvatābhyaḥ 6
 
-- namō̭ ru॒drāya̭ paśu॒pata̭yē॒ svāhā̭। +++(raudra uttarō yathā dēvatābhyaḥ 6 tayōr nānā pariṣēcanaṁ dharma-bhēdāt 7)+++  
+- namō̭ ru̱drāya̭ paśu̱pata̭yē̱ svāhā̭। +++(raudra uttarō yathā dēvatābhyaḥ 6 tayōr nānā pariṣēcanaṁ dharma-bhēdāt 7)+++  
 
 </details>
 
@@ -22689,10 +22689,10 @@ tayōranantarōktayōrbalyōrēkasmin dēśē samavētayōrapi nānā pr̥thak p
 
 naktamēvōttamēna vaihāyasam 8
 
-- yē bhū॒tāḥ pra॒cara̭nti divā॒ /nakta॒ṁ  
-bali̭m i॒cchantō̭ vi॒tuda̭sya॒ prēṣyā̭ḥ ।  
-tēbhyō̭ ba॒liṁ pṷṣṭi॒kāmō̭ harāmi॒  
-mayi॒ puṣṭi॒ṁ puṣṭi̭patir dadhātu॒ svāhā̭॥ +++(naktamēvōttamēna vaihāyasam 8)+++  
+- yē bhū̱tāḥ pra̱cara̭nti divā̱ /nakta̱ṁ  
+bali̭m i̱cchantō̭ vi̱tuda̭sya̱ prēṣyā̭ḥ ।  
+tēbhyō̭ ba̱liṁ pṷṣṭi̱kāmō̭ harāmi̱  
+mayi̱ puṣṭi̱ṁ puṣṭi̭patir dadhātu̱ svāhā̭॥ +++(naktamēvōttamēna vaihāyasam 8)+++  
 
 </details>
 
@@ -25978,12 +25978,12 @@ narakāsura-mukta-kr̥ṣṇa-gr̥hītāḥ kanyā iva।
 
 śrutāv api bahupatnītvaṁ kvacit praśastam - 
 
-> i॒ndri॒yavm̐ vai sō̭mapī॒thaḥ ।  
-i॒ndri॒yam ē॒va sō̭mapī॒tham ava̭ rundhē ।  
-tēnḙ̄ndri॒yēṇa̭ dvi॒tīyā̭ñ jā॒yām a॒bhya̭śñutē॥ 57  
-… tasmā॒t tē dvē dvḙ̄ jā॒yē a॒bhyā̭kṣata ।  
-ya ē॒vavm̐ vēda̭ -  
-a॒bhi dvi॒tīyā̭ñ jā॒yām a̭śñutē ।
+> i̱ndri̱yavm̐ vai sō̭mapī̱thaḥ ।  
+i̱ndri̱yam ē̱va sō̭mapī̱tham ava̭ rundhē ।  
+tēnḙ̄ndri̱yēṇa̭ dvi̱tīyā̭ñ jā̱yām a̱bhya̭śñutē॥ 57  
+… tasmā̱t tē dvē dvḙ̄ jā̱yē a̱bhyā̭kṣata ।  
+ya ē̱vavm̐ vēda̭ -  
+a̱bhi dvi̱tīyā̭ñ jā̱yām a̭śñutē ।
 </details>
 </details>
 
