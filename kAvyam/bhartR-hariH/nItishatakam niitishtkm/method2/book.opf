@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<package unique-identifier="uid" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:asd="http://www.idpf.org/asdfaf">
+    <metadata>
+        <dc-metadata  xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+            <dc:Title>nItishatakam नीतिशतकम्</dc:Title>
+            <dc:Language>san</dc:Language>
+            <dc:Creator>bhartRhari भर्तृहरि</dc:Creator>
+            <dc:Copyrights>Public Domain</dc:Copyrights>
+            <dc:Publisher>kashcid vipashcit</dc:Publisher>
+        </dc-metadata>
+    </metadata>
+    <manifest>
+        <item id="ncx" media-type="application/x-dtbncx+xml" href="book.ncx"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="content"/>
+        <itemref idref="text"/>
+        <itemref idref="Images"/>
+        <itemref idref="background"/>
+    </spine>
+    <guide>
+        <reference type="text" title="Book" href="book.htm"/>
+    </guide>
+</package>
