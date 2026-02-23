@@ -8787,7 +8787,7 @@ uktañca -
 vāṅmātrēṇāpi **nārcanam** ।  
 pāṣaṇḍinō vikarma-sthān  
 baiḍāla-vratikāṁñ chaṭhān ॥  
-haitukān baka-vr̥ttiṁś ca  
+haitukān baka-vr̥ttīṁś ca  
 vāṅmātrēṇāpi nārcayēt ।  
 
 iti ।  
@@ -8809,7 +8809,7 @@ uktañca -
 
 > ēta ēva ca tē yēṣāṁ vāṅmātrēṇāpi nārcanam ।  
 pāṣaṇḍinō vikarmasthān baiḍālavratikāṁñchaṭhān ॥  
-haitukān bakavr̥ttiṁśca vāṅmātrēṇāpi nārcayēt ।  
+haitukān bakavr̥ttīṁśca vāṅmātrēṇāpi nārcayēt ।  
 
 iti ।  
 </details>

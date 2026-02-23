@@ -5177,7 +5177,7 @@ uktañca -
 vāṅmātrēṇāpi **nārcanam** ।  
 pāṣaṇḍinō vikarma-sthān  
 baiḍāla-vratikāṁñ chaṭhān ॥  
-haitukān baka-vr̥ttiṁś ca  
+haitukān baka-vr̥ttīṁś ca  
 vāṅmātrēṇāpi nārcayēt ।  
 
 iti ।  
