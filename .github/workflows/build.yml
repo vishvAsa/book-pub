@@ -31,9 +31,7 @@ jobs:
           #   node_modules/**,**/*.log
           # show-hidden: true
           # overwrite: true
-
       - name: Run Python Link Rewriter
-        shell: python
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_REF_NAME: ${{ github.ref_name }}
