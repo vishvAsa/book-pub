@@ -8457,7 +8457,7 @@ tadīyas sthūlōddēśō'dhunā pramukhagranthānām adhyayanasaukaryāya prast
 granthānām prastutir dhvanisañcikābhis syāt (yathā [mahābhāratapārāyaṇaprasāraṇē](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)), jāla-kṣētra-pr̥ṣṭhair vā (yathā [viśvāsasya mantraṭippanīṣu](https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/), [ēkāgnikāṇḍaṭīkā](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/)), śabda-kōśair vā'pi ([stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict))। imē 'smat-pakṣatō mukta-rītyā prasāryantē। sadyaśca granthāḥ saṁsthāgraṇyā ruciviśēṣam anusr̥tya citāḥ - vēdāḥ, itihāsa-purāṇāni, kalpa-vēdāṅga-granthāś cēti।
 
 ### Contribution, contact
-asmat-samparkaḥ - @gmail - vishvas.vasuki, 95912 68506 (see [contact page on our website](https://sanskrit.github.io/groups/dyuganga/contact/))। Serious volunteering, donations and sponsorship are welcome  - they help offset operating costs (eg. worker payments, book distribution) and plan further projects. Project-specific sponsorship opportunities are occasionally advertised on our social media accounts and on certain mailing lists.
+asmat-samparkaḥ - @gmail - vishvas.vasuki, 95912 68506 (<http://rebrand.ly/dyuganga>)। Serious volunteering, donations and sponsorship are welcome  - they help offset operating costs (eg. worker payments, book distribution) and plan further projects. Project-specific sponsorship opportunities are occasionally advertised on our social media accounts and on certain mailing lists.
 
 ## vandanīya-vandanā
 (anēnōdyamēna naiṣāṁ mahatāṁ sākṣāt sambandha ūhyaḥ ।)
