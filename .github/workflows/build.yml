@@ -16,8 +16,8 @@ jobs:
           lfs: false
           # Avoid this error - This repository exceeded its LFS budget. The account responsible for the budget should increase it to restore access.
 
-      - name: Pull Git LFS files
-        run: git lfs pull
+#      - name: Pull Git LFS files
+#        run: git lfs pull
       - name: Disable Git LFS
         run: rm .gitattributes
 
