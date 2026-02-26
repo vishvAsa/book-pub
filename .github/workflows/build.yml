@@ -32,19 +32,18 @@ jobs:
           # show-hidden: true
           # overwrite: true
 
-      - name: Rewrite Links to Viewer
+      - name: Rewrite Links (Preview + Download)
         run: |
-          # The base URL for your LFS files on GitHub's media server
-          MEDIA_BASE="https://media.githubusercontent.com/media/vishvasa/book-pub/master"
-          
-          # The Google Viewer prefix to force the PDF to display inline
-          VIEWER_PREFIX="https://docs.google.com/viewer?url="
+          # Define Bases
+          PREVIEW_BASE="https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}"
+          DIRECT_BASE="https://media.githubusercontent.com/media/${{ github.repository }}/${{ github.ref_name }}"
 
-          # This SED command:
-          # 1. Finds href="./something.pdf"
-          # 2. Captures 'something.pdf'
-          # 3. Replaces it with the Viewer + Media URL
-          sed -i "s|href=\"\./\([^\" ]*\.pdf\)\"|href=\"$VIEWER_PREFIX$MEDIA_BASE/\1\"|g" index.html
+          # This SED command transforms:
+          # <a href="./path/file.pdf">file.pdf</a>
+          # INTO:
+          # file.pdf: [<a href="...preview...">Preview</a>] [<a href="...direct...">Download</a>]
+          
+          sed -i "s|<a href=\"\./\([^\" ]*\.pdf\)\">\([^<]*\)</a>|\2: [<a href=\"$PREVIEW_BASE/\1\">Preview</a>] [<a href=\"$DIRECT_BASE/\1\">Download</a>]|g" index.html
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
