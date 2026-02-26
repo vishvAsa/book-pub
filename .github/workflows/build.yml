@@ -32,17 +32,19 @@ jobs:
           # show-hidden: true
           # overwrite: true
 
-      - name: Rewrite Links to Media Server
+      - name: Rewrite Links to Viewer
         run: |
-          # 1. Define the base Media URL
-          # Replace 'master' with 'main' if that is your primary branch
-          MEDIA_BASE="https://media.githubusercontent.com/media/${{ github.repository }}/${{ github.ref_name }}"
+          # The base URL for your LFS files on GitHub's media server
+          MEDIA_BASE="https://media.githubusercontent.com/media/vishvasa/book-pub/master"
+          
+          # The Google Viewer prefix to force the PDF to display inline
+          VIEWER_PREFIX="https://docs.google.com/viewer?url="
 
-          # 2. Use sed to find all href="path/to/file.pdf" 
-          # and convert them to href="https://media.../path/to/file.pdf"
-          # This specifically targets .pdf files to avoid breaking internal HTML/CSS links.
-          # sed -i "s|href=\"\([^\"]*\.pdf\)\"|href=\"$MEDIA_BASE/\1\"|g" index.html
-          sed -i "s|href=\"\([^\"]*\.pdf\)\"|href=\"https://docs.google.com/viewer?url=$MEDIA_BASE/\1\"|g" index.html
+          # This SED command:
+          # 1. Finds href="./something.pdf"
+          # 2. Captures 'something.pdf'
+          # 3. Replaces it with the Viewer + Media URL
+          sed -i "s|href=\"\./\([^\" ]*\.pdf\)\"|href=\"$VIEWER_PREFIX$MEDIA_BASE/\1\"|g" index.html
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
