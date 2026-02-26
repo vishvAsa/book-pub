@@ -13,7 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          lfs: true  # Enable LFS fetch during checkout
+          lfs: false
+          # Avoid this error - This repository exceeded its LFS budget. The account responsible for the budget should increase it to restore access.
 
       - name: Pull Git LFS files
         run: git lfs pull
@@ -30,6 +31,18 @@ jobs:
           #   node_modules/**,**/*.log
           # show-hidden: true
           # overwrite: true
+
+      - name: Rewrite Links to Media Server
+        run: |
+          # 1. Define the base Media URL
+          # Replace 'master' with 'main' if that is your primary branch
+          MEDIA_BASE="https://media.githubusercontent.com/media/${{ github.repository }}/${{ github.ref_name }}"
+
+          # 2. Use sed to find all href="path/to/file.pdf" 
+          # and convert them to href="https://media.../path/to/file.pdf"
+          # This specifically targets .pdf files to avoid breaking internal HTML/CSS links.
+          # sed -i "s|href=\"\([^\"]*\.pdf\)\"|href=\"$MEDIA_BASE/\1\"|g" index.html
+          sed -i "s|href=\"\([^\"]*\.pdf\)\"|href=\"https://docs.google.com/viewer?url=$MEDIA_BASE/\1\"|g" index.html
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
