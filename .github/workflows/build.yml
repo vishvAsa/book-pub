@@ -32,18 +32,12 @@ jobs:
           # show-hidden: true
           # overwrite: true
 
-      - name: Rewrite Links (Preview + Download)
-        run: |
-          # Define Bases
-          PREVIEW_BASE="https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}"
-          DIRECT_BASE="https://media.githubusercontent.com/media/${{ github.repository }}/${{ github.ref_name }}"
-
-          # This SED command transforms:
-          # <a href="./path/file.pdf">file.pdf</a>
-          # INTO:
-          # file.pdf: [<a href="...preview...">Preview</a>] [<a href="...direct...">Download</a>]
-          
-          sed -i "s|<a href=\"\./\([^\" ]*\.pdf\)\">\([^<]*\)</a>|\2: [<a href=\"$PREVIEW_BASE/\1\">Preview</a>] [<a href=\"$DIRECT_BASE/\1\">Download</a>]|g" index.html
+      - name: Run Python Link Rewriter
+        shell: python
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: python rewrite_lfs_links.py
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
