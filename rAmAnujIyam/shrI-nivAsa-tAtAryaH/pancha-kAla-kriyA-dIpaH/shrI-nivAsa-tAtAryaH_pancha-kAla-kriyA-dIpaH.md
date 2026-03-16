@@ -32,7 +32,7 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 समाराधन-कर्मणः ।]  
 याग-ध्यानादि-रूपस्य  
 **प्रयोगो** ह्य् **अभिधीयते** ॥ 
-# ०१ अभिगमनम्
+# +०१ अभिगमनम्
 
 ## ०१ प्रातर् अभिगमन-सङ्कल्पः
 
@@ -331,7 +331,7 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 [[65]]
 
-# ०२ उपादानम्
+# +०२ उपादानम्
 
 ## ०१ उपादान-सङ्कल्पः
 
@@ -345,7 +345,7 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 इत्य् अनुसन्धाय 
 
-## ०२ पूजोपकरण-द्रव्य-संपादन-प्रकारः
+## +०२ पूजोपकरण-द्रव्य-संपादन-प्रकारः
 
 कुशादि-दर्भान् समिधः पत्राणि पुष्पाणि फल-मूलान्य् ओषधीः दधि-क्षीराज्यादीनि हविर् योग्य-तण्डुलानि गुडानि स्नानीय-द्रव्याणि वस्त्राणि स्वादु-सलिलान्य् अन्यानि पूजोपकरण-द्रव्याणि यथा-शक्ति यथा-वस्तु याच्ञया पूर्व-सम्पादितैर् अर्थैर् वा सम्पादयेत् । 
 
@@ -414,7 +414,7 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 [[69]]
 
-# ०३ इज्या
+# +०३ इज्या
 
 अथेज्या॥ 
 4 
@@ -899,13 +899,13 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 [[80]]
 
 > हस्ते बिभ्रत्-सरसिज-गदा-शङ्ख-चक्राणि विद्यां  
-पद्मादर्शौ[^१_८१] कनक-कलशं मेघ-विद्युद्-विलासम् ।  
-वामोत्तुङ्ग-स्तनम् अविरलाकल्पनाश्लेष-लोभात्[^१_८२]  
+पद्मादर्शौ[#१_८१] कनक-कलशं मेघ-विद्युद्-विलासम् ।  
+वामोत्तुङ्ग-स्तनम् अविरलाकल्पनाश्लेष-लोभात्[#१_८२]  
 एकी-भूतं वपुर् अवतु नः पुण्डरीकाक्ष-लक्ष्म्याः ॥ 
 
-[^१_८१]: पद्मापर्शन[[??]] O. M.
+[#१_८१]: पद्मापर्शन[[??]] O. M.
 
-[^१_८२]: भोगात् O. M.
+[#१_८२]: भोगात् O. M.
 
 इति ध्यात्वा, 
 
@@ -1050,11 +1050,11 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 इति वा अङ्ग-न्यासं कृत्वा ॥ 
 
 > विष्णुं भास्वत्-किरीटां गद-वलय-गला-कल्प-हारोदराङ्घ्रि  
-श्रोणी-भूषं[^१] सवक्षो मणि-मकर-महा-कुण्डल-मण्डिताङ्गम् ।  
+श्रोणी-भूषं[#१] सवक्षो मणि-मकर-महा-कुण्डल-मण्डिताङ्गम् ।  
 हस्तोद्यच्-चक्र-शङ्खाम्बु-ज-गदम् अमलं पीत-कौशेयम् आशा 
 विद्योतद्-भासम् उद्यद्-दिन-कर-सदृशं पद्म-संस्थं नमामि || 
 
-[^१]: श्रोणी-भूषादि-वेषो [[??]]- O.M. 
+[#१]: श्रोणी-भूषादि-वेषो [[??]]- O.M. 
  
 इति ध्यात्वा प्रणव-जपं कृत्वा, 
 
@@ -1092,9 +1092,9 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 ### अष्टाक्षर-मन्त्रस्य न्यासादि-जप-प्रकारः
 
-> अस्य श्रीमद्-अष्ठाक्षर-महा-मन्त्रस्य अन्तर्-यामी भगवान् नारायण ऋषिः बदरिकाश्रम-वासी नारायण ऋषिर् इति वा । देवि गयत्री-छन्दः परमात्मा भगवन्-नारायणो देवता । ओं बीजम्, आय-शक्तिः[^१], अं बीजं, उं शक्तिर्, इति वा मं कीलकम् । परम-व्योम-क्षेत्रम् | बुद्धिस् तत्त्वं । शुक्लो वर्णः । ह्रीं कवचम् । क्लीम् अस्त्रम् । उदात्त-स्वरः । श्रीमन्-नारायण-प्रीत्य्-अर्थे विनियेगः । 
+> अस्य श्रीमद्-अष्ठाक्षर-महा-मन्त्रस्य अन्तर्-यामी भगवान् नारायण ऋषिः बदरिकाश्रम-वासी नारायण ऋषिर् इति वा । देवि गयत्री-छन्दः परमात्मा भगवन्-नारायणो देवता । ओं बीजम्, आय-शक्तिः[#१], अं बीजं, उं शक्तिर्, इति वा मं कीलकम् । परम-व्योम-क्षेत्रम् | बुद्धिस् तत्त्वं । शुक्लो वर्णः । ह्रीं कवचम् । क्लीम् अस्त्रम् । उदात्त-स्वरः । श्रीमन्-नारायण-प्रीत्य्-अर्थे विनियेगः । 
 
-[^१]: आयुद-शक्तिः - O. M. 
+[#१]: आयुद-शक्तिः - O. M. 
 
 > ओं नमः पराय श्रीमद्-अष्टाक्षर-प्रदात्रे गुरवे नम 
 
@@ -1243,12 +1243,14 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 जानुन्य् आधाय सव्येतरम् इतर-भुजं नाग-भोगे निधाय ।  
 पश्चाद् बाहु-द्वयेन प्रतिभट-शमने धारयन् शङ्ख-चक्रे  
 देवी-भूषादि-जुष्टो जनयतु जगतां शर्म वैकुण्ठ-नाथः॥  
-पद्माक्षम् आपरिगतं विमलेन्द्र-नील- 
+>
+> पद्माक्षम् आपरिगतं विमलेन्द्र-नील- 
 श्यामं चतुर्-भुज-धृतारि-गदाब्ज-यष्टिम् ।  
 केयूर-हार-वन-दाम-किरिट-काञ्ची  
 श्री-वत्स-कैस्तुभ-मुखाभरणैर् उपेतम्॥  
-श्रीमत्-पिशङ्ग-वदनं सनकादि-भक्तैः  
-साङ्गैस् तु तं च निगमोपनिषत् पुराणैः ।  
+>
+> श्रीमत्-पिशङ्ग-वदनं सनकादि-भक्तैः  
+साङ्गैस् तु तं च निगमोपनिषत्-पुराणैः ।  
 सानुग्रह-स्मित-कृपादृशम् आश्रितानाम्  
 नारायणं भव-हरं शरणं प्रपद्ये ॥  
 
@@ -2715,7 +2717,7 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 ** 
 
-# ०४ स्वाध्यायः
+# +०४ स्वाध्यायः
 
 ## ०१ स्वाध्यायार्थ-सङ्कल्पः
 
@@ -2812,7 +2814,7 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 [[153]]
 
-# ०५ योगः
+# +०५ योगः
 
 ## ०१ योगार्थ-सङ्कल्पः
 
@@ -2829,7 +2831,7 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 इत्य् अनुसन्धाय 
 
-## ०२ समाधिः
+## +०२ समाधिः
 
 ### ०१ आसनादि
 
@@ -3071,7 +3073,7 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 ॥ इति पञ्ज-काल-क्रिया-दीपः सम्पूर्णः ॥ 
 
-# ०६ कर्म-विचारः
+# +०६ कर्म-विचारः
 
 ## ०१ फल-कर्तृत्व-त्यागः
 
@@ -3263,7 +3265,10 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 सर्वान् कामान् प्राप्नुवन् ते विशालान्  
 त्रै-लोक्ये ऽस्मिन् कृष्ण-नामाभिधानात् ॥  
 
-तनूनां अग्नीन्द्रादि-तनूनां । सप्तम्य् अर्थे षष्ठी । तनुषु कृष्ण-नामाभिधानात् । "यो देवानां नामधा" इति श्रुत्या सर्वेषां नाम-रूप-व्याकृतत्वात्वाच् च।
+तनूनां अग्नीन्द्रादि-तनूनां । सप्तम्य् अर्थे षष्ठी ।  
+तनुषु कृष्ण-नामाभिधानात् । 
+
+"यो देवानां नामधा" इति श्रुत्या सर्वेषां नाम-रूप-व्याकृतत्वात्वाच् च।
 
 [[43]]
 
@@ -3292,16 +3297,30 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 नमश् चक्रे वेद वेदार्थकत्वात्  
 भक्तो भक्त्या शुद्ध-भावः प्रधानः ।  
-श्रद्धा-त्यागं निर्वृतिं चापि पूजां 
+श्रद्धा-त्यागौ(~~गं~~) निर्वृतिं चापि पूजां 
 सत्यं धर्मं य कृतं चाभ्युपेति ॥  
 काम-क्रोधौ त्यज्य सर्वेषु तुल्यः 
 श्रद्धा-पूतस् सर्व-यज्ञेषु योग्यः ॥  
 
-इति कृष्ण-ध्यान-पूर्वकं विष्णु-रूप-सोमाज्यादि-द्रव्यैः कृष्ण-यजनं परमैकान्तिनां सुस्पष्टं विहितम् । भगवद्-आराधन-रूपेभ्यः स्मार्त-पौराणिकागम-शास्त्र-दान--काण्ड-व्रत--काण्ड-कृच्छ्र--चान्द्रायणादि-विधायक-शास्त्र-विहित-कर्मभ्यः श्रौत-कर्मणां भगवतो नित्य-निरवधिक-निरतिशय-प्रीति-करत्वात् तेषां महाराधन-रूपत्वम् । अत एव 
+इति कृष्ण-ध्यान-पूर्वकं  
+विष्णु-रूप-सोमाज्यादि-द्रव्यैः कृष्ण-यजनं  
+परमैकान्तिनां सुस्पष्टं विहितम् ।  
+भगवद्-आराधन-रूपेभ्यः स्मार्त-पौराणिकागम-शास्त्र- दान-काण्ड-- व्रत-काण्ड-- कृच्छ्र--चान्द्रायणादि-विधायक-शास्त्र- विहित-कर्मभ्यः  
+श्रौत-कर्मणां भगवतो नित्य-निरवधिक-निरतिशय-प्रीति-करत्वात् तेषां महाराधन-रूपत्वम् । अत एव 
 
-> महा-क्रतुर् महा-यज्वा महा-यज्ञो महा-हविर्
+> महा-क्रतुर् महा-यज्वा  
+> महा-यज्ञो महा-हविर्
 
-इति भगवतो नामान्य् उक्तानि । ताप-पुण्ड्रादि-कृत-लक्षणैर् एकान्तिभिर् भगवन् -मन्त्र-सहित-तद्-आराधनत्वेन कृतस्य अग्नि-होत्रादि-क्रतोर् महा-क्रतुत्वम् । तथाविध-यष्टुर् एकान्तिनो महा-यज्वत्वम् । तथाविध-सोम-यागस्य महा-यज्ञत्वम् । तत्रत्य-पुरोडाश-पशु-सोमाज्यादीनां महा-हविष्ट्वम् । एकान्तिभिर् इज्यस्य विष्णोर् महेज्यत्वम् । अन्यैस् तु इज्यत्वम् । "यज्ञ इज्यो महेज्यश् चे"ति पृथग् उपादानात् । तद्-रूपत्वात् तद्-आत्मत्वात् कृष्णस्यापि महा-क्रत्व्-आदीनां वाच्यत्वम् । "ज्ञानी त्व् आत्मैव मे मतम्" इत्य् उक्तेः "यज्ञो यज्ञ-पतिर् यज्वेत्य्"आदिः आर्तार्थार्थि-जिज्ञासु-विषयः। ब्रह्म-रुद्रेन्द्रादिभ्यः फलेच्छु-विषय इति केचित् । महा-क्रत्व्-आदिस् तु प्रतिबुद्ध-विषय एवेति विवेकः । अत एव 
+इति भगवतो नामान्य् उक्तानि ।  
+ताप-पुण्ड्रादि-कृत-लक्षणैर् एकान्तिभिर्  
+भगवन्-मन्त्र-सहित-- तद्-आराधनत्वेन कृतस्य  
+अग्नि-होत्रादि-क्रतोर् महा-क्रतुत्वम् ।  
+तथाविध-यष्टुर् एकान्तिनो महा-यज्वत्वम् ।  
+तथाविध-सोम-यागस्य महा-यज्ञत्वम् ।  
+तत्रत्य-पुरोडाश-पशु-सोमाज्यादीनां महा-हविष्ट्वम् ।  
+एकान्तिभिर् इज्यस्य विष्णोर् महेज्यत्वम् ।  
+अन्यैस् तु इज्यत्वम् । 
+"यज्ञ इज्यो महेज्यश् चे"ति पृथग् उपादानात् । तद्-रूपत्वात् तद्-आत्मत्वात् कृष्णस्यापि महा-क्रत्व्-आदीनां वाच्यत्वम् । "ज्ञानी त्व् आत्मैव मे मतम्" इत्य् उक्तेः "यज्ञो यज्ञ-पतिर् यज्वेत्य्"आदिः आर्तार्थार्थि-जिज्ञासु-विषयः। ब्रह्म-रुद्रेन्द्रादिभ्यः फलेच्छु-विषय इति केचित् । महा-क्रत्व्-आदिस् तु प्रतिबुद्ध-विषय एवेति विवेकः । अत एव 
 
 [[45]] 
 
@@ -3368,7 +3387,7 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 इति यज्ञ-मध्ये भगवद्-आविर्भाव-दर्शनाच् च । यज्ञाराध्यत्वं भगवतः तद्-आराधनत्वं यज्ञस्य तद्-आराधकत्वं पुरुषस्य स्व-भावत एवेति श्रौतानां स्मार्तानां च कर्मणां भगवद्-आराधनत्वेन परमैकान्तिभिः कार्यत्वम् इति निश्चयः । 
 
-## ०३ श्रौते पाञ्चरात्रांशाः
+## +०३ श्रौते पाञ्चरात्रांशाः
 
 ### ०१ मूल-मन्त्रः
 
@@ -3778,3 +3797,43 @@ Source: [TW](https://archive.org/details/HCAO_pancha-kala-kriya-dipa-by-shriniva
 
 इत्य् उक्तम् । तद्-एतावद् एव प्रणम्य भगवत्-सन्निधि-भूमिं गत्वा भगवते यत् किञ्चिद् उपहारं दत्त्वा भगवन्तं श्रुति-सुखैः स्तोत्रैः स्तुत्वा पूर्व-कालोक्त-वर्त्मना यथा-विधि पत्र-पुष्प-फलैः धूप-दीप-गन्धादिभिः जप-ध्यानार्चन-स्तोत्रैर् भगवन्तम् अर्चयेत् । केवलं पुष्पाञ्जलिं वा दद्यात् । ततो भगवन्तं पुनः प्रणम्य पितराव् अभिवाद्य वृद्धाभिवादन-गुरूपासन-तद्-धिताचरणानि कृत्वा परस्य गवे गोमती-विद्यया ग्रास-मुष्टिं दत्त्वात्वा 
 
+# Appendix - +Dyugangā द्युगङ्गा
+
+## Goals ध्येयानि
+Dyugangā is a work group dedicated to the promotion of ever-victorious Hindu ideals and arts. It's current focus is in presenting important texts for easy study. Long term goal (https://rebrand.ly/dg-archive) is to save texts to last for millennia into the coming post-electronic/ industrial age.
+
+The texts may be presented as 
+
+- audio files (eg: [MahAbhArata audio book project](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)), 
+- as web pages (eg. [Apastamba-gRhya-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/), [Apastamba-dharma-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/), [EkAgnikANDa commentary](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/), [manu-smRti](https://vishvasa.github.io/kalpAntaram/smRtiH/manuH/sarva-prastutiH/05/), [raghuvaMsha](https://vishvasa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/01/), more [kalpa-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/kalpa-texts/), [tattva-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/tattva-texts/), [universal subhAShita DB](https://subhashita.github.io/saMskRtam/padyam/random/)), 
+- as dictionaries (eg: [stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict))
+- ebooks distributed on various platforms - (eg: [vishvasa.github.io/book-pub](https://vishvasa.github.io/book-pub), amazon, google play - [SVK](https://play.google.com/store/books/series?id=EeyGHAAAABCW8M) [SVT](https://play.google.com/store/books/series?id=deyGHAAAABDy8M) [का](https://play.google.com/store/books/series?id=EuyGHAAAABCV8M)). Formats include md, pdf (A4, A5), epub, azw3, html, etc. 
+
+We distribute these for free, and under a CC BY 4.0 license. (Platforms may levy their fees.) You may subscribe to mail-streams for past and future announcements ([dg](https://groups.google.com/g/dyuganga), [hv](https://groups.google.com/g/hindu-vidya/), [san](https://groups.google.com/g/samskrita)). 
+
+The choice of material heavily depends on the special interests of its current lead (vedas, kalpa, purANa-s).
+
+### संस्कृतानुवादः
+द्युगङ्गा नाम कार्यसंस्था - अजेयानां भारतीयपुरुषार्थपरिकल्पनानाञ्च, हिन्दुककलानाञ्च प्रसारणाय वर्तते।  
+तदीयस् स्थूलोद्देशोऽधुना प्रमुखग्रन्थानाम् अध्ययनसौकर्याय प्रस्तुतिः। ततो ग्रन्थ-सङ्कलन-केन्द्रम् इति वक्तुम् अलम्। दूरोद्देशस् तु (https://rebrand.ly/dg-archive) आधुनिक-शिला-तैल-युगात् परम् अपि सहस्राधिक-वर्षाणि यावद् ग्रन्थ-रक्षा।
+
+ग्रन्थानाम् प्रस्तुतिर् ध्वनिसञ्चिकाभिस् स्यात् (यथा [महाभारतपारायणप्रसारणे](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)), जाल-क्षेत्र-पृष्ठैर् वा (यथा [विश्वासस्य मन्त्रटिप्पनीषु](https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/), [एकाग्निकाण्डटीका](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/)), शब्द-कोशैर् वाऽपि ([stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict))। इमे ऽस्मत्-पक्षतो मुक्त-रीत्या प्रसार्यन्ते। सद्यश्च ग्रन्थाः संस्थाग्रण्या रुचिविशेषम् अनुसृत्य चिताः - वेदाः, इतिहास-पुराणानि, कल्प-वेदाङ्ग-ग्रन्थाश् चेति।
+
+### Contribution, contact
+अस्मत्-सम्पर्कः - @gmail - vishvas.vasuki, ९५९१२ ६८५०६ (http://rebrand.ly/dyuganga)। Serious volunteering, donations and sponsorship are welcome  - they help offset operating costs (eg. worker payments, book distribution) and plan further projects. Project-specific sponsorship opportunities are occasionally advertised on our social media accounts and on certain mailing lists.
+
+## वन्दनीय-वन्दना
+(अनेनोद्यमेन नैषां महतां साक्षात् सम्बन्ध ऊह्यः ।)
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/rAmAnujIyam/vyakti-shlokAdi/paLHaveri-laxmI-nRsiMhaH.md"> 
+
+इञ्जिमेडु-यति-सिंह-**रक्षितो**  
+राजगोप--बुध-गोप-**चारितः**।  
+सिंह-लक्ष्म-नर-नाम-भाग् **बभौ**  
+दिव्य-सूक्ति-वन-मार्ग-**नायकः**॥
+
+यद्-आचार-स्वभावाभ्यां  
+"ज्ञेयम् अस्त्य् अत्र वैष्णवे"।  
+इति निष्कर्ष-जिज्ञासे,  
+**नौमि** तं श्री-नृसिंहकम्॥
+</div> 
