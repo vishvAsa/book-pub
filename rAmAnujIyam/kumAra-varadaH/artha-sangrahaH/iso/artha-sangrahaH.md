@@ -1876,24 +1876,14 @@ asāmarthyasya tatra tatra niyatatvāt ।
 
 <details><summary>viśvāsa-ṭippanī</summary>
 
-[prabhāva-vyavasthādhikārē](https://vishvAsa.github.io/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/rahasya-traya-sAraH/sarva-prastutiH/2_sthirI-karaNa-vibhAgaH/25_prabhAva-vyavasthAdhikAraH/16_buddhi-pUrvakAghAH) tu -
+rahasyaratnāvalīhr̥dayē vēṅkaṭanāthāryaḥ spaṣṭaṁ saṁvadati - 
 
-> prapatti-pratisandhānam +++(→smaraṇam)+++  
-āptair yad **upadiśyatē** ।  
-tat svādhikāra-niyata-  
-+++(vakṣyamāṇa-)+++hānōpādāna-siddhayē ॥  
-pratisandhānatō hi syād  
-a-dhī-pūrvēṣv a-lēpa-dhīḥ ।  
-buddhi-pūrvēṣv api punaḥ  
-prapattēr ēva saṁgrahaḥ ॥
-
-tēna vēṅkaṭanāthāryēṇāpy ayam ēva pakṣō gr̥hītō bhāti।  
-punar atra samplava-śabdēna kr̥cchra-parihāryatvaṁ gr̥hyēta।  
-tataḥ, śaraṇāgati-lakṣaṇē  
-"ananya-sādhyē svābhīṣṭē" iti vacanasya  
-"kr̥cchra-sādhyē svābhīṣṭē" iti prāyaścitta-kāṅkṣi-prapanna-pakṣē 'rthavistārō'trābhiprētaḥ। 
-
-atō 'tra kumāravaradēna skhalitam। 
+> prapannaṉukku buddhi-pūrvakāpacāraṅgaḷ pugundaṉav āgil  
+avaṟṟukku pratipadōkta-prāyaścitta-yōgyataiy illāda pōdu  
+prapannaṉukkum …  
+pratipāditam āṉa prabhāvattaiy uḍaiyatt āṉa prapatti-taṉṉaiyē  
+mīṇḍum prayōgikkum aduvē  
+svādhikārānuguṇa-prāyaścittam āgak kaḍavadu
 </details>
 
 ###### na prapatti-virōdhaḥ

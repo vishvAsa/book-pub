@@ -1871,24 +1871,14 @@ author = "कुमार-वरदः"
 
 <details open=\"\"><summary>विश्वास-टिप्पनी</summary>
 
-[प्रभाव-व्यवस्थाधिकारे](https://vishvAsa.github.io/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/rahasya-traya-sAraH/sarva-prastutiH/2_sthirI-karaNa-vibhAgaH/25_prabhAva-vyavasthAdhikAraH/16_buddhi-pUrvakAghAH)[^lnk_1] तु -
+रहस्यरत्नावलीहृदये वेङ्कटनाथार्यः स्पष्टं संवदति - 
 
-> प्रपत्ति-प्रतिसन्धानम् +++(→स्मरणम्)+++  
-आप्तैर् यद् **उपदिश्यते** ।  
-तत् स्वाधिकार-नियत-  
-+++(वक्ष्यमाण-)+++हानोपादान-सिद्धये ॥  
-प्रतिसन्धानतो हि स्याद्  
-अ-धी-पूर्वेष्व् अ-लेप-धीः ।  
-बुद्धि-पूर्वेष्व् अपि पुनः  
-प्रपत्तेर् एव संग्रहः ॥
-
-तेन वेङ्कटनाथार्येणाप्य् अयम् एव पक्षो गृहीतो भाति।  
-पुनर् अत्र सम्प्लव-शब्देन कृच्छ्र-परिहार्यत्वं गृह्येत।  
-ततः, शरणागति-लक्षणे  
-"अनन्य-साध्ये स्वाभीष्टे" इति वचनस्य  
-"कृच्छ्र-साध्ये स्वाभीष्टे" इति प्रायश्चित्त-काङ्क्षि-प्रपन्न-पक्षे ऽर्थविस्तारोऽत्राभिप्रेतः। 
-
-अतो ऽत्र कुमारवरदेन स्खलितम्। 
+> प्रपन्नऩुक्कु बुद्धि-पूर्वकापचारङ्गळ् पुगुन्दऩव् आगिल्  
+अवऱ्ऱुक्कु प्रतिपदोक्त-प्रायश्चित्त-योग्यतैय् इल्लाद पोदु  
+प्रपन्नऩुक्कुम् …  
+प्रतिपादितम् आऩ प्रभावत्तैय् उडैयत्त् आऩ प्रपत्ति-तऩ्ऩैये  
+मीण्डुम् प्रयोगिक्कुम् अदुवे  
+स्वाधिकारानुगुण-प्रायश्चित्तम् आगक् कडवदु
 </details>
 
 ###### न प्रपत्ति-विरोधः
@@ -2310,12 +2300,12 @@ Dyugangā is a work group dedicated to the promotion of ever-victorious Hindu id
 
 The texts may be presented as 
 
-- audio files (eg: [MahAbhArata audio book project](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)[^lnk_2]), 
-- as web pages (eg. [Apastamba-gRhya-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/)[^lnk_3], [Apastamba-dharma-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/)[^lnk_4], [EkAgnikANDa commentary](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/)[^lnk_5], [manu-smRti](https://vishvasa.github.io/kalpAntaram/smRtiH/manuH/sarva-prastutiH/05/)[^lnk_6], [raghuvaMsha](https://vishvasa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/01/)[^lnk_7], more [kalpa-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/kalpa-texts/)[^lnk_8], [tattva-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/tattva-texts/)[^lnk_9], [universal subhAShita DB](https://subhashita.github.io/saMskRtam/padyam/random/)[^lnk_10]), 
-- as dictionaries (eg: [stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict)[^lnk_11])
-- ebooks distributed on various platforms - (eg: [vishvasa.github.io/book-pub](https://vishvasa.github.io/book-pub)[^lnk_12], amazon, google play - [SVK](https://play.google.com/store/books/series?id=EeyGHAAAABCW8M)[^lnk_13] [SVT](https://play.google.com/store/books/series?id=deyGHAAAABDy8M)[^lnk_14] [का](https://play.google.com/store/books/series?id=EuyGHAAAABCV8M)[^lnk_15]). Formats include md, pdf (A4, A5), epub, azw3, html, etc. 
+- audio files (eg: [MahAbhArata audio book project](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)[^lnk_1]), 
+- as web pages (eg. [Apastamba-gRhya-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/)[^lnk_2], [Apastamba-dharma-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/)[^lnk_3], [EkAgnikANDa commentary](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/)[^lnk_4], [manu-smRti](https://vishvasa.github.io/kalpAntaram/smRtiH/manuH/sarva-prastutiH/05/)[^lnk_5], [raghuvaMsha](https://vishvasa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/01/)[^lnk_6], more [kalpa-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/kalpa-texts/)[^lnk_7], [tattva-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/tattva-texts/)[^lnk_8], [universal subhAShita DB](https://subhashita.github.io/saMskRtam/padyam/random/)[^lnk_9]), 
+- as dictionaries (eg: [stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict)[^lnk_10])
+- ebooks distributed on various platforms - (eg: [vishvasa.github.io/book-pub](https://vishvasa.github.io/book-pub)[^lnk_11], amazon, google play - [SVK](https://play.google.com/store/books/series?id=EeyGHAAAABCW8M)[^lnk_12] [SVT](https://play.google.com/store/books/series?id=deyGHAAAABDy8M)[^lnk_13] [का](https://play.google.com/store/books/series?id=EuyGHAAAABCV8M)[^lnk_14]). Formats include md, pdf (A4, A5), epub, azw3, html, etc. 
 
-We distribute these for free, and under a CC BY 4.0 license. (Platforms may levy their fees.) You may subscribe to mail-streams for past and future announcements ([dg](https://groups.google.com/g/dyuganga)[^lnk_16], [hv](https://groups.google.com/g/hindu-vidya/)[^lnk_17], [san](https://groups.google.com/g/samskrita)[^lnk_18]). 
+We distribute these for free, and under a CC BY 4.0 license. (Platforms may levy their fees.) You may subscribe to mail-streams for past and future announcements ([dg](https://groups.google.com/g/dyuganga)[^lnk_15], [hv](https://groups.google.com/g/hindu-vidya/)[^lnk_16], [san](https://groups.google.com/g/samskrita)[^lnk_17]). 
 
 The choice of material heavily depends on the special interests of its current lead (vedas, kalpa, purANa-s).
 
@@ -2323,7 +2313,7 @@ The choice of material heavily depends on the special interests of its current l
 द्युगङ्गा नाम कार्यसंस्था - अजेयानां भारतीयपुरुषार्थपरिकल्पनानाञ्च, हिन्दुककलानाञ्च प्रसारणाय वर्तते।  
 तदीयस् स्थूलोद्देशोऽधुना प्रमुखग्रन्थानाम् अध्ययनसौकर्याय प्रस्तुतिः। ततो ग्रन्थ-सङ्कलन-केन्द्रम् इति वक्तुम् अलम्। दूरोद्देशस् तु (https://rebrand.ly/dg-archive) आधुनिक-शिला-तैल-युगात् परम् अपि सहस्राधिक-वर्षाणि यावद् ग्रन्थ-रक्षा।
 
-ग्रन्थानाम् प्रस्तुतिर् ध्वनिसञ्चिकाभिस् स्यात् (यथा [महाभारतपारायणप्रसारणे](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)[^lnk_19]), जाल-क्षेत्र-पृष्ठैर् वा (यथा [विश्वासस्य मन्त्रटिप्पनीषु](https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/)[^lnk_20], [एकाग्निकाण्डटीका](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/)[^lnk_21]), शब्द-कोशैर् वाऽपि ([stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict)[^lnk_22])। इमे ऽस्मत्-पक्षतो मुक्त-रीत्या प्रसार्यन्ते। सद्यश्च ग्रन्थाः संस्थाग्रण्या रुचिविशेषम् अनुसृत्य चिताः - वेदाः, इतिहास-पुराणानि, कल्प-वेदाङ्ग-ग्रन्थाश् चेति।
+ग्रन्थानाम् प्रस्तुतिर् ध्वनिसञ्चिकाभिस् स्यात् (यथा [महाभारतपारायणप्रसारणे](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)[^lnk_18]), जाल-क्षेत्र-पृष्ठैर् वा (यथा [विश्वासस्य मन्त्रटिप्पनीषु](https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/)[^lnk_19], [एकाग्निकाण्डटीका](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/)[^lnk_20]), शब्द-कोशैर् वाऽपि ([stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict)[^lnk_21])। इमे ऽस्मत्-पक्षतो मुक्त-रीत्या प्रसार्यन्ते। सद्यश्च ग्रन्थाः संस्थाग्रण्या रुचिविशेषम् अनुसृत्य चिताः - वेदाः, इतिहास-पुराणानि, कल्प-वेदाङ्ग-ग्रन्थाश् चेति।
 
 ### Contribution, contact
 अस्मत्-सम्पर्कः - @gmail - vishvas.vasuki, ९५९१२ ६८५०६ (http://rebrand.ly/dyuganga)। Serious volunteering, donations and sponsorship are welcome  - they help offset operating costs (eg. worker payments, book distribution) and plan further projects. Project-specific sponsorship opportunities are occasionally advertised on our social media accounts and on certain mailing lists.
@@ -2344,46 +2334,44 @@ The choice of material heavily depends on the special interests of its current l
 **नौमि** तं श्री-नृसिंहकम्॥
 </div>
 
-[^lnk_1]: https://vishvAsa.github.io/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/rahasya-traya-sAraH/sarva-prastutiH/2_sthirI-karaNa-vibhAgaH/25_prabhAva-vyavasthAdhikAraH/16_buddhi-pUrvakAghAH
+[^lnk_1]: https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/
 
-[^lnk_2]: https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/
+[^lnk_2]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/
 
-[^lnk_3]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/
+[^lnk_3]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/
 
-[^lnk_4]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/
+[^lnk_4]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/
 
-[^lnk_5]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/
+[^lnk_5]: https://vishvasa.github.io/kalpAntaram/smRtiH/manuH/sarva-prastutiH/05/
 
-[^lnk_6]: https://vishvasa.github.io/kalpAntaram/smRtiH/manuH/sarva-prastutiH/05/
+[^lnk_6]: https://vishvasa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/01/
 
-[^lnk_7]: https://vishvasa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/01/
+[^lnk_7]: https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/kalpa-texts/
 
-[^lnk_8]: https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/kalpa-texts/
+[^lnk_8]: https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/tattva-texts/
 
-[^lnk_9]: https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/tattva-texts/
+[^lnk_9]: https://subhashita.github.io/saMskRtam/padyam/random/
 
-[^lnk_10]: https://subhashita.github.io/saMskRtam/padyam/random/
+[^lnk_10]: https://sanskrit-coders.github.io/dictionaries/offline/stardict
 
-[^lnk_11]: https://sanskrit-coders.github.io/dictionaries/offline/stardict
+[^lnk_11]: https://vishvasa.github.io/book-pub
 
-[^lnk_12]: https://vishvasa.github.io/book-pub
+[^lnk_12]: https://play.google.com/store/books/series?id=EeyGHAAAABCW8M
 
-[^lnk_13]: https://play.google.com/store/books/series?id=EeyGHAAAABCW8M
+[^lnk_13]: https://play.google.com/store/books/series?id=deyGHAAAABDy8M
 
-[^lnk_14]: https://play.google.com/store/books/series?id=deyGHAAAABDy8M
+[^lnk_14]: https://play.google.com/store/books/series?id=EuyGHAAAABCV8M
 
-[^lnk_15]: https://play.google.com/store/books/series?id=EuyGHAAAABCV8M
+[^lnk_15]: https://groups.google.com/g/dyuganga
 
-[^lnk_16]: https://groups.google.com/g/dyuganga
+[^lnk_16]: https://groups.google.com/g/hindu-vidya/
 
-[^lnk_17]: https://groups.google.com/g/hindu-vidya/
+[^lnk_17]: https://groups.google.com/g/samskrita
 
-[^lnk_18]: https://groups.google.com/g/samskrita
+[^lnk_18]: https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/
 
-[^lnk_19]: https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/
+[^lnk_19]: https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/
 
-[^lnk_20]: https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/
+[^lnk_20]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/
 
-[^lnk_21]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/
-
-[^lnk_22]: https://sanskrit-coders.github.io/dictionaries/offline/stardict
+[^lnk_21]: https://sanskrit-coders.github.io/dictionaries/offline/stardict
