@@ -6,6 +6,7 @@ author = "ApastambaH"
 
 # +क्रियाः
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ## अध्ययनम्
 
 ### औचित्य-विवेकः
@@ -342,6 +343,7 @@ author = "ApastambaH"
 +++(अन्यत्रोक्तः - उपनयनम्, स्वाध्यायः, अध्यापकः, अभिवादनम्, समावर्तनम्।)+++
 ## +अर्हणम्
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ### आतिथ्यम्
 
 #### अतिथिः
@@ -1539,31 +1541,31 @@ author = "ApastambaH"
 **2/02/03/16**—
 औपासने पचने वा षड्भिराद्यैः प्रतिमन्त्रं हस्तेन जुहुयात् १६  
 
-- ओम्+++(इत्यनुज्ञाक्षरं)+++ अ॒ग्नये॒ स्वाहा॑+++(हविःप्रदानार्थः)+++।  
+ओ᳓म्+++(इत्यनुज्ञाक्षरं)+++ अग्न᳓ये स्वा᳓हा+++(हविःप्रदानार्थः)+++।    
 
-- सोमा॑य॒ स्वाहा॑।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
+सो᳓माय स्वा᳓हा।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
 
-- विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑।  
+वि᳓श्वेभ्यो देवे᳓भ्यस् स्वा᳓हा।  
 
-- +++(खे)+++ ध्रु॒वाय॑ भू॒माय॑+++(=भूम्ने)+++ स्वाहा॑।  
++++(खे)+++ ध्रुवा᳓य भूमा᳓य+++(=भूम्ने)+++ स्वा᳓हा।  
 
-ध्रु॒व॒-क्षित॑ये॒+++(←स्वरः??)+++ +++(खे)+++ स्वाहा॑।  
+ध्रुव-क्षि᳓तये+++(←स्वरः??)+++ +++(खे)+++ स्वा᳓हा।  
 +++(विवाहे ध्रुव-दर्शन-मन्त्रेऽप्य् अयम् प्रयोगः)+++  
 
-अ॒च्यु॒त॒-क्षित॑ये॒+++(←स्वरः??)+++  स्वाहा॑।  
+अच्युत-क्षि᳓तये+++(←स्वरः??)+++  स्वा᳓हा।  
 
-- अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
+अग्न᳓ये स्विष्टकृ᳓ते स्वा᳓हा।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++    
 
 **2/02/03/17**—
 उभयतः परिषेचनं यथा पुरस्तात् १७  
 
-अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
 
-अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
 
-सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
 
-देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 **2/02/03/18**—
 एवं बलीनां देशे देशे समवेतानां सकृत्सकृदन्ते परिषेचनम् १८
@@ -1577,18 +1579,18 @@ author = "ApastambaH"
 **2/02/03/21**—
 उदधानसंनिधौ नवमेन २१  
 
-- धर्मा॑य स्वाहा॑ । अध॑र्माय स्वाहा॑। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++  
-- अ॒द्भ्यस् स्वाहा॑ । +++(उदधानसंनिधौ नवमेन २१)+++  
+ध᳓र्माय᳓ स्वा᳓हा । अ᳓धर्मा᳓य᳓ स्वा᳓हा। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++    
+अद्भ्य᳓स् स्वा᳓हा । +++(उदधानसंनिधौ नवमेन २१)+++    
 
 **2/02/03/22**—
 मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२  
 
-- ओ॒ष॒धि॒व॒न॒स्प॒तिभ्य॒स् स्वाहा॑। र॒क्षो॒दे॒व॒ज॒नेभ्य॒स् स्वाहा॑ । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
+ओषधिवनस्पति᳓भ्यस् स्वा᳓हा। रक्षोदेवजने᳓भ्यस् स्वा᳓हा । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++    
 
 **2/02/03/23**—
 उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३  
 
-- +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृह्या॑भ्य॒स् स्वाहा॑। अ॒व॒साने॑भ्यस्+++(=सीमाभ्यः)+++ स्वाहा॑ । अ॒व॒सान॑पतिभ्य॒स् स्वाहा॑ । स॒र्व॒भू॒तेभ्य॒स् स्वाहा॑ । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
++++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। अवसा᳓नेभ्य᳓स्+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++    
 
 **2/02/04/01**—
 शय्यादेशे कामलिङ्गेन १
@@ -1596,31 +1598,31 @@ author = "ApastambaH"
 **2/02/04/02**—
 देहल्यामन्तरिक्षलिङ्गेन २
 
-- काम॑य॒ स्वाहा॑ । +++(शय्यादेशे कामलिङ्गेन)+++  
-- अ॒न्तरि॑क्षाय॒ स्वाहा॑ । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++  
+का᳓मय स्वा᳓हा । +++(शय्यादेशे कामलिङ्गेन)+++    
+अन्त᳓रिक्षाय स्वा᳓हा । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++    
 
 **2/02/04/03**—
 उत्तरेणापिधान्याम् ३
 
-- यद् एज॑ति+++(=कम्पते)+++ जग॑ति यच् च॒ चेष्ट॑ति, नाम्नो॑ भा॒गो ऽयं, नाम्ने॒ स्वाहा॑। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
+य᳓द् ए᳓जति᳓+++(=कम्पते)+++ ज᳓गति यच् च चे᳓ष्टति᳓, ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++    
 
 **2/02/04/04**—
 उत्तरैर्ब्रह्मसदने ४  
 
 +++(उत्तरैर्ब्रह्मसदने)+++  
-- पृ॒थि॒व्यै स्वाहा॑। अ॒न्तरि॑क्षाय॒ स्वाहा॑। दि॒वे स्वाहा॑ ।  
-- सूर्या॑य॒ स्वाहा॑ । च॒न्द्रम॑से॒ स्वाहा॑ । नक्ष॑त्रेभ्य॒स् स्वाहा॑ ।  
-- इन्द्रा॑य॒ स्वाहा॑ । बृह॒स्पत॑ये॒ स्वाहा॑ । प्र॒जाप॑तये॒ स्वाहा॑ । ब्रह्म॑णे॒ स्वाहा॑।  
+पृथिव्यै᳓ स्वा᳓हा। अन्त᳓रिक्षाय स्वा᳓हा। दिवे᳓ स्वा᳓हा ।    
+सू᳓र्याय स्वा᳓हा । चन्द्र᳓मसे स्वा᳓हा । न᳓क्षत्रेभ्यस् स्वा᳓हा ।    
+इ᳓न्द्राय स्वा᳓हा । बृ᳓हस्प᳓तये स्वा᳓हा । प्रजा᳓पतये स्वा᳓हा । ब्र᳓ह्मणे स्वा᳓हा।    
 
 **2/02/04/05**—
 दक्षिणतः पितृलिङ्गेन प्राचीनावीत्यवाचीनपाणिः कुर्यात् ५
 
-- स्व॒धा पि॒तृभ्य॒स् स्वाहा॑। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++  
+स्वधा᳓ पितृ᳓भ्यस् स्वा᳓हा। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++    
 
 **2/02/04/06**—
 रौद्र उत्तरो यथा देवताभ्यः ६
 
-- नमो॑ रु॒द्राय॑ पशु॒पत॑ये॒ स्वाहा॑। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++  
+न᳓मो रुद्रा᳓य पशुप᳓तये स्वा᳓हा। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++    
 
 **2/02/04/07**—
 तयोर्नाना परिषेचनं धर्मभेदात् ७
@@ -1628,10 +1630,10 @@ author = "ApastambaH"
 **2/02/04/08**—
 नक्तमेवोत्तमेन वैहायसम् ८
 
-- ये भू॒ताः प्र॒चर॑न्ति दिवा॒ /नक्तं॒  
-बलि॑म् इ॒च्छन्तो॑ वि॒तुद॑स्य॒ प्रेष्याः॑ ।  
-तेभ्यो॑ ब॒लिं पु॑ष्टि॒कामो॑ हरामि॒  
-मयि॒ पुष्टिं॒ पुष्टि॑पतिर् दधातु॒ स्वाहा॑॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
+ये᳓ भूताः᳓ प्रच᳓रन्ति दिवा /न᳓क्तं    
+ब᳓लिम् इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
+ते᳓भ्यो बलिं᳓ पुष्टिका᳓मो हरामि  
+म᳓यि पु᳓ष्टिं पु᳓ष्टिपतिर् दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
 
 **2/02/04/10**—
 अग्रं च देयम् १०
@@ -2435,6 +2437,7 @@ author = "ApastambaH"
 
 ## +शौचम्
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ### आत्मा
 
 #### चोदनम्, फलम्
@@ -3652,6 +3655,7 @@ author = "ApastambaH"
 
 # +पात्राणि
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ## आचार्यः
 
 **1/01/01/11**—
@@ -3769,6 +3773,7 @@ author = "ApastambaH"
 
 ## +आश्रमः
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ### ब्रह्मचर्यम्
 
 #### गुरुकुले वासः, ब्रह्मचर्य-कालः
@@ -3824,7 +3829,8 @@ author = "ApastambaH"
   
 
 ##### कौपीनम्/ वेष्टिः
-**1/01/02/39**— वासः ३९
+**1/01/02/39**—
+वासः ३९
 
 **1/01/02/40**—
 शाणी+++(=hemp)+++-क्षौमा+++(=linen/ flax)+++ऽजिनानि  +++(ब्राह्मण-क्षत्रिय-वैश्यानाम्)+++४०
@@ -4214,7 +4220,7 @@ author = "ApastambaH"
 नानुदेश्यं भुञ्जीत २२
 
 **1/01/02/23**—
-तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam)[^lnk_1] मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
+तथा क्षार-लवण-मधु-मांसानि +++(गृह्यसूत्र उपनयनप्रकरणे क्षार-लवणयोर् त्र्यहं [नियमनात्](https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam) [#lnk_1] मध्वादेरेव त्र्यहादूर्ध्वं नित्यो निषेधः। )+++ २३
 
 **1/01/04/05**—
 न चास्मै श्रुति-विप्रतिषिद्धम् उच्छिष्टं दद्यात् ५
@@ -5049,6 +5055,7 @@ author = "ApastambaH"
 
 # +तत्त्वानि
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ## ॐकारः
 
 **1/04/13/06**—
@@ -5659,12 +5666,12 @@ Dyugangā is a work group dedicated to the promotion of ever-victorious Hindu id
 
 The texts may be presented as 
 
-- audio files (eg: [MahAbhArata audio book project](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)[^lnk_2]), 
-- as web pages (eg. [Apastamba-gRhya-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/)[^lnk_3], [Apastamba-dharma-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/)[^lnk_4], [EkAgnikANDa commentary](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/)[^lnk_5], [manu-smRti](https://vishvasa.github.io/kalpAntaram/smRtiH/manuH/sarva-prastutiH/05/)[^lnk_6], [raghuvaMsha](https://vishvasa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/01/)[^lnk_7], more [kalpa-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/kalpa-texts/)[^lnk_8], [tattva-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/tattva-texts/)[^lnk_9], [universal subhAShita DB](https://subhashita.github.io/saMskRtam/padyam/random/)[^lnk_10]), 
-- as dictionaries (eg: [stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict)[^lnk_11])
-- ebooks distributed on various platforms - (eg: [vishvasa.github.io/book-pub](https://vishvasa.github.io/book-pub)[^lnk_12], amazon, google play - [SVK](https://play.google.com/store/books/series?id=EeyGHAAAABCW8M)[^lnk_13] [SVT](https://play.google.com/store/books/series?id=deyGHAAAABDy8M)[^lnk_14] [का](https://play.google.com/store/books/series?id=EuyGHAAAABCV8M)[^lnk_15]). Formats include md, pdf (A4, A5), epub, azw3, html, etc. 
+- audio files (eg: [MahAbhArata audio book project](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/) [#lnk_2]), 
+- as web pages (eg. [Apastamba-gRhya-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/) [#lnk_3], [Apastamba-dharma-sUtra](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/) [#lnk_4], [EkAgnikANDa commentary](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/) [#lnk_5], [manu-smRti](https://vishvasa.github.io/kalpAntaram/smRtiH/manuH/sarva-prastutiH/05/) [#lnk_6], [raghuvaMsha](https://vishvasa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/01/) [#lnk_7], more [kalpa-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/kalpa-texts/) [#lnk_8], [tattva-texts](https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/tattva-texts/) [#lnk_9], [universal subhAShita DB](https://subhashita.github.io/saMskRtam/padyam/random/) [#lnk_10]), 
+- as dictionaries (eg: [stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict) [#lnk_11])
+- ebooks distributed on various platforms - (eg: [vishvasa.github.io/book-pub](https://vishvasa.github.io/book-pub) [#lnk_12], amazon, google play - [SVK](https://play.google.com/store/books/series?id=EeyGHAAAABCW8M) [#lnk_13] [SVT](https://play.google.com/store/books/series?id=deyGHAAAABDy8M) [#lnk_14] [का](https://play.google.com/store/books/series?id=EuyGHAAAABCV8M) [#lnk_15]). Formats include md, pdf (A4, A5), epub, azw3, html, etc. 
 
-We distribute these for free, and under a CC BY 4.0 license. (Platforms may levy their fees.) You may subscribe to mail-streams for past and future announcements ([dg](https://groups.google.com/g/dyuganga)[^lnk_16], [hv](https://groups.google.com/g/hindu-vidya/)[^lnk_17], [san](https://groups.google.com/g/samskrita)[^lnk_18]). 
+We distribute these for free, and under a CC BY 4.0 license. (Platforms may levy their fees.) You may subscribe to mail-streams for past and future announcements ([dg](https://groups.google.com/g/dyuganga) [#lnk_16], [hv](https://groups.google.com/g/hindu-vidya/) [#lnk_17], [san](https://groups.google.com/g/samskrita) [#lnk_18]). 
 
 The choice of material heavily depends on the special interests of its current lead (vedas, kalpa, purANa-s).
 
@@ -5672,10 +5679,10 @@ The choice of material heavily depends on the special interests of its current l
 द्युगङ्गा नाम कार्यसंस्था - अजेयानां भारतीयपुरुषार्थपरिकल्पनानाञ्च, हिन्दुककलानाञ्च प्रसारणाय वर्तते।  
 तदीयस् स्थूलोद्देशोऽधुना प्रमुखग्रन्थानाम् अध्ययनसौकर्याय प्रस्तुतिः। ततो ग्रन्थ-सङ्कलन-केन्द्रम् इति वक्तुम् अलम्। दूरोद्देशस् तु (https://rebrand.ly/dg-archive) आधुनिक-शिला-तैल-युगात् परम् अपि सहस्राधिक-वर्षाणि यावद् ग्रन्थ-रक्षा।
 
-ग्रन्थानाम् प्रस्तुतिर् ध्वनिसञ्चिकाभिस् स्यात् (यथा [महाभारतपारायणप्रसारणे](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)[^lnk_19]), जाल-क्षेत्र-पृष्ठैर् वा (यथा [विश्वासस्य मन्त्रटिप्पनीषु](https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/)[^lnk_20], [एकाग्निकाण्डटीका](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/)[^lnk_21]), शब्द-कोशैर् वाऽपि ([stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict)[^lnk_22])। इमे ऽस्मत्-पक्षतो मुक्त-रीत्या प्रसार्यन्ते। सद्यश्च ग्रन्थाः संस्थाग्रण्या रुचिविशेषम् अनुसृत्य चिताः - वेदाः, इतिहास-पुराणानि, कल्प-वेदाङ्ग-ग्रन्थाश् चेति।
+ग्रन्थानाम् प्रस्तुतिर् ध्वनिसञ्चिकाभिस् स्यात् (यथा [महाभारतपारायणप्रसारणे](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/) [#lnk_19]), जाल-क्षेत्र-पृष्ठैर् वा (यथा [विश्वासस्य मन्त्रटिप्पनीषु](https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/) [#lnk_20], [एकाग्निकाण्डटीका](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/) [#lnk_21]), शब्द-कोशैर् वाऽपि ([stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict) [#lnk_22])। इमे ऽस्मत्-पक्षतो मुक्त-रीत्या प्रसार्यन्ते। सद्यश्च ग्रन्थाः संस्थाग्रण्या रुचिविशेषम् अनुसृत्य चिताः - वेदाः, इतिहास-पुराणानि, कल्प-वेदाङ्ग-ग्रन्थाश् चेति।
 
 ### Contribution, contact
-अस्मत्-सम्पर्कः - @gmail - vishvas.vasuki, ९५९१२ ६८५०६ (<http://rebrand.ly/dyuganga>[^lnk_23])। Serious volunteering, donations and sponsorship are welcome  - they help offset operating costs (eg. worker payments, book distribution) and plan further projects. Project-specific sponsorship opportunities are occasionally advertised on our social media accounts and on certain mailing lists.
+अस्मत्-सम्पर्कः - @gmail - vishvas.vasuki, ९५९१२ ६८५०६ (http://rebrand.ly/dyuganga)। Serious volunteering, donations and sponsorship are welcome  - they help offset operating costs (eg. worker payments, book distribution) and plan further projects. Project-specific sponsorship opportunities are occasionally advertised on our social media accounts and on certain mailing lists.
 
 ## वन्दनीय-वन्दना
 (अनेनोद्यमेन नैषां महतां साक्षात् सम्बन्ध ऊह्यः ।)
@@ -5693,48 +5700,46 @@ The choice of material heavily depends on the special interests of its current l
 **नौमि** तं श्री-नृसिंहकम्॥
 </div>
 
-[^lnk_1]: https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam
+- #lnk_1 :  https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/upanayanam
 
-[^lnk_2]: https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/
+- #lnk_2 :  https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/
 
-[^lnk_3]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/
+- #lnk_3 :  https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-TIkAH/
 
-[^lnk_4]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/
+- #lnk_4 :  https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/
 
-[^lnk_5]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/
+- #lnk_5 :  https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/
 
-[^lnk_6]: https://vishvasa.github.io/kalpAntaram/smRtiH/manuH/sarva-prastutiH/05/
+- #lnk_6 :  https://vishvasa.github.io/kalpAntaram/smRtiH/manuH/sarva-prastutiH/05/
 
-[^lnk_7]: https://vishvasa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/01/
+- #lnk_7 :  https://vishvasa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/01/
 
-[^lnk_8]: https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/kalpa-texts/
+- #lnk_8 :  https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/kalpa-texts/
 
-[^lnk_9]: https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/tattva-texts/
+- #lnk_9 :  https://sanskrit.github.io/groups/dyuganga//projects/text/proofreading/tattva-texts/
 
-[^lnk_10]: https://subhashita.github.io/saMskRtam/padyam/random/
+- #lnk_10 :  https://subhashita.github.io/saMskRtam/padyam/random/
 
-[^lnk_11]: https://sanskrit-coders.github.io/dictionaries/offline/stardict
+- #lnk_11 :  https://sanskrit-coders.github.io/dictionaries/offline/stardict
 
-[^lnk_12]: https://vishvasa.github.io/book-pub
+- #lnk_12 :  https://vishvasa.github.io/book-pub
 
-[^lnk_13]: https://play.google.com/store/books/series?id=EeyGHAAAABCW8M
+- #lnk_13 :  https://play.google.com/store/books/series?id=EeyGHAAAABCW8M
 
-[^lnk_14]: https://play.google.com/store/books/series?id=deyGHAAAABDy8M
+- #lnk_14 :  https://play.google.com/store/books/series?id=deyGHAAAABDy8M
 
-[^lnk_15]: https://play.google.com/store/books/series?id=EuyGHAAAABCV8M
+- #lnk_15 :  https://play.google.com/store/books/series?id=EuyGHAAAABCV8M
 
-[^lnk_16]: https://groups.google.com/g/dyuganga
+- #lnk_16 :  https://groups.google.com/g/dyuganga
 
-[^lnk_17]: https://groups.google.com/g/hindu-vidya/
+- #lnk_17 :  https://groups.google.com/g/hindu-vidya/
 
-[^lnk_18]: https://groups.google.com/g/samskrita
+- #lnk_18 :  https://groups.google.com/g/samskrita
 
-[^lnk_19]: https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/
+- #lnk_19 :  https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/
 
-[^lnk_20]: https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/
+- #lnk_20 :  https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/
 
-[^lnk_21]: https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/
+- #lnk_21 :  https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/
 
-[^lnk_22]: https://sanskrit-coders.github.io/dictionaries/offline/stardict
-
-[^lnk_23]: https://sanskrit.github.io/groups/dyuganga/contact/
+- #lnk_22 :  https://sanskrit-coders.github.io/dictionaries/offline/stardict

@@ -6,6 +6,7 @@ author = "ApastambaH"
 
 # +kriyāḥ
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ## adhyayanam
 
 ### aucitya-vivēkaḥ
@@ -530,6 +531,7 @@ ubhayata upasaṁgrahaṇam adhijigāṁsamānasyādhītya ca 17+++(5)+++
 +++(anyatrōktaḥ - upanayanam, svādhyāyaḥ, adhyāpakaḥ, abhivādanam, samāvartanam।)+++
 ## +arhaṇam
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ### ātithyam
 
 #### atithiḥ
@@ -2356,20 +2358,20 @@ balīnāṁ tasya tasya dēśē saṁskārō hastēna parimr̥jyāvōkṣya nyup
 
 aupāsanē pacanē vā ṣaḍbhirādyaiḥ pratimantraṁ hastēna juhuyāt 16  
 
-- ōm+++(ityanujñākṣaraṁ)+++ a̱gnayē̱ svāhā̭+++(haviḥpradānārthaḥ)+++।  
+ṓm+++(ityanujñākṣaraṁ)+++ agnáyē svā́hā+++(haviḥpradānārthaḥ)+++।    
 
-- sōmā̭ya̱ svāhā̭।+++(kaiścinnōcyatē mantraḥ।)+++  
+sṓmāya svā́hā।+++(kaiścinnōcyatē mantraḥ।)+++  
 
-- viśvḙ̄bhyō dē̱vēbhya̱s svāhā̭।  
+víśvēbhyō dēvḗbhyas svā́hā।  
 
-- +++(khē)+++ dhru̱vāya̭ bhū̱māya̭+++(=bhūmnē)+++ svāhā̭।  
++++(khē)+++ dhruvā́ya bhūmā́ya+++(=bhūmnē)+++ svā́hā।  
 
-dhru̱va̱-kṣita̭yē̱+++(←svaraḥ??)+++ +++(khē)+++ svāhā̭।  
+dhruva-kṣítayē+++(←svaraḥ??)+++ +++(khē)+++ svā́hā।  
 +++(vivāhē dhruva-darśana-mantrē'py ayam prayōgaḥ)+++  
 
-a̱cyu̱ta̱-kṣita̭yē̱+++(←svaraḥ??)+++  svāhā̭।  
+acyuta-kṣítayē+++(←svaraḥ??)+++  svā́hā।  
 
-- a̱gnayḙ̄ sviṣṭa̱kr̥tḙ̄ svāhā̭।+++(=rudrō'gnissviṣṭakr̥t)+++  
+agnáyē sviṣṭakŕ̥tē svā́hā।+++(=rudrō'gnissviṣṭakr̥t)+++    
 
 </details>
 
@@ -2377,13 +2379,13 @@ a̱cyu̱ta̱-kṣita̭yē̱+++(←svaraḥ??)+++  svāhā̭।
 
 ubhayataḥ pariṣēcanaṁ yathā purastāt 17  
 
-adi̱tē'nva̭mam̐sthāḥ। +++(iti dakṣiṇataḥ, prācīnam)+++ 
+áditḗ'nvamam̐sthāḥ। +++(iti dakṣiṇataḥ, prācīnam)+++ 
 
-anṷma̱tē'nva̭mam̐sthāḥ।  +++(iti paścimād udīcīnam)+++
+ánumatḗ'nvamam̐sthāḥ।  +++(iti paścimād udīcīnam)+++
 
-sara̭sva̱tē 'nva̭mam̐sthāḥ।  +++(iti uttarataḥ prācīnam)+++
+sárasvatḗ 'nvamam̐sthāḥ।  +++(iti uttarataḥ prācīnam)+++
 
-dēva̭ savita̱ḥ prāsā̭vīḥ।  +++(iti prāgārambhaṁ pradakṣiṇaṁ)+++
+dḗva savitaḥ prā́sāvīḥ।  +++(iti prāgārambhaṁ pradakṣiṇaṁ)+++
 
 </details>
 
@@ -2406,8 +2408,8 @@ aparēṇāgniṁ saptamāṣṭamābhyāmudagapavargam 20
 
 udadhānasaṁnidhau navamēna 21  
 
-- dharmā̭ya svāhā̭ । adha̭rmāya svāhā̭। +++(aparēṇāgniṁ saptamāṣṭamābhyāmudagapavargam 20)+++  
-- a̱dbhyas svāhā̭ । +++(udadhānasaṁnidhau navamēna 21)+++  
+dhármāyá svā́hā । ádharmā́yá svā́hā। +++(aparēṇāgniṁ saptamāṣṭamābhyāmudagapavargam 20)+++    
+adbhyás svā́hā । +++(udadhānasaṁnidhau navamēna 21)+++    
 
 </details>
 
@@ -2415,7 +2417,7 @@ udadhānasaṁnidhau navamēna 21
 
 madhyē'gārasya daśamaikādaśābhyāṁ prāgapavargam 22  
 
-- ō̱ṣa̱dhi̱va̱na̱spa̱tibhya̱s svāhā̭। ra̱kṣō̱dē̱va̱ja̱nēbhya̱s svāhā̭ । +++(madhyē'gārasya daśamaikādaśābhyāṁ prāgapavargam 22)+++  
+ōṣadhivanaspatíbhyas svā́hā। rakṣōdēvajanḗbhyas svā́hā । +++(madhyē'gārasya daśamaikādaśābhyāṁ prāgapavargam 22)+++    
 
 </details>
 
@@ -2423,7 +2425,7 @@ madhyē'gārasya daśamaikādaśābhyāṁ prāgapavargam 22
 
 uttarapūrvadēśē'gārasyōttaraiścaturbhiḥ 23  
 
-- +++(vāstuvidyāprasiddhēbhyaḥ)+++ gr̥hyā̭bhya̱s svāhā̭। a̱va̱sānḙ̄bhyas+++(=sīmābhyaḥ)+++ svāhā̭ । a̱va̱sāna̭patibhya̱s svāhā̭ । sa̱rva̱bhū̱tēbhya̱s svāhā̭ । +++(uttarapūrvadēśē'gārasyōttaraiścaturbhiḥ 23)+++  
++++(vāstuvidyāprasiddhēbhyaḥ)+++ gŕ̥hyābhyas svā́hā। avasā́nēbhyás+++(=sīmābhyaḥ)+++ svā́hā । avasā́napatibhyas svā́hā । sarvabhūtḗbhyas svā́hā । +++(uttarapūrvadēśē'gārasyōttaraiścaturbhiḥ 23)+++    
 
 </details>
 
@@ -2436,8 +2438,8 @@ uttarapūrvadēśē'gārasyōttaraiścaturbhiḥ 23
 
 dēhalyāmantarikṣaliṅgēna 2
 
-- kāma̭ya̱ svāhā̭ । +++(śayyādēśē kāmaliṅgēna)+++  
-- a̱ntari̭kṣāya̱ svāhā̭ । +++(dēhalyāmantarikṣaliṅgēna 2)+++  
+kā́maya svā́hā । +++(śayyādēśē kāmaliṅgēna)+++    
+antárikṣāya svā́hā । +++(dēhalyāmantarikṣaliṅgēna 2)+++    
 
 </details>
 
@@ -2445,7 +2447,7 @@ dēhalyāmantarikṣaliṅgēna 2
 
 uttarēṇāpidhānyām 3
 
-- yad ēja̭ti+++(=kampatē)+++ jaga̭ti yac ca̱ cēṣṭa̭ti, nāmnō̭ bhā̱gō 'yaṁ, nāmnē̱ svāhā̭। +++(uttarēṇāpidhānyām (argalē)3)+++  
+yád ḗjatí+++(=kampatē)+++ jágati yac ca cḗṣṭatí, nā́mnō bhāgṓ 'yáṁ, nā́mnē svā́hā। +++(uttarēṇāpidhānyām (argalē)3)+++    
 
 </details>
 
@@ -2454,9 +2456,9 @@ uttarēṇāpidhānyām 3
 uttarairbrahmasadanē 4  
 
 +++(uttarairbrahmasadanē)+++  
-- pr̥̱thi̱vyai svāhā̭। a̱ntari̭kṣāya̱ svāhā̭। di̱vē svāhā̭ ।  
-- sūryā̭ya̱ svāhā̭ । ca̱ndrama̭sē̱ svāhā̭ । nakṣa̭trēbhya̱s svāhā̭ ।  
-- indrā̭ya̱ svāhā̭ । br̥ha̱spata̭yē̱ svāhā̭ । pra̱jāpa̭tayē̱ svāhā̭ । brahma̭ṇē̱ svāhā̭।  
+pr̥thivyaí svā́hā। antárikṣāya svā́hā। divḗ svā́hā ।    
+sū́ryāya svā́hā । candrámasē svā́hā । nákṣatrēbhyas svā́hā ।    
+índrāya svā́hā । bŕ̥haspátayē svā́hā । prajā́patayē svā́hā । bráhmaṇē svā́hā।    
 
 </details>
 
@@ -2464,7 +2466,7 @@ uttarairbrahmasadanē 4
 
 dakṣiṇataḥ pitr̥liṅgēna prācīnāvītyavācīnapāṇiḥ kuryāt 5
 
-- sva̱dhā pi̱tr̥bhya̱s svāhā̭। +++( dakṣiṇataḥ pitr̥liṅgēna prācīnāvīty avācīna-pāṇiḥ kuryāt 5)+++  
+svadhā́ pitŕ̥bhyas svā́hā। +++( dakṣiṇataḥ pitr̥liṅgēna prācīnāvīty avācīna-pāṇiḥ kuryāt 5)+++    
 
 </details>
 
@@ -2472,7 +2474,7 @@ dakṣiṇataḥ pitr̥liṅgēna prācīnāvītyavācīnapāṇiḥ kuryāt 5
 
 raudra uttarō yathā dēvatābhyaḥ 6
 
-- namō̭ ru̱drāya̭ paśu̱pata̭yē̱ svāhā̭। +++(raudra uttarō yathā dēvatābhyaḥ 6 tayōr nānā pariṣēcanaṁ dharma-bhēdāt 7)+++  
+námō rudrā́ya paśupátayē svā́hā। +++(raudra uttarō yathā dēvatābhyaḥ 6 tayōr nānā pariṣēcanaṁ dharma-bhēdāt 7)+++    
 
 </details>
 
@@ -2485,10 +2487,10 @@ tayōrnānā pariṣēcanaṁ dharmabhēdāt 7
 
 naktamēvōttamēna vaihāyasam 8
 
-- yē bhū̱tāḥ pra̱cara̭nti divā̱ /nakta̱ṁ  
-bali̭m i̱cchantō̭ vi̱tuda̭sya̱ prēṣyā̭ḥ ।  
-tēbhyō̭ ba̱liṁ pṷṣṭi̱kāmō̭ harāmi̱  
-mayi̱ puṣṭi̱ṁ puṣṭi̭patir dadhātu̱ svāhā̭॥ +++(naktamēvōttamēna vaihāyasam 8)+++  
+yḗ bhūtā́ḥ pracáranti divā /náktaṁ    
+bálim icchántō vitúdasya prḗṣyāḥ ।  
+tḗbhyō balíṁ puṣṭikā́mō harāmi  
+máyi púṣṭiṁ púṣṭipatir dadhātu svā́hā॥ +++(naktamēvōttamēna vaihāyasam 8)+++  
 
 </details>
 
@@ -3698,6 +3700,7 @@ nāvāṁ ca sāṁśayikīm +++(varjayēt)+++27
 </details>
 ## +śaucam
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ### ātmā
 
 #### cōdanam, phalam
@@ -5451,6 +5454,7 @@ yuddhē tadyōgā yathōpāyamupadiśanti tathā pratipattavyam 10
 
 # +pātrāṇi
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ## ācāryaḥ
 
 <details open><summary>1/01/01/11</summary>
@@ -5629,6 +5633,7 @@ an-āviḥ+++(bhūta)+++-srag-anulēpaṇaḥ syāt 5
 </details>
 ## +āśramaḥ
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ### brahmacaryam
 
 #### gurukulē vāsaḥ, brahmacarya-kālaḥ
@@ -5710,7 +5715,7 @@ bādara audumbarō vā vaiśyasya।
 ##### kaupīnam/ vēṣṭiḥ
 <details open><summary>1/01/02/39</summary>
 
-- vāsaḥ 39
+vāsaḥ 39
 </details>
 
 <details open><summary>1/01/02/40</summary>
@@ -7538,6 +7543,7 @@ tata ūrdhvaṁ na sūrkṣēt 9
 
 # +tattvāni
 
+<div class="js_include" includetitle="false" newlevelforh1="0" unfilled="" url="../"></div>
 ## ōṁkāraḥ
 
 <details open><summary>1/04/13/06</summary>
@@ -8457,7 +8463,7 @@ tadīyas sthūlōddēśō'dhunā pramukhagranthānām adhyayanasaukaryāya prast
 granthānām prastutir dhvanisañcikābhis syāt (yathā [mahābhāratapārāyaṇaprasāraṇē](https://sanskrit.github.io/groups/dyuganga/projects/audio/mbh-audio/)), jāla-kṣētra-pr̥ṣṭhair vā (yathā [viśvāsasya mantraṭippanīṣu](https://vishvasa.github.io/vedAH_sAma/paravastu-saama/devaH/agniH/mahAvaishvAnara-vratam/), [ēkāgnikāṇḍaṭīkā](https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarva-prastutiH/1_01a/)), śabda-kōśair vā'pi ([stardict](https://sanskrit-coders.github.io/dictionaries/offline/stardict))। imē 'smat-pakṣatō mukta-rītyā prasāryantē। sadyaśca granthāḥ saṁsthāgraṇyā ruciviśēṣam anusr̥tya citāḥ - vēdāḥ, itihāsa-purāṇāni, kalpa-vēdāṅga-granthāś cēti।
 
 ### Contribution, contact
-asmat-samparkaḥ - @gmail - vishvas.vasuki, 95912 68506 (<http://rebrand.ly/dyuganga>)। Serious volunteering, donations and sponsorship are welcome  - they help offset operating costs (eg. worker payments, book distribution) and plan further projects. Project-specific sponsorship opportunities are occasionally advertised on our social media accounts and on certain mailing lists.
+asmat-samparkaḥ - @gmail - vishvas.vasuki, 95912 68506 (http://rebrand.ly/dyuganga)। Serious volunteering, donations and sponsorship are welcome  - they help offset operating costs (eg. worker payments, book distribution) and plan further projects. Project-specific sponsorship opportunities are occasionally advertised on our social media accounts and on certain mailing lists.
 
 ## vandanīya-vandanā
 (anēnōdyamēna naiṣāṁ mahatāṁ sākṣāt sambandha ūhyaḥ ।)
