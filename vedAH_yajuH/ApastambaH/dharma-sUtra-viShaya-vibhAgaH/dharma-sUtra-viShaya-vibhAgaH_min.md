@@ -5689,7 +5689,7 @@ The choice of material heavily depends on the special interests of its current l
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/rAmAnujIyam/vyakti-shlokAdi/paLHaveri-laxmI-nRsiMhaH.md"> 
 
-इञ्जिमेडु-यति-सिंह-**रक्षितो**  
+इञ्जिमेडु-यति-सिंह-**रक्षित-**  
 राजगोप--बुध-गोप-**चारितः**।  
 सिंह-लक्ष्म-नर-नाम-भाग् **बभौ**  
 दिव्य-सूक्ति-वन-मार्ग-**नायकः**॥

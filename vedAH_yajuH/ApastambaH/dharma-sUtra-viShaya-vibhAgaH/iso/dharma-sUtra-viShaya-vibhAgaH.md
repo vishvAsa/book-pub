@@ -8470,7 +8470,7 @@ asmat-samparkaḥ - @gmail - vishvas.vasuki, 95912 68506 (http://rebrand.ly/dyug
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/rAmAnujIyam/vyakti-shlokAdi/paLHaveri-laxmI-nRsiMhaH.md"> 
 
-iñjimēḍu-yati-siṁha-**rakṣitō**  
+iñjimēḍu-yati-siṁha-**rakṣita-**  
 rājagōpa--budha-gōpa-**cāritaḥ**।  
 siṁha-lakṣma-nara-nāma-bhāg **babhau**  
 divya-sūkti-vana-mārga-**nāyakaḥ**॥
