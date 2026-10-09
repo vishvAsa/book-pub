@@ -2789,6 +2789,9 @@ bahir grāmād,
 **1/11/30/19**—
 tathā ṣṭhēvana-maithunayōḥ karmāpsu varjayēt 19
 
+**vi॰pra॰**—
+saṁnihitē mūtrāpurīṣavātakarmōccairbhāṣāhāsaṣṭhēvanadantaskavananiḥśr̥ṅkhaṇabhrukṣēpaṇatālananiṣṭhyānīti 9
+
 ### niyamāḥ
 
 #### niyamāḥ

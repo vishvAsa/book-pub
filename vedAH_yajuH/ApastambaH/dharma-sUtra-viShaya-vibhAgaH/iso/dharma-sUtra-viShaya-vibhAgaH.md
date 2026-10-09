@@ -4218,6 +4218,12 @@ bahir grāmād,
 
 tathā ṣṭhēvana-maithunayōḥ karmāpsu varjayēt 19
 </details>
+
+<details open><summary>vi॰pra॰</summary>
+
+saṁnihitē mūtrāpurīṣavātakarmōccairbhāṣāhāsaṣṭhēvanadantaskavananiḥśr̥ṅkhaṇabhrukṣēpaṇatālananiṣṭhyānīti 9
+</details>
+
 ### niyamāḥ
 
 #### niyamāḥ
