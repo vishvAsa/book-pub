@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a25f9608-ff9e-4cca-9b9f-705f274924a7</dc:identifier>
+        <dc:title>nItishatakam नीतिशतकम्</dc:title>
+        <dc:creator opf:file-as="भर्तृहरि, bhartRhari" opf:role="aut">bhartRhari भर्तृहरि</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-04-01T08:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;bhartRhari भर्तृहरि&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-02T00:20:38+00:00" name="calibre:timestamp"/>
+        <meta content="nItishatakam नीतिशतकम्" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="nItishatakam niitishtkm - bhartRhari bhrtRhri.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
