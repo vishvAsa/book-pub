@@ -1,0 +1,20 @@
+ <?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+ <head>
+ </head>
+        <docTitle>
+               <text>nItishatakam नीतिशतकम्</text>
+        </docTitle>
+	<navMap>
+		<navPoint id="toc" playOrder="1">
+			<navLabel>
+				<text>
+					Content
+				</text>
+			</navLabel>
+			<content src="book.htm" />
+		</navPoint>
+	</navMap>
+</ncx>
